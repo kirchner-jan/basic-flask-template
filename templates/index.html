@@ -9,7 +9,7 @@
     {% endautoescape %}
     <form method="post" action="/">
       {%for cname in app_data['children_name']%} 
-       >>> <input type="submit" value="{{ cname[:20] }}" name="splitValue" style="border:0;background-color : #d1d1d1;"/>{{ cname[20:] }} <br><br>
+       >>> <input type="submit" value="{{ cname[:20] }}" name="splitValue" style="border:0;background-color:#FFD580;opacity:0.5;padding:0px;margin:0px;outline:none;"/>{{ cname[20:] }} <br><br>
       {%endfor%} 
       <input type="submit" value="Start over." name="reset"/> <br>
     </form>
