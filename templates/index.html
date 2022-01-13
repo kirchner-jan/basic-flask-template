@@ -1,9 +1,17 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-<div class="jumbotron">
-    <p>Title: {{ app_data['html_title'] }}</p>
+<div class="jumbotron" style="width:400px;">
+    <p>{{ app_data['html_title'] }}</p>
     <hr class="my-4">
-    <p>Title: {{ app_data['root'] }}</p>
+    {% autoescape false %}
+    <p>{{ app_data['history'] }}</p>
+    {% endautoescape %}
+    <form method="post" action="/">
+      {%for cname in app_data['children_name']%} 
+        <input type="submit" value="{{ cname }}" name="splitValue"/> <br>
+      {%endfor%} 
+      <input type="submit" value="Start over." name="reset"/> <br>
+    </form>
   </div>
 {% endblock %}
