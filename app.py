@@ -31,6 +31,7 @@ def index():
   if request.method == 'POST':
     if not (request.form.get('splitValue') is None):
         # app_data = update_app_value(app_data , request.form.get('splitValue'))
+        print(app_data['children_name'])
         selectID = np.where([request.form.get('splitValue') == x[:40] for x in app_data['children_name']])[0][0]
         app_data['cnode'] = app_data['cnode'].children[selectID]
         app_data['history'] += app_data['children_name'][selectID] + '<br><br>'
