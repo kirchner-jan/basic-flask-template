@@ -332,7 +332,12 @@
               "name": "Dr. Alfred:'A specific, a goal-directed activity. Just give me [some sort of example]. And then think. I think you come up with something that will be the primary source of activity in these associational areas.'",
               "children": [
                 {
-                  "name": "Dr. Bert: 'Say for example a particular cell assembly.  What would be the primary goal that you would like to assign to that cell assembly?'"
+                  "name": "Dr. Bert: 'Say for example a particular cell assembly.  What would be the primary goal that you would like to assign to that cell assembly?'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'First let me ask you what would be the primary source? In addition to associational areas, I mean, because many times I am interested in other areas as well. And then you give me one or two. And then you say where would you like to assign it.'"
+                    }
+                  ]
                 }
               ]
             }
@@ -782,7 +787,17 @@
                               ]
                             },
                             {
-                              "name": "Dr. Alfred:'That depends on whom you ask, because, of course, those who believe that the cortex is really... a blank screen who has to be filled with pictures, or those who believe that it is really that important for its owner and should have a say, which is, in the end, the same, because there is no cortex without a brain?'"
+                              "name": "Dr. Alfred:'That depends on whom you ask, because, of course, those who believe that the cortex is really... a blank screen who has to be filled with pictures, or those who believe that it is really that important for its owner and should have a say, which is, in the end, the same, because there is no cortex without a brain?'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:'I have to say, I have a tendency to... I'm actually not sure. So... I'm asking you because you do, but, maybe, you want to take the bull by the horns and tell me what the primary function is, because it would look... very attractive to know.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Alfred: Well, that's the thing, the best part of this conversation is what I can't give you. Let me ask you this: If you had a list, what would be the first 20% and the last... well, the second 20% of the cortex, what would they do?'"
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
@@ -861,12 +876,18 @@
                                   "children": [
                                     {
                                       "name": "Dr. Bert:\"So that's a reasonable definition.'"
+                                    },
+                                    {
+                                      "name": "Dr. Bert:'The two are different things. There are the primary and then higher order areas. That's been known for a very long time. How are you going to get from a system with primary sensory-motor and associational areas to a system with just higher order sensory-motors and no association areas, and no higher order sensory-sensors? Without going to your prefrontal cortex and the associational areas, how are you going to do that?'"
                                     }
                                   ]
                                 }
                               ]
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. Bert:'It's impossible to ignore the fact that the brain is a physical thing, which has sensors and has motor effectors.'"
                         }
                       ]
                     }
@@ -903,6 +924,9 @@
                                                   "name": "Dr. Alfred:'I'm interested in the question, how do they work, and how is it organized? And how their properties depend on their connectivity and how this would determine not their function, but the fundamental properties of the network, the structural properties of the networks, that is the backbone of how the networks work together.'"
                                                 }
                                               ]
+                                            },
+                                            {
+                                              "name": "Dr. Bert:'You think we'll find out there?'"
                                             }
                                           ]
                                         }
@@ -933,6 +957,9 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'Right.'"
                 }
               ]
             }
@@ -1341,7 +1368,12 @@
                   ]
                 },
                 {
-                  "name": "Dr. Bert:'Okay. It's, it's good to hear. I would agree that is the primary role of association fields. I would say the, the primary role is as an interface of the higher-level cognitive representation and the bottom-up sensory representation, and allow us to say, uh, I'm going to do something here. It, it is, it is, and then those association fields. But if you, if you asked a psychiatrist or neuroscientist what is the, what is the name of the, the brain system that is involved in the, the perception, the sensation of pain; in that case, the pain. Then if asked what are the best-characterized areas of the brain, which, which, which one would it be? And the association field in the medial prefrontal cortex is probably, probably the best-characterised one. And the one, and the sensory fields are somewhere else. Because we don't know which parts we are talking about.'"
+                  "name": "Dr. Bert:'Okay. It's, it's good to hear. I would agree that is the primary role of association fields. I would say the, the primary role is as an interface of the higher-level cognitive representation and the bottom-up sensory representation, and allow us to say, uh, I'm going to do something here. It, it is, it is, and then those association fields. But if you, if you asked a psychiatrist or neuroscientist what is the, what is the name of the, the brain system that is involved in the, the perception, the sensation of pain; in that case, the pain. Then if asked what are the best-characterized areas of the brain, which, which, which one would it be? And the association field in the medial prefrontal cortex is probably, probably the best-characterised one. And the one, and the sensory fields are somewhere else. Because we don't know which parts we are talking about.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'Yes. That's right.'"
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. Bert:'I agree. That's fair. Of course that's the way you do it that's what you're interested in, but the real problem for, to be honest, for me is that, is that there is always a tension between the inside out and outside in approaches, and it doesn't. It cannot happen, because you will never get to the bottom. There's always another layer below it, that's very hard to get rid of. It's always hard to get out.'",
@@ -1707,7 +1739,12 @@
                                   "name": "Dr. Bert:[sighs] 'Well, that's, that's a good question.'",
                                   "children": [
                                     {
-                                      "name": "Dr. Alfred:'Yes, well, that's what every artist would say  \"What is the end product,  \"what it wants.\" And you know, that's kind of the problem that we're working on at the moment. What is the function? Or I think that most likely, the function is that you can make one coherent percept from a thousand or a million different percepts. But that is, as you know it's not possible because it is impossible.'"
+                                      "name": "Dr. Alfred:'Yes, well, that's what every artist would say  \"What is the end product,  \"what it wants.\" And you know, that's kind of the problem that we're working on at the moment. What is the function? Or I think that most likely, the function is that you can make one coherent percept from a thousand or a million different percepts. But that is, as you know it's not possible because it is impossible.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. Bert:'Oh, yeah, that's a very, that's a nice point. Yeah, so, you know, let's put it this way, that your mind does it more easily than your brain. Yes, but you know, I also, you know, there's no, there's no reason why a brain should be able to, it should be able to solve it more easily than a human, because it is such, there is a reason. Because you know, I'm trying to produce some coherent product, of course a thousand different coherent products would be better than trying to do one coherent product, no? And I'm trying to do the same, I'm trying, I'm doing the same. Only my, my perception is different and that's why we have such different results. So it's a, a, a, I don't want to, it's a, it's just, it's just I, I don't think.'"
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -2129,6 +2166,9 @@
                           "children": [
                             {
                               "name": "Dr. Alfred:'Oh, of course now, of course. But to be fair, that's as it is in any system: something that's obvious is an experimental question, then when you dig down into the, what are those areas, you get into a deep hole, because there are just not very many experimental, in the way that's, really, really clear in the sense of what each single area represents, that's just, you know, is this is just the input or is it output? And you can't just, just say, of course the input, input. That's, that's just the brain.'"
+                            },
+                            {
+                              "name": "Dr. Alfred:'No, I'm saying you can use your imagination, you can think things differently. So you can make up your own brain.'"
                             }
                           ]
                         }
@@ -2143,6 +2183,22 @@
                       "name": "Dr. Alfred:-'Of course but those differences are obvious to everybody. I mean, we all make decisions, and we know whether we're going to the left or right arm. What I mean is that I don't see any special feature of the somatosensorial cortex. And in fact I'm not even sure whether somatosensory areas should be called associational areas. It sounds way too specific.'"
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'Yeah, but the problem there, however, is that many people believe that it's a homogeneous area, one single layer, and that, of course, is just an unrealistic view.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred: 'So, that's one area that makes no sense to you?'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. Alfred:'Why do you say so?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:... the ones, the second set is about connectivity, and third set is about the integration of functions. So, the ones I read about just aren't the ones you just think about right now. There's much more to the brain than just the two big sensory areas, or the two, the hippocampus. And there's a lot more in the brain than just a, the same kind of inputs that go to each..'"
                 }
               ]
             }
@@ -2393,11 +2449,34 @@
                           "name": "Dr. Bert:'No, but it's not, actually. And the best part is that these are, so many of these, these areas are part of the limbic system. So the limbic system deals with affective memories, emotions, sexual behavior and stuff. In other words, what kind of stuff? Well, there are many things. There's the amygdala, there's the ventral hippocampus, the septal commissure, the lateral ventral, the lateral septum, the dorsal septum and the medial septum. Now, in principle, these areas are designed or are part of a system (a brain-wide network) to perceive events, be it sights or sounds, smells, emotions or whatever.'",
                           "children": [
                             {
-                              "name": "Dr. Alfred:'But this is, in other words. Well, that's actually what I was asked. What kind of stuff? Yeah. Is it in principle like a very general kind of system, and how would you deal with these aspects of the kind of stuff? I would use a little bit of different terminology than the current ones. In terms of, I would use a term like the limbic system, maybe. And instead of using the terms associative areas and associational areas and all that, I'd go by sensory modules. You know, there are some, there are just a few sensory modules, which I would call primary sensory regions, and then maybe the associational areas would be called higher-order association areas. Or call them higher-order associational areas. Because the kind of thing they're designed to do is to connect different modules. It's the higher-order connections that are very hard to find.'"
+                              "name": "Dr. Alfred:'But this is, in other words. Well, that's actually what I was asked. What kind of stuff? Yeah. Is it in principle like a very general kind of system, and how would you deal with these aspects of the kind of stuff? I would use a little bit of different terminology than the current ones. In terms of, I would use a term like the limbic system, maybe. And instead of using the terms associative areas and associational areas and all that, I'd go by sensory modules. You know, there are some, there are just a few sensory modules, which I would call primary sensory regions, and then maybe the associational areas would be called higher-order association areas. Or call them higher-order associational areas. Because the kind of thing they're designed to do is to connect different modules. It's the higher-order connections that are very hard to find.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:'Okay. That sounds like a workable strategy. Are you talking about, I'm not quite hearing what your question is right.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Alfred:     So in other words, you just don't know the function of most of those areas yet. It's up for grabs.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. Bert:    Yes, because until you've, actually looked at, looked at the data from the different modules. That's, and until you have, until the data from the modules are so, so well organized, that you can look at it as a system and you can, you can, you know, you can predict the functions and the output of the action of that system. Then only then you will know how good a system it is, how good a system, it is.'"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. Bert:'Exactly.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:\"Well, I don't have a problem with that. One could also say something else. It's not, like, the brain is a black box and its output is what we call'representation' or'representation of'. And these are very problematic concepts, because they're essentially meaningless unless you give me a meaning for them.'"
                     }
                   ]
                 }
@@ -2603,6 +2682,27 @@
                               ]
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. Alfred:'What are you interested in?'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. Bert:'Well, to enjoy an ice cream social.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:(laughs)-'But guess away and we'll see which one.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:-'Oh, that's a strange line of questioning. The brain can be mapped to two different primary purposes.'",
+                          "children": [
+                            {
+                              "name": "Dr. Bert:-'Oh, to map your brain to two different primary objectives, sure. Now the question is, what's the two different primary objectives?'"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -2742,6 +2842,9 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'What I have always asked this question is why are the networks more complicated than the simple networks. And I like to ask that because it's not just a simple one-to-one correspondence between a segment of the environment and a single neural cell, and its firing pattern is like a bell-shaped function. If the rat takes a particular direction in a maze, say left, then it fires when the rats head is to the left, but it does not respond when the rat turns right. Now the simple circuits of the hippocampus will respond to a particular direction only when the rats head remains in that direction. That's why they're called head-direction neurons. But in a higher-order-circuit, there's another circuit that can respond when the rat is on the periphery and the head is to the right.'"
                 }
               ]
             }
@@ -2781,7 +2884,12 @@
                                                   "name": "Dr. Bert:[Laugh]  \"And the answer would very often be that you ask the, you ask the what, you ask the how, or you ask the when, and then you go to different parts of the, of the, the, and you have a,    Um, and you can actually, actually start out to say, OK, how are we going to ask the, what, when, the, what, now we're going to ask it from this direction.'",
                                                   "children": [
                                                     {
-                                                      "name": "Dr, Alfred:  \"Um. I mean, we can go with the, or how, or we could, it depends on how we, how do we go about it. And the answer, it might turn out to be that, it might turn, it might, it's a, it depends, but it's the how.'"
+                                                      "name": "Dr, Alfred:  \"Um. I mean, we can go with the, or how, or we could, it depends on how we, how do we go about it. And the answer, it might turn out to be that, it might turn, it might, it's a, it depends, but it's the how.'",
+                                                      "children": [
+                                                        {
+                                                          "name": "Dr. Bert:'Right.'"
+                                                        }
+                                                      ]
                                                     }
                                                   ]
                                                 }
@@ -2800,7 +2908,12 @@
                       ]
                     },
                     {
-                      "name": "Dr. Alfred:'So you were talking about the single function, then the number of specializations within that one, one function are what you're looking at, and then, and then at a higher level that would explain all function. And in reality it's not that because we can break down function into all its specializations and then break down that one, one specialization into all its own specializations. Do you have, have you, is there a particular single neuron in any cortical area that you think has the sole function of sending out motor commands?'"
+                      "name": "Dr. Alfred:'So you were talking about the single function, then the number of specializations within that one, one function are what you're looking at, and then, and then at a higher level that would explain all function. And in reality it's not that because we can break down function into all its specializations and then break down that one, one specialization into all its own specializations. Do you have, have you, is there a particular single neuron in any cortical area that you think has the sole function of sending out motor commands?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'No, and I don't think there's a single, single neuron. The problem, again, is that the cortical function is not to send motor commands out, it is the interaction of these neurons in their environments that has the important role, the important job. So it's not a single, single function but the interaction between cell types with specializations within cells that produces the function, and then within the interactions between them, and between them, that produces the function. I mean, that's a lot of different levels of analysis that you take, not just a single, single task, which is, you know, the, the single things that we tend to think about when we want to investigate functions is the function, or the functional level. That is the single thing that you're thinking, but it's not such, it's not such.'"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2815,6 +2928,14 @@
                         },
                         {
                           "name": "Dr. Bert:'Okay. Okay. Well, that's a very specific answer. But I would say that the same way applies to the cortex where I don't have a very specific answer either but I have a really big idea, if you get past the immediate practical problems that we have to face and the immediate scientific problems, then you begin to see a very fundamental idea. The fundamentals are always simple, and the problems are always complicated. So this is where we're going. So now we have to see whether you agree with that or not. I'm going to go through the details of it, which you can sort of figure out for yourself how these ideas will work for you. So I'll just ask you one question in each area. And you make the judgment based on how you would imagine it would be and whether you think of as a mechanism, whether you think of it as an emergent property. This is, what you want to answer is the question.'"
+                        },
+                        {
+                          "name": "Dr. Bert:'But when I hear what you're saying, I go back to the single-cell theory, which is a single cell as the unit, right? It's that neurons are the basic unit of all function. And as a neuron, you can identify what functions it gives rise to, in your hypothesis, which is that the functions for the human brain, in the end, are just a combination of a huge numbers of interconnected neurons.'",
+                          "children": [
+                            {
+                              "name": "Dr. Bert: 'And then once you understand that, then the obvious question arises, well, who is the owner of this huge interconnected set of cells, who is the person who understands, who is the entity who can take control of the huge set of cells? And the answer to this is the first, very very small and very weak group (of cells), the owner of this activity, then the activity can spread out to other sets of cells and to the whole brain.'"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -2939,7 +3060,17 @@
               "name": "Dr. Alfred:'How would you define the function of the associative areas in the mouse?'",
               "children": [
                 {
-                  "name": "Dr. Bert:'I don't have a good answer. What is their primary function? They have been studied as associating areas, and they have not been studied any further, at least not very extensively. The function of the associational areas, I'm not really sure.'"
+                  "name": "Dr. Bert:'I don't have a good answer. What is their primary function? They have been studied as associating areas, and they have not been studied any further, at least not very extensively. The function of the associational areas, I'm not really sure.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'What do you think, in your view, is the primary function of the associating areas, say in the mouse hippocampus, and especially in the frontal cortex?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert: 'The associational areas in the mouse, the associational areas in rodents may not have the same primary function they have in the rat.'"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -2991,7 +3122,12 @@
                       "name": "Dr. Alfred:'You'd make a very large difference by getting rid of it. Because you'd, we'd, we'd start from the beginning, which means we'd start from scratch, because, well, if, if the association cortex is doing a, doing a, playing, I like to play the game, and if you get rid of it, and, and then you'd have to, you know,... start from the, from the beginning, and you'd have to create a, we would create a new, a, a new system. And you know what, then you would have to do a, not as a top up, but as, as a bottom up approach. And because there's, there's only one real difference between those, you know, these are the old, what, we're, what, we, we're not, we're not going to have a new one.'",
                       "children": [
                         {
-                          "name": "Dr. Bert:'So you think that the, the main, the really important brain areas are all, we don't need the associational areas really to be interesting to our, to our brains. They, they, they do, they do other things, but not very, um, very much. They, they really, they, they help the brain be active and go around and take the opportunities, but that's, that's, that, that's the function. And this is how it should work.'"
+                          "name": "Dr. Bert:'So you think that the, the main, the really important brain areas are all, we don't need the associational areas really to be interesting to our, to our brains. They, they, they do, they do other things, but not very, um, very much. They, they really, they, they help the brain be active and go around and take the opportunities, but that's, that's, that, that's the function. And this is how it should work.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'And then we, we, we, then we, we should move on to, to, next, next. That is, there's no need for, for the, for, the higher order cortical area, because, I don't know, we're not in a, in, to, to state, to, to give examples. There are things, though, that, that, would be quite surprising if you, if you, if if, in an hour from now, you could, you know, we could say, \"Oh, what would be different if we, if we, if for a few years, and, and and, and, we were to, um, we were to start from the, the beginning?\" And you know, it, it, it'll have a, it'll have as much trouble as the, the, you know the, the left hemisphere, because it's about as hard to, to, construct the left hemisphere from scratch.'"
+                            }
+                          ]
                         }
                       ]
                     },
@@ -3148,6 +3284,19 @@
                               "name": "Dr. Alfred:'And you're going to regret it. And I'm not alone. We are going to all regret it when we have to give up that one-size-fits-all approach, and we, and they become, they become, in some cases very narrow and not really capable of answering these questions because it becomes, it becomes just a bit, in the course of time a new answer about how information, information is organized or something like that, which doesn't really explain the, all of the properties and the, there's a big complexity in the brain. That's the difficult thing.'"
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. Bert:'Yeah, okay, I'm going to disagree, too. Maybe what, maybe what would be the most plausible alternative.'",
+                          "children": [
+                            {
+                              "name": "Dr. Bert:(pauses, then begins to laugh) 'If it was the alternative to what, then what is it? What, you know, my guess, it's a guess. There's not many alternatives.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Alfred:- 'Well, there are multiple guesses. I'm going to suggest that, for instance, the primary purpose in the associational areas, the primary task of the primary associational areas in the mouse brain, is to add new knowledge to knowledge that was formed by previous generations of neuroscientists and engineers and philosophers like you and like me, my colleagues and my peers.'"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -3170,7 +3319,12 @@
                   "name": "Dr. Bert:'I'm not even sure that the two systems would be independent, to put it mildly. I think they are linked up somehow. It's hard to say, but I think a lot of these ideas come from thinking about parallel cortical pathways, and that the first pathway is the association pathway of the primary system. The association areas are mainly innervated by this first pathway. And I think this is what defines their function. And then these areas can use their excitatory connections, whether or not they're very complex or simple, to get more associational information to add further knowledge to the existing knowledge. When that happens, they can use their associational structures as a storage device.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:'Ok, that's an alternative view, but the problem is that you would need something like an associational pathway in, you know, a huge brain without any function, to store and store, you know, everything that was ever known. And, and now all we have to do is to scan brain and match up these patterns by their location. Well, and then the interesting thing is, there's a lot of redundancy that's removed. That's what I call it. But there's a lot else that's removed, and there's a lot that's added that's also added. So, do you think that the associational areas, as is, as opposed to the primary areas are the storage device? Can the storage device be a, in this case the cortex?'"
+                      "name": "Dr. Alfred:'Ok, that's an alternative view, but the problem is that you would need something like an associational pathway in, you know, a huge brain without any function, to store and store, you know, everything that was ever known. And, and now all we have to do is to scan brain and match up these patterns by their location. Well, and then the interesting thing is, there's a lot of redundancy that's removed. That's what I call it. But there's a lot else that's removed, and there's a lot that's added that's also added. So, do you think that the associational areas, as is, as opposed to the primary areas are the storage device? Can the storage device be a, in this case the cortex?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Again I need to use analogies. The brain is not like a computer. There's, there are no associational areas in terms of, except the associational areas in our brain are not, not in terms of computer. And so, the reason is, is, is due to the fact that the computational power increases by several orders of magnitude as we go to larger brains. So the, the associational areas would become very complex. And, and and especially due to the fact, to the fact that there's a lot more brain in the body that's associational to the primary area. There's, and there, but when we start out with the cortex, there's only a few layers, a few hundreds, a few thousands of neurons. And then as the volume goes up, the associational area, as is, becomes very much larger, but there are a lot of layers.'"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -3361,6 +3515,9 @@
                                   ]
                                 }
                               ]
+                            },
+                            {
+                              "name": "Dr. Bert:'Well, what are your memories good for if you are dead? What is the utility of your planning for anything if you are dead?'"
                             }
                           ]
                         }
@@ -3394,6 +3551,9 @@
                       "name": "Dr. Alfred:'Yup. That is very clear. And that is also what I was proposing recently by my student Daniel, but he had to go back to London to publish his papers, but it is very clear.'"
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'Okay; so what would they be?'"
                 }
               ]
             }
@@ -3431,6 +3591,9 @@
                                   ]
                                 }
                               ]
+                            },
+                            {
+                              "name": "Dr. Alfred:'Okay.'"
                             }
                           ]
                         }
@@ -3509,6 +3672,9 @@
                                 },
                                 {
                                   "name": "Dr. Bert:'I agree with that, it's like a refrigerator or a toaster oven, but the toaster oven is a bit more complex and more powerful, so you can do some more with it than a refrigerator. For example, if you put a little hot plate in it, it can reach temperatures of almost 700 Celsius. Can the refrigerator easily make a sandwich? No, that's a question your brain has to ask. As this would be important, if you wanted to put a piece of meat in it. But, the toaster oven can do that. So, it's like your brain could be thought of as a toaster oven and a fridge. But of course, as soon as you put a piece of, let's say, my, your, or your wife's steak in the toaster oven, then it becomes a toaster.'"
+                                },
+                                {
+                                  "name": "Dr. Bert:'I think that's an interesting thing. There is no such a kind of higher order control. I don't see how you, I mean, the goal of any system is to control or predict the future behavior of its constituents. I don't know who the constituents are in the brain. If you put everything into the same system, you'll have an assembly that doesn't need to have a goal. The system will have a goal. That's when it works very well. It can predict the future.'"
                                 }
                               ]
                             }
@@ -3557,7 +3723,17 @@
                               "name": "Dr. Alfred:'That's a different process from picking out just one of the things. But the two are actually very similar, and I think the only difference is the magnitude and the frequency of each event, because they generate the same amount of firing neurons in the brain, in principle, though they can generate all different sequences.'",
                               "children": [
                                 {
-                                  "name": "Dr. Bert:'I'm not quite getting it. What's the point of coding that many sequences? What's the point?'"
+                                  "name": "Dr. Bert:'I'm not quite getting it. What's the point of coding that many sequences? What's the point?'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Alfred:'The point is that the brain always uses a large number of different sequences, and only occasionally they combine. It's just as if I'm a pianist, and I want to play a sonata for you. Suppose that you already know it, and I also already know it, so I just have to play the same thing again and again to you and get rid of anything that's not necessary. It's pretty much that's the job of a pianist. But suppose they gave me a new piece of music that I haven't played previously, maybe two pieces that you have never heard before, and I just have to figure out one of the pieces in a week. We'd never get to it.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. Bert: 'Well, I have a lot of practice.'"
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -3573,7 +3749,17 @@
               "name": "Dr. Alfred:'But this is a little bit different from what you thought?'",
               "children": [
                 {
-                  "name": "Dr. Bert: 'That is, you're talking about two different things.'"
+                  "name": "Dr. Bert: 'That is, you're talking about two different things.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'I'm talking about two different levels of things, or areas in the mouse brain that are somewhat randomly and independently activated when you present some novel and completely unrelated things, but it's different things. I'm talking different levels of things.'",
+                      "children": [
+                        {
+                          "name": "Dr, Bert: 'I understand that, but at the same time they can be in a different network, in different areas of the same network. I mean, this is more of a continuum, but in fact, it's different things, and that's where integration comes in. I'm not quite sure what integration means. Is it a matter of getting all of the information out and somehow putting it together? Is it an independent action of the information or do you need a third area acting as a selector, which sends signals to another part of the brain, and then gets us out all the information?'"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -3657,7 +3843,12 @@
                   "name": "Dr. Bert: 'I'm not sure that anything is the most important part. I mean, perhaps it is the hippocampus. It's absolutely essential for memory. It's also very complex.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:'Complex? All right, let's say that the best place to start is the area called 'higher order cortex'. This is the last layer of the hippocampus in the mouse, and it does a lot of fascinating things. But that's just in the adult. In the newborn mouse, the higher order cortex is almost nothing but a large thick belt around the hippocampus, and then as you go to older stages, at the time that the neurons in the belt are coming in and in addition to the cells in the hippocampus, as, um, as we know at the current level you have neurons in this belt that are also capable of, um, self-organization. And of course the self-organization is what determines what happens to these neurons. I mean, you know, the self-organizing organization of the neocortex or, or the self-organizations of the hippocampus are very different in the adult and the adult state of the brain.'"
+                      "name": "Dr. Alfred:'Complex? All right, let's say that the best place to start is the area called 'higher order cortex'. This is the last layer of the hippocampus in the mouse, and it does a lot of fascinating things. But that's just in the adult. In the newborn mouse, the higher order cortex is almost nothing but a large thick belt around the hippocampus, and then as you go to older stages, at the time that the neurons in the belt are coming in and in addition to the cells in the hippocampus, as, um, as we know at the current level you have neurons in this belt that are also capable of, um, self-organization. And of course the self-organization is what determines what happens to these neurons. I mean, you know, the self-organizing organization of the neocortex or, or the self-organizations of the hippocampus are very different in the adult and the adult state of the brain.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Exactly.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -3766,7 +3957,12 @@
                           "name": "Dr. Bert:'But, and also, how and when and where we get rid of some of these constituents. Because they may be there for a very long time. And they may be there in, or the only there for, a purpose which is not yet well understood.'",
                           "children": [
                             {
-                              "name": "Dr. Alfred:'Well, that's the issue which I, which I always argue, that the problem is in the beginning. The problem is how you can separate the elements, and in the process you separate the elements, but how you can, you can always have another higher order of relationships on the back end of it. This is the, this is the, it's the, it's really important for me to say. The thing that drives me absolutely crazy is this, that how we go from nothing to the world all of a, from no features to elements, from elements to words, and from words to, at this, to, to, and we get an order, a hierarchy, and then we have to be so careful to explain how they do, or we think they do. We can, we will, even if there's no explanation. There's no, well, we can do it.'"
+                              "name": "Dr. Alfred:'Well, that's the issue which I, which I always argue, that the problem is in the beginning. The problem is how you can separate the elements, and in the process you separate the elements, but how you can, you can always have another higher order of relationships on the back end of it. This is the, this is the, it's the, it's really important for me to say. The thing that drives me absolutely crazy is this, that how we go from nothing to the world all of a, from no features to elements, from elements to words, and from words to, at this, to, to, and we get an order, a hierarchy, and then we have to be so careful to explain how they do, or we think they do. We can, we will, even if there's no explanation. There's no, well, we can do it.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:'Yes, but that's a very difficult task and, and, and, but you, you said that, it's, it's not an impossible task.'"
+                                }
+                              ]
                             }
                           ]
                         }
@@ -3918,6 +4114,9 @@
                   "name": "Dr. Alfred:'Okay. So that would seem to suggest that it would be helpful to make things closer. And then let's see in what particular ways they are closer. And then I can evaluate the quality of them. And, well, I have no idea what a memory is.'"
                 }
               ]
+            },
+            {
+              "name": "Dr. Alfred:'But it doesn't do anything else?'"
             }
           ]
         },
@@ -3975,7 +4174,17 @@
                       "name": "Dr. Alfred:'That's a pattern? That's a pattern?'",
                       "children": [
                         {
-                          "name": "Dr. Bert: (Sole)-yes. But there are other...there are many complexes, and the primary goal of the hippocampus is not for the hippocampus but for some place memory functions. If I have many cells, and you have many cells, you should not say, \"oh, I have one hundred neurons, and you have one hundred neurons. No, that's absolutely wrong.'"
+                          "name": "Dr. Bert: (Sole)-yes. But there are other...there are many complexes, and the primary goal of the hippocampus is not for the hippocampus but for some place memory functions. If I have many cells, and you have many cells, you should not say, \"oh, I have one hundred neurons, and you have one hundred neurons. No, that's absolutely wrong.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'I have no idea what you are taking about. How do you know that? That's what the hippocampus...in fact, you know, I have no idea where you are going, but if you are going into the hippocampus, that is what the hippocampus looks like.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:{Sole)-I have a brain on the wall in my lab which looks exactly the same, but my view is different, because I am working more, actually, because I work in a different part of the hippocampus. But I can assume, and even in principle, because the fundamental wiring diagram is the same, but the different views, that of course there might be something different. However, that doesn't change the fact that to get out your place memory function, you first need a pattern, which is a segmentation within which the information is organized so that the spatial context, so that the place, or the place field is a segment which cannot be disrupted by interference.'"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -4122,7 +4331,12 @@
                   "name": "Dr. Bert:'Sure, so one way, as I used to write it, would be like the spinal cord, where every single connection is in one module. Every single module would be a computer that responds to the same set of inputs or responds to the same situations in the same way and the output is delivered to all the others. In order to do this then you would have to connect every single module directly to each other, and that would be, in the real sense, impossible.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:-'And then there's another solution. What do you think about this, that the information that is transferred from one module to the other, which is what I call the higher order cortex, or higher order information is an organized, syntactical version of information in which the information that is sent out in a given time window from the sender system is recognized back in about the same form as it arrived.'"
+                      "name": "Dr. Alfred:-'And then there's another solution. What do you think about this, that the information that is transferred from one module to the other, which is what I call the higher order cortex, or higher order information is an organized, syntactical version of information in which the information that is sent out in a given time window from the sender system is recognized back in about the same form as it arrived.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Well, that's a good point, but you'd have to say that to know whether there's a higher order process is to ask what would be the primary inputs or outputs, and the first module that would be activated by such inputs is higher order information, which just brings us back to the idea of, if you know what your inputs and outputs are and what the other modules and neurons of your brain are doing, which is to say, we have a good understanding of what's going on in the brain. So, there are many, many, many alternatives, and it turns out that we do not go through all those alternatives, but we rather select one that is a better, parsimonious solution than others, and that we call it a default mode of activity.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4241,7 +4455,12 @@
                               "name": "Dr. Bert: 'So it took you only about five years to get interested in this area of neuroscience. What do you think that takes to become interested in this area so strongly and so soon?'",
                               "children": [
                                 {
-                                  "name": "Dr. Alfred:\"I guess it's a good question to ask what the experience is, but it's also another good question. I'd like to ask you what experience was it and where did you develop this interest.'"
+                                  "name": "Dr. Alfred:\"I guess it's a good question to ask what the experience is, but it's also another good question. I'd like to ask you what experience was it and where did you develop this interest.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Bert:'Oh, well, I had already developed an interest in a couple of other areas, actually. I started out as a bacteriologist, but then I was interested in a few different things. I ended up working on some form of oscillations in the brain during the late twenties and the thirties, and just continued on that path. I moved into physiology because in physiology I found the very small, just a couple of neurons, one, two, three, four. I wondered then, how a single neuron can make such an impact on its target cells, just by timing them. To make a difference, one neuron can affect so many others, and how different single neurons differ from each other.  And the answer was that that single neuron is a pacemaker, as is a single neuron in the limbic system. And that's pretty much what you think, right.'"
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -4295,7 +4514,12 @@
               ]
             },
             {
-              "name": "Dr. Alfred:'What do you think the primary function of the association areas is?'"
+              "name": "Dr. Alfred:'What do you think the primary function of the association areas is?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'Let's say, perhaps you are interested in the hippocampus, not very much so because it's not a very critical structure, but for some reason, you want to study it.  Maybe it's because it's been shown on several occasions that when you look at neuronal networks of the mouse brain, you have to go to the association areas, which have been characterized recently to be very complex and not just simple linear, very dense, very complicated structure.  So what is the function of this complex structure? From the outside view, of course, you might say, there might be two things:  one,  maybe the associations are in some way connected with the outside.  That, that's kind of a simple view.  Okay.'"
+                }
+              ]
             }
           ]
         },
@@ -4353,7 +4577,12 @@
                   "name": "Dr. Bert:'No, I don't agree. The cortex, by the way, of course, is composed of gray matter and white matter, that is, my gray matter. The white cortex, where, of course, the important, higher order cortical connections are found and many primary visual area type connections are found, is the higher-order cortical area. Some of the lower-order areas, of course, are white matter, but this white matter only is in a very rudimentary form, whereas the large, important, highly evolved, higher order cortical areas, the areas that are responsible for the control, the associating and binding functions are found in the gray matter. The grey matter is formed by many, many, many, thousands of axons of the grey matter of the brain, which come from the gray matter of the brain and form the white matter. But you can call it as white-gray, gray-white.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:'Are we talking about the same stuff, grey matter? Does that mean that, when you speak to, at least a portion of it is, as is the case for white matter, formed by a large number of axons, the long, thick white fibers from the brain or the white fibers of the dendrites as, as you have used elsewhere in the book, 'the long and thick white fibers'? Do you want to give me a definition for that?'"
+                      "name": "Dr. Alfred:'Are we talking about the same stuff, grey matter? Does that mean that, when you speak to, at least a portion of it is, as is the case for white matter, formed by a large number of axons, the long, thick white fibers from the brain or the white fibers of the dendrites as, as you have used elsewhere in the book, 'the long and thick white fibers'? Do you want to give me a definition for that?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Okay. And I will use, of course, my own word for, for the brain. If you want, from outside, you could call is the gray cortex. It means the two kinds of cortex that you have described, and maybe you could call it, gray matter, and white matter. The grey, the grey matter and the white matter. Of course, this should refer to the three, three fundamental cortical structures. But it's like we, we use them like words, like we say,  gray matter,  white matter,  gray-white,  gray-yellow,  grey-yellow,  yellow gray,  yellow-grey,  white-grey,  gray-grey,  grey-white and so on. This is the, this is the result of the long history of thinking by the philosophers and the scientists, the word association areas and so forth.'"
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. Alfred:'I'm pretty sure that I am correct, but, uh, the other generalization that I would want to make is, in terms of the general principles of neuroanatomical organization, that the top-down approach is an important principle in brain structure organization. In other words, that if you only take the low-order sensory areas as, as the bottom-up approach, you are not going to come back with the full organization of cortical function.'",
@@ -4377,7 +4606,12 @@
                   "name": "Dr. Bert:'The most basic in terms, yes. You mean you want to, like, as, to that, and you want to...you, you would probably, yes, what do you call the basic principle of neuroan, as, as the basic principle of neural syntax. Maybe that would be a start.'",
                   "children": [
                     {
-                      "name": "Dr. Bert: 'So is it, is it true, by any, of the many, numerous other cortical areas, is it true that they are, that we shouldn't talk about those as being, as having their own functions.'"
+                      "name": "Dr. Bert: 'So is it, is it true, by any, of the many, numerous other cortical areas, is it true that they are, that we shouldn't talk about those as being, as having their own functions.'",
+                      "children": [
+                        {
+                          "name": "Dr. Alfred:'No. It is in fact a, a very, very silly idea and, and it goes back to Jean-Pierre Flourens. He was the 19th century French anatomist who was quite a contemporary of, of Renais, his, his teacher, or teacher, or the teacher of his master, to say, 'Well, we need to understand the difference between the function of the primary sensory area and the higher order associational areas. And he thought that we don't need to try to figure out what their function is. It is just, it is just, they are there and they should somehow do something or have the same function.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4426,6 +4660,9 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'No, it would never be like the way we see it in the outside world. The outside world is not just made up of stuff.'"
                 }
               ]
             }
@@ -4675,6 +4912,19 @@
                       "name": "Dr. Alfred:'Exactly.'"
                     }
                   ]
+                },
+                {
+                  "name": "Dr. Bert:'They may be associated in certain situations, but the majority of them can be associated with other structures, and if they are associated with other structures in larger mammals they have the same fundamental cellular organization whether they are associated or not because the fundamental organization is essentially the same.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'In other words, they are not very important in terms of their primary function because they can be replaced with other structures.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert: 'Yes, so you could say for example their primary function is to link in local circuits, but they are not necessarily, not a critical-essential part of the circuit. However, if you are thinking about the functions of the circuit, then you are thinking of an entire system, which is what you are actually interested in. What is the function of the network in which they are embedded?'"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -4723,7 +4973,12 @@
                   "name": "Dr. Bert: 'So the hippocampus is a pattern generator. Theta oscillations is pattern generator for the whole structure, the septo-temporal axis, whereas gamma oscillations are more local. In fact, one-to-one in the cortex is actually the most important organization.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:'Oh, you mean that it's most important within a single brain to have neurons that fire within the same theta frequency. If you have two neurons that fire at the same time, they fire at theta frequency, whereas if you have more spikes than one in a theta period, they occur in an irregular order at a different theta frequency. So the relationship between the two cells is less important than their relationship between  each other. So, is that what you are talking about?'"
+                      "name": "Dr. Alfred:'Oh, you mean that it's most important within a single brain to have neurons that fire within the same theta frequency. If you have two neurons that fire at the same time, they fire at theta frequency, whereas if you have more spikes than one in a theta period, they occur in an irregular order at a different theta frequency. So the relationship between the two cells is less important than their relationship between  each other. So, is that what you are talking about?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Well, to some extent, but not all of it. What has been the most important discovery in the study of memory is that there's a difference between memory for events and memory for sequences. So the important thing about a sequences is, a sequence can be produced with just three neurons, in principle. So the hippocampal CA1 pyramidal cells and interneurons, together with their excitatory-inhibitory connections, can produce sequences of three events in a single theta cycle in a short time window. It is a very simple rule. All you have to do is to connect these three neurons, or this group of three neurons, together in such a way that they produce an output in about two theta cycles. You have a sequence of three, as compared to, say, four different events, which can take several theta cycles. Sequences which can be produced by only three or four neurons is a very specific type of order.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4772,7 +5027,12 @@
                   "name": "Dr. Bert: 'Well, it's, it's not really big, is it? Sorry, I have to say that it's not. What would be it, if you were looking for?'"
                 },
                 {
-                  "name": "Dr. Bert:'So, right, so, I mean, I've spent many years working with, I'm not even sure I'm in a position to do this because, well, we have to admit, we're not quite sure of where to put all of our categories, and maybe some of them have been, have been, perhaps too simplistic. So as a, as an outsider, an outside observer is, is you know, to, I'm asking you to think about whether you have certain categories that are very, very, very general - abstract categories - that are really the fundamental types of categories, such as the, the major classes, categories. Are they, you know, do you have the categories or not?'"
+                  "name": "Dr. Bert:'So, right, so, I mean, I've spent many years working with, I'm not even sure I'm in a position to do this because, well, we have to admit, we're not quite sure of where to put all of our categories, and maybe some of them have been, have been, perhaps too simplistic. So as a, as an outsider, an outside observer is, is you know, to, I'm asking you to think about whether you have certain categories that are very, very, very general - abstract categories - that are really the fundamental types of categories, such as the, the major classes, categories. Are they, you know, do you have the categories or not?'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'You know, I, I, I have to pause there, but I'm just trying to think about a practical problem: what do other researchers think is the most fundamental type of categories? We go straight to the details, but in reality, it's a big, broad question, something higher level. I'm just, I'm just assuming that, I guess, we, we're going to have a long, long discussion, but I mean, the fundamental categories, is that what others will look at, and the, and the, what you see in, in the brain - is - are, are they, you know - are they fundamental, are they fundamental?'"
+                    }
+                  ]
                 }
               ]
             },
@@ -4812,7 +5072,17 @@
                   "name": "Dr. Bert:'No question.  So the primary purpose of their work is to add to the brain.  And is there some part of the brain, such as the hippocampus, that is an exception and that would have other, not obvious, but very real, functions?'",
                   "children": [
                     {
-                      "name": "Dr. Bert: ''No.  I don't think so.  I don'do know.  I'm not sure we've asked all parts of the cortex for their primary purposes.  But what I can say, and at least I have some knowledge from my little mice, is that most neuronal populations are just there to do the same thing for the same purpose.  They have the same inputs and they give the same outputs.'"
+                      "name": "Dr. Bert: ''No.  I don't think so.  I don'do know.  I'm not sure we've asked all parts of the cortex for their primary purposes.  But what I can say, and at least I have some knowledge from my little mice, is that most neuronal populations are just there to do the same thing for the same purpose.  They have the same inputs and they give the same outputs.'",
+                      "children": [
+                        {
+                          "name": "Dr. Alfred:'Good.  But you would say that there is some kind of very special input-output transformation that takes place in the hippocampus.'",
+                          "children": [
+                            {
+                              "name": "Dr. Bert:  Well, it's, it's kind of hard.  Of course, it's like our hippocampal maps and parahippocampal cortex.  And they say  \"oh, this part is the hippocampus because it remembers the past experience of a particular situation.'"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4878,6 +5148,14 @@
                                 },
                                 {
                                   "name": "Dr. Alfred:'So you have to, you know, understand those changes before you would understand how it works out exactly. And as I have, as I wrote before, and I suggest this book, the associational or higher order association cortex, I suggest that in short, that's where our emotional system, our memory system could be, because they don't just have a simple sensory input any more. They have the complex world around us. They have a very complicated output. And by having such a special character and special properties in the absence of external input, they could also transform into another mode in the presence of the external input, when it's a particularly good input. And that would be a very special, if you, if you would like to call it a \"dual-mode control system.\" There's, there's no reason why it should be a simple input output system either.'"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. Alfred:'A fundamental difference. And I can make a very convincing case. And this is actually my own personal opinion that I feel very strongly about this. That most of the higher order cortex is dedicated to the associatory functions of the brain, the integration of the parts based on experience with the whole.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert: 'So the parts based on the information that we have come to possess in lifetime isn't there. There is a fundamental difference.'"
                                 }
                               ]
                             }
@@ -4976,6 +5254,14 @@
                       ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. Alfred:'I agree. But, the other argument is that the primary purpose of these networks is to provide stability, and we know from many experiments now, and even if you have such an animal as, for instance the zebra finch, who does not use it. If you have such a simple species, you look at the structure of their brains, which is not very complicated and all the wiring and connectivity is very simple, and see that the whole cortex has a lot of the same features, then I think you will be able to come up with some explanation. On the other hand, if you look at the very simple brains of, for instance, a turtle, a lizard and say that something's primary function is to generate spatial information and to recognize the differences between the similarities of other things, that is very different.'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'That is pretty much what I would say as well, and some evidence is available, very little, but there are a lot of data available that are in favor of the stability and stability of the system. The fundamental structure of their brains is pretty much the same. However, in other animals, some parts are not used in the same way as in anesthetized preparations or even in the isolated form. The same cortex may be responsible for different functions, and other areas and parts may be used for different functions for those same reasons. So you can't say without examining the brain. You can't go right to the primary function, right? That, so the hippocampus has a very simple brain with three main layers, which is made of very simple cells, just a handful of cells.'"
                 }
               ]
             }
@@ -5091,6 +5377,9 @@
                                       "name": "Dr. Bert:- 'Oh, I'm sorry. Yeah. Well, so you are very conscious of the fact that, and I am as well, we are aware that the sleep rhythm pattern looks like this and the sleep spindle looks like that. The two are the same, but they are not the same.'"
                                     }
                                   ]
+                                },
+                                {
+                                  "name": "Dr. Alfred:'No, sleep is different, because the homeostatic problem is different. If you go back to work, or somewhere that is not home, or that is not your office, the problem is the same. You just are different, and you say, 'Well, I'm going to call it a day.'"
                                 }
                               ]
                             }
@@ -5187,7 +5476,17 @@
               ]
             },
             {
-              "name": "Dr. Alfred:'Okay. So you see it as an enhancement of the primary function? I don't see it as an independent function at all.'"
+              "name": "Dr. Alfred:'Okay. So you see it as an enhancement of the primary function? I don't see it as an independent function at all.'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'There's nothing on the list of functions as such which is very clear. It's very messy. Now if you'd like to give me a list of functions, then perhaps I can tell you, or we can discuss, what's that list of functions.'",
+                  "children": [
+                    {
+                      "name": "Dr. Bert: 'The ones that I could think of, I thought that this is too simple, so I came up with a slightly longer list actually, which is the functions that appear to be important to us. And those are: enhancement of the ability of the primary circuit, which is the prefrontal cortex, to influence motor areas.'"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -5232,7 +5531,17 @@
                       "name": "Dr. Alfred:(molecule-to-neuron) 'That isn't a syntactical operation: it's a statistical operation.'",
                       "children": [
                         {
-                          "name": "Dr. Bert:'That is, it is a syntactical interpretation by a Bayesian inference algorithm, which is a statistical interpretation of a syntax. So yes, it's that kind of operation, which is based on Bayesian inference or Bayesian information theory or Bayesian statistics.'"
+                          "name": "Dr. Bert:'That is, it is a syntactical interpretation by a Bayesian inference algorithm, which is a statistical interpretation of a syntax. So yes, it's that kind of operation, which is based on Bayesian inference or Bayesian information theory or Bayesian statistics.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'My problem with your view is that Bayesian inference is essentially a symbolic manipulation of a large dataset. How is a brain, which is continuously active in multiple time scales, able to manage this problem?'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:(cortex) 'That, of course, is what I don't know. Can it? Maybe, maybe not. Maybe we are very far from the right answer. I don't know.'"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -5401,7 +5710,17 @@
                       "name": "Dr. Alfred:- I see what you are saying, as well.'",
                       "children": [
                         {
-                          "name": "Dr. Bert: -Yes, that's right. Now the question you have to ask is more basic: why don't lateral geniculate neurons simply send an image to the olfactory bulb to be processed. We already know, of course, that they process the same kinds of information; the difference is whether they do it by sending it to visual cortex, or whether they do it with their own local organization. And now we have in our laboratory all kinds of data, of course, indicating that this is the case.'"
+                          "name": "Dr. Bert: -Yes, that's right. Now the question you have to ask is more basic: why don't lateral geniculate neurons simply send an image to the olfactory bulb to be processed. We already know, of course, that they process the same kinds of information; the difference is whether they do it by sending it to visual cortex, or whether they do it with their own local organization. And now we have in our laboratory all kinds of data, of course, indicating that this is the case.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'Well, maybe that's a question you should have put before a couple of decades ago, perhaps. I'm not going to have to go through all this history, of course. But, I mean, one thing that has bothered me about this whole debate is that there is this sort of dichotomy-in-our-mind that there are only two ways to view the problem. And that there is a fundamental difference between my approach, which is based more on the syntactical properties of neural information, and the approach that you are pursuing, which is based primarily on the dynamic properties of small networks.\" The two approaches are not actually fundamentally different; Dr.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:'Okay, you are giving the example of the lateral geniculate cells, which, as you know, I'm not a very, um, well, let me clarify my, my, my, sorry, my point, which is that some neurons of lateral geniculate may be in fact very specialised cells which may look at a particular kind of information. However, most of them, very few of them say anything specifically about the form of the visual input. Instead, they sort of do what is called an 'indifferent' view, which is very similar to how it would be if you had a very long way, a very, um-a long, long, long walk between two cities. The difference is, of course, the one-time, which is, now, I, I, I mean, I'm, I'm, a, um, what would it look like if you walked forever between these two cities.'"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -5438,7 +5757,12 @@
               ]
             },
             {
-              "name": "Dr. Alfred:'Like a concatenated sequence of sounds of speech or notes. But what is the benefit of having two streams? Wouldn't it be much simpler if you merged them into a single stream and let the single stream, the combined stream simply go on and on, without ever looking back at the two streams, because they are stored in memory? But what would be the advantage?'"
+              "name": "Dr. Alfred:'Like a concatenated sequence of sounds of speech or notes. But what is the benefit of having two streams? Wouldn't it be much simpler if you merged them into a single stream and let the single stream, the combined stream simply go on and on, without ever looking back at the two streams, because they are stored in memory? But what would be the advantage?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'Now, you know, one aspect of the thing is that the two streams are correlated: what you say to one place is what you hear at the same time in a different place, but the second stream, the independent stream would go on and on without ever going back over the two streams. So in that way it would be perfectly efficient, but it would also mean that we need an enormous amount of storage capacity. So you could say it's not optimal.'"
+                }
+              ]
             }
           ]
         },
@@ -5464,7 +5788,25 @@
                                   "name": "Dr. Alfred: 'No, no, no.'"
                                 },
                                 {
-                                  "name": "Dr. Bert:'Well, in some cases, you do get that, but not always.'"
+                                  "name": "Dr. Bert:'Well, in some cases, you do get that, but not always.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Alfred:'Now, look, this is what always astonishes me, is that every question is too difficult for most neuroscientists when I come with one, or two, or three, solutions. The interesting thing in neuroscience is that when you find the, the right, the right way to explain something, or the right way, or perhaps most likely, even the, the most likely way is, is not even, or even not the right one....but that is just what it turns out that, you know, most neuroscientists say. So it's a complex thing, it's a complex problem. And if you ask me, is your, there is something, is there an algorithm that all neuroscientists have to approach these problems, then the answer is very simple, which is that, there isn't one right way; there are many.'"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. Bert:'No, the right answer.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'Oh, it was very clear, I think.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:,'This is an ideal moment, though, really.'"
                                 }
                               ]
                             }
@@ -5506,7 +5848,17 @@
                   "name": "Dr. Bert:'And, the main function...of that structure?'",
                   "children": [
                     {
-                      "name": "Dr. Bert: Okay, I think it's more complicated than I thought, so let me actually start it all by saying one or two things. The hippocampus is not a memory device or a cognitive device. It cannot directly deal with the big stuff. There is no such region as the prefrontal-parietal, a-excitatory projection. It cannot generate output independently, which you can, for example, send it to the parietal cortex...and, in that case, the prefrontal cortex becomes the output device. It doesn't work that way; the prefrontal cortex doesn't tell the hippocampus what to do. The hippocampus-prefrontal cortex axis is strictly bidirectional or feedforward with no reciprocation in sight. What the...what the hippocampus does is it...'"
+                      "name": "Dr. Bert: Okay, I think it's more complicated than I thought, so let me actually start it all by saying one or two things. The hippocampus is not a memory device or a cognitive device. It cannot directly deal with the big stuff. There is no such region as the prefrontal-parietal, a-excitatory projection. It cannot generate output independently, which you can, for example, send it to the parietal cortex...and, in that case, the prefrontal cortex becomes the output device. It doesn't work that way; the prefrontal cortex doesn't tell the hippocampus what to do. The hippocampus-prefrontal cortex axis is strictly bidirectional or feedforward with no reciprocation in sight. What the...what the hippocampus does is it...'",
+                      "children": [
+                        {
+                          "name": "Dr. Alfred:'Can I just...if you don't mind....however, how the hippocampus actually processes information is an important question. The way that it works is that it acts as a very fast and extremely efficient segmenter of neural info-nations into chunks of temporal length, typically approximately 50 milliseconds. There are a lot of places in the hippocampus. In fact, there are so many places in the hippocampus that, if you had a lot of neurons, which are very close together, you would have 20 million possible combinations, which is the number of letters in the...'",
+                          "children": [
+                            {
+                              "name": "Dr: Bert: 'Is that so? Okay, a few things. First of all, when it comes to memory, of course you would ask. I can tell you an anecdote about a cat, for example, who learned a fear response. What was his...did the animal perform a behavioral sequence by the time it reached the age of seven? No.'"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5580,6 +5932,9 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. Alfred:'And then your mind would work more, as I think you know, than the usual way, because the assumption is that, somehow, the basic function is the selection of connections. If you're looking at the whole and the goal is to get a job done, there might be more efficient ways to figure out which connections to select and how to get in there. Now, you can argue, well, the only thing that you're interested in is selection of connections, so why are you working hard to examine these areas? Is because that is all you are interested in, but you can't help but to have a broad view, or should you start with the very simple and look at it from that direction? What do you think?'"
                     }
                   ]
                 }
@@ -5628,6 +5983,14 @@
                       "name": "Dr. Bert: 'What makes you so smart, in my view, as opposed to my peers or the other people. What makes you smarter than everybody else.'"
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. Alfred:'But do we have the notion that it's some place where all the brain rhythms can be brought together and synthesized?'",
+              "children": [
+                {
+                  "name": "Dr. Bert: 'You mean that there's not a particular mechanism by which the whole neocortex can be put into a state in which all the oscillations can exist simultaneously? The reason of the question is that there's only a limited time window in which various oscillators can exist, right? One-dimensional time window.'"
                 }
               ]
             }
@@ -5735,7 +6098,17 @@
               ]
             },
             {
-              "name": "Dr. Alfred:'Is that a good many for the most important of cognitive processes? Or is it a large number with only limited function?'"
+              "name": "Dr. Alfred:'Is that a good many for the most important of cognitive processes? Or is it a large number with only limited function?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'In the way that we use it, it's a very large number with many functions.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'So the first things that come to mind are the frontal lobe or... or the anterior cingulate cortex and perhaps hippocampus has been brought up before, and maybe a few others?'"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -5758,6 +6131,9 @@
                               "name": "Dr. Alfred:'I'm interested in understanding how the brain supports behavior in a practical sense, without the context of the body and the organism. And in terms of how the function of the brain can be worked out in a laboratory without context, without that, then my goal is to understand how those mechanisms support computation. So this question you have from the outside in or the body context is not in fact very relevant to them.'"
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. Bert:'To look at the brain as part of a body, it would be a much more fruitful issue to be able to think outside of the brain. I don't want to deny that the brain is a hierarchical system, but we can actually think outside of the hierarchical system in a way that we can't do when I'm in the brain. In other words, it would be much better to be able to see the brain without our body than the same from the perspective of our body and that would, in fact, be a totally different answer. If you were looking from outside the brain, as it were, as a whole or a hierarchy, you might have a little bit different answer. For example, it would depend on where you would look from, whether you have neurons or just one neuron.'"
                         }
                       ]
                     }
@@ -5832,7 +6208,17 @@
                               "name": "Dr. Alfred:(laughing)I mean, I don't blame you.'",
                               "children": [
                                 {
-                                  "name": "Dr. Bert:'Yeah. So, the function that we would call them now, if I, if you and I went and looked at your lab, which has the animal and in the room as well, of course, of course, then we would say: \"Oh, that is, that's just the first thing we tried to do.'"
+                                  "name": "Dr. Bert:'Yeah. So, the function that we would call them now, if I, if you and I went and looked at your lab, which has the animal and in the room as well, of course, of course, then we would say: \"Oh, that is, that's just the first thing we tried to do.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. Alfred:'Yes. So, the question is always:  What was the goal?'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. Bert:      'Yeah. So this is sort of a little, a little, a tiny, a tiny part of it.'"
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -5841,7 +6227,12 @@
                       ]
                     },
                     {
-                      "name": "Dr. Alfred:'Okay. Do you want to explain that, do you want to give an example?'"
+                      "name": "Dr. Alfred:'Okay. Do you want to explain that, do you want to give an example?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Yes, that's exactly what I want to do. This is what I am talking about. As it looks in the two-dimensional surface of the cortex in the mouse, this is all there is. This is the area where the different functions emerge. This is where the different systems of the cortex emerge. They arise separately and then combine together, and only then comes the so-called association areas. The association systems, as I show in my little book, have two different roles, and these are very different. The first, and the most important one, is the self-associative role. These cells receive the same inputs from the rest of the cortical areas and make a huge excitatory network of themselves, which then becomes one that may be called a higher order associational circuit. The second one, which is equally important, is where these areas are connected to other cortical areas, and these are, again, the associational sites, so they are different things.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5892,7 +6283,22 @@
               "name": "Dr. Alfred:'We could call it memory areas, and there's no other brain structure, no body structure or membrane structure that has memory areas or memory regions, and I'm not even sure that there's a single term that would be a useful way to talk about these regions. And perhaps when we have more details, I mean in my mind, that's one of the problems that need to be discussed more often than just simply calling them 'association areas' in a general manner.'",
               "children": [
                 {
-                  "name": "Dr. Bert:'All right. So what I suggested, and I don't recall ever suggesting it, is that perhaps there are different mechanisms for different aspects, and that's where the name, associational or memory areas would be useful. But it's so tricky and so difficult and so many people want to take such a simple naming scheme and make grand general statements about it, like you can't just make one up and put it in the brain.'"
+                  "name": "Dr. Bert:'All right. So what I suggested, and I don't recall ever suggesting it, is that perhaps there are different mechanisms for different aspects, and that's where the name, associational or memory areas would be useful. But it's so tricky and so difficult and so many people want to take such a simple naming scheme and make grand general statements about it, like you can't just make one up and put it in the brain.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'But we already have the hippocampus, for example, with associational areas or memory areas in it. And now we're talking about something else. And these are not the same things, and it's not an exact copy of one, it's a bit different and you know, this is how it is and it can do some things, but we're not asking what it actually can do. We know what it has to do, we think. So I'm still in support of that.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert: 'I'm not sure that you can make the grand statement about the mind and the brain, but what you, to do is to actually understand what you're looking for.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:'I'm looking for something that we already have or know. And we don't know. But we have some understanding of is that this is what we're looking for. And I'm not sure that what you're working out is what I'm working out.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -5947,7 +6353,12 @@
                   "name": "Dr. Bert: 'Well, it happened to, as a matter of fact, give rise to the most marvelous associational pathways the world has known.'",
                   "children": [
                     {
-                      "name": "Dr. Alfred:'Hmm... and when did the mouse cortex give rise to them?'"
+                      "name": "Dr. Alfred:'Hmm... and when did the mouse cortex give rise to them?'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'Well, let's just go backwards.'"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5956,7 +6367,22 @@
           ]
         },
         {
-          "name": "Dr. Bert:'Well, I don't know that, but what I see is it's like a little island of activity in a sea of activity, and, in fact, each of them has its own specialties.'"
+          "name": "Dr. Bert:'Well, I don't know that, but what I see is it's like a little island of activity in a sea of activity, and, in fact, each of them has its own specialties.'",
+          "children": [
+            {
+              "name": "Dr. Alfred:'Well, I have seen that myself, of course in the visual cortex.'",
+              "children": [
+                {
+                  "name": "Dr, Alfred:'Well, you are a scientist at the interface.'",
+                  "children": [
+                    {
+                      "name": "Dr. Bert: 'That can?record brain activity.'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. Bert:'Well, the hippocampus is basically the first association area, and the first one is dedicated to spatial memory. A second is devoted to learning something about something else. The third association area is devoted to something else. And that's what we call a higher order area. The association areas are the part of the cortex that is basically not used as the primary output in the same way that the primary output of the neocortex goes into the thalamus. Instead of the thalamus, the association areas are fed directly into the basal ganglia. When the mouse brain is cut into coronal sections and stained, the association areas look like white matter. The white matter is a major output of the cortex and feeds directly into the basal-ganglia. So then it comes to the higher order areas, which in the mouse brain are the preocipital cortex and the temporal cortex. These higher order areas have a very different kind of brain organization.'",
@@ -6059,10 +6485,53 @@
           ]
         },
         {
-          "name": "Dr. Alfred:\\'That is one very nice theory. I've never thought of what the reason is. The reason why this would be so handy is that we have a lot of memories in our head, which were made separately. So, when I look at a photograph, I can't tell who is who because everybody's face is different. When you learn to ride a bicycle, you learn the same way, but you have many, many more bikes now, and all of them are kind of similar, and you learn how to ride them all separately - but then when you are all grown-up, then you can say, \"Of course, I know this is your brother,\" because your mind always compresses space and time in your past and then you can say now that is my brother.'"
+          "name": "Dr. Alfred:\\'That is one very nice theory. I've never thought of what the reason is. The reason why this would be so handy is that we have a lot of memories in our head, which were made separately. So, when I look at a photograph, I can't tell who is who because everybody's face is different. When you learn to ride a bicycle, you learn the same way, but you have many, many more bikes now, and all of them are kind of similar, and you learn how to ride them all separately - but then when you are all grown-up, then you can say, \"Of course, I know this is your brother,\" because your mind always compresses space and time in your past and then you can say now that is my brother.'",
+          "children": [
+            {
+              "name": "Dr. Bert:'Well, it sounds like memory compression, which is an efficient way to reduce memory space.'",
+              "children": [
+                {
+                  "name": "Dr. Bert:\\'It sounds very attractive because it's a simple, straightforward solution, and what is it that you are looking for in the brain that would be capable of such an important function as memory? This is obviously a real, large-scale problem, and I just want to see what is it that the brain looks like when you look for the solution to the memory problem in the brain.'",
+                  "children": [
+                    {
+                      "name": "Dr. Alfred:'How do you define memory, and what would you look for if you are looking? A neuronal correlate of memory, or the hippocampus, a physiological correlate of memory, is the ideal target, is the place.'",
+                      "children": [
+                        {
+                          "name": "Dr. Bert:'?You remember the first lecture you ever had as a little student, or you remember the first lecture with your whole family.'"
+                        },
+                        {
+                          "name": "Dr. Bert:'I would start from a basic principle. I would start from something that would be a very old fashioned principle, that is, the most general definition of memory would be \"the ability of the brain to store, recall, and reconstruct episodes in time.\" That definition would be very nice because it would explain the brain's ability to store, and reconstruct, and recall episodes out of the endless sequences that are created by the brains activities throughout evolution. But I would put a little addendum after that. Perhaps it would include something like \"recall them after they have been compressed, maybe compressed by consolidation or by some specific mechanism, in other words, compressed by the hippocampus. This part of it is important because you would have to deal with the fact that there is such a compression mechanism. This comes from the idea that the consolidation, in other words the preservation of what has been learned, but compressed.'",
+                          "children": [
+                            {
+                              "name": "Dr. Alfred:(laughs) That's right. That's right. You're right.'",
+                              "children": [
+                                {
+                                  "name": "Dr. Bert:'You're right, yeah, and the most important, important part of the problem is to make sure that this encoding mechanism, whether it's a neuronal mechanism or a mental mechanism, works the same way during sleep and wake. That is, that you encode long sequences of experiences very efficiently during the run-ning, and you store them, and you can then retrieve memories from a compressed version, and that you keep track of all the information that you encoded, and you can get information out of it during sleep or otherwise when the brain is not in a task-related mode. The same mechanisms should work in sleep and when the brain is disengaged, without necessarily getting in the long sequence again to allow that you can retrieve it efficiently.'"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Dr. Bert:'Possibly a little bit more than we thought at first. Some of these association areas may do double duty. One is an input and output area, and they can be called an associational input-output area.'"
+          "name": "Dr. Bert:'Possibly a little bit more than we thought at first. Some of these association areas may do double duty. One is an input and output area, and they can be called an associational input-output area.'",
+          "children": [
+            {
+              "name": "Dr. Alfred:'Associational or higher order?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'Alfred, are you going to give me a bit of credit here? What do you think is its primary purpose?'"
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. Bert:'I'm going to cheat. As you know, you and I have been studying this subject for fifty years, and I've come across two different sets of views. And the question is what are the two sets of views on the same subject from the same perspective and from different viewpoints?'",
@@ -6106,6 +6575,55 @@
         },
         {
           "name": "Dr. Bert:'Well, if you put it that way that, it's hard to answer. Is it to integrate the inputs? Is it the processing of the inputs? Do we know that at all? Is it to store things like memories and things that have to do with future planning? Are we able to tell? I'm sure we have to be able to, but what is primary and what is secondary? Is this not a conversation that we've had several times back and forth?'"
+        },
+        {
+          "name": "Dr. Bert:'Well, I have been thinking about this, and there is no doubt, the association areas have a function. And they do. And there is no doubt at all. What I think, though, is that it is not about the association areas, but about what you might call \"the cognitive function.\" It is a cognitive function that arises in the association area, which is an interface between two different streams of cortical representation. The two streams, in my view, are memory and action. They are pretty much separated, and you had the frontal eye field and the cingulate cortex areas as the front end of the associational cortical areas. And what we have found, as opposed to what I thought we should go to, is that the primary purpose for me is the action aspects of the association areas, that is, the higher order cortical areas. So it does not have primary responsibility for representing the two streams of representation.'",
+          "children": [
+            {
+              "name": "Dr. Alfred:'Okay. So what is the function of the stream representations in the mouse, or in the human brain?'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. Bert:' Well, for starters, perhaps a large fraction of the cortex has some connectivity with the hippocampus or the entorhinal cortex. These are called 'inputs', and the hippocampal-entorhinal cortex interface is responsible for the generation of a very large fraction of the neocortical synapse. A large fraction of the synaptic connection from cortex to CA3 and CA1 pyramidal cells and also to a smaller number of inhibitory neurons in the hippocampus is in the form of 'outputs', and these, of course, also originate in the hippocampal CA3 and CAI inputs [3]. My guess is that the primary function of the hippocampus, for the first 50,000 years, was as a feedforward excitatory device, and, of course, it can't perform that function when it acquires new features. The new features that emerged are the formation of new memories and cognitive functions that we have defined as complex behavior.'"
+        },
+        {
+          "name": "Dr. Bert:'I'm not sure, but this is the first example of a cortical map.'",
+          "children": [
+            {
+              "name": "Dr. Alfred:'And that's the cortex, right?'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. Bert:'Well, if you had 10 minutes to discuss the function of the cortex, what you would say is that they support cognitive functions.'"
+        },
+        {
+          "name": "Dr. Bert:'Hmm. I agree.'"
+        },
+        {
+          "name": "Dr. Bert:'I would say that they are largely a waste area. They are very poor little structures. They are sort of like the back part of the cerebral hemisphere where you have very little white matter and just like a large amount of gray matter. I think their main purpose is to provide local computation for the primary sensory cortices, and at the same time, they have some kind of communication with other structures. For example, if you would take the mouse and cut all the layers in the middle of the cerebral cortex and the primary cortical areas will just wither and die off from lack of local computation in their vicinity. They are sort the back of the brain in terms of computation.'",
+          "children": [
+            {
+              "name": "Dr. Bert: I think that's right. And the association areas in humans are also just like this giant, huge sort of waste area with no real real use.'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. Bert:'The problem with that question is that there are at least two answers. And the trouble is it becomes easy for you to fall into either one of the two extremes. OK? The first one is that the main purpose of any region is to do just what it is good for, and as you say, the best thing to do is what that region is really good for, and do it as efficiently as possible, in the same way that your house is more useful to you if you have a very nice bathroom than if you have a bathroom that's a little bit more, smaller. And the second way to view it, of course, is that the primary reason to define a region is to do a good, precise job in a special task, which it does very well. There are things about which the brain is just not good, to me this is the best. Like, there are things about which it is just not very useful.'",
+          "children": [
+            {
+              "name": "Dr. Alfred:'You said something recently about the fact that the brains of species that, let's say very small and very large differ very little in terms of cellular make-up? What you mean is, in terms of brain dynamics that don't matter how much the details change in terms of the connectivity?'",
+              "children": [
+                {
+                  "name": "Dr. Bert:'Yes, I mean, what I'm saying is that the network is fundamentally the same in all mammals in that, or at least, at least, fundamentally, what's the fundamental thing is fundamentally the same. Some of the details that are not very important. Some of them, are very important. Some are very essential. But the important thing about any brain is: how does that thing generate its activity? And that is the same. And you say that that's a very superficial thing to say. And it's a very simple definition. That's what I'm saying, the essence of anything.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. Bert:'Well, first of all, I, I, I thought that it was primarily for interac-tion and navigation, but now that I think of it a little bit more I'm not so sure, at least of that. I, I thought they were for processing sensory inputs. I know it sounds a little bit old-fashioned of me, but it's what was actually written by those early neurophysi-cists, perhaps from the middle of the last century and then the, and then the, the modern, you know, they, they, these ideas became obsolete and the, the, the, they don't sound so ridiculous anymore. The reason is that we were, when, when, when those, when those early, the early-day theoreticians, they, they were more interested in the inputs, for example, the body and the environment.'"
         }
       ]
     }

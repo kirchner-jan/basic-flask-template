@@ -8,7 +8,7 @@
     {% endautoescape %}
     <form method="post" action="/">
       {%for cname in app_data['children_name']%} 
-       >>> <input type="submit" value="{{ cname[:80] }}" name="splitValue" style="border:0;background-image: linear-gradient(to right, yellow , white);opacity:0.5;padding:0px;margin:0px;outline:none;"/>{{ cname[80:] }} <br><br>
+       >>> <input type="submit" value="{{ cname[:40] }}" name="splitValue" style="border:0;background-image: linear-gradient(to right, yellow , white);opacity:0.5;padding:0px;margin:0px;outline:none;"/>{{ cname[40:] }} <br><br>
       {%endfor%} 
       <input type="submit" value="Start over." name="reset"/> <br>
     </form>
