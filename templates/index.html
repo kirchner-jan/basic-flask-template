@@ -1,15 +1,14 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-<div class="jumbotron" style="width:800px; margin:0 auto;">
+<div style="width:800px; margin:0 auto;">
     <p>{{ app_data['html_title'] }}</p>
-    <hr class="my-4">
     {% autoescape false %}
     <p>{{ app_data['history'] }}</p>
     {% endautoescape %}
     <form method="post" action="/">
       {%for cname in app_data['children_name']%} 
-       >>> <input type="submit" value="{{ cname[:20] }}" name="splitValue" style="border:0;background-color:#FFD580;opacity:0.5;padding:0px;margin:0px;outline:none;"/>{{ cname[20:] }} <br><br>
+       >>> <input type="submit" value="{{ cname[:80] }}" name="splitValue" style="border:0;background-image: linear-gradient(to right, yellow , white);opacity:0.5;padding:0px;margin:0px;outline:none;"/>{{ cname[80:] }} <br><br>
       {%endfor%} 
       <input type="submit" value="Start over." name="reset"/> <br>
     </form>
