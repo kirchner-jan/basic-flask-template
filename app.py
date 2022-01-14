@@ -5,6 +5,7 @@ from flask import Flask, render_template , request
 from flask_ngrok import run_with_ngrok
 from anytree.importer import JsonImporter
 import numpy as np
+import logging
 
 importer = JsonImporter()
 #with open('/content/drive/MyDrive/g_projects/OMEN/stroco/tree_out.json') as f:
@@ -25,6 +26,9 @@ app_data = {
 
 app = Flask(__name__)
 # run_with_ngrok(app)  # Start ngrok when app is run
+
+app.logger.addHandler(logging.StreamHandler(sys.stdout))
+app.logger.setLevel(logging.ERROR)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
