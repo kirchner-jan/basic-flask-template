@@ -7,7 +7,8 @@ from anytree.importer import JsonImporter
 import numpy as np
 
 importer = JsonImporter()
-with open('/content/drive/MyDrive/g_projects/OMEN/stroco/tree_out.json') as f:
+#with open('/content/drive/MyDrive/g_projects/OMEN/stroco/tree_out.json') as f:
+with open('tree_out.json') as f:
   root = importer.read(f)
 
 def update_app_data(app_data , splitValue):
@@ -15,7 +16,7 @@ def update_app_data(app_data , splitValue):
   return app_data
 
 app_data = {
-    "html_title":   "OMEN metaverse stroco",
+    "html_title":   "Neuroscience metaverse stroco",
     "root": root,
     "history": root.name + '<br><br>',
     "cnode": root,
@@ -30,7 +31,7 @@ def index():
   if request.method == 'POST':
     if not (request.form.get('splitValue') is None):
         # app_data = update_app_value(app_data , request.form.get('splitValue'))
-        selectID = np.where([request.form.get('splitValue') == x[:20] for x in app_data['children_name']])[0][0]
+        selectID = np.where([request.form.get('splitValue') == x[:80] for x in app_data['children_name']])[0][0]
         app_data['cnode'] = app_data['cnode'].children[selectID]
         app_data['history'] += app_data['children_name'][selectID] + '<br><br>'
         app_data['children_name'] = [x.name for x in app_data['cnode'].children]
