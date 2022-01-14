@@ -18,7 +18,7 @@ def update_app_data(app_data , splitValue):
   return app_data
 
 app_data = {
-    "html_title":   "Neuroscience metaverse stroco",
+    "html_title":   "A stroll through the metaverse of stream-of-consciousness neuroscience",
     "root": root,
     "history": root.name + '<br><br>',
     "cnode": root,
@@ -31,21 +31,31 @@ app = Flask(__name__)
 app.logger.addHandler(logging.StreamHandler(sys.stdout))
 app.logger.setLevel(logging.ERROR)
 
+@app.context_processor
+def inject_enumerate():
+    return dict(enumerate=enumerate)
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
-  if request.method == 'POST':
-    if not (request.form.get('splitValue') is None):
-        # app_data = update_app_value(app_data , request.form.get('splitValue'))
-        print(app_data['children_name'])
-        selectID = np.where([request.form.get('splitValue') == x[:40] for x in app_data['children_name']])[0][0]
-        app_data['cnode'] = app_data['cnode'].children[selectID]
-        app_data['history'] += app_data['children_name'][selectID] + '<br><br>'
-        app_data['children_name'] = [x.name for x in app_data['cnode'].children]
-    if not (request.form.get('reset') is None):
-        app_data['history'] = root.name + '<br><br>'
-        app_data['cnode'] = root
-        app_data['children_name'] = [x.name for x in root.children]
-  return render_template('index.html', app_data=app_data)
+    return render_template('index.html', app_data=app_data)
+
+@app.route('/explore/<path:treeloc>', methods=['GET', 'POST'])
+def tree_explore(treeloc):
+    print(treeloc)
+    new_data = app_data.copy()
+    path = [int(a) for a in treeloc.split('/') if len(a) > 0] # if len(treeloc) > 9 else [int(treeloc)] 
+    cNode = root
+    history = cNode.name + '<br><br>'
+    pathHist = ''
+    for choice in path:
+        cNode = cNode.children[choice]
+        
+        history += '<a href="/explore/'+ pathHist +'">^</a> ' + cNode.name + '<br><br>' if len(pathHist) > 0 else '<a href="/'+ pathHist +'">^</a> ' + cNode.name + '<br><br>'
+        pathHist += str(choice) + '/'
+    new_data['history'] = history
+    new_data['children_name'] = [x.name for x in cNode.children]
+    new_data['treeloc'] = treeloc
+    return render_template('tree_explore.html', new_data=new_data)
 
 if __name__ == '__main__':
     app.run()
