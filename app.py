@@ -9,8 +9,7 @@ import logging
 import sys
 
 importer = JsonImporter()
-#with open('/content/drive/MyDrive/g_projects/OMEN/stroco/tree_out.json') as f:
-with open('tree_out.json') as f:
+with open('data/tree_out.json') as f:
   root = importer.read(f)
 
 def update_app_data(app_data , splitValue):
