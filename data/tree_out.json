@@ -13,6 +13,124 @@
       "r_rating": 0.8756749333254347,
       "children": [
         {
+          "name": "Dr. M:'How about my favorite?'",
+          "g_rating": 0.4,
+          "s_rating": 0.17009487748146057,
+          "t_rating": 0.43466339545150695,
+          "r_rating": 0.36214774129316285,
+          "children": [
+            {
+              "name": "Dr. B:'Yeah? Well, it's not a small animal. What is it?'",
+              "g_rating": 0.0,
+              "s_rating": 0.1446007788181305,
+              "t_rating": 0.1446007788181305,
+              "r_rating": 0.21698640649524148,
+              "children": [
+                {
+                  "name": "Dr. M:'The crab?'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.16876135766506195,
+                  "t_rating": 0.4341432895265744,
+                  "r_rating": 0.4341432895265744
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'There are so many different options'.'",
+          "g_rating": 0.4,
+          "s_rating": 0.19639326632022858,
+          "t_rating": 0.44561229230793026,
+          "r_rating": 0.49566906543121836,
+          "children": [
+            {
+              "name": "Dr. B:'Why are so many other animals so useful?'",
+              "g_rating": 0.6,
+              "s_rating": 0.23897387087345123,
+              "t_rating": 0.6458393848010827,
+              "r_rating": 0.6239755393721005,
+              "children": [
+                {
+                  "name": "Dr. B:\"'The reason why they work and what not so well in other cases is that so many other animals are so special'.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.24858136475086212,
+                  "t_rating": 0.5583840030851539,
+                  "r_rating": 0.5629171126262976,
+                  "children": [
+                    {
+                      "name": "Dr. M:'But not all of them work very well for you, do they? Are there model organisms which are special in other directions?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.28700384497642517,
+                      "t_rating": 0.5765164412497287,
+                      "r_rating": 0.6341318671845932,
+                      "children": [
+                        {
+                          "name": "Dr. B:'Exactly, the very special ones are difficult to study, so perhaps the special ones are not worth investigating at all. I think your special question implies that this is not the case for all animals, just for special ones. That does not mean they don't exist. There are many reasons why some animals are more special than others, and if we focus on those, then it is easier to understand why the brain is like it is. It is not like all other insects or all other mammals.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.40151429176330566,
+                          "t_rating": 0.8069781449891867,
+                          "r_rating": 0.6359581230176793,
+                          "children": [
+                            {
+                              "name": "Dr. M:'Aaahhhh, okay'.'",
+                              "g_rating": 0.0,
+                              "s_rating": 0.12289805710315704,
+                              "t_rating": 0.12289805710315704,
+                              "r_rating": 0.12289805710315704
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The crab, of course.'",
+          "g_rating": 0.5,
+          "s_rating": 0.1440168023109436,
+          "t_rating": 0.5203276269312148,
+          "r_rating": 0.5203276269312148
+        },
+        {
+          "name": "Dr. M:'I don't know how to answer that.'",
+          "g_rating": 0.5,
+          "s_rating": 0.19058893620967865,
+          "t_rating": 0.535092648618477,
+          "r_rating": 0.5303348952232887,
+          "children": [
+            {
+              "name": "Dr. M: 'I don't know... There has to be a simple answer. Maybe, like, the   Aplysia  or the lobster  Crustaceans  or something, simple creatures that we understand.' (Laughter.) 'And then maybe, so there's an answer out there in the crab, in the lobster or the crab or the frog or the leech, and maybe it's the elephant  Or maybe it's the snail  (Laughter)'. Then maybe there's a neuron. Who knows?'",
+              "g_rating": 0.4,
+              "s_rating": 0.32606688141822815,
+              "t_rating": 0.5160616350377238,
+              "r_rating": 0.6140039199987908,
+              "children": [
+                {
+                  "name": "Dr. B:'But what if we are, you know, we can't understand the neuron, but you want to make a decision between the lobster and the leech. And you will explain to us how to do that? What would be the logical thing?'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4291348457336426,
+                  "t_rating": 0.9078307748819916,
+                  "r_rating": 0.8282232431828005,
+                  "children": [
+                    {
+                      "name": "Dr. M:'The leech is better because it's more complex [than the lobster]. The leech is a complicated creature itself. The whole animal is more complicated. But the simpler creatures in the lobster, the ones that we can measure voltage, they're more interesting. So I would go with the simpler animal I can actually measure voltage of, and then maybe the snail is better. Because like, with other animals, there's too many different cell types, different types of neurons and then these cells are behaving differently. So, and then all of a sudden we see connections.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.31207871437072754,
+                      "t_rating": 0.5894006480852274,
+                      "r_rating": 0.5894006480852274
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'P.D. Calabrese' a famous neuroscientist at Rockefeller University.'",
           "g_rating": 0.0,
           "s_rating": 0.5314611792564392,
@@ -26,6 +144,31 @@
               "t_rating": 0.8871714315597592,
               "r_rating": 0.9200638798531597,
               "children": [
+                {
+                  "name": "Dr. B:'What is the most informative type of in vivo study?'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.2804011106491089,
+                  "t_rating": 0.754072133720146,
+                  "r_rating": 0.8148351752956688,
+                  "children": [
+                    {
+                      "name": "Dr. M:'So, yeah, that's why I love this sort of work on the animals because right when you put it into the experimental animal, and you take the brain out of the animal, you can compare it with its behavior, which is one of the things we don't look at when we study isolated neural networks.' So what you're seeing here is the same pattern, because this pattern of activity is what you're seeing in the normal animal. And as a scientist, you want to know if the activity is consistent over time, or across animals. So we can look at this animal every week for months, every animal. So in our lab at Rockefeller, at New York University, we have these lovely big lobsters, and they get to be like 8-10 feet long eventually, and we have them in tanks where they just get to live for many, many years. So they can get nervous systems for years and years.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5951948165893555,
+                      "t_rating": 0.9971243000222373,
+                      "r_rating": 0.9708411225569349,
+                      "children": [
+                        {
+                          "name": "Dr. B:'Is there one animal in particular that you use as an example for what you refer to when you say the action of neuronal networks?'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5528553128242493,
+                          "t_rating": 0.8919915901610276,
+                          "r_rating": 0.8919915901610276
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "name": "Dr. B:'What was it like to have an idea about how information was being processed, but because I had only a small number of very complicated neurons to observe the activity, it remained mostly a conjecture?'",
                   "g_rating": 0.8,
@@ -45,7 +188,25 @@
                           "g_rating": 0.7,
                           "s_rating": 0.36965474486351013,
                           "t_rating": 0.7916088872670056,
-                          "r_rating": 0.7916088872670056
+                          "r_rating": 0.8410798737865189,
+                          "children": [
+                            {
+                              "name": "Dr. M:'So, we started going back into history and looking at the early neuroanatomy studies of the different animals, because the way we learned how to study animal neuroanatomy was to study animals of known phenotype, right? So to learn to identify a particular neuron, say, you need to look at a ganglion, or a particular kind of nervous system, or a particular region of the nervous system. One of the first animals to be studied extensively was the stomatopod, the crustacean. The crustaceans had very complex nervous systems with a vast number of neurons, right? Then we learned how to identify a brain neuron based on its connectivity, connectivity, right, and then to look at these neurons, then to look for the relationship between these neurons. So we've always been focused on the biological relationship between neurons.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5823195576667786,
+                              "t_rating": 0.989492833345059,
+                              "r_rating": 0.9708058051120765,
+                              "children": [
+                                {
+                                  "name": "Dr. B:'How about the brain of the lobster, where I look at the different neuronal types that give rise to the action potential? Should I have a look at the neuron's connectivity? Would there be any clues as to how I might interpret things? In short, what is the strategy in studying the system of this animal? Or could I follow the strategy of studies in the other animals, and start with the basic cell types of the lobster itself?'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.4435740113258362,
+                                  "t_rating": 0.9147447204131288,
+                                  "r_rating": 0.9147447204131288
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
                           "name": "Dr. B:'Then what was it like to observe something a few synapses with some neurons doing something, and then have the answer just pop in your head?'",
@@ -130,7 +291,16 @@
                                           "g_rating": 0.3,
                                           "s_rating": 0.5753722190856934,
                                           "t_rating": 0.6488861151971085,
-                                          "r_rating": 0.6488861151971085
+                                          "r_rating": 0.7177057409318031,
+                                          "children": [
+                                            {
+                                              "name": "Dr. M:'Well, I suppose it doesn't, but it might be a special niche thing in certain animals, and I don't know.'",
+                                              "g_rating": 0.9,
+                                              "s_rating": 0.2099529504776001,
+                                              "t_rating": 0.9241646181358869,
+                                              "r_rating": 0.9241646181358869
+                                            }
+                                          ]
                                         }
                                       ]
                                     },
@@ -176,16 +346,91 @@
               "g_rating": 0.5,
               "s_rating": 0.26159197092056274,
               "t_rating": 0.5642963399226549,
-              "r_rating": 0.5642963399226549
+              "r_rating": 0.6543174036880609,
+              "children": [
+                {
+                  "name": "Dr. M:'I would tend to shy away from it because if you can't ask a question directly what are you going to find out? So that's the biggest constraint. So I tend to shy away because you tend to want somebody to be the leader of a study or the focus of it, and I don't want to be, and to have my colleagues as the focus. I need my colleagues to become leaders. I need to help them become independent and then you have so many things and so many interactions that happen when you're doing animal models but this is actually kind of fun to think about. So that's a question I've been asking a lot of my colleagues who have written papers on model neurons or model animals, and I donno maybe I like the idea of somebody asking them how they did experiments or why they picked it. Why they selected a specific brain cell to study? Why not a more general neuron.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4631192982196808,
+                  "t_rating": 0.924380594984279,
+                  "r_rating": 0.9323395110842352,
+                  "children": [
+                    {
+                      "name": "Dr. B:'In that case, what can we predict from the information you will provide about the physiological mechanisms of model cells? That's the data. So that's what these experiments are looking for, in that case, is the physiological mechanisms of our model neurons. I have never once had anybody say, \"Ooh, let's pick model neurons and study the neuronal mechanisms in the brain.\" Why use a simple neuron, especially when it's such an amazing neuron? Why pick model neurons? So we can tell things about the brain, but also at the level of the hardware components of our head-stages and the data quality. I would pick the hardware components. I would pick one of the many things that these machines and these recordings are. In contrast to neurons, those are very regular components, which is why it's so straightforward to look at them the brain has so many synapses and that is what it has to represent so this is what you pick.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5237838625907898,
+                      "t_rating": 0.9562162593841037,
+                      "r_rating": 0.8551411980165241,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.16003814339637756,
+                          "t_rating": 0.16003814339637756,
+                          "r_rating": 0.321095799441945,
+                          "children": [
+                            {
+                              "name": "Dr. B:'The hardware components are already there. The data quality comes from the recording conditions in which these neurons were recorded at. And this is a question I want to ask, is there a model neuron that would fail to show up to the test? So that's how you can start the discussion. You can start the debate and the discussion. That's why I'm going to pick this simple neuron.  And perhaps you can pick one of your model neurons to do the same thing. So that's something that we can get a feel for. So the question is, what are the mechanisms? If I pick a very general neuron, which we have already built and which we have data on, then how do you tell me why, how do you decide which neuron to study? It seems obvious to me, but maybe to others it will not be so obvious. So there are also more subtle elements like the size of the neuron. It can have lots of synapses.'",
+                              "g_rating": 0.2,
+                              "s_rating": 0.462808221578598,
+                              "t_rating": 0.5041740274555451,
+                              "r_rating": 0.4848437900684893,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Uh yeah.'",
+                                  "g_rating": 0.4,
+                                  "s_rating": 0.14900855720043182,
+                                  "t_rating": 0.42685307790732213,
+                                  "r_rating": 0.42685307790732213
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'I wouldn't go and pick neurons. I'll go and pick the hardware components, or pick one of these things that is not a neuron and go and try to give a detailed answer on that. So that's the data we're looking for: the physiological mechanisms of the hardware components. And then we can tell something about the brains hardware. Or the hardware in our head-stags and the data qualities it has. You are doing the same kind of things that I'm trying to get away from: this is what we do or the machine is capable of, and we can tell a story, and we can say, \"Oh, this is this thing is this thing is capable of doing this very well,\" or things like that. In that case, there is a much wider story and the reason we tend to pick these things to study is for two reasons: 1, those hardware components allow to get into the actual computation that goes on in a very complex neural circuits.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.6299589276313782,
+                              "t_rating": 0.8042687675786472,
+                              "r_rating": 0.8042687675786472
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'So the synapses.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.46326157450675964,
+                          "t_rating": 0.5519160139137856,
+                          "r_rating": 0.6318263076274857,
+                          "children": [
+                            {
+                              "name": "Dr. B:'The synaptic interactions or synaptic events, which is a general idea.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5192416906356812,
+                              "t_rating": 0.8715571887685859,
+                              "r_rating": 0.8715571887685859
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'That would be probably the simplest model organism to study in terms of understanding how that network actually works and how those underlying cell types express properties of network function over time in response to neuromodulators or to a variety of environmental perturbations.'",
+          "g_rating": 0.5,
+          "s_rating": 0.4607919156551361,
+          "t_rating": 0.6799479314867647,
+          "r_rating": 0.6799479314867647
         },
         {
           "name": "Dr. M:'Well, my mother is a model animal for me.'",
           "g_rating": 0.7,
           "s_rating": 0.1873473823070526,
           "t_rating": 0.7246371793230768,
-          "r_rating": 0.7248357391426218,
+          "r_rating": 0.7376397700552533,
           "children": [
             {
               "name": "Dr. B:-'Oh, I'm sorry to hear that, then you don't have a model organism for me.'",
@@ -199,7 +444,186 @@
                   "g_rating": 0.8,
                   "s_rating": 0.12091653048992157,
                   "t_rating": 0.8090864028926208,
-                  "r_rating": 0.8090864028926208
+                  "r_rating": 0.8251807809525131,
+                  "children": [
+                    {
+                      "name": "Dr. B:'OK, there are a few things that are not possible to do or test or find out in the brains of mammals and animals are not good at them. What are some of those things that you look toward in the, uh, next level? I mean, uh, what will it take to figure out the neural syntax of a brain?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5224358439445496,
+                      "t_rating": 0.87346391513219,
+                      "r_rating": 0.8418818235444855,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Like how does it, uh, how how does it control the movement? Uh, how does it control, how does the synaptic circuit control the movement of a muscle?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.4452095329761505,
+                          "t_rating": 0.7471355487813721,
+                          "r_rating": 0.7893746506375412,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Now we know that the muscle is the end product of the, uh, and the brain is the end product, what is a synapse between a neuron and...what kind of movement, like what is needed for me to learn? What are the things that we know about that have to be figured out?'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.4463456869125366,
+                              "t_rating": 0.9160919562060483,
+                              "r_rating": 0.8502065024517775,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Uh, well, we don't know how everything is built together, that's for sure.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.2565573751926422,
+                                  "t_rating": 0.652550141188965,
+                                  "r_rating": 0.652550141188965
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What is the most interesting and important task in neuroscience?'",
+              "g_rating": 0.5,
+              "s_rating": 0.5942906737327576,
+              "t_rating": 0.7766475422517829,
+              "r_rating": 0.7639545735063811,
+              "children": [
+                {
+                  "name": "Dr. M:'My father was a model animal for my mother.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.1920819729566574,
+                  "t_rating": 0.7258756672701752,
+                  "r_rating": 0.6988599789018883,
+                  "children": [
+                    {
+                      "name": "Dr. B:'You are not that way, are you?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.14728474617004395,
+                      "t_rating": 0.6178129137970283,
+                      "r_rating": 0.6428828813618969,
+                      "children": [
+                        {
+                          "name": "Dr. M:'No, my father was a model for my mother when we were young.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.1601787954568863,
+                          "t_rating": 0.7180927840565027,
+                          "r_rating": 0.6938213497779884,
+                          "children": [
+                            {
+                              "name": "Dr. B:'But you are different.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.16015540063381195,
+                              "t_rating": 0.6210070469424456,
+                              "r_rating": 0.7176480479798873,
+                              "children": [
+                                {
+                                  "name": "Dr. M: 'Yes, I became the model for my mother at a young age, after we broke down from the tension of the experiment into a series of behavioral and cognitive tests of the brains capabilities for the future, my father died very young. But I grew up in a loving family. I was in good hands. I learned as much as possible, and the most important thing, I developed a curiosity. I learned about the nature of the brain and the human brain in every possible case from every possible angle and form to know all possible questions, except those for which I did not have a good answer, and those I still do not have an answer to even today. I went to college, where the professor had a brain as well. He made me learn what a normal brain is like. We did studies on the brains capacity for the future.'",
+                                  "g_rating": 0.9,
+                                  "s_rating": 0.4529894292354584,
+                                  "t_rating": 1.0075710510922127,
+                                  "r_rating": 1.0075710510922127
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The most useful animals for understanding neural function is probably the fruit fly. It has been used extensively as a model organism, and it is amenable to genetic manipulation.'",
+          "g_rating": 0.6,
+          "s_rating": 0.43595752120018005,
+          "t_rating": 0.7416595986643775,
+          "r_rating": 0.7416595986643775
+        },
+        {
+          "name": "Dr. M:'My favorite model is the crab stomatogastric region. When we have a stomatogastic or a stomatocyte neuron and we look at the connectivity of those neurons, it's like reading poetry. It's like looking at a poem. You know. In fact, those neurons are, actually, they're kind of perfect for studying the function of the brain.'",
+          "g_rating": 0.5,
+          "s_rating": 0.5279305577278137,
+          "t_rating": 0.7271249368456568,
+          "r_rating": 0.7610770439602368,
+          "children": [
+            {
+              "name": "Dr. B:'That's the thing that I like the most about it. Even in something like this, the complexity is there.'",
+              "g_rating": 0.6,
+              "s_rating": 0.32024288177490234,
+              "t_rating": 0.680114331070515,
+              "r_rating": 0.7414677288456679,
+              "children": [
+                {
+                  "name": "Dr. M: 'Well, and then, of course, when we look at the functions, like the motor functions, and the functions, of those neurons, we ask, \"Are we going home with our minds being filled?\" The answer: \"Well, I don't know what kind of circuit would exist without it.\" So you know, the circuit becomes apparent.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.6054766178131104,
+                  "t_rating": 0.9255279221711268,
+                  "r_rating": 0.8284174831752708,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Let's go back in time a bit.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.19611616432666779,
+                      "t_rating": 0.5370861661877027,
+                      "r_rating": 0.5370861661877027
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'In the absence of this model or the neurons, is it possible to identify some ideal neuron or circuit that would allow for easy read-outs for investigators who are interested in those matters? In other words, what kind of neuron or circuit would make the best'readout' for the scientific community?'",
+              "g_rating": 0.6,
+              "s_rating": 0.561137855052948,
+              "t_rating": 0.8215081815620726,
+              "r_rating": 0.7847387355442649,
+              "children": [
+                {
+                  "name": "Dr. M:'No. Because there is no such a perfect model in existence. You know, the actual individual neuron, they're all, they're all variable. The networks and the circuits of the brain, they're all very variable. They're all individually more variable than they need to be. So, I think that this has been a major issue, I think, a hurdle that we haven't, haven't moved over the past, like past 15 years because it was a problem, it was a hard problem for the field to understand how it was ever going to work. You know, how it was ever gonna get enough data and connect enough experiments and to test things. If you read the papers of people who worked in the 1920s on neuroscience, they tested the effect of removing all but one input from the stomatogaster by taking away all its axons except for one. And if you think about how they're doing that, how that would be done in a living creature.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.6040334105491638,
+                  "t_rating": 0.6744303974908417,
+                  "r_rating": 0.7014189078607385,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I don't want to be that scientist. But can you tell me a very simple story from this that would explain, perhaps, for example, what I'm talking about? So, what comes into the brain? And what kind of circuit, or what kind of neu-ron gets excited?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5021209120750427,
+                      "t_rating": 0.7823844389704289,
+                      "r_rating": 0.766588877798885,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So, what you would want to do is like... So, you would really want to do something like a single neuron that is extremely sensitive to changes in the concentration of neurotransmitter over time. So, for something like that, you would want to use a single neuron with neurotransmitters that move like a very slow process, something that you can sample over a long time. But you'd also want to have a voltage signal that you could measure like the voltage in a single cell. So, if we took the voltage trace from a single cell and we slowed it down, we could analyze it all. You know, and then maybe we'd know from the voltage signal, what the state of the cell was in. And then, if this thing had both an input and a voltage signal, we could study them. And then, you know, then maybe we would have some way of looking at, say. This is one thing I did when I was studying.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.5169640183448792,
+                          "t_rating": 0.7192021942842531,
+                          "r_rating": 0.7192021942842531
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So they are not like the other neurons?'",
+              "g_rating": 0.7,
+              "s_rating": 0.5046325325965881,
+              "t_rating": 0.8629333653039768,
+              "r_rating": 0.7908527083961976,
+              "children": [
+                {
+                  "name": "Dr. M:'No, this system is, no. This system is just as good. It's almost too good. This system. As a way of studying the brain.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.4900790750980377,
+                  "t_rating": 0.5746107376728598,
+                  "r_rating": 0.5746107376728598
                 }
               ]
             }
@@ -212,6 +636,31 @@
           "t_rating": 0.7395450572150792,
           "r_rating": 0.7646789374511157,
           "children": [
+            {
+              "name": "Dr. B:'What are these limitations? In particular, should we use an alternative? I mean, do you have an alternative that you would like to see used to study higher order cortices? What are the advantages it has? Is it something that has been studied more or something that has fewer disadvantages? What could it become?'",
+              "g_rating": 0.2,
+              "s_rating": 0.5422700047492981,
+              "t_rating": 0.5779764338195839,
+              "r_rating": 0.6330867964433915,
+              "children": [
+                {
+                  "name": "Dr. M:'It has been studied more than anything else. Some of the most interesting work on understanding the brain is in this system. The only advantage of the crab system for us is that all the connections between the muscles, the neurons, and the peripheral nerves are well defined already. And as far as the motor patterns, we know that they are stereotyped, because they are produced in a repeated rhythm within any single animal. So for the most part we can work on a model that uses that same network of neurons, that has the same membrane currents, that produces motor patterns as the brain would. So this allows us to work in more general settings, to work in situations with less experimental control and to work under more interesting conditions. And we are interested in determining how the brain does it. To say that this system might be an ideal system for studying the brain does not mean that it is not important to study the brain. I think it is important, but you might have different answers there.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5267552733421326,
+                  "t_rating": 0.7984178843148146,
+                  "r_rating": 0.7753474412141923,
+                  "children": [
+                    {
+                      "name": "Dr. B:'This is a rather specific approach to studying the cerebellum. Why are you studying the cerebellar cortex? What makes it of particular interest to you? What makes you a particularly interesting person studying a structure that has so many limitations that seems like it is unlikely to change any time soon? What makes a structure so interesting, so compelling? What aspects of studying this structure fascinate you most of all? Do you have a special focus, or is it more or less the same process that you take and you will have to be distracted by specific areas, or are there aspects of the structure where you find yourself completely enthralled by them and you cannot help yourself? In what way does the structure, and therefore the circuits, differ between different stages of brain evolution? Did you read a particular book, or was there a particular event in your life that made you interested in a particular structure?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.49862632155418396,
+                      "t_rating": 0.7061361119123256,
+                      "r_rating": 0.7061361119123256
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "Dr. B:'Where should you start when you are interested in how the brain works? What is your first question?'",
               "g_rating": 0.5,
@@ -258,7 +707,34 @@
                   "g_rating": 0.7,
                   "s_rating": 0.47143489122390747,
                   "t_rating": 0.8439495581273193,
-                  "r_rating": 0.8439495581273193
+                  "r_rating": 0.8054298272346372,
+                  "children": [
+                    {
+                      "name": "Dr. B:'How does these networks respond to other manipulations? One example of this is memory. How well does this network respond to training, as it responds to the training of a hippocampus to produce new memories? Could we manipulate this network and bring about memory changes without much training, or would this network require the training? What could be the advantage of such manipulations? What do we get out of this that can be exploited in the future? How would this network respond to manipulations that affect connectivity in a way that is not well characterized, such as training? Are these network changes permanent after activity has stopped? How about brain conditions which are associated with changes in the brain? One example that comes to mind is depression. How well-characterized is this network? Does this network respond to drug treatment? What is the mechanism underlying the network response? What could be novel and perhaps exploitable future directions? The following are my own opinions, in which may differ from yours.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5620689392089844,
+                      "t_rating": 0.6898706345565906,
+                      "r_rating": 0.7093183324463204,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well for example, as I said before, changes in connectivity. I do think that drugs that could change synaptic connectivity are most interesting because we can't do any of these experiments on humans, and so I think drugs that would change the strength and timing of all the synaptic connections would be incredibly interesting'. Drugs that could change the strength and time courses of all the synaptic couplings that are important for cognition\u2014I think this is really interesting, because I think that is going to open up questions: how is connectivity and synaptic strength regulated, and the role of network activity in changing connectivity.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.47885704040527344,
+                          "t_rating": 0.7676614261155094,
+                          "r_rating": 0.7824709836356949,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Perhaps there are examples in the future where you would find that this network responds to such manipulations. The main points that I'm trying to make in this context are about how we approach these problems, and some of these questions should be explored. I'm not trying to put up an impossible scenario by saying: how would this network respond if you were to train it, because it would be a different brain, in which case a different set of neurons and connections would be trained, and so on. However there are likely examples in the future whereby this network responds to manipulation by certain stimuli and not others, and so on, that we can't predict, because there are many things on which the brain can vary independently. What you're showing here as a challenge would be the task of uncovering some of these elements.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5690017938613892,
+                              "t_rating": 0.8268996561962514,
+                              "r_rating": 0.8268996561962514
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -279,13 +755,77 @@
               "r_rating": 0.8542940281042527,
               "children": [
                 {
+                  "name": "Dr. M:'We are going to give the students opportunities for exposure to different environments, for both positive and negative as well. But the most important thing is that these kinds of problems will give students of the next generation different perspectives. The young students who are coming into science and then have problems from a biological background are going to be exposed to biological questions that we can then ask about, as opposed to some of the classic questions of neuroscience that we have been thinking about for many years, some of which we are aware of but some of which are going to be different or even different. The important question that I don't think people think of as neuroscientists, is a much more general question, if you think about neuroeconomics, and how the brain works, how our brains work, and how other animals think, as well.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5660412907600403,
+                  "t_rating": 0.7552501193944245,
+                  "r_rating": 0.7552501193944245
+                },
+                {
                   "name": "Dr. M:   I'm very afraid that we would end up just training to respond to any sound that is not, for instance, the siren of the fire trucks where they come in every year with these people that have been training them.'",
                   "g_rating": 0.8,
                   "s_rating": 0.18063005805015564,
                   "t_rating": 0.8201385357799027,
-                  "r_rating": 0.8201385357799027
+                  "r_rating": 0.791393661573715,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And are there any advantages they, or indeed, should have over more complex creatures? For example: do they have special sensory abilities that the complex brain of mammals lack? Do they have super fast brains? Do they have a high-functionality level, or is the problem with, for example, the hippocampus a bit slow? Do they have high-complexity?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.37047168612480164,
+                      "t_rating": 0.705159038955152,
+                      "r_rating": 0.7347082021057588,
+                      "children": [
+                        {
+                          "name": "Dr. M:'They have high-complexities but not in terms of a high level of functionality. In terms of how many synapses they have, yes. In terms of neurons that they have, neurons that they have. In terms of their ability to read and process information, it's almost as robust as you could ever get.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.43349117040634155,
+                          "t_rating": 0.8233556915575794,
+                          "r_rating": 0.8233556915575794
+                        },
+                        {
+                          "name": "Dr. M:'That's a good question. It's one which is hard to think about. The, the, one thing that I would say in the mammals is, is that we understand to a certain point brain development, because for example mammals do, we do understand the hippocampus to some point, but then we have seen some studies of neurons with larger structures in  C. borealis. And we can kind of make analogies of what, or try and find mechanisms of neurons, neurons that can act at a distance and neurons that can have different properties, and so we can see that different neurons respond to the same synaptic connection in opposite ways, and so it, it is still a difficult problem to find a complete understanding. And then the invertebrates, again, one of the advantages to the invertebrates is that we can do so many, many studies of the same cell with the stomatogastric ganglion, we can get microelectrode recordings from single neurons.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5141144394874573,
+                          "t_rating": 0.7901352143079704,
+                          "r_rating": 0.83723594306226,
+                          "children": [
+                            {
+                              "name": "Dr. B:'You know, and you know, one of these problems with invertebrates is, is that a small number of studies tend to make the assumption that the brains are very large, because that's what has been shown in insects, in mice, in rats, but we see in mice is that they can come up with a large hippocampal structure, or a large cortical structure with all sorts of connections, but again, we haven't, we haven't really gone and examined how the connectivity arises. Are there small groups that are different, or should we, do we need to look at the connectivity of a very large number of neurons to understand the connectivity of circuits? Does that need to be part of our thinking or are there already studies that are making progress as to this question?'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5635040998458862,
+                              "t_rating": 0.9785381293251288,
+                              "r_rating": 0.9785381293251288
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The most useful model system in neuroscience are models of human nervous system. Models of nervous system are quite hard to make. We don't have models of nervous systems. We have people. We experiment with people.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5359339118003845,
+          "t_rating": 0.8045030502227213,
+          "r_rating": 0.8262556248293937,
+          "children": [
+            {
+              "name": "Dr. B:'What happens in nervous system, as we don't have a model system, is that we have these brain oscillations, and we can infer from that what happens in the brain from that or through the human experiments. I'm not so sure that I agree there. What about you?'",
+              "g_rating": 0.7,
+              "s_rating": 0.5515989661216736,
+              "t_rating": 0.8912134533468956,
+              "r_rating": 0.8912134533468956
+            },
+            {
+              "name": "Dr. B:'You, your, that, so that they are available to us to study on, and how their activities are organized. I ask for a model system because it allows us to study the mechanisms. I would like to ask, what is an ideal model? What are the limitations that it has? How would you like to see it improved? What is it missing? What if you would like to change something? Anything? I mean, what would you like to change, and how would you like to..., what are the two major improvements that the model would have to make? To push that... to refine it? The model and your answer... the two major improvements... the two major flaws? The two major flaws? I am interested in what is missing in the model. What might be changed. What is not correct in the model. It is not correct in my book, Neuronal Assembly. I make a case about assembly. What assembly is it? What makes for assembly?'",
+              "g_rating": 0.7,
+              "s_rating": 0.5520833730697632,
+              "t_rating": 0.8915133486494116,
+              "r_rating": 0.8915133486494116
             }
           ]
         },
@@ -294,7 +834,7 @@
           "g_rating": 0.7,
           "s_rating": 0.4934803247451782,
           "t_rating": 0.8564594741787883,
-          "r_rating": 0.8299590671013822,
+          "r_rating": 0.8500868471068534,
           "children": [
             {
               "name": "Dr. B:'Are there other issues in the brain that are going to be more amenable and challenging, but are not necessarily the most immediately useful in understanding the function of brain activity?'",
@@ -374,20 +914,29 @@
                       "g_rating": 0.7,
                       "s_rating": 0.6258926391601562,
                       "t_rating": 0.9390109667915841,
-                      "r_rating": 0.9390109667915841
+                      "r_rating": 0.8988917725216611,
+                      "children": [
+                        {
+                          "name": "Dr. M:'No, I think, you're right. When you talk about robustness of function and you talk about robust mechanisms: of course neurons have been quite happy to understand circuit stability in evolution because they can use this as justification for how cells behave as circuits evolve. Because the neurons know how the circuits evolve and the properties of the circuits change... We have to think about how to do our experiments in such a way that we can test this: is a circuit stable. Is the function of the neurons changing over time? Does the function of the network change if it's not stable? Then we have to ask how robustness can occur over evolutionary time scales. One of the most fascinating aspects of this is that when you see neurons that look identical, they still end up being completely different. And that's where you see the complexity is.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.4961002767086029,
+                          "t_rating": 0.778534189711892,
+                          "r_rating": 0.778534189711892
+                        }
+                      ]
                     }
                   ]
                 }
               ]
+            },
+            {
+              "name": "Dr. B:'So what would be the most exciting project in your career right now? Do you have any ideas that you'd like to see? How far away are we from a complete understanding of how a given brain function arises?'",
+              "g_rating": 0.7,
+              "s_rating": 0.4477827847003937,
+              "t_rating": 0.8309689658910488,
+              "r_rating": 0.8309689658910488
             }
           ]
-        },
-        {
-          "name": "Dr. M:'My answer has gone completely against my instinct. This is about neuroethology, how animals are responding to sensory stimuli. I like lobster, which is a crustacean. They are not, as far as I can tell, a single species. They all kind of have a variety of different neurons, and so it seems to me that they are more or less like neurons in humans. There are a lot of different brain circuit mechanisms that have evolved independently, because each one of them has to take into account for its own individual functions the behavior of individual neurons that are going through a number of different conditions. So, they seem to be a lot more like human neurons than many of these other systems, more like a collection of human cells kind of glued together, with a variety of circuits and behaviors that have evolved individually, although they have many underlying principles that are conserved, the circuits that control rhythmic movements that control food intake, eating behavior, etc.'",
-          "g_rating": 0.7,
-          "s_rating": 0.4785689413547516,
-          "t_rating": 0.8479553240763381,
-          "r_rating": 0.8479553240763381
         },
         {
           "name": "Dr. M:'A rodent with a complex nervous system. We use these animals to understand how fundamental brain circuits function'.'",
@@ -404,6 +953,13 @@
               "r_rating": 1.054552307041484,
               "children": [
                 {
+                  "name": "Dr. M:'We want technology to monitor brain activity dynamically and in vivo' and 'we want to know how the brain learns and changes over the lifetime'.' To answer these questions we need the experimental approaches that will be developed in the first 10 years of this century.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5279291272163391,
+                  "t_rating": 0.7271238982205203,
+                  "r_rating": 0.7271238982205203
+                },
+                {
                   "name": "Dr. M:'To have a better understanding of how neuronal cells and networks interact, how they can be reconfigured on whim or for special tasks. And to find drugs that could have treatments that work in the brain. Which drugs will be developed for that purpose?'",
                   "g_rating": 0.8,
                   "s_rating": 0.5042104125022888,
@@ -415,16 +971,411 @@
                       "g_rating": 0.6,
                       "s_rating": 0.3251070976257324,
                       "t_rating": 0.6824182184896792,
-                      "r_rating": 0.6824182184896792
+                      "r_rating": 0.7154932207731713,
+                      "children": [
+                        {
+                          "name": "Dr. M:'We are looking to solve big problems that are important.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.15416157245635986,
+                          "t_rating": 0.8147182276236475,
+                          "r_rating": 0.8147182276236475
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:'With the knowledge gained from my experience and the knowledge gained from reading your articles, what brain rhythms might be targeted for these goals? What would be the best path to get ahead of where you are? What new challenges require the best work being put forth to make progress on the best current goals?'",
                       "g_rating": 0.7,
                       "s_rating": 0.4961603283882141,
                       "t_rating": 0.8580064518791805,
-                      "r_rating": 0.8580064518791805
+                      "r_rating": 0.8128698265824283,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think that is always the goal of a scientist. It's not 'I want to know some interesting things'. It's 'I want to find new tools that can help us understand ourselves better, and maybe find a cure for a terrible disease or improve the way we look after children or treat mental illness'. Many, many different issues, which are very interesting issues to study, could be solved with new tools that would increase our knowledge. And it's also been important to say the challenges that are new. That people think we've done something, and we have new capabilities and new ways to do things. Things that will be important to solve. To be able to solve them. Because solving a problem that no one has ever thought about before, whether it's a new problem, a really unsolved problem, we've learned how important it is to have the resources, the funds, even the grants but also the freedom to take risks and try new things, with new tools.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.31456634402275085,
+                          "t_rating": 0.6774599506921717,
+                          "r_rating": 0.6774599506921717
+                        }
+                      ]
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, I think all of us have been excited by the fact that we were going to do experiments on mice and we got there, and we learned that all the problems are associated with the fact that people have come to see mice as pets and to see them as humans \u2013 when they are not \u2013 and as humans they act very differently from rodents, and it's that you need these two, these two species to understand the fundamental science of how your nervous system develops, so I think mice are awesome, but they are not the way to do this particular study.'",
+          "g_rating": 0.8,
+          "s_rating": 0.43887946009635925,
+          "t_rating": 0.9124774958838557,
+          "r_rating": 0.8696789990585684,
+          "children": [
+            {
+              "name": "Dr. B:'Well, we didn't use mice as model organisms.'",
+              "g_rating": 0.7,
+              "s_rating": 0.24392876029014587,
+              "t_rating": 0.7412835085827064,
+              "r_rating": 0.7197724856070252,
+              "children": [
+                {
+                  "name": "Dr. M: Well, we used rats.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.20715148746967316,
+                  "t_rating": 0.6347532896810367,
+                  "r_rating": 0.6389109547050408,
+                  "children": [
+                    {
+                      "name": "Dr. B:\"But we didn't use model organisms.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.25357651710510254,
+                      "t_rating": 0.651383949777053,
+                      "r_rating": 0.7103795145616362,
+                      "children": [
+                        {
+                          "name": "Dr. M:'We used rats'.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.21448704600334167,
+                          "t_rating": 0.21448704600334167,
+                          "r_rating": 0.21448704600334167
+                        },
+                        {
+                          "name": "Dr. M:\"Because rats have evolved for a completely different purpose, and, we learned that a small change could induce big changes in the neurons.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.3839515447616577,
+                          "t_rating": 0.8873662089153854,
+                          "r_rating": 0.9212002806146404,
+                          "children": [
+                            {
+                              "name": "Dr. B:'This is the exact point of the book that I read with the brain from the inside out argument. He argued that there is this general tendency to take what is the most general case and then make a brain from that, and that has happened. I understand that, but I didn't quite understand my argument about how that general rule could be taken and actually changed. I don't know how to make it into a concrete case. Could you guys make it concrete?'",
+                              "g_rating": 0.9,
+                              "s_rating": 0.4857163727283478,
+                              "t_rating": 1.0227024957124058,
+                              "r_rating": 1.0227024957124058
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'I didn't, but we needed two species to show us how this was so different from what we were used to and  (A.L.) (A.L.N.) (A.K.) was willing to play hard-ball with us, saying we should do this in humans rather than in these animals. We said you know, 'We aren't testing this drug on these animals and we didn't need to and we would never \u2013 you know, you're going to test a drug or anything on a human.'\" So we ended up working on this for over 2 years (A.L., A.L.N., A.K., N.L., N.N.L.) and I think you're still working on it. So that was really critical.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.2633224129676819,
+                  "t_rating": 0.6552394166799814,
+                  "r_rating": 0.742265009772142,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So in fact the only thing from the perspective of biology we do with the mouse is to show that the brain is very different in mice than in other organisms, and that mice are not born with this. They go through the brain, they produce a specific type of pyramidal neurons in the cortex, called layer 5. This is actually different from other areas where pyramidal neurons are found, they are distinct from other cells that produce a different neurotransmitter. So that difference does not really explain to us how the brain produces different patterns in mouse and rat brains, and that actually explains why people do experiments with mice, a lot of different types of diseases in mice, not in the rat yet, and then when they develop in the rat, they can work with us in humans, as well. So that is the, that is the only work that I see actually done in the mouse now... so what's the mouse's main utility?'",
+                      "g_rating": 0.9,
+                      "s_rating": 0.443502813577652,
+                      "t_rating": 1.003341789048624,
+                      "r_rating": 1.003341789048624
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'My answer has gone completely against my instinct. This is about neuroethology, how animals are responding to sensory stimuli. I like lobster, which is a crustacean. They are not, as far as I can tell, a single species. They all kind of have a variety of different neurons, and so it seems to me that they are more or less like neurons in humans. There are a lot of different brain circuit mechanisms that have evolved independently, because each one of them has to take into account for its own individual functions the behavior of individual neurons that are going through a number of different conditions. So, they seem to be a lot more like human neurons than many of these other systems, more like a collection of human cells kind of glued together, with a variety of circuits and behaviors that have evolved individually, although they have many underlying principles that are conserved, the circuits that control rhythmic movements that control food intake, eating behavior, etc.'",
+          "g_rating": 0.7,
+          "s_rating": 0.4785689413547516,
+          "t_rating": 0.8479553240763381,
+          "r_rating": 0.8714878478486869,
+          "children": [
+            {
+              "name": "Dr. B:'But what are they good for?'",
+              "g_rating": 0.4,
+              "s_rating": 0.16689707338809967,
+              "t_rating": 0.43342200348564763,
+              "r_rating": 0.5536011522819737,
+              "children": [
+                {
+                  "name": "Dr. M:'Good for understanding fundamental principles that govern animal behavior, not necessarily for understanding neural syntax, how neural information is organized. Why, they're good for that. Why are humans good for that too?'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5879195332527161,
+                  "t_rating": 0.9141385986709518,
+                  "r_rating": 0.9220200171408539,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Can you expand on this a little bit?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.2607864737510681,
+                      "t_rating": 0.6542244147779235,
+                      "r_rating": 0.5991551571728058,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh, yes. That is an excellent question. Actually, it is an excellent question because there are so many different animal species around right now, and there are people who like to talk to me for hours on end about things that people will tell me that they have been studying, animals for their entire lives. And so, it has evolved a little bit, actually, with people who are studying different species of animals, and it is actually something that I'm interested in too. Because it's fun reading about species that only exist in the ocean, in South Africa, in the mountain forests of the Himalayas. So, it is fascinating because, you know, it's not just like, this is an animal species, it's actually the same kind of neuron, but it's, that is different, you know, and there will be differences.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.4339473843574524,
+                          "t_rating": 0.4339473843574524,
+                          "r_rating": 0.4339473843574524
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:\"Because we are a species of great intelligence, and we developed great cognitive abilities because we evolved in a way that was good, not necessarily for studying neural syntax.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5042627453804016,
+                      "t_rating": 0.9456642725505601,
+                      "r_rating": 0.889505263964588,
+                      "children": [
+                        {
+                          "name": "Dr. M:- 'That's right. And so, you know, my initial instinct was to talk about how humans evolved as animals, how we became intelligent animals, not necessarily to study neural syntax, but to study why neurons fire, understand why neurons fire different patterns. But it turns out that your initial intuition was right, because there are a variety of important functions that must be maintained by different neurons during the animal's lifetime, many of them, because different brain regions, when they fire, they fire in a time-dependent manner.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.692734956741333,
+                          "t_rating": 0.7210282382066715,
+                          "r_rating": 0.7504956712774019,
+                          "children": [
+                            {
+                              "name": "Dr. B:'I hear you and I agree with you. It is important for the evolution of vertebrate animals to have different neurons for different tasks. I don't, but the interesting thing about vertebrates that are intelligent is that this is not really a prerequisite for being smart. They are already smart, because they're intelligent as babies and as a result of the way their minds have evolved during their early days, their early days, but those are different from the neurons that we study as adults to understand what actually makes us smarter.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5018251538276672,
+                              "t_rating": 0.7083985354404411,
+                              "r_rating": 0.7083985354404411
+                            },
+                            {
+                              "name": "Dr. B:'Can we then use those fundamental patterns to make decisions about how to improve these same systems that have evolved apart but nevertheless have shared basic principles? Let's say there's something we want to do better, which is something that we're interested in, so we study the circuits that control, and then we can use the brains of a long-lived species as a platform to examine how to optimize those circuits that are controlling behaviors that we're very interested in. The fundamental properties of brain rhythms are fundamental properties of individual neurons. When they respond in a particular manner, that's fundamentally different from neurons like bistratified neurons and perisomatic inhibitory interneurons, and so on. All these neurons are fundamentally the same in terms of their responses to different conditions.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5863018035888672,
+                              "t_rating": 0.8388979704895934,
+                              "r_rating": 0.8388979704895934
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What do we know about the mechanisms and functions of cortical rhythms?'",
+              "g_rating": 0.7,
+              "s_rating": 0.6304957866668701,
+              "t_rating": 0.9420854191657333,
+              "r_rating": 0.8937740618595609,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, that's really good. Right, it goes back to the idea of network output, if all you have are a single neuron, a single cell is going to be more or less on its own, because neurons are not part of a single network, they're part of networks. I mean, it's sort of like if all you had was a single cell, and all you had to rely on was that cell, and there wasn't feedback from other cells and the brain. So, they get away from each others a little bit. So, we also know that individual neurons kind of like neurons have their idiosyncrasies, and they respond to inputs that are slightly different from other neurons. For example, neurons respond differently during activity. When you go over the same synaptic stimulation that elicits the same output in different times, that indicates that different neurons also have differences, at a sub-cortical level.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5574597120285034,
+                  "t_rating": 0.7488399899410434,
+                  "r_rating": 0.8180854707571502,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is there any such sub-cortically induced response in a typical neuron that is not unique to the individual cell?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5685809850692749,
+                      "t_rating": 0.8266101478825112,
+                      "r_rating": 0.8636783530450048,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Not so much at the sub-cortic level, but it is definitely known subcortically that the different neurons that exist in a single animal respond to the same inputs, but they're probably not identical, because some of the neurons respond to some inputs differently, because they have unique sets of modulatory inputs. Some neurons have a unique set of chemical and electrical connections to their network. Others still seem to just have a bunch of different modulatory neurons, and still respond differently. So, it is clear that this sort of network-specific modulation is going on.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5571326613426208,
+                          "t_rating": 0.9748829685324857,
+                          "r_rating": 0.9278357519125506,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Can we look at the functional differences between some of these different states, such as waking and non-REM sleep? How are they different with respect to the outputs they give? Does sleep, for example, have significantly different outputs than waking? Is that always the case? What about when waking is different from non-REM sleep, or vice versa?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.3590092062950134,
+                              "t_rating": 0.7866941020527455,
+                              "r_rating": 0.7866941020527455
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'Do you think we'll have a chance to talk about the functions of specific rhythms of the brain? Do we have time to talk about three or four? What might they look like? What kind of patterns to look for? What are the potential behavioral consequences? What are the mechanisms? What are the neurophysiological effects? What are the functional consequences? How do we look at them? What kind of language are we going to use? Are we looking for, for example, the kind of language that we are not looking for? Are we talking about the kind of language and the kind of behavioral terms that we use today, that are really just inherited, and are they relevant? Are we trying to answer the question that way, or are we trying to understand the mechanism, or how to answer it in language? How far should we go with this, or what is a good distance to go by? What kinds of problems are we looking at, when we look at the mechanism?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.6421141624450684,
+                      "t_rating": 1.0258219132054704,
+                      "r_rating": 1.0258219132054704
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, I think, many animal models have been used in neuroscience because we need to have models of neuronal circuits that are as representative as we can get of the complexity of the nervous system, which is much greater than we had back when they were first used for physiological studies that really led to the first understanding of the brain or learning about how the brain works. Of course, our understanding about the nervous system has increased substantially with more sophisticated preparations in which many, many, many neurons are monitored. So I think models of whole animals have been important. The advantage of mice is that as model systems have been developed for the use of genetics and for developing models for brain imaging, we now have models that can be used to monitor brain activity. So it'll be important for us over time to refine and develop a whole variety of model systems that are very flexible and will serve different experimental purposes, but will also allow us to do experiments that involve measurements outside of the brain.'",
+          "g_rating": 0.8,
+          "s_rating": 0.3913904130458832,
+          "t_rating": 0.89061015906188,
+          "r_rating": 0.8779893388021334,
+          "children": [
+            {
+              "name": "Dr. B:'What are my top five questions about the brain?'",
+              "g_rating": 0.4,
+              "s_rating": 0.4327681064605713,
+              "t_rating": 0.5893116611517784,
+              "r_rating": 0.6907105400131979,
+              "children": [
+                {
+                  "name": "Dr. M:'And it's hard for me to know the order of importance because for our lab we really put a high premium on understanding the properties of individual neurons. In fact, I had many colleagues who said that they could never understand the brains of other people because they could not appreciate how important it was to know the properties of individual cells that made them unique. What are you interested in? I understand that some of our best papers are studies that tell us about the properties of individual cell types that give rise to specific functions. So the individual cells themselves have quite strong constraints that arise from their intrinsic properties, their interactions with the outside world, and the properties of the circuit that is made up by the individual groups of cells. But I think knowing the properties of individual neuron types is really important for understanding the brain because ultimately we're going to study the properties of neurons that we don't have.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5914729833602905,
+                  "t_rating": 0.9949071765974565,
+                  "r_rating": 0.8590979273315347,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But I have many more questions.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.20977595448493958,
+                      "t_rating": 0.45167017953376937,
+                      "r_rating": 0.5028982004986285,
+                      "children": [
+                        {
+                          "name": "Dr. M:'There are so many. We have so many questions. Actually, I think it has been relatively easy to ask questions that have really driven us to try new technologies that have allowed us to develop tools, to make new measurements, because so many questions have been about knowing the properties. One of the things that some of the more extreme colleagues in neuroscience told me that we could never understand the brain. For example, we could find no correlation between the properties of a cell and its fate as a neuron type. That seems obvious now. But it was obvious that a cell that has certain properties cannot be a neuron as an individual cell and it can only be a neuron in the brain. The other thing that we're interested in are questions that, like other biological systems, like plants, for example. I mean, how plants manage to grow food for people, if you think about that. But it's kind of hard to think of questions that involve measurement and thinking and understanding what comes in between.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.5840378999710083,
+                          "t_rating": 0.6565822633932061,
+                          "r_rating": 0.7433738171057782,
+                          "children": [
+                            {
+                              "name": "Dr. B:'As I think about the brain, I have several questions. First, are there actually separate systems or modules in the brain? Do these systems or modules work separately, or are they functionally interactive? Does anyone understand these modules, or can we ever know the modules? Do these modules require any kind of communication or communication across modules, or should we call them functions? What, in short, is the function of the cortex? Are modules the right way to look? Is there another solution that involves other, different parts of the brain? What is the functional architecture that allows me as an experimenter to understand my questions? What is the function that requires an understanding of the organization, the function that is the brain? How do modules interact? What is the physiological function behind modules? What is the substrate that gives rise to modules? What are the requirements for a module? Are there special rules that allow the formation of a module? What are the basic properties of a module?'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.6062268614768982,
+                              "t_rating": 1.0037484782434942,
+                              "r_rating": 0.9680417458756775,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'No, as I look at it, there is not actually. No, I don't think there is functionally separate modules. The cortex is a special case of a functional unit that receives inputs and then creates a number of outputs that the brain uses to think and to function and so you don't think of it functionally apart. I mean, the cortex is a lot larger than any other part of the brain. So you're kind of doing something that is a little bit like the muscles and the heart of the body, you know. Because you're dealing with muscles and neurons that are very tightly coupled. So I think you're kind of combining all of these neurons together.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.6174025535583496,
+                                  "t_rating": 0.8609215487722274,
+                                  "r_rating": 0.8609215487722274
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'There are dozens of brain diseases and neuroimmunological diseases that have been studied on a cellular level, and many in vitro systems, but as a function of behavior, how would you rank them?'",
+              "g_rating": 0.7,
+              "s_rating": 0.4645569622516632,
+              "t_rating": 0.8401268780228932,
+              "r_rating": 0.778067087690522,
+              "children": [
+                {
+                  "name": "Dr. M:'I think that there are some more important than others. So I think, first of all, for example, there's the work on the pylor circuit, specifically on the gastric mill rhythm. But then there's work on synaptic transmission, work on the role of intraterminal synaptic transmission in a circuit. You know, how synaptic coupling produces the oscillation of the circuit. Then there is recent work on, I think, a very interesting question that is, you know, how circuit output is regulated. This is, if you like, a more, kind of like a biological \"How To,\" or a biological \"For Dummies\" or How To guides, so, I mean, how you actually regulate your behavior so that you're acting in a certain way when you're in specific contexts, you're with your friends, your colleagues, and so on.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.5102264881134033,
+                  "t_rating": 0.5918877166934087,
+                  "r_rating": 0.6745108668446838,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I would say that the most important would be probably the work on the cerebral cortex that we're now on. You can get a better understanding of the function and function of neuronal populations than you ever could from a single neuron because, to bring this back to the brain rhythm problems, the rhythm problems are about how the brain actually computes the information because these are the same sort of computations as when you go into a circuit for example, and you have a circuit of cells that are producing action potentials. So how are those things computed? What the computations are there at the circuit that are being carried out. It's a circuit at the circuit level now because everything, for the most part is now at the circuit level. What the computation is that is being done by some kind of a particular circuit?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.6006541848182678,
+                      "t_rating": 0.9223803172985088,
+                      "r_rating": 0.8361884065728582,
+                      "children": [
+                        {
+                          "name": "Dr. M:'That's right. So I think probably that question has most been answered, because this is the first time, it was solved. But the answer is that all these different parts of the brain\u2014the visual system, this part, the somatosensory system, we were talking about, this part\u2014all of these different neurons have been studied that can produce information. There are known synaptic connections between cells. So for example, the somatosensorial circuit is not a circuit in the central nervous system, is part of the peripheral nervous system of a crab. So in the peripheral nervous system, there are multiple neurons. There's three cells that are part of this circuit, the two somatosensors, and one anterior ganglion cell that can be labeled as the neuron that integrates information coming from the four other different sensors of the peripheral nervous that are spread out in the four different lobes of the stomach of the stomatogastric ganglion.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.5418822765350342,
+                          "t_rating": 0.5776126743959064,
+                          "r_rating": 0.6052620623383342,
+                          "children": [
+                            {
+                              "name": "Dr. B:'What are the computations that are going on, and what are the algorithms? For example, how the neurons in the limbic system function\u2014we already know how they affect the hippocampus function, the prefrontal cortex function, the amygdala function in its role as a fear circuit. We have knowledge of the mechanisms that are responsible for the function of the hippocampus as a search engine in its capacity as a memory buffer and storage site for the formation of memories. We have knowledge that the prefrontal cortex in its role as an executive circuit is responsible for the selection of particular streams of information that determine whether or not the information will be stored or whether it will be ignored or processed in some way. We have, to some extent, what is the computational role of the amygdala, the hypothalamus, the different areas that are involved in, in their function as emotion circuits for certain behaviors.'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.5600297451019287,
+                              "t_rating": 0.6882102261656181,
+                              "r_rating": 0.6882102261656181
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Can you give me a specific example of a recent experiment based on a mouse neuron preparation with mouse? Do you have a mouse neuron that you're using in this study?'",
+              "g_rating": 0.7,
+              "s_rating": 0.3957328498363495,
+              "t_rating": 0.8041172106351155,
+              "r_rating": 0.8286812505179268,
+              "children": [
+                {
+                  "name": "Dr. M:'I've used mouse to establish a whole variety of different behaviors, so the first model system that we developed is the NMT (neural model tester), where we used many different neurons that were isolated from the whole system, with many different synaptic connections. One of the first examples we did, which is a famous paper, is the one that we published recently, where we used a large-conductance bursting pacemaker that was isolated from other neurons of the system to see how a bursting pacemaker neuron influenced the intrinsic activity of a neuron.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.41746580600738525,
+                  "t_rating": 0.9023733701663608,
+                  "r_rating": 0.8937792912490069,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Who is the primary developer of the NMT? Do you have any idea who would like to be the primary developer of a program like this in the future? Are you developing the NMT yourself or is it going to another group of researchers?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.26044216752052307,
+                      "t_rating": 0.7468802598963158,
+                      "r_rating": 0.6192053120317519,
+                      "children": [
+                        {
+                          "name": "Dr. M:'We're co-developing it. We're doing all of the software that we wrote together. It's written in the public GitHub repository.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.12562330067157745,
+                          "t_rating": 0.23618046843806023,
+                          "r_rating": 0.23618046843806023
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'How difficult was it to develop a system that allowed you to see how neurons in the cerebral cortex interact in the mouse brain? What were the technological hurdles that had to be overcome?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5132434964179993,
+                      "t_rating": 0.8679970544969452,
+                      "r_rating": 0.8679970544969452
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think for understanding the nervous system in general, which is still far from being understood, for understanding neurophysiology, for learning to understand the nervous system in terms of its individual mechanisms and the way they interact, we definitely have a better view of the nervous system of rats and mice than we do have of it, for example, when we do experiments on it. So I think studying the nervous system of mice is going to give us a lot more insight into the way the nervous system and circuits are wired, how they work than will studying the nervous system in other species.'",
+          "g_rating": 0.8,
+          "s_rating": 0.44951438903808594,
+          "t_rating": 0.9176400089099667,
+          "r_rating": 0.8781009026143564,
+          "children": [
+            {
+              "name": "Dr. B:'And in that sense, it is a more useful model than for other species.'",
+              "g_rating": 0.7,
+              "s_rating": 0.29464438557624817,
+              "t_rating": 0.7594835837275252,
+              "r_rating": 0.7898067173918077,
+              "children": [
+                {
+                  "name": "Dr. M:'And I think of course the problem is, it is not that there are models that are more useful than other models, but that every model needs its own set of characteristics.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.277375727891922,
+                  "t_rating": 0.8467214975560581,
+                  "r_rating": 0.8467214975560581
+                },
+                {
+                  "name": "Dr. M:'Yes, because of the genetic manipulations that are possible. For example, the genetic manipulations necessary to make these animals useful are available. We're able to do genetic manipulations that we can't see in the other animals that are out there. So those genetic manipulations can help us learn about the way these animals are wired, what brain states they're at when they're active, whether they're responding to specific inputs, whether they're behaving randomly. So it is a useful model system. I know that our labs do not usually work on mice at the same time. We have lots of labs interested in rats or the crab that use the mouse, because it is such a versatile system.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.3684651553630829,
+                  "t_rating": 0.8807761183846556,
+                  "r_rating": 0.8807761183846556
                 }
               ]
             }
@@ -435,14 +1386,37 @@
           "g_rating": 0.8,
           "s_rating": 0.4552289843559265,
           "t_rating": 0.9204528386602588,
-          "r_rating": 0.8586759916703359,
+          "r_rating": 0.91357164538143,
           "children": [
+            {
+              "name": "Dr. B:'Thanks. Thank you very much. Thanks, Marder. Thank you.'",
+              "g_rating": 0.0,
+              "s_rating": 0.24950075149536133,
+              "t_rating": 0.24950075149536133,
+              "r_rating": 0.29724105639251414,
+              "children": [
+                {
+                  "name": "Dr. M: It's okay, Professor.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.18440918624401093,
+                  "t_rating": 0.4404619710839726,
+                  "r_rating": 0.4404619710839726
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'I disagree. I argue that the most useful model for this question is in the, in the cortex, maybe because it's the best understand how this mechanism works.'",
+              "g_rating": 0.2,
+              "s_rating": 0.5943220853805542,
+              "t_rating": 0.6270715598487072,
+              "r_rating": 0.6270715598487072
+            },
             {
               "name": "Dr. B:'Okay, now what do you think is actually going wrong with these, they're not working right and they are very much related to each other', like what are people's thoughts of neurogenesis?'",
               "g_rating": 0.5,
               "s_rating": 0.4509923458099365,
               "t_rating": 0.6733454507005667,
-              "r_rating": 0.7494951650942925,
+              "r_rating": 0.7514154051491806,
               "children": [
                 {
                   "name": "Dr. M:'And that the evolutionarily the evolutionarily the neuronal oscillator is very important and its role of evolutionarily of evolutionally evolved for its role as a pacemaker and as a pump.' So you're just, the central pattern generating circuits pump nutrients into the developing nervous system, okay?'",
@@ -527,7 +1501,16 @@
                                       "g_rating": 0.3,
                                       "s_rating": 0.20986054837703705,
                                       "t_rating": 0.3661167160416343,
-                                      "r_rating": 0.3661167160416343
+                                      "r_rating": 0.4501450444198569,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right there is, because the statistics, the statistics are also part of the detail. They're, they're called \"detailed anatomy\" which is a great thing and they're called \"connectomics\" they're called \"brain connectomics\" and, and which I have studied. So we realized as we, as we studied these networks by getting detailed images of the connections by getting detailed anatomical descriptions of the brains, that what we were discovering was not just statistics, it was important to say, to point out that all neurons have specific anatomies. The motor neurons have specific anatomic structures. The neurons of each network have specific anatomic connections, and that allowed us to point out and realize that neurons, neurons from different networks are not the same.'",
+                                          "g_rating": 0.4,
+                                          "s_rating": 0.5771715641021729,
+                                          "t_rating": 0.7022300295545247,
+                                          "r_rating": 0.7022300295545247
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -563,101 +1546,24 @@
                       ]
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'Well, I think, many animal models have been used in neuroscience because we need to have models of neuronal circuits that are as representative as we can get of the complexity of the nervous system, which is much greater than we had back when they were first used for physiological studies that really led to the first understanding of the brain or learning about how the brain works. Of course, our understanding about the nervous system has increased substantially with more sophisticated preparations in which many, many, many neurons are monitored. So I think models of whole animals have been important. The advantage of mice is that as model systems have been developed for the use of genetics and for developing models for brain imaging, we now have models that can be used to monitor brain activity. So it'll be important for us over time to refine and develop a whole variety of model systems that are very flexible and will serve different experimental purposes, but will also allow us to do experiments that involve measurements outside of the brain.'",
-          "g_rating": 0.8,
-          "s_rating": 0.3913904130458832,
-          "t_rating": 0.89061015906188,
-          "r_rating": 0.8779893388021334,
-          "children": [
-            {
-              "name": "Dr. B:'What are my top five questions about the brain?'",
-              "g_rating": 0.4,
-              "s_rating": 0.4327681064605713,
-              "t_rating": 0.5893116611517784,
-              "r_rating": 0.6907105400131979,
-              "children": [
+                },
                 {
-                  "name": "Dr. M:'And it's hard for me to know the order of importance because for our lab we really put a high premium on understanding the properties of individual neurons. In fact, I had many colleagues who said that they could never understand the brains of other people because they could not appreciate how important it was to know the properties of individual cells that made them unique. What are you interested in? I understand that some of our best papers are studies that tell us about the properties of individual cell types that give rise to specific functions. So the individual cells themselves have quite strong constraints that arise from their intrinsic properties, their interactions with the outside world, and the properties of the circuit that is made up by the individual groups of cells. But I think knowing the properties of individual neuron types is really important for understanding the brain because ultimately we're going to study the properties of neurons that we don't have.'",
+                  "name": "Dr. M:'Well, I mean, there are, that's, that's the thing, the neurons that you're getting in the animal are not, um, you're not, and we've made the model that we're using in this particular case and maybe it would work better if it were not so, you know, because we, we made the model that has a ton of different neurons in the neural network, but you do want to have neurons that can oscillate, but neurons that can fire with very fast frequency as well, and to have both of those features, but the ones that you're talking about are basically the same, I think to make this model, we had to make it as simple as possible, because the real, the biological neurons, as you said, are also very complicated.'",
                   "g_rating": 0.8,
-                  "s_rating": 0.5914729833602905,
-                  "t_rating": 0.9949071765974565,
-                  "r_rating": 0.8590979273315347,
-                  "children": [
-                    {
-                      "name": "Dr. B:'But I have many more questions.'",
-                      "g_rating": 0.4,
-                      "s_rating": 0.20977595448493958,
-                      "t_rating": 0.45167017953376937,
-                      "r_rating": 0.5028982004986285,
-                      "children": [
-                        {
-                          "name": "Dr. M:'There are so many. We have so many questions. Actually, I think it has been relatively easy to ask questions that have really driven us to try new technologies that have allowed us to develop tools, to make new measurements, because so many questions have been about knowing the properties. One of the things that some of the more extreme colleagues in neuroscience told me that we could never understand the brain. For example, we could find no correlation between the properties of a cell and its fate as a neuron type. That seems obvious now. But it was obvious that a cell that has certain properties cannot be a neuron as an individual cell and it can only be a neuron in the brain. The other thing that we're interested in are questions that, like other biological systems, like plants, for example. I mean, how plants manage to grow food for people, if you think about that. But it's kind of hard to think of questions that involve measurement and thinking and understanding what comes in between.'",
-                          "g_rating": 0.3,
-                          "s_rating": 0.5840378999710083,
-                          "t_rating": 0.6565822633932061,
-                          "r_rating": 0.7433738171057782,
-                          "children": [
-                            {
-                              "name": "Dr. B:'As I think about the brain, I have several questions. First, are there actually separate systems or modules in the brain? Do these systems or modules work separately, or are they functionally interactive? Does anyone understand these modules, or can we ever know the modules? Do these modules require any kind of communication or communication across modules, or should we call them functions? What, in short, is the function of the cortex? Are modules the right way to look? Is there another solution that involves other, different parts of the brain? What is the functional architecture that allows me as an experimenter to understand my questions? What is the function that requires an understanding of the organization, the function that is the brain? How do modules interact? What is the physiological function behind modules? What is the substrate that gives rise to modules? What are the requirements for a module? Are there special rules that allow the formation of a module? What are the basic properties of a module?'",
-                              "g_rating": 0.8,
-                              "s_rating": 0.6062268614768982,
-                              "t_rating": 1.0037484782434942,
-                              "r_rating": 1.0037484782434942
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
+                  "s_rating": 0.5757231712341309,
+                  "t_rating": 0.9856252684950222,
+                  "r_rating": 0.9856252684950222
                 }
               ]
             },
             {
-              "name": "Dr. B:'Can you give me a specific example of a recent experiment based on a mouse neuron preparation with mouse? Do you have a mouse neuron that you're using in this study?'",
+              "name": "Dr. B:'What was the discovery that, you know, you looked at that animal and said we have one that represents the neural syntax of neural syntax?'",
               "g_rating": 0.7,
-              "s_rating": 0.3957328498363495,
-              "t_rating": 0.8041172106351155,
-              "r_rating": 0.8286812505179268,
-              "children": [
-                {
-                  "name": "Dr. M:'I've used mouse to establish a whole variety of different behaviors, so the first model system that we developed is the NMT (neural model tester), where we used many different neurons that were isolated from the whole system, with many different synaptic connections. One of the first examples we did, which is a famous paper, is the one that we published recently, where we used a large-conductance bursting pacemaker that was isolated from other neurons of the system to see how a bursting pacemaker neuron influenced the intrinsic activity of a neuron.'",
-                  "g_rating": 0.8,
-                  "s_rating": 0.41746580600738525,
-                  "t_rating": 0.9023733701663608,
-                  "r_rating": 0.8635000925988496,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Who is the primary developer of the NMT? Do you have any idea who would like to be the primary developer of a program like this in the future? Are you developing the NMT yourself or is it going to another group of researchers?'",
-                      "g_rating": 0.7,
-                      "s_rating": 0.26044216752052307,
-                      "t_rating": 0.7468802598963158,
-                      "r_rating": 0.7468802598963158
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dr. B:'There are dozens of brain diseases and neuroimmunological diseases that have been studied on a cellular level, and many in vitro systems, but as a function of behavior, how would you rank them?'",
-              "g_rating": 0.7,
-              "s_rating": 0.4645569622516632,
-              "t_rating": 0.8401268780228932,
-              "r_rating": 0.8401268780228932
+              "s_rating": 0.5543649792671204,
+              "t_rating": 0.8929280655449434,
+              "r_rating": 0.8929280655449434
             }
           ]
-        },
-        {
-          "name": "Dr. M:'I think for understanding the nervous system in general, which is still far from being understood, for understanding neurophysiology, for learning to understand the nervous system in terms of its individual mechanisms and the way they interact, we definitely have a better view of the nervous system of rats and mice than we do have of it, for example, when we do experiments on it. So I think studying the nervous system of mice is going to give us a lot more insight into the way the nervous system and circuits are wired, how they work than will studying the nervous system in other species.'",
-          "g_rating": 0.8,
-          "s_rating": 0.44951438903808594,
-          "t_rating": 0.9176400089099667,
-          "r_rating": 0.9176400089099667
         },
         {
           "name": "Dr. M:'Well, we don't have any model organism that captures everything we do, but we can test how well all the pieces of the system come together when you have a whole system, so probably most useful, we would go that way, probably would be if we had a nice, simple model that was very robust, that could capture all the features of a biological neuron, or a model neuron of neurons that are highly variable in terms of their different properties, but that could also capture the properties of neurons that have different properties, and we could test new pharmacological tools on these models. That would be a useful system, and then having a system by which you could look at the interactions of neuromodulatory substances with different underlying circuits of cell bodies. We can test the idea, we can test the notion that there are two different types of ion channels, voltage-dependent and voltage-independent potassium channels.'",
@@ -699,7 +1605,16 @@
                           "g_rating": 0.7,
                           "s_rating": 0.4568200707435608,
                           "t_rating": 0.83587354129327,
-                          "r_rating": 0.83587354129327
+                          "r_rating": 0.8348280917040171,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And that's, that was done by the, by Michael Miles at the time. And then the paper itself and the paper is about the consequences of those changes to the electrical activity of neurons. It's a very nice paper that discusses a set of experimental observations that point to different possible mechanisms. The paper itself is very clear, but the reason that you bring up, is that I'm not so sure how to read the paper. So can anyone, explain to me the paper that I'm reading? Explain to me, uh, the findings? What did we find? What did we say? What does it show? What is it showing? What is it doing? Just explain to me the findings and what is being said. Then I'll be able'to read it as well, but the paper would be even more opaque if you just told me the findings and then the findings, uh, that should explain to me your interpretation.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5759437084197998,
+                              "t_rating": 0.8316917429362585,
+                              "r_rating": 0.8316917429362585
+                            }
+                          ]
                         },
                         {
                           "name": "Dr. M:'So, basically, what I'm saying is if it behaves like any other biological neuron, then we don't want to have to come up with this, we wouldn't want to come up with a whole new world. We want to use neurons that we understand to understand how neural circuit functions work in neurons that we know are neurons, that we're familiar with, and using the tools that we're using in other parts of science to, to examine these things. Of course you do have other experiments that can be designed to look for correlations and correlations like that, it's just that when you're working with humans doing things that are sort of idiosyncratic, it's a little harder. If you have animals that have a similar behavior, animals that are kind of identical then it's much easier. We want to see how these systems work, in this population of neurons. If it has never seen itself it's hard to know what kind of behavior it will produce.'",
