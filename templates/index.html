@@ -5,7 +5,8 @@
     {% autoescape false %}
     <p>{{ app_data['history'] }}</p>
     {% endautoescape %}
-    <a href="/explore/0">>>></a> {{ app_data['children_name'][0] }}" <br><br>
-    
+    {%for ii , cname in enumerate(app_data['children_name'])%} 
+        <a href="/explore/{{ii}}">>>></a> {{ cname }} <br><br>
+    {%endfor%}     
   </div>
 {% endblock %}

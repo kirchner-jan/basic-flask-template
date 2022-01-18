@@ -17,7 +17,7 @@ def update_app_data(app_data , splitValue):
   return app_data
 
 app_data = {
-    "html_title":   "A stroll through the metaverse of stream-of-consciousness neuroscience",
+    "html_title":   "A stroll through the multiverse of stream-of-consciousness neuroscience",
     "root": root,
     "history": root.name + '<br><br>',
     "cnode": root,
