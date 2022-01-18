@@ -36,7 +36,569 @@
                               "name": "Dr. B:'So the two things, this is a big problem with these studies, is that the relationship between behavior and activity of these very large association areas, it's often difficult to distinguish between behavior and activity. It's possible that, if you put a large number of electrodes in the brain without knowing what brain responses you're expecting, you might find the brains activity resembles, if anything, the patterns of the motor cortex or the somatosensory cortex, where the motor cortex, for example, it doesn't produce the motor behavior but it's perfectly able to predict that behavior of the output muscles, and the somatosensic cortex doesn't produce the somatosensa behavior but perfectly able to predict the outcome of motor cortex activity. For example, it will be able to generate output motor pattern. So we have to be careful. We have to make sure that we actually have in our possession a brain response that actually does what it is supposed to do.'",
                               "children": [
                                 {
-                                  "name": "Dr. M:'And that is very easy, but it becomes even more complicated, because because you have to be sure about what you're recording. For example, when you're recording from the motor cortex, you have to actually, you have to be absolutely sure that you're recording a brain neuron that is a motor neuron, something that makes muscles contract, because you cannot tell whether a brain neuron is a motor neuron unless you've identified it. It's really a very difficult problem because there are so many ways to identify neurons from the brain if they are not motor neurons. They can be identified and sorted so completely that you can be absolutely sure that it will react to the modulators that you're looking for. In terms of whether or not the higher order cortex is doing these things and regulating them so I'm not, I don't know that these data will help you prove that you're dealing with a single population or a multiple population.'"
+                                  "name": "Dr. M:'And that is very easy, but it becomes even more complicated, because because you have to be sure about what you're recording. For example, when you're recording from the motor cortex, you have to actually, you have to be absolutely sure that you're recording a brain neuron that is a motor neuron, something that makes muscles contract, because you cannot tell whether a brain neuron is a motor neuron unless you've identified it. It's really a very difficult problem because there are so many ways to identify neurons from the brain if they are not motor neurons. They can be identified and sorted so completely that you can be absolutely sure that it will react to the modulators that you're looking for. In terms of whether or not the higher order cortex is doing these things and regulating them so I'm not, I don't know that these data will help you prove that you're dealing with a single population or a multiple population.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Well we don't actually have to say they're involved in the behavior. What we have to say is, when the brain generates a desired behavior or a certain output pattern, it's a signal back to the association areas. And in principle that gives enough clues so that we can say, well, then it's the activity of the higher order cortex that's responsible for it. It's actually an incredibly powerful approach because it allows us to do a lot more than we could ever really do by having access to the raw neurophysics.'"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Dr. M:'Yes, and this is particularly important to point out. That although the synaptic connections in these areas are very complex, and most likely quite complicated, the activity of those synaptic interactions themselves, it appears, and it has been shown, it appears that those synaptic actions themselves actually occur on multiple time scales. There are two phases of a synaptic depression, and each one of those are different. So each individual synapse has more than one phase of depression, different timescales that contribute to that synaptic depression. And therefore, as you can see, these synaptic connections, these synapses may actually be subject to temporal and spatial variability. So we found during my work in particular at MIT, when I was in graduate school, there were synapse experiments that suggested that there was something that happened on one timescale, which was in the mill sec range, and something that happened on a longer timescale, which would be on the millisecond timescale.'"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'I have to ask you about another structure called the hippocampus, which is the key structure in the memory consolidation and storage of information.'",
+                      "children": [
+                        {
+                          "name": "Dr. M: 'Yes, and that is interesting because we are already talking about the role of information in the higher order cortex, and now we are talking about the hippocampus, the key structure with a rich repertoire of pattern formation and rhythm generation and pattern separation mechanisms in which information is stored. This is interesting because the hippocampus is the brain structure with the largest reservoir of synaptic connections. The hippocampus is also a very complex structure with very large recurrent collateral systems and very large axons. And this is indeed true in humans, as well as in other mammals. However, the hippocampus is one single neural module, and it can be conceptualized as having a synaptic and circuit arrangement, consisting of a large recurrent network and multiple layers.'"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'So, in the time domain, these mechanisms are the same as the mechanisms that bring about oscillations.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Or are identical to the mechanisms that could cause oscillations.'"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'In a nutshell, how do we have to look at the brains of higher-order cortex to get the clue about function? And how does one get from the brain, to the computational capacities of the individual cells responsible for the computation?'"
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'In fact, all of the modulatory inputs into the central pattern generating networks. They all work rhythmically. For example, the gastric mill rhythm is regulated by peptides. There are also known neurotransmitters, known hormones, that influence this network, that work rhythmically, and are rhythmically regulated themselves. So, it looks like the neurons in the central pattern generating network are also rhythmically regulated themselves by other neuromodulators as well.'"
+                },
+                {
+                  "name": "Dr. M:'Yes, so it was thought that this is a rhythmic, regulated process of maintenance to produce rhythmic behavior. I mean, it does require the proper maintenance of all the various parts of the network, so that the rhythmic behavior is robust. And we are finding that as the network changes, it is possible for you to activate a different part of the network, and that, therefore, the higher-order function of the network may also change. Of course, a good example of this is in the retina, because the retina, which has evolved over tens of millions of years for very particular functions, is part of a larger circuit that enables you to see. So, just as vision evolved during evolution, and as different neurons evolved different functions, and so forth with the retina and its function, you have these large circuit modules that have been modified to support these other functions.'"
+                },
+                {
+                  "name": "Dr. M:'Exactly, also by peptidomodulators and many, many, many modulators. So, the higher cortical centers, the association centers, also known as the 'budgets' are actually regulated in a rhythmic way.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: 'So, we are doing two experiments now to ask questions about the function of these brain areas, and you see, for example, when you talk about regulating rhythmag, they use their rhythmag to evoke behavior, to evoke rhythmic behavior from the mouse and then they also do experiments, like they put a pacemaker in one of these brains and they put a laser in the other brain that shines on it, and they let it, either make a pacemaker of its own or make a pacemaker that is associated with a particular neuron, or neurons or a subset of neurons.'",
+                      "children": [
+                        {
+                          "name": "Dr. B:'So to respond to two previous questions from some of our listeners, the most important goal of the mouse cortex is still to provide the necessary balance between the two systems, in this particular case the circuits of the brain of the motor system, that are still quite important. What is the primary function of the prefrontal cortex? What is it's primary function?'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Can we talk about that a little bit later? Let's just get back to the association areas, how did those get their name?'",
+              "children": [
+                {
+                  "name": "Dr. M:'So, the association areas basically had been previously named the ventropyloric (Vp) and later they were renamed because 'Association' wasn't a great name, and it meant, it meant that, when you looked at these areas...when we identified the structures in the early days we would actually slice through the neuropil area and you would see the motor neurons, the lateral gastric or lg are located on the Vp itself. And the Vp also contains many sensory structures that you can see. We would actually look at the Vp and see the lateral nerve as it enters, the dorsal lateral ventricular nerve and the V2 and then we would just look at the Vd because we wanted to see the dorsal ventral lateral nerve, as it emerged. So, it was called the ventropylaceous and then later on it was changed to association and then association was a less descriptive name.'"
+                },
+                {
+                  "name": "Dr. M:'Because those are neurons that are connected to each other by processes within the cortex, like there are fibers that connect from one neuron to another.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: I'm not sure about the specific fiber, or how many fibers connect, but there are two fibers that run through those centers, they actually, through the brainstem connect to the stomatogastric and then through the rest of the system out onto the surface of the animal. So I guess it was probably that because of that they got that name, maybe as, maybe there are some connections back that maybe help generate rhythmic behavior, but I think most likely it was just additional to the pyloric input.'",
+                      "children": [
+                        {
+                          "name": "Dr. B:'How do we know that those cortical areas work that way? And I'm not talking about wiring, which is really, uh, interesting, but about some biophysical rules which may allow them to be part of circuits that make the output in the pyloric. What are the rules that would allow them to do such a thing? And maybe I can ask him the question about if they become impaired in this particular circuit, how does he explain it? Is there some sort of a mechanism?'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'So the two areas that we talked about earlier, that are located within the association cortex are the dorsal posterior ganglion (DPG) and the ventral posterior ganglion. And you might recall from earlier discussions, that there are numerous peripheral nerves in the crustacean (snake-type) ganglion that project down the length of a peripheral neuron, giving off a large number of branches. And so, these peripheral nerves branch as they go down into the DPG to give off the peripheral nerves, that project into the dorsal, the ventral and the pyloric regions in the mouse. So you could think of it as being somewhat equivalent to your peripheral nerves in the human nervous system.'"
+                },
+                {
+                  "name": "Dr. M:'That's right. It came from the old English, it translates to 'lateral' and 'posterior' or anything like that. 'Lateral' and 'Lateral Posterior'.  P: Lateral.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: 'And by lateral you get these lateral areas. Pendant is going to be  p(  p ) with a subscript and lateral is going to be c(  c ) with a subscript. So lateral pyloric is going to have a P(  P ) and lateral pacemaker is going to have the Q1, P2. So, if we take out, say, a lateral pacemaker, this is Q1.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:] We take out a  lateral, this is (L(l)) and we are going to have a lateral, lateral gastric is (g(g )).'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'They got their name from a very famous British anatomist that used to analyze the anatomy and he used to think about the nervous system as being part of a functional circuit, and he said we should think about the association area as being part of an extended circuit that would be similar to the circuit you can study in the brain.' So, your brain is like an organism because it has lots of neurons like neurons in your body and we should think of it as being a circuit and it has different parts, and he thought well we should have association areas as part of this circuit, and then when the microscope was invented he got to see these regions of the circuit that are surrounded by these association areas that actually look like little circuit components in themselves. And this is still one of the big ideas in how neurons interact, how networks interact and how a circuit might behave.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Now, it sounds like it could be a very, it's a very simple but if you just expand it to larger brains, is that possible? If we have similar wiring in the human brain and in larger brains, is the fundamental computation still the same? Or is it different?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah it is interesting because it sounds like you are asking me if when you get a cell phone, a cell phone has an oscillator. We used to laugh at them in my childhood when they would run on batteries, it wasn't that long ago. So, we used to see an oscillator and go get your phone, and then it would run on batteries and then later they would come with these rechargeable batteries that were not yet available to us. And we laughed at rechargeable batteries.'",
+                          "children": [
+                            {
+                              "name": "Dr. M:  Right, right, right. So, now we have those. The cell phone itself is an oscillator, it has several cells in it and it fires. And the point is, because the neurons are so small, the voltage from cell to cell is extremely thin. And so each one of these cells is a little oscillator.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Why are there many, many, many cycles? I mean, it is not as if our brain is organized into, say, five or six cycles, and each cycle would have a different cycle-order sequence of neuronal firing. Instead, it seems more logical that the fundamental organization of neural circuits will be maintained by a relatively stable periodicity that is maintained to the same degree as in mammals that are more complex.'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, also, when, for example, in our model we add more neurons to the network, we found that, because the model is a dynamic system, these units tend to organize themselves into a pattern, in much the same manner as the network is. So, it's thought that they might be playing a role in ensuring that all neurons in the network are firing at a constant rate, not necessarily in time with all of the other neurons. But of course, that depends on how the neuron types are designed.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'But what is the function of this rhythm? I mean, I would guess that it's related to neuronal oscillations in the neocortex during theta activity during consummatory behaviors: food, and social grooming. I'm not actually that, but it's a place where we can, but because of the oscillations, all the excitation can be coordinated. It's a mechanism in which the principal cell assemblies can temporally segregate each other.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Okay, so the question that I wanted to ask you was also about the other place that we can find the oscillations and their function and their role in the larger processes. Maybe you are familiar with a recent work by a cell biology group, who did live-image analysis, and they looked at single neuron oscillations, in single cell preparations, and they found that these cells tended to be phase stationary when they were not oscillating, but when they were oscillating they tended to be in one of these two states. Which is one of the states that one tends to find, when you are interested in the underlying mechanisms of oscillations in any form. And it turns out, it also has consequences for the behavior of the cell and the network and so on. So, the problem of how oscillators work, how stable oscillators work, is a topic that we have discussed between our group and many other, as well.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'So the question of the day was about whether or not, using your knowledge that there are many families of oscillators, what would be the best kind of oscillator for the hippocampus? I thought a good way to start this conversation was with you: what is the best kind of rhythm for the hippocampus? And we had, we've written two papers on this topic. And what came up first is the case of the simplest oscillators: the relaxation oscillators in which the oscillator phase and phase of the relaxation are exactly the same at the time of the maximum input or the amplitude of the population rhythm. And this works perfectly in most, or almost all, models of the hippocampus.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'It could. Yeah, I love models that work for some definition of perfect because it's interesting. I can use it, right? I can use it. Because the question is more about, okay, what are the parameters. But it's hard because, I mean, I know that I love my model and I would love to do research in it, but what makes it better? What makes it better, yeah? I mean, how is this going to help us understand the nature of the brain and how it works?'"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'Did you want to pose the question of how they work to the viewers in order to make sure that they were up to speed and knew: what is the question that we are trying to answer? What kind of questions can we actually address by looking at single neuron and neuronal circuit interactions with oscillations? And the, the results that are being obtained by these experiments are, are important to, to the understanding of the function of brain oscillators and brain rhythms. And the potential implications of these discoveries can affect the way that we look at psychiatric diseases, and other forms of mental disorders, and how we look at interactions in the mechanisms of oscillations and whatnot..'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I want to pose a question to the viewers: why does the brain use oscillations? What is the, what is the functional advantage of using oscillations.'"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Are our current ideas about the organization of the cortex based on what the data actually shows? Or what should we be looking for that is actually going on in those circuits? Or is it based on what the structure is, if so, what does the structure look like?'",
+              "children": [
+                {
+                  "name": "Dr. M:'I know you have done experiments that demonstrate that different cortical structures in the same animal can display different behavioral responses to neuromodulators based on changes of the underlying neuronal and synaptic currents, that change the sensitivity and so on. So, that may have an effect on that. But you have also shown there are significant correlations as a result of synaptic inputs from many neurons.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: 'I know it is possible that the structure could be different.'",
+                      "children": [
+                        {
+                          "name": "Dr. B:'And I suppose in that case, it's hard to make conclusions from the data, and the conclusion can be biased by changing, such as the size of the circuits, whether the circuits are homogenous or heterogeneous, whether the connections are wired and so on. And there is a caveat, as well, that the wiring of some circuits is far from perfect and the structure and connectivity of these circuits are changing over time.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Why don't those areas have any impact on their targets in the brain? For instance, they have a higher probability of being activated in the waking mouse than during sleep. They don't actually have any impact on the circuits that is in charge of generating behavior, the same way we had to use some special circuits from the thalamus to drive those neurons, and from the hippocampal circuit to drive those neurons with a special set of rhythms to actually produce this kind of behavior. So I don't think that it would ever affect a network, but it may assist.'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, when we use the term neuron, it doesn't necessarily mean cell, it can also indicate a circuit component and an integral part of that network component because you don't know whether or not you can find the cell when you're tracing the circuits. For example, the network that is responsible for generating human cognition is composed of the neuron-combinator circuits. In particular the cell-fused neuron. This is a neuronal circuit in which we have three cells in a single cell. The three cells get connected by synapses, and in turn those three neurons get connected to multiple, smaller networks. So, this is the same neuron-combinatorial circuit you might use to generate brain cognition. And this circuit is integrated into the larger circuit. So, every network has not just multiple cells but smaller circuit elements that are part of that circuit. So, the neuron, as a network element may not be the primary target of a circuit, but it plays a specific role.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Is there a scientific answer to what happens to happen at a critical period of development when the cortex becomes highly interactive and plastic and forms a large network with a large variety of neuron types? I mean, can you give us an example where that process in the mouse cortex occurred? In developing the cortex of the mouse brain, what processes took place when the cortex reaches a critical stage? When the cortex reaches a point in development where it can be very plastic and, at the same time, be hard-wired, what was the developmental time scale? What was the development time scale? I think for sure we can draw a parallel to the development of the rodent brain, and, I mean, I'm not doing that, but I'm saying, when you read a lot of the studies, it would be difficult to say, 'Okay, I have a timeline that I'm going to read back to.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'Well, yes, you are.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What do you mean by a cycle? Are there any examples of such activity? I mean, if there are cycles involved, you will have to go to the lab and give us an example of a cell that is part of the cycle. And if that cell is part of several cycles, you have to provide the example of a cell which is part of a cycle... So let me give a simple example. This is just a toy cell and, you know, this is an example of the highest order neocortex layer. And in this cell, I assume that, you know, is a rhythmic behavior of some sort: a sharp wave ripple oscillation. Now, in order to show whether there is a cycle or a sequence, I have to identify a single neuron that is a phase-carrying cell. Is there a single neuron in this cell? No, there are not, there are not.'",
+              "children": [
+                {
+                  "name": "Dr. M:'We don't actually know the answer to the question but the reason why we say that there is not is 'cause we actually showed that the number of spikes per burst cannot always be an appropriate measure, because sometimes you can have bursts with multiple spikes per burst or bursts with only one spike per burst. So we actually thought that the single-photon detectors would not count the spikes correctly when you have multiple spikes per burst. I started working on this a long time ago with the pyloric network, and as you know, there were just no neurons that responded with single spikes per burst, so, so what we thought was that it would be easy as we grew increasingly smarter to solve this problem but we couldn't figure out the solution so we actually ended up abandoning it as we were working on it because it wasn't going to exist.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'And what is that? What is the exact mechanism of that? Is it, is it a neurotransmitter, does it operate through a receptor, is it a neural pathway, is it a mechanism?...'",
+              "children": [
+                {
+                  "name": "Dr. M: 'If you can imagine that there are multiple levels of computation or mechanisms in the cortex, then you can say what are the multiple levels and what level of computation is at the top? Because it is at the top, and then it can go downhill. It goes downward, perhaps because that is the order in which the information from the other parts comes in, but it's at the top. The top-down computation will be the key.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Can the top-down computation be done by a neurotransmitter like serotonin, or are the computational demands to be provided by the mechanisms of local circuits?'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Thanks. Now I mean, I don't know about the higher-order cortex. I'm sure it is very important, if it is really in there, but I have never seen it. And I'm not so sure that its loss, or, you know, deterioration, is such a big deal. There is always a higher-order cortex that is not in the primary sensory areas. And this is the cortex that we are talking about, like the visual cortex, or primary auditory cortex, that's the higher-order, that is, cortex that is not connected physically to the primary sensory areas, it just represents a higher order function that is useful to these structures but, but... The primary purpose of a cortex like his is not known.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'Yeah. And it should not be taken so seriously as just a higher-order, but I'm sure it plays a critical role for the brain.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Do you think that this is an accurate statement?'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think it's, you know, it's a bunch of cells that are all interconnected, and that are capable of doing, you know, electrical activity and electrical synapses, that can allow you to do a lot of things in a central way. I mean the way that they're connected and the way that they do their kind of independent functionality is a lot more important than the other kinds of interactions that that allow them to do that. Because you know, so many nervous systems and other neurons around the world have different kinds of inhibitory synaptic connectivity patterns, and so, it looks like these neurons are very flexible, and they have different kinds of interactions, different kinds of synaptic connections and I think it's one of the big issues of what sort of neuronal models and what happens if you look closely at actual biological populations of neurons and how they interact.'",
+          "children": [
+            {
+              "name": "Dr. B:'Well, to be honest, the way that the wiring diagram is configured is only a secondary matter to me...I care very little how the neurons are wired. This is what makes them nervous systems; the configuration of these synapses, the wiring of certain neurons is a secondary issue. If we can improve their performance, if we can make them better or more effective, the wiring diagram is not the primary source of the activity of the system, but these are the primary elements. The synapses and the connectivity and the electrical synapses are the primary sources of their activity. And then, these are the primary tools of the brain where it comes together and connects to other brains.'",
+              "children": [
+                {
+                  "name": "Dr. M:'Exactly. It's like it's like you could be, if you're doing electronics, and you could make your circuit of your phone a little bit less expensive or a little less complicated, but at the end of the day your phone is still gonna work. That's why when we were making the network, it was like we were trying to minimize the cost of the network but we were still having all of the functionality. Because we know that's how our phones and computers work. Now the computer might be easier to program, but at the core level, it's still got the functionality.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'And that's how I felt when we were doing our experiments, in terms of what is the best solution for performance but it also has minimum cost, but it's still a real brain. We found that is it's kind of a balance between the two and I'm happy that we were able to do that.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah I think we were able to, we're gonna go over this in a second, but this is exactly this is the kind of why we started doing experiments in non-neural systems such as cardiac systems, because cardiac systems have complex wiring diagrams, and it's why they work because they have a ton of wiring in them. It has lots of wiring, and it's not easy to figure out how it's structured because lots of different components are put in, and so there are all kinds of different wiring diagrams, in terms of, it's, it's why it's so complex, and why we decided to do, because if we had to wire a full brain with all kinds of electrical synapses and electrical synapses with all kinds of different electrical activity, it would be very complicated and would take a lot of time.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'There are many different kinds of wiring diagrams in the brain that produce a different kind of, or very similar kind of output. So from that perspective it doesn't make much sense to say, oh, let's try to make it simpler, and we're gonna see which one works best. And that is another thing, though, because there is a very fine balance between wiring complexity and, as the, the complexity of the wiring diagram doesn't make, make the wiring diagram more complicated, the, and so to figure out how to get things so complicated, how complicated things are structured and how a complex system works is, one has to look for the complexity, the little elements that are the wiring diagram, or in wiring systems in the brains complex systems.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Right. And that's why I thought wiring diagram, it's, we're, it's, I think we want a wiring diagram and it helps to understand how we connect the neurons but we need, you know, like we need a diagram and we need to understand how the little bits are connected to each other.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'In my own experience with my research, as I just talked for a large part about the recent history of that, as I thought of the history of how our human nervous system was, uh, and I think of it as this system. And, uh, that was a big question was how the nervous system grew and grew. And as I began looking at how the various elements of the system grows in complexity, it, it, it was, it has been a process of trial and error, and it really has become, you know, so you can call it brain building but it's a process, and so the brain wiring diagram can provide a starting point for that process of experimenting, learning, and trying to produce the most elaborate network system that produces the desired output and performance?'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'And by that logic, you know, it's the logic of, it's kind of like building a house. Like if you, if you want a house that's going to last over time. You're gonna have to deal with everything and that's how I see the brain. Because the brain, if you want to use it as a house you have to deal with the temperature, the lighting has to deal with that. I mean I don't want to use it in a space shuttle all the time, right, but you have to deal, you have to deal. So if you have to make it into a house, you have to make all the pipes work together. You have to deal with water and pipes, and electricity and dealing with all the connections and that stuff.'"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Dr. M:'Right, right.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'So how I look at these issues from the brain's view, is the same way that I look at the brain from the neuro's view. And the reason I said that, that, that the brain is complicated is because is the brain from a neuro's point of view, that the brain has a large number of very different wiring diagrams with a vast variety of different ways to produce a certain output. That this wiring diagram is complicated, and to actually look at how it works is not, is not something that we do from a purely neuro-science, but it's not the same as we do it from the neuros point of view. We have to remember how we look at things from the neuro's point of the view, and see the patterns that, and actually figure out how those patterns produce a more complex effect in a network.'"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'But do you think that this is a good way to work in the brain? And would you disagree with me that it doesn't? That as the brain is more complicated, it would seem to make a lot of sense that the wiring diagram and assembly of elements are more important? Is there more of an approach that we can take that would lead to more complicated circuits? Or is there some minimum threshold of size and complexity that should be used in brain circuits? At what size and complexity should a network be? At what size should a circuit have? What is the optimal size? Is this a good? Is this a bad way of thinking? Is it possible to figure out from some metric what's optimal for the neocortex? This is what I'm hoping because the complexity of these circuits is really high. I mean, we don't even need synapses to connect neurons. The brain is a physical system and its complexity increases over time.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah, well I think, I think complexity in general, it's just, it's always present, but I'm gonna guess you would be in agreement with me that some of the best brains in history, the best scientists in history have been relatively uncomplicated, and they've gotten all the way to the most basic principles down, you know, and they've, they have figured out how to take their models, use models and understand that they can't, because their neurons are not modeled. So yeah, I think that complexity is always present and the good neurons will know how to deal with it, but the problem is, is how does this fit in the real world?'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Yeah, and in fact, they have, the inhibition of many inhibitory neurons gives rise to a burst of activity on pyramidal cells in their target circuit, that you can call a 'giant synapsembles'. We have such large-scale oscillations in the hippocampus and in the cerebellum that we can call it 'giant synassembles' there. And, what's that good for? So, because inhibition of many inhibition gives rise to an activity on the principal cells is that, if there was no inhibition it would be very difficult to have a 'permissive' population because the action potential threshold of pyramidal neurons would be very low. And so when you look at the function of inhibition it's very different than the function of excitation, excitation allows you to work with your neighbors, even if they are not connected to each other.'",
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, as opposed to inhibition?'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Exactly. But you know, there are many advantages of inhibition, which are what we call 'biophysiologists', and what we call 'neuronal syntax', such as inhibition is capable of doing one of the toughest things in the brain in a very short cycle of time. The release of GABA from a terminal, in a short cycle of time can prevent the generation of an action potential in a pyramidal cell. Inhibition is always the default mode of operations in the brain to avoid going into an overly active state, which is not good for you or good for your neighbors. This is a really short, one cycle of time window that can help the brain to work at the right level. In addition to that, inhibition can reduce or eliminate all that excitation in a particular domain of a system, which can be incredibly useful as in a computer system.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'So you can shut down that exciton for just a short, like you can't do that with excitatory drive.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'Yes, but the excitatory mechanism does one thing, and that's that the excitatory synaptic transmission can bring back a neuron from hyperpolarized state. And it also, you know, brings a neuron back from the depolarized state from a lower discharge threshold, so it works in a pretty smart way. So the release of inhibition does one thing, but it affects different domains of a system in different ways. And this is where inhibition is extremely different from excitation and very efficient.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'No, but that's okay. So for example, you don't have to worry about, like you don't even have to worry about it, if they release a ton of, like they release a ton  of GABA, like you don'y have to waste time doing something and then doing all that clean-up from the excitatory system, that it's just kind of just a complete elimination of that part of your brain. So you can kind of cleanly clean right up when it releases because it does it all by itself.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'It has to be done very slowly, but inhibition is capable of that, because inhibition can activate the voltage-dependent channels and change the membrane potential. So by controlling the membrane potential, inhibition is not able to affect things in the downstream excitatory system and excitation or downstream excitatory activity. And this is important because this is where I have some reservations about the way inhibition can be approached and exploited for their, uh, purpose. That is to not get so very active, as the hyperpolarized membrane state and hyperpolarized neurons can also be very dangerous. That's the way inhibition is always viewed as a sort of a, uh, a, uh, at a glance a mechanism - or perhaps a more appropriate definition is that inhibition is a mechanism, whose primary job is to prevent activation or prevent getting in an overly active state.'"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'We can't. Yes, we can't, and there's an interesting issue that arises there about whether we just should do just that because it would be very easy for the network to go into chaos, and therefore it would be very much detrimental for the brain. So the question is, how are we actually going to inhibit or inhibit? But this inhibition, which allows you to regulate the excitability of downstream neurons, is the most effective. I am interested about how I can make my own neurons fire or inhibit in a short cycle period of time, and I found it to be very advantageous when one of his own inhibitions was released in a short cycle so it could protect the network. The consequence is very beneficial for you.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'That's a very interesting point about the short cycle. When I heard these neurons, this talk about neurophysiological functions that have just barely had a name for them, my initial thought was oh that's just a term for these brain areas that are not well defined. But the concept that this might apply to these whole other areas, just like the idea now that you think you have a neuron that's a pacemaker or that's regulating the rhythm to dance, or that's controlling muscle movement is kind of the application of what neuroethologists understand in the pyloric systems. Which are kind of the same concept. You know, you could talk about it from, what is it useful for. There are lots of animals that have small brain masses but very strong nervous systems. But it sounds like you might use something like this for a pacemaker kernel or for regulating muscle movement.'"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'You can eliminate excitation. Yeah.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:\"It makes you just make the computer work at the right, at the right frequency.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So, so, but, can't I just look at the inputs that affect them? Can't we just look at how the connections are made, and figure out how they are affected by sensory inputs, motor outputs, so on? And, uh, and use that as a model?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Oh yeah, yeah, that's that's one of the kinds of things that you can study now. This is one thing that has been added to the modeling world, a new kind of neuron, and one of the difficulties is that because of the nature of the way animals are born, and what's involved in how they grow, you know, all kinds of animals are produced differently and the kinds of neurons that are produced to survive are all kinds of different types of neurons that have been evolved, but, but there are neurons that have to respond, to have a certain kind of sensitivity to, you know, other neurons that might respond to perturbations very differently. So just the question of trying to connect this idea of, you know, how they respond, you know, even at some very molecular level, because these are molecules that can make synapses and can respond to neuromodulators, and can respond to very different kinds of cellular perturbations.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'That's certainly not a major issue though, which is why the cortex is the best, why that is the most important area in the brain which is really hard, and we don't have an answer right now, there is not a book, which we're, we're, we've, uh, but I mean, so that's still a possibility that you're looking at, but the point that you're looking from here is how that relates to the primary reason why you're interested. So maybe you want to think about that and, um, respond to the question from that perspective. And from that perspective, is the reason why you're doing a particular project in a particular area of the brain, or is the primary reason why he's interested in the cortex? In other words, is the primary reason, because it says, is the primary purpose, right?'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So I'm a little confused. It seems to me that it's already there, but in some sense, they're just making sure that these cells are flexible in their connections. We have a very interesting set of observations from my lab that suggests that that flexibility is actually what allows them to do the independent functionality that they do. There's something about the connectivity of these neurons that is very different from other neurons. And it has a special kind of interaction, which is a kind of a kind of, it's called \"excitatory-inhibitory interplay.\" And it is a very simple mechanism; it's a mechanism that has, it has some special ability at all. It's really a powerful mechanism. Now, the issue is when I take in all these, as I call them inhibitory mechanisms, into account, the things that would make, make us, make us, our brains a more complex device, what makes us so different from other animals?'",
+              "children": [
+                {
+                  "name": "Dr. M:'You know, it's hard to answer that because it, it feels like it is already there. And what do you think? I mean, so what role, what role does, do these neurons serve that is different from that of other neurons? What do they need to, to perform in the end?'",
+                  "children": [
+                    {
+                      "name": "Dr. B:\"I think in a sense it's, it's like, they're just, they're just a necessary kind of mechanism and if you take in all the neurons that are in, neurons that are necessary for this circuitry, necessary for this brain, then you take in all these other neurons that you think of or people think of, and they're not needed, and we don't need them, but they're just a, they're just they're just an added device, that you know, you have to go through the mechanisms that are required.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh, it just seems necessary. It just seems necessary to me. I mean, I think that there are also neurons that are not necessary, because they could behave in one particular way. And one way to think about it is like  B, if you will, like evolution is occurring, and you know, so the first animal or a species is born with 10, 11 neurons, or whatever it is. And then later on, there is a kind of gradual removal of stuff. And so maybe what happens biologically is  B, you know, and perhaps some evolutionarily critical value of a neuron number that we may never figure out is important are that these neurons that kind of grew with the development of our brain and grew with the development, because eventually there was this kind of, these are the neurons we need to keep. So that's, I think that's the kind of point that you were making.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:\"It certainly is.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I don't know how to answer this because I think the association areas are quite different in the context of the mouse than they are in the context of other animals. The mouse and the other mammals, which would be the closest to other animals, the neurons that are associated with the cortex in mice are mostly sensory-related neurons, and that means that your cortex in the mouse is involved in sensing temperature but also in sensing food. We know that the other mammals for example have cortices that sense food but have not that temperature sensitivity. But this part of the brain, which is temperature sensitive in the mouse, is involved in all sorts of different functions. So, I really don't know how useful this brain was for the mouse to have this temperature sensitive part of its brain. So my guess is that this brain is mainly sensing temperature as opposed to sensing food. My guess is that it has a large role in temperature sensing but not a large role in getting food from the outside.'",
+          "children": [
+            {
+              "name": "Dr. B:'I want to know your guess about the role of this brain. If you say, what is the purpose of the association? What is the goal? Is that the brain works and it can create that temperature sensitive brain, or is it sensing temperature and other things in order to calculate how many neurons were active during the temperature change? What is the primary function of that brain? Is the brain a computational layer? Is it a computational layer and a part where processing is done? Is it a part that can provide that computational layer?'",
+              "children": [
+                {
+                  "name": "Dr. M: 'I think it has a role in all of these different functions, I'm talking about the sense in which the cortex can be compared to other animals. Just take a look at how this cortex can interact with other structures. Just think, how many different ways can you connect it to the rest of your anatomy?'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Yes, a particular question about the cortex as a whole is how do we relate it to the rest? One way to relate it to the other brains is by using it to calculate how many of those neurons are active during temperature changes. That way you know that the same temperature sensitivity is involved in the same neurons. How do you determine this? And now there is another way of doing it, which is using this cortex to calculate how many other neurons have been active in this temperature change. This is called the integration problem. We then have two different ways of calculating the same neuron, which is in the cortex, that it gives the same response to these two conditions. And this is what's called integration and calculation.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah, and integration occurs all the time in all animals so I think your point is, you know, there's an analogy to integration is what happens in biological systems.'",
+                          "children": [
+                            {
+                              "name": "Dr. B://I'm interested in the analogy between biological systems and computation. Integration occurs in biological systems all the time, you know I've worked on neural networks before and I used to think that the nervous system was only calculating the activity of individual neurons but now we are aware that there is integration of action potentials from many neurons to other neurons. The same kind of integration has been seen in biological systems. The neuron does not only fire action potentials but integrates the activity to determine your state of being. So I think that the integration occurs and that this cortex is probably not all that unusual. I think that this cortex is basically the same as the other neurons because we have neurons that change their behavior as we look at what happens to them.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'So I think that the analogy of computation, especially when you are talking about the integration, I'm trying to remember some of the integrals you've seen for example when you come in as a biology student right, are there some of those? So let's say I'm going to a meeting with a colleague I like to walk into a lecture theater and you see your professor in a huge lecture theater lecturing on integrals and differential equations or whatever. And the students sit there and they're completely silent, and then when he turns around he sees that all of the lights are out and the professor is holding his nose and he just is going like this with his mouth. And his students are all in their seats and they see him holding his nose. And then he goes around and he lights the lamps and there is suddenly these noises that come from the room and then the students begin laughing and then the professor realizes that what is going on he is on stilts.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'And in the lab we've seen so many of those integrals, those special integrals and their derivatives that you know, you're not going to believe it to look like the students just sitting there but the only thing they are there is that they would be very interested in learning if a person went to college and learned how to calculate the integrals that are that interesting. And then students would have these experiences where they would be able to go through the learning process of learning to use different computer languages. You would come to a computer science where there are so many things, where it can't just exist, it just exists all these variables without having to put real values in them. Everything is just a function of the parameter that will be explained as part of a learning process.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right and in general we can't just have something that exists when a person is not there. It has to be interactive so you need to write scripts and scripts are a little bit tricky but they're probably not that difficult, because scripts are already there that someone can learn to use and maybe they just write scripts that just they put in whatever parameters and they type something in, put some values around the parameter and they just do a script that runs on the computer. Right, so scripts is probably not too hard to work with and then it gets easier. So I think the scripts need to exist and again if someone can figure out how they can write scripts or scripts in other languages maybe it would be a good skill. So this kind of integration has to be something that's learned with a bit of work so it's probably not that bad to learn?'",
+                                          "children": [
+                                            {
+                                              "name": "Dr. B: 'Probably not, I mean that would be a fun thing to do right? How to write scripts?'",
+                                              "children": [
+                                                {
+                                                  "name": "Dr. M:'But scripts can be written, you actually write scripts?'"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'It's integration, it's a calculation you have to make, so we really solve this integration problem in the cortex. The easiest way to find this answer is if you take this small, little cortex here, and you think about a little cell with a few neurons inside it, the neurons will fire in an alternating pattern. They'll fire one neuron, the rest won't. And you just think about a neuron firing one time out of five and then the rest are always silent. Then you connect those neurons to neurons that are firing, that are part of the cortex, and you connect them to a network of neurons, and you start calculating things. You then have to figure out that how a neuron that fires once in every five milliseconds interacts with a neuron that fires more than every three milliseconds and how you can calculate how long of a time period it'll take to integrate. The calculation, and it involves a lot of time and it involves a number of different approaches.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What are the association areas that are in the mouse brain?'",
+              "children": [
+                {
+                  "name": "Dr. M:'There are two small ones. One is the so called A-B nerve  (AB). This has branches that ramify throughout all of the body. That is a part of it. It leaves here, comes about halfway through and it gets stuck at a junction, so half of it actually comes out of here in this direction and travels across the belly where it is responsible for the pyloric rhythms. At the end of that, the branches get cut off and they go into a small muscle and it comes out of the animal and it goes into the brain. And there is a smaller nerve that is basically one, it is about two or three millimeters. And it attaches to a small but important muscle, called the 'hindgut'. This is a muscle that goes from the anus to the heart; it goes from the gastric mill to the heart and it has an important role in the heart because it basically keeps the heart together from moving sideways.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Why does the brain have a brain? What do you think is its primary purpose?'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'This would seem to be a case where more complex brains, with larger brains would be better off for sensing temperature.'",
+              "children": [
+                {
+                  "name": "Dr. M:'Because you'd have more neurons that would help when temperature is changing. So it could be simpler. And this is one of the reasons why I think that the nervous systems in different animals have evolved in different kinds of ways and even very different ways. So we have, as you might imagine, the nervous systems have evolved from smaller nervous systems to larger nervous systems. Which is good from the perspective that it means the neurons themselves, the synapses, the circuits are more interconnected. But also I think when you look at mammals, like there's a certain subset of mammals that have evolved in a way that is better for temperature sensing. And like that's an animal that spends more time outside and moves about in temperatures higher than we would do.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Okay, what is your interpretation of the role of the prefrontal cortex which is also known to have similar features as that of the association areas of the mouse cortex? What is the primary function of neurons in this area? Can you give an example in the mouse? In humans? In rodents? In macaques? In primates? In the mouse brain? In the human brain? In the cat brain? In the rat brain? In the hedgehog? In the lizard brain? What kind of role does this cortex play in the brain? Is it involved in different functions or different aspects? If it's involved in only one function, what is that one function? Are its functions fundamentally similar or fundamentally different across the many species? Does this area have a dual primary function, one for sensing temperature and one for sensing food - or the two aspects, sensing temperature and food in a manner where they are mutually independent processes?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, I don't know how they can't be but because that's how they are because there is no functional overlap between the  Agr, as is the case in the mouse brain. You have your AGr [Agricultural Growth Related] neurons that are temperature sensitive, but they don't do anything to sense food. This part of the brain doesn't sense the temperature of food. So the reason there is no crossover between temperature sensing, what this brain is doing over a wide range of temperatures, and temperature sensing of anything else is that the temperature sensing properties are different. So it does not have the same intrinsic properties.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'And that's all the more interesting is that the neurons that are active when one looks at the temperature-sensitive circuit are what one would expect, a long list of neurons that sense temperature but not the other sensory modalities.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'So if you are looking at the mouse, I am, there is an expectation that a particular part of the brain would be sensitive to temperature. So there is no surprise but if it comes in direct contact with the brain, then it's very different from what one would expect from what you are already aware of. The part of the brain that senses everything else is very different from here. So, I would say that it's not really clear how useful this brain is for the mouse at this point, but I would suspect that it's just because the mouse is not using the brain in the way in which it's usually used by other animals.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'What should we think about those neurons in the mouse cortex that are activated when the temperature increases, what they sense is perhaps a mystery for scientists but they have a functional role in our lives very difficult to explain how. So, what is the explanation for the meaning of those neurons that are activated? Do they belong to an entirely different class of neurons or are they part of the typical class of neuron's? Where do they come from?'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Well, so you know, the brains in the mouse evolved to sense temperature and sense food, it's kind of like it's a 'good enough' system because most of the food it encounters comes from the environment but also, with training, it can sense some things that don't come directly from the environment either. So, it has the ability to make guesses from limited data about the relationships and relationships between the environments and the behaviors of its sensors. So when you go with its sensors in action and, well, in the absence of any other sensory inputs, it senses in a more detailed way what goes out in the environment that the brain would be sensing and what goes onto the sensors. So to me, this is quite useful in a very big space of things that are related to the brain and that we can sense and use in to help us understand and manipulate the system.'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I don't know, and as far as humans are concerned, it is not entirely clear to me. It's true that we know that they perform a role for circuit integration. I was reading about this kind of cortical organization in humans from the 1700's and there were theories about it, and when I was studying physics, I read about this principle of compartmentalization of different functionalities in order to minimize the effect of perturbing a single neuron on multiple neurons. And at the very, very beginning of the study of the brain, some of the earliest work on the brain as it was studied by the very original researchers was done by people who studied the function of the ganglia in the crustacean stomatogastric nervous system. And they studied the effect of perturbation on the entire ganglionic system, and at the same time that was when the notion of compartmentalization entered the neuroscience literature.'",
+          "children": [
+            {
+              "name": "Dr. B:'What if I ask you a hypothetical question, what if we were to have access to a mouse, in which a particular neuronal system from the cortex is genetically isolated and studied. What function should it serve? Just to put it out there and perhaps some background, you know, it has been very, very difficult to really get, to really get at this whole issue. It has been very difficult because, as the more, the more that we learn about the higher-order area and its connections, it's extremely vulnerable in terms of what does it do, who is there, is there, is so complicated there. So when you're looking at it in a different form, let's say a hypothetical hypothetical situation, just to put it out before, uh, the audience, and then discuss it later. What is the primary function? Is it in strengthening the connectivity or bringing together neurons that are already strongly interconnected in some way, or it is in weakening weak connections?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Yes, and the same thing sort of like in humans if you, if you look at it from a biological point of view, I can think of all kinds of other functions.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Okay. When it comes to its current state. What is the state of the connections? How are they connected to each other? The connections are mainly weak. So there is a critical state between normal-ish functioning, right? One that allows for the integration of large numbers of, uh, connections. This is the, it is a very important function that would have profound consequences in the circuit. So what are the connections? If it comes to the point I'm asking, the primary function at the critical state, how are they connected to one another? If you, if you're asking the hypothetical question of the primary function, which are the connections in the higher-order cortex, and then we can, we can take a closer look at how these connections are formed, what is their strength or whether it's weak. And there are many ways of making connections. So that's a hypothetical question. Um, what is the, what is its primary function?'"
+                    },
+                    {
+                      "name": "Dr. B:'And we will talk about what they might be. Right. But, but if you would be able to give me one answer which I would be satisfied with, then that would be the primary function of the ganglion or the association areas? I'm just really wanting to make sure that... Um, that the point that I want to make here is the point of the question that it shouldn't just be just the connection strength or the connectivity, that's not the only thing that we do. There's a lot of activity in the brain that comes back to the same thing. And this would be, uh, you're making a hard case because you're making it, uh, you are using the, the connection as primary and so on. And it's a very hard case to answer yes. Um, but here's another thing you, that you mentioned earlier, in the introduction to sort of the, uh, work that you are going to be talking about this evening.'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'But what is the primary goal of the compartmentalization that came about in the twentieth century?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, it looks to me that each of these components of the brain has its own set of parameters that you have to control to make it work correctly during the lifetime of an animal. And one of the mysteries that I think of is the role that these sets of parameters play, why they have to be regulated. As this is, by definition, an animal specific thing, and I suspect that these networks and their parameters are regulated by their interactions, by a set of networks, neurons and interactions that are themselves regulated by their own set of neuronal and network parameters to the point where we are talking about a cascade of regulation of all of the processes that underlie the development of the neurons and the circuits that govern the behaviors of these animals. And it will be even more interesting for humans to understand the role that the sets of properties that underlie neuronal morphology, the properties of their synapses and neurons in general will play as we start to understand the role of regulation of these sets of parameters.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'If they don't, they won't do much. This might sound odd, but how does this affect our understanding of how we organize neurons? How does this change our understanding of this area? In other words, in terms of how we understand how the functions of this system occur and how they evolve across the course of an animal's lifetime.'",
+                      "children": [
+                        {
+                          "name": "Dr. M: 'Well, in that case, we are no longer looking at them as a set of interacting, interconnected structures, but as interconnected networks with sets of parameters that are specifically calibrated to perform a particular job. And as we have seen, and I do think that this is a general principle that one should remember when studying how these networks work, because if you say that they do a job a particular way, and you understand that, then the way to understand the brain is going to be a different way from studying the neural syntax problem.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'So we understand a little bit more, but it takes work to get the bottom. Right? Or at least the next layer. How can we get closer to the bottom? You know, maybe, more than one person, maybe we can do the work, then we'll get a little bit further. What should our future course of study be? What are our future research directions? Maybe there will be multiple sets of research directions that we pursue. But it's not clear to me that, uh, in fact, in terms of our understanding of the brain, in terms of the circuit, the network, the network, that it would be very useful for us to think about how the set of properties that underlies neuronal morphology, the set of properties of their synapse, the set of neuron types and neuron types that dominate the connectivity dynamics of these networks affect the ability of these networks to do a certain job.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So in the cortex as well, what are the compartments. Where is your compartment? I'm just an interneuron for now.'",
+              "children": [
+                {
+                  "name": "Dr. M:':Well, the fundamental question is whether the primary function of the cortical columns is to integrate and segregate information from different areas of cortex, or whether its real purpose is to make these connections more specific, and in doing so to segregate information based on higher order cortical areas and the input region from which they emanate.'"
+                },
+                {
+                  "name": "Dr. M:'Well, there is sort of the neuronal circuits inside neurons and there is also the neuropil, which is composed of a couple of different cell types. So it has the cell types whose role is to make sure that we have a smooth muscle, as if you're in a muscle car, that we can move quickly. And we know that there is neurons that are the receptor neurons for hormones and neurotransmitters and neurohormone peptide transmitter neurons and there are neurons that are the transmitter neurons. Some are passive transmitter-specific circuits. And then there are larger networks of circuits that are regulated by hormones and neurohormones. So there are three major compartments that you're interested in, and one is the large networks that are regulated and some are neurohormolecular networks and some are purely neurohormolecial. That's three. So there's three. There is the small populations of passive receptor neurons.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'These are your compartments. Where we are trying to understand their individual roles and relationships to each other by adding elements, such as in the case of neurons, they can be connected by some kind of a synaptic chemical process that allows them to interact with each other when they occur within and also when they occur at the larger scale of the entire brain. So how would that be possible without neurohormone signaling? When I say neurohormones, I mean things like serotonin, not things like norepinephrine or something like that. What I mean is these regulatory hormones that can adjust the activity of some neuron types and allow the activity of other neurons to be effectively modulated by this hormone. But there's a huge pool of these neurohormones because each neuron can be modulated by several hormones and brain neurotransmitters, but this is a small fraction of the whole group.'"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What did they conclude?'",
+              "children": [
+                {
+                  "name": "Dr. M:'That there would be an optimal balance between the need for multiple interactions and multiple integration of information that had to be achieved for normal brain function to occur, and there was the fact that, because the animals were small, they lost the possibility of having a single functional circuit with multiple neurons working together. The small size of the nervous systems permitted multiple interactions. And there was some speculation at the time that if you tried to look at the brain from a bigger vantage point maybe you could get a larger perspective. But in fact the brain has gotten bigger, and it is possible that in the larger perspective of evolution of the brain, those interactions became very important even for network function that we haven't thought about with the current generation of science. The other thing about compartmentalization at the same time was that you also, by the same way, the whole notion that compartmentalization allowed for evolution as brain function evolved.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'This was a very, in many senses, a practical solution to a very difficult, complex issue, to maintain stability in the activity of a system while allowing free, but regulated, interaction. For a long time, it actually, the most often-thought-of function of the brain and in fact the most often implemented by the brain were the same things, such as language learning and communication by a system that is fundamentally dedicated to providing a stable, perpetual activity that is necessary for brain function to occur. Can neurophysiology be the answer? That is, will the brain ever be described by neurophysiological measurements alone? And if it isn't, is it really that surprising? Is it a failure on our part to assume that this will always happen? Are we, we, is it our obligation to understand why it's, isn't happening?'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The brain is the primary location of activity and connectivity in all animals. The association centers might be the hub of this activity.'",
+          "children": [
+            {
+              "name": "Dr. B:\"And they might be for other functions?'",
+              "children": [
+                {
+                  "name": "Dr. M: 'The brain is the location of much of the activity that feeds the mind, and so you've got to figure out where the information that makes up the mind comes from.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'You are looking for brain rhythms that organize the information.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:\"Yes. You are looking for brain patterns that organize the activity that feeds in with the perceptions and thoughts. That brain rhythms are perhaps the main function that allows the brain to sort its information. Once we have some insight into the mechanisms of how those rhythms organize neural activity, we can figure out what happens in our brain while we sleep, and in particular what happens to the things that the brain can not handle that we bring to it via our senses.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'So that's what you say, that you can figure out from the things we can not solve that our brain is trying to solve by way of the rhythms that its activity follows, and that from that, that's where the mind is?'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:{  A sound in the background that is interpreted by the brain as a signal, goes out into the brain, into the associational centers (for example, those that are related to memories), and it can be stored or altered. These operations are very hard to figure out, and there are not many tools available, but the rhythms are perhaps the most important of these tools. And then, using the power of oscillations, we can figure about whether we are working on the right or the left side, the hippocampus or some other structures. And we can move to the right and move to the left, that are known to be the associational centers for the retrieval and storage of memories.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'But that is, in fact, if we use this term, oscillations would probably not allow us to get there at all. And so, I would want to be a little careful about such speculation. You might be wrong. For example, when I'm a little upset about something at home, and the reason why they become aware of it is because the prefrontal cortex sends out an activity packet that can be detected by the hippocampus. And the hippocampus sends out an activity packets in response to that activity packet during sharp wave ripples. It's the hippocampus-initiated process that allows for the retrieval of memory traces and the replay of such memories during sleep, during the consolidation of our memories. I think in a certain sense, this is the fundamental process by which information processing in the brain transpires. And the most fundamental operation of the hippocampus is oscillations. So I can be optimistic, but I have to admit that this is speculation.'"
+                                    },
+                                    {
+                                      "name": "Dr. B:'How are you going to figure out? Can we know? Can we figure this out or not? Can we find some evidence? Are there rhythms, we can see in the EEG, the EEG activity, that tells us where these operations are going to happen in the brain?'"
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -47,11 +609,629 @@
                   ]
                 },
                 {
-                  "name": "Dr. M:'In fact, all of the modulatory inputs into the central pattern generating networks. They all work rhythmically. For example, the gastric mill rhythm is regulated by peptides. There are also known neurotransmitters, known hormones, that influence this network, that work rhythmically, and are rhythmically regulated themselves. So, it looks like the neurons in the central pattern generating network are also rhythmically regulated themselves by other neuromodulators as well.'"
+                  "name": "Dr. M:'Like you said, I've been thinking about this, and if this is the answer for why they're there, and so I'm just curious, because, there are different studies about neuron types and there are also studies that show that different neurons show different responses to various substances. So, this is different from a study that was done about  Drosophila, because there are different subtypes of neurons. That is, in the case of mice, there are several varieties of pylorus neurons, so we do know that a few years ago, when we made mice that were different in many ways, we found out that some of them had no discernable phenotype, and were sort of normal, but some had a phenotype of either small or large sizes of their brain lobes. And then there are studies that also just show that different neurons have different sets of chemical markers, and so so we know that many neurons are quite polymorphic.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do we know, though, about how different brain regions perform different computations?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'I have a hypothesis about this from some years ago, and I'll just tell you my hypothesis about it for a second, because it sounds so ridiculous, because I know I learned in biology that the brain had many purposes, but that the brain is hardwired to have specific functions that you perform, and one would think that a small region of tissue would have a finite number of neurons and so maybe, so the way I thought about it for a while, you know, why would there be multiple neurons in a small small region of brain tissue? And then then this other part came home, and I was listening to the radio one day, which is always a favorite excuse to get away from work, because we didn't have the internet at the time, but I was listening to some kind of, you know, an article, and we were talking about, you know, the new brain scanning technology.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'I'm not an expert at this, or a neuroscientist at all, but I'm a high school teacher.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M: 'Oh. Okay.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Well, so I asked my students, uh, why you are interested in neuroscience? And the interesting thing is that, uh, they said, why are you?And then I can't do the same things that you do, so that was a really helpful question. And my first question, though, is: are you just interested in the technical aspects of the brain, or do you have a bigger interest in brain mechanisms on a much broader scale as a question? Or a large scale? And this was a really helpful because there was no right or wrong answer to this question. And I could get a lot to answer to this question for, um, from our current understanding, and so forth. And so I got on, uh, with two groups of students that have, for instance, I'm looking forward to helping them understand how the brain works.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'So is that kind of your goal?'",
+                                          "children": [
+                                            {
+                                              "name": "Dr. B: 'No. So it was the first group: they're interested in understanding how our brains work. They want to be brain scientists. And they're excited by this brain scanning technology. And then the second group is interested in, um, understanding how the brain, neural circuits are modulated. So there are people who want to understand, for you, the mechanisms by which brain activity is altered, and so forth.'"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'And that's how I first heard about some of these new techniques that were being used, and there have been studies where one starts with the brain and attempts to figure out where the \"content\" or the processing takes place, but then there's another group of studies that looks at the \"content,\" and then attempts to figure out how the brain generates the content.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'...... Well, what do we think about this, this is just one part of our brain? You know, the whole thing is one big system. We have a little bit more than a hundred trillion neurons in our brain, which is approximately  10 8  synapses.'"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'That depends on the context. Is this a question about sleep-related issues? Could be. The main, or primary, purpose is to assist in providing an actionperception?action cycle.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'In a particular structure, the primary output would be to send an axonal signal to this structure, where it could be integrated into a circuit that would trigger action in the structure.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'For example, an important task that you could accomplish would be integration of sensory information in this structure that would induce sensory feedback which would be useful input into the system. It would be a sort of a loop that would assist in providing the actionperception? cycle of activity.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think that's part of the solution. If you think about an isolated neuron that receives a sensory stimulus \u2013 a stimulus \u2013 it's always doing something. If it is constantly in action, it's always doing a different kind of activity. So perhaps in these structures, especially as you move from a very basic network to a more complex one, these associations might also serve to relay information from these sensory stimuli to other neurons in the system or to other parts of the network.'"
+                        },
+                        {
+                          "name": "Dr. M:'I guess it could be a sort of integrating sensory information for a perceptual circuit such as what you would find in a mouse or indeed in humans as well.' So the primary role of these center is not to control some synaptic network, but to perform perceptual integration.'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'They could provide a motor pattern. Action generation that's going to be used to move around. Yes. And, for some reason, these, the central pattern generators themselves, have been studied a number of times. I mean, they've been studied repeatedly by the same people, because they're fascinating. They are fascinating, and then you ask, 'Well, why are they fascinating?' They're really, the only other place where there's a lot of activity, so it's a great location to study activity, is within the brain itself, and then also having this central pattern generator that produces rhythmic motor patterns, as you know, and then generating rhythmic motor patterns can assist in the movement about within the animal.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'If we go into the cortex of an awake mouse, like the cortex of waking, but without the brain being able to produce any overt motor patterns, but in a way that can give us some clues about what's going on. That's a great example of how the neocortex is a wonderful structure that is capable of creating all sorts of patterns, that could be useful internally, but if externally generated patterns are needed then these may be good places where these patterns can be generated.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Exactly, so that's why that was the first part of my original idea of the association, because the cortical association centers in many animals are very rich places, because they're filled with neurons that are very different from each other, and then the neurons within the network have diverse interactions, and so you just like they sort of develop their own identity, and then you find that these areas of the brain that are typically the hub, that are a lot of activity from many nerves in the animal, are filled are filled with neurons that do their own special identity. And so, and then, you know I started thinking about this kind of, you know my original idea for this was not using these for function, it wasn't this, it wasn't even really about the, what happens when a neuron goes dormant; it wasn't about, it was about the, again, you know what it is, because these networks become inactive.'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, it could be for a variety of reasons.'"
                 }
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I would guess that they are there to protect the central pattern generating areas. To protect the pacemaker cells themselves, as well as the rest of the network. And I think that that's an interesting possibility that you suggest to me. So, I'm very interested, and would love to find out more detail about this. I was not aware that you'd been doing this work for years, because it's amazing, because it's very, very good. It's interesting because the association areas are not there any other species. They are unique to humans. So, we're talking about a little bit  brain area, because it's a little area.'",
+          "children": [
+            {
+              "name": "Dr. B:'If the purpose of the association system is to protect the brain network, one can perhaps speculate that, this is what the association system enables us to do. Just by looking at the functions of the cortex and knowing what happens to the network it controls, one can predict whether it will be useful or not for the function we're asking about. That is, I'm asking what is the primary purpose? And so, I'm very focused on a small area of the brain, the cortico-association area, and using that as my target for speculation because in this area it would have minimal overlap with the brain networks to look at for the brain function that I'm proposing to look at. Now my question is what will happen to the cortex when the association system is inoperative, is inoperable? Let's say for simplicity, like we know the brain has to control the body but the association system is not. So, how will it work in that condition?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Will it behave essentially as a small neuron network, like in fact what we observed in the past when we did this experiment with the isolated mouse cortex and turned off the association system?'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Right. That's all good.'",
+                      "children": [
+                        {
+                          "name": "Dr. M: 'What if I could somehow activate the associational system, but this time on a large scale and on a long scale without affecting other functions.'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Uh, I think you might see a few neurons, in case it's not working for that, working together to coordinate a few small circuits.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So what would you speculate that to do? And perhaps it should be emphasized that what you have said is speculation, which can be wrong. Just because these areas appear relatively, say, during the birth of the mouse, but in fact, it's not what you think it is. So what is the function of these areas?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, I hope maybe to protect the rest of the brain cells that receive, or that process these signals. That could be a function.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'I'm going to make a prediction here as well as a, a second question. That, that I'm going to make is that the brain cannot do without connections. So, I predict that there's certain aspects of activity patterns in the brain that would not be possible to predict otherwise. And these connection patterns can, by virtue of the fact that are unique to the brain. And you can make a prediction about those activity patterns at an accelerated timescale. Which is why those signals can predict the future at later points in time, where there's a, a temporal lag there's an offset here that allows the brain to predict the future outcome of that same sequence, because it's unique to the brain.'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, it's hard to say.'",
+          "children": [
+            {
+              "name": "Dr. B:'Maybe it's to provide the higher-order brain with a local backup circuit.' Ok.'",
+              "children": [
+                {
+                  "name": "Dr. M:Yeah.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'If it was a true copy-and-paste job, how many connections needed? And also...do you happen to find a similar analogy in the human brain that will make a similar statement?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'A quick analogy would be how each neuron interacts uniquely with circuits of other cells in small circuits. So, in the mouse, each neuron interacts with a large number of other cells in the cortex, and each cell produces a unique pattern of firing, and then each cell interacts uniquely with one another, and then each neuron interacts with one of the four neuropil neurons of the stomatogastric ganglion, and then each of the four STG neurons then fires their own unique pattern of firing \u2013 each of the same pattern as each neuron. And it's just these cells, even though many of them are interacting. But at a really high level when you're looking at one cell, you're looking at a unique individual. But then you start thinking about one cell interacting with one neuron, and you start thinking about how a neuron contributes to producing an entire network, and then it starts to change.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'So you don't have to copy and paste from the mouse to the human brain, it's the same general algorithm, just in a larger, longer-lived format.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'And so I think in the human it's interesting because actually, what you do is so much more complicated than the mouse brain. Because you've got brain areas which come together into networks, and it's much less clear what all the neurons that belong to those networks are. So it's much more complicated, and we've only started looking down to what's going on at the molecular level, and the synaptic connectivity in general between the neurons in the brain, and we don't, we're not as advanced as the mouse.' B:'If that would give you some indication as to how many connections needed, then it would give you some idea. So we're not really worried about the number of connections between cells because in some sense, we believe that the number of different networks that come into playing in the brain is determined by the biology of every individual neuron, and the connections between neurons to create the network, so it's really dependent on the biology of each cell.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'No, I'm also interested in the mechanisms that allow for unique neuronal connections, but what you're saying is that they come from the biophysics of neurons. We know the physics of neurons quite well, and we can do calculations about how the connections are made. I'm asking what that might suggest for connection density, number of connectivity, or some other mechanism for the number of unique connections that can be made in the human brain, not because we know that's the case, but where it begins to get out of hand as a question. Like how many connections can you make? So, that, that's what I'm asking. So whether that goes away or continues to grow, we need to know how much more can we make in the future, because each connection creates more synapses with more connections that can be put in the future.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right.'"
+                                        },
+                                        {
+                                          "name": "Dr. M:'Well, we also need to understand what the number of connections need to be and we're also doing that experiment because to solve all these problems of how the brain works at a fundamental level, you know, there's a lot of really interesting questions that this work, actually, will give us, but we also need to be able to control that number. So that it starts at the number of connections, maybe it starts as the number of contacts, and the mechanism, so how many synapses that each cell has, and how to get from the number of neurons that exist in the animal today, like the mouse, how many neurons that you can actually find in the human brain.'"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Dr. B:'Now this would be your ideal. If it came into place, and each neuron had their biological features defined, and connected to a unique circuit, that's what we would like to achieve, but there's a reason why no one knows anything about how a neuron would connect to its circuit in the brain, because it's all not even close to happening right now. And so I'm not so sure that there is a very high amount of neurons needed to create unique and unique circuits.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'I don't know.  So there are many unknowns, but one very interesting aspect in the human brain, for example, is what's known as the corpus callosum is the major connecting pathway between the left and right nerves, but the neurons that are the connecting neurons, the projection neurons are the same! So, different neurons, different cell types contribute to connecting one nerve to another nerve \u2013 different neuronal types contribute to connecting muscle fibers, and different cell types contribute connecting muscles to the same nerves, and so the only difference between the left and the right neuron, is their cell type. So even though you have this connecting path, there are still differences in terms of the properties that each neuron may take that cause asymmetry or even lack of coherence between their networks. So, yes, it's interesting - it's one of the areas of interest.  You know, the number of neurons \u2013 it seems like most neurons are innervated by many, many other cells.'"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'When I was doing my undergraduate work in neuroscience, we had a good experimental colleague, his idea was that the association areas were for coordination between muscles and neurons. It was very clever, because he wanted to understand all of the muscles at the same time. So he built a maze of many intersecting pathways, and he would put muscle fibers in the pathways and then move an electrode in each of them. So he had many different muscles with the current and he tried to move them all at the same time, and his goal was that these associations would be coordinators of muscle movements. They would not work with muscle fibers themselves but would coordinate with nerve and muscle fibers. 'So that kind of explains why they are where they are in an animal that's capable of moving its muscles around.'",
+          "children": [
+            {
+              "name": "Dr. B:'Is there another reason why the mouse is such a good candidate organism for the study of these functions?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Well, you realize, mice are much less 'caged' than most animals. Mice are very social animals. So I think their nervous systems have developed in a social context, so that it looks like they are doing what they are doing as a consequence of evolution. They like being around each other in the cage. They like playing with their buddies. And then, if you have other animals in cages, they also do this because they know they are going to be interacting. But the mouse particularly has, I think, a number of interesting properties in terms of making observations from animal to animal. There are relatively small numbers of muscles, and there are only, I think, four to five muscles that move with a single muscle fiber. So it's very hard to work with single-muscle movements because that causes you to have to change the parameters of your neuron or other features of your preparation.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do mice have the ability to move their heads back and forth?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'If you look at the head positions of the different animals, all of the different animals of the animal population, they are slightly different. We can define it, so when a mouse is chewing on a block of food, the mouse is doing a complex series of chewing around movements with its teeth. But they are also doing chewing rotations around their heads, where a tooth will bite down on a block of material, like we eat on a plate in our hands, then go around and around around the plate.'",
+                          "children": [
+                            {
+                              "name": "Dr. M: You can imagine chewing around a full plate of carrots, for example. So, I mean, the complexity in chewing patterns, it is also a very important component of their nervous system, because it explains why so many different neurons and neuromodulators and neurotransmitter pairs might be responsible for the control of many different motor patterns.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What do you think about the primary purpose of this cortex in more general terms? Are those concepts such as memory and planning, such as, well, there is an entire association cortex and this cortex is where I'm moving my current experiments to, the entire thing in its widest, or does it have only one or two or three primary functions? How do you think these are all integrated? Do we know which of these functions are fundamental, which ones come first? Do you think there are some fundamental principles where you can say these are the three or four, or is it more like, well, the three, two, five, is it much more subtle? Do you want to make recommendations for the three or four or five or two, or is it a matter of time, and the three or four comes in, and then it will get further refined? Is there a particular concept that you have right now, or what the core of this is, please?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, of course the core of this cortex is in the d.n.s. It's all d.n. s-regulated neurons. So this area has one function, which is to produce electrical activity. You know that depends on how I think about this, because if you cut off these neurons, you would lose not only the electrical output but the central pattern generator. So if you want to change how fast or slow the central pattern generator runs, the only way you can do that is to change the intrinsic properties of the neurons in this area. 'So the other main component of this cortex is the d.p.s. These are the neurons that regulate gastric mill rhythm. These are the three neurons that control the stomach, and the stomach is the biggest, you know, it's got all of the guts of the animal, and some of them are more or less permanently active, and others are temporary. 'So this is the main component of this network.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, it would seem that they are mostly, at least functionally associated to those regions of the cortex that are used during behavior. So their primary role perhaps in behavior would be to provide a sort of feedback to the system saying how things are going. And then also control of the system would be important. So not being passive detectors of information but to generate feedback and control the activity of the circuit. I think that would also apply to larger networks. So your system might need to have some control properties for tuning the network. You know what I think it could also be. The other thing that occurs to me would be when you make a model of neural circuits that you make a model that is going to help you understand how it works. That would probably help you understand how one might go about optimizing it, so that would be part of your study then, trying to work out how to optimize it. Yeah, so I think that would probably be different for any neuron type and network.'",
+          "children": [
+            {
+              "name": "Dr. B:'The hippocampus, for example, is critical for navigation and memory and planning. And that circuit involves many, many cells. We know that the hippocampus is involved in many different things. And I have a model that predicts what is the role of the hippocampal cell types. And what I would like to know is what is the circuit that makes up that cell? And if you have that you could optimize it. If you know how to optimize that circuit I would be very happy to work out how that circuit operates. What do you think? Do you think that was not what you were asking, or what do you think should be the objective of the hippocampus? What's the primary function of the hippocampus?'",
+              "children": [
+                {
+                  "name": "Dr. M:'The primary function of the hippocampal circuits is I think to generate the rhythmbladness of the system. I think that that can help animals, because rhythm is kind of a prerequisite for maintaining behaviors. It probably helped animals to maintain certain behaviors and learn them even while they were in their nervous systems. And I think that that's done through both rhythmic, coordinated neural firing and, you know, the synaptic and hormonal connections between all of the different cell types, the muscle, the nervous system. I think, you know, synaptic interactions and hormonal connections. So yeah, I think those are all very important for keeping behaviors in place. I think there are lots of things that can go wrong and, you know when it comes to things, it's very hard to get this right, because you want all of these things to be present, you want all of the brain cells, the muscle cells, the nervous system cells, the motor neurons, to be functioning reliably.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'But what do you think is their primary function? Do you think they have any other functions? There, where do you imagine they do the most significant work? Where do you imagine they are sending the information to? Do you think this information is being sent to other areas of the hippocampus or hippocampal information? Where are these networks of cells that are working together in these circuits? What are they actually doing? Do you think it's going back to one area? Where would that primary location be? Or do you think that the hippocampal system actually works like a distributed system sending out information so that a target area(s) does the, or all of them do the same computation? What's the function that you want to study? Do you want to understand how they work together to keep the information that goes in and the information that comes out separate? I mean, just to, I'm, I'm not the only person. So I'm not the right person.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think that's an interesting question. You know, there's a couple of interesting papers about the hippocampal system from other people working on it because they have taken it and worked back through it. And the reason that they say that these cells are likely only to have a tonic firing mode is because that's what they found when you look at the gene sequence of these cells and you look at the actual sequence of the cells in the network. So the voltage signal that they are putting out is probably a tonic firing that is in part regulated by hormonal and synaptic inputs. But it may not be. You can imagine that it might be some kind of oscillatory circuit because we know that they are regulated by serotonin. You know I think serotonin has multiple inputs and many effects on neurons. So what's likely to happen is is they are likely to produce stable patterns that are consistent with their regulatory input and synaptic input and hormonal input.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What has been your thinking about how this could have evolved in nature? Is it possible that it could be a more efficient implementation of this or that it could work like other systems when we look for their functions?'",
+              "children": [
+                {
+                  "name": "Dr. M:'You know what that would mean, wouldn't it mean if you have a system of neurons that need to react to changing inputs, changing environments. It would mean that they would need to be able to keep track of their changes in environmental temperature. The changes in environmental temperature would be like the change in inputs, right? Because when you think about biological systems that change over time as systems are used over time. You know, humans and animals are used more and more when you are young, when you are children. But people get older. And then you move on to college, and then a long time later you might get into medical school. So you might go off on a five-year medical fellowship before being asked to do, you know, work like, you know, really important clinical research. So you start working in your clinical research as soon as you graduate and being a researcher is not optional.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'How would it be advantageous for evolution if the brain and its circuit were more efficient at certain things than others? Why would evolution choose that one circuit over others?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think it would be an enormous advantage. Because it is always advantageous to have the tools, the knowledge, the ability to optimize. I think that's been, you know, that has been my thinking.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I suspect that the primary purpose of an area would be to give a rapid local feedback to a local subset of neurons, which is connected to multiple components. The question really boils down to, how neurons are connected'  and also 'how different components of the nervous system are associated.' A different aspect of the question is to say, when you look at how neurons are connected, do all pairs in terms of connectivity form a single network? Or do they form completely separate networks which may or may not have any overlap? 'So, my main hypothesis is that an area might be part of one network or a network and provide inhibitory feedback to other areas. Then other neurons might connect with neurons that would then relay that to the target neuron in some circuit.'",
+          "children": [
+            {
+              "name": "Dr. B:'You have published three papers on the mouse's cerebral cortex, and now this will be the fourth, which is going to be published tomorrow: a comprehensive paper on the structure of the cortex of the motor cortex with a new understanding of the neocortex, for example.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'It is now in full swing. You have published four papers for the past six years; there are many papers where I have used my knowledge of physics from school as the backbone and then built on top of this knowledge, but this is not done by every single person in neuroscience, especially in the beginning of their career. It's a great honor to be here and discuss with you, and also to be able to do this with my mentor and friend who is Professor Paul Palsas.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'Now, let me remind you about the original question: What do you think is...how important for the evolution of the cortex is the...how important is the role of the various anatomical connections and mechanisms, from the perspective of the evolution of cortical systems?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'So, I think that the role of multiple synaptic connections has been probably misunderstood as the standard way to connect neurons and you could think of the synaptic interactions in synaptic transmission being a wiring diagram for the circuit.  So, I think that one thing I would like to say is that it might be more important during the evolution of the nervous system that more synaptic connections be present. Then you'd have more circuit connections on a circuit. And then that would make it more flexible, but then the neurons would have to cooperate, because they wouldn't all be independent networks. So, I mean, so you can look at a simple network, for example, and say in many cases like, how neurons are electrically coupled and their voltage is correlated, then you can see that if the voltage of a neuron changes, it is going to change the voltage of the other neurons.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'In that way, it gives rise to feedback activity, which may be useful for neurons, because feedback gives them confidence that they will get fired because it will provide a mechanism to exert some kind of impact on other neurons so they can do their jobs. In this case, however, I would expect some inhibition of pyramidal neurons, which would in turn inhibit excitation.'",
+              "children": [
+                {
+                  "name": "Dr. M:'That actually comes up with a good point. Because a pyramidal neuron would be firing. Excitations that come in from multiple sources would be in a sense inhibited by the feedback, because you have a mechanism, which is designed to be inhibitory in some cases, to maintain some activity. You can turn off all of this synaptic inhibition and still maintain an inhibitory activity in some cases. So, there are multiple kinds of regulatory mechanisms.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'So they've all been thought of as \"association areas\", but it's quite clear that they don't have any other function.'",
+          "children": [
+            {
+              "name": "Dr. B:'Because the only thing they do is get connected to other structures via long axons.'",
+              "children": [
+                {
+                  "name": "Dr. M: 'So they can create connections between regions, which is not their sole purpose.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'So how about the recurrent loops, say, but those don't go up to other areas.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'No. They're all part of the recurrent loop that involves the three different ganglia.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'Is there anyway to think about other functions that they might be good for? Other functions that they might do, say, that's very different from the association function, but that could come about the same way, so to speak, but with those functions removed.'"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'What is the primary purpose?'"
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Not via their own axons?'",
+                  "children": [
+                    {
+                      "name": "Dr. B:\"No, not their own. So they all have a role in creating circuits.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'And you think that one of them is, just is the primary purpose?'",
+                          "children": [
+                            {
+                              "name": "Dr. B:\"My guess is it's probably the higher central area, and then we might have additional ones, and then the lower central area.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M: 'I'll tell you why. And we could start looking at different systems and look at how the smaller networks are, whether the neurons themselves have specialized function, and there might be some other function. You're right that the central area has, in many ways, some special features, and so we could say that it might be the sole primary purpose. So it's possible. This is an example of how science is driven by new questions.'"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Well, you're a neuroscientist who is very interested in the role of networks in function, and my question is similar to this. What do you think is their primary function?'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'There are lots of neurons there, and they all are firing together, that come together, and it looks like there is a large network there that is being created. The number of synaptic connections that are present there is important, and because there are so many of those and because the network can be active for minutes, hours, days, or even longer, it's important that the network's properties are stable. There's some work showing that they're not, the network properties are subject to modulation, and that modulators can switch things on or off, modify it, and the way it produces an effect. So all of that would be important in understanding the operation of these networks for the function of behaviour.'",
+          "children": [
+            {
+              "name": "Dr. B:'Do you think these networks are going to be stable, for periods of time?'",
+              "children": [
+                {
+                  "name": "Dr. M:' I do, I do, I think they are going to be very stable for the time being. We can only understand a network if we can understand a single neuron, like any other circuit, or any circuit, and so these networks will be really interesting to investigate because they will allow us to explore what it would be reasonable to assume that the behaviour might be, or be affected by.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'What kind of things do they do there?'"
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'They're going to last a lifetime. It's possible that there are more networks than we currently know about, and that there are different networks at different points in the mouse lifetime, during different phases of development of its nervous system or during different phases of behavioural flexibility.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: This is really fascinating. We have known some of this for years already, but it becomes more and more clear to me the way we are changing our views of the brain, as neurons, as circuit neurons. The neurons in the brain are part of an active network and a circuit. And we keep forgetting that they might be transient, might have little input/output, that these neurons can be replaced, you know, and when they get damaged or something happens in the network, someone can be responsible for changing the synaptic connectivity and the properties (?'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'They are not primary sensory; they are higher order and they are also involved in generating muscle movements. You don't need a primary sensor if you also want to fire a muscle to open a door for you to get food out the back window. They are also involved in modulatory control. In the  S/N-m  neuron, which generates and releases a variety of neurotransmitters, one of them is somatostatin, and in addition to releasing it, this neuron also releases a ton of all of the other neurotransmitters. Consequently, it has a very high-order processing and coordinating of synaptic currents, and there is almost unlimited potential to be reprogrammed by neuromodulators. I think the question that you're putting the mouse in a hole has to do with the importance of the different brain regions in all animals.'",
+          "children": [
+            {
+              "name": "Dr. B:'Okay. Do we have time today for just an average question? Or are we going to have a special question today?'",
+              "children": [
+                {
+                  "name": "Dr. M:'No. We're going to have a few questions today.'",
+                  "children": [
+                    {
+                      "name": "Dr. M: 'I want to ask you about a couple of questions, and then before we go maybe we can discuss some of the science. I'm thinking about all these questions that you might address as you move forward, about how neurons work in different animals that were evolutionarily very far removed, so that there's been a change in neuron parameters from, say, like you mentioned, your mouse to an owl. What types of changes in those parameters take place so that these neurons can still function? One of the most striking changes is I would imagine is that these cells have lost a lot of channels, and they have lost a lot\u2014they've lost the ability to regulate the level of channel expression, which is important for making networks stable, stable against the kind of variability that occurs when there's a lot of different synaptic partners. We lose something, right?'",
+                      "children": [
+                        {
+                          "name": "Dr. B:'Exactly. What I want to ask is what is it like to come up to a problem like this, and to try to think about the problem? What is it like to try to use a lot of analytical techniques? Is it like a book with all of the answers? I'm doing the first class right now in the laboratory. I'm thinking back to my childhood, and I'm wondering what is like to try to understand a problem on your own, and think about the problem long enough that it would be nice to have the book, but you can't have the book. And that's not a bad thing either. I mean, what I'm saying is that I can do that for the first time in my own lab. But this is the part that I'm going to work at the most.'",
+                          "children": [
+                            {
+                              "name": "Dr. M:'Yeah. I mean, one of the most exciting parts about my career is this problem. Because this problem exists in the brains of people that we like, who are smart, who are in good laboratories, but they can't think. And I mean, that the first part is that that's an exciting thing about being a scientist, that you have people who don't want to think. And then also, that's frustrating, because\u2014because the more you talk about it, the more you talk, the more people listen. When you think about that problem, there might be a few people that will come, but you're not going to find anyone that really understood your question. So, I think about the same thing for me, because I would love to have a textbook that says, \"oh my gosh, you want to know all about channel regulation in humans,\" because that's where I was, and we talk about how humans work, and all of us.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So, here's a higher order cortical mechanism that could do this. For example, it is very well-regulated at the synaptic field. That is, once it has received the synaptic information from other neurons, it is actually going to release a molecule that is going to block the neurotransmission at the synaptic terminal when its GABAergic activity has a high-enough level. And in the case of SST neuro-transmitters, the timing of release at the synaptic input would be strictly under the control of a molecular clock: a circadian clock, which is in synchrony with the other functions in the brain. This is a very exciting aspect of this mechanism because it has all the necessary properties to serve a particular function, a special function. It works well in a well-dissolved manner. It is very responsive, and it is highly effective.'",
+              "children": [
+                {
+                  "name": "Dr. M:'So it doesn't matter whether we call it primary, secondary, tertiary or quaternary, the whole brain is there, and it can work autonomously even though the inputs may not be there. And I think that's something that we all agree on because we think that you know it's not necessary for brains to have every input they might require but, there are some very important functions that they require that just can't be done when you are not providing certain inputs. You know, the neurons might be silent because their neurotransmitters aren't doing their usual functions, or they might be suppressed because other neurons in some sort of network might be active. So you got neurons that might not be present or even working when you need them but we really should not allow neurons to have to be constantly regulated by a lot of other neurons or neurons in our brain. But I think the main thing is that the brain can compensate and it can compensate for that lack of input.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The primary purpose of the interaction between the different cell types\u2014the neurons\u2014is the transmission of information.' The primary purpose of any network is to have its networks transmit information in a reliable way to other neurons and to the outside world. The association neurons are required for that. So I would say the primary purpose of network performance is to ensure the transmission of information, but then we have to look at the secondary tasks, because we know that many of these neurons are required to play very important roles beyond their primary mission\u2014areas such as the pyloric network, or the visual processing network, or the cardiac network. And so it has to balance against ensuring the integrity of these networks, and ensure that each network is going to be able to accomplish all of its essential tasks, but that it's also doing everything that it is supposed to do.'",
+          "children": [
+            {
+              "name": "Dr. B:'So there should be a lot of flexibility in the brain, even in the mammalian cortex, especially given the wide number of brain rhythms that have been observed, but that flexibility is being limited by constraints imposed by the wiring mechanisms. This is what is giving rise to the question of how much space the brain can use for wiring, and what is the upper limit on connectivity? And I ask this question at different levels. What is the brain's 'limit' on connectivity? Do the brain have any limits on the number of connections it can make? Can the cortex be wired with more connections than is traditionally thought? What are the physical limits of the wiring? What is the functional limit of the wiring?'",
+              "children": [
+                {
+                  "name": "Dr. M:'I think if you ever have the opportunity, I'd recommend visiting laboratories that study yeast models of neurons, because the connectivity of yeast and the function of it has been worked out quite well. And you can actually place artificial connections on a single cell, and you can get connectivity going down to a single cell. So it has been really worked out, and it is certainly possible to do quite a lot of work in that way, but the problem you're going to have is that you've got multiple cells, multiple neurons, multiple cell types, and multiple cell types all competing for space so that you cannot just put a cable in some cell that doesn't have any competing cell type. Therefore, if you're adding electrical contacts in a different cell, you have to keep an eye on the other cell, because many times I've seen a neuron that has a single electrical contact.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'You've also got the competition between the wiring and the information processing that should be taking place, that is, the connectivity and the function, which is a balance between those two. We are talking about the brain of the mouse, so that you'll have a few hundred thousand cells in a single brain, but it's a single cell that can reach across the whole cortex in a matter of seconds. Obviously, wiring is expensive at a higher level, on a network that's already a lot larger, but it's certainly possible to do in, in many ways, what we've described, that is, adding wiring to a cell or adding functionality based on what the cell's actually doing. Yet the problem is that we already have a lot of wiring going on there, which takes up the majority of the volume of the brain, even if it's just a local area. And if you just want to have a very big and sophisticated brain, that's the way to go.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'And what you might actually do is you might have the wiring take up space that you can put all the information processing neurons into. So that you could have a very powerful, sophisticated, powerful-enough brain, but you could also have a very small, compact brain, or intermediate.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'And that would make me the happiest person on the planet, if we could just turn on the volume knob and get a high-firing rate, super-fast firing, big brain at the expense of the other types of functionalities of the brain.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'But I'm going to take a crack at interpreting this, and I'm going to try to give a more concrete answer by the end of the show, or maybe some segments, to try to give some insight into the nature of these interactions, and how they allow for the transfer of messages to the higher order cortex.'",
+              "children": [
+                {
+                  "name": "Dr. M:'You can take whatever you like, the most extreme possibility, is that the primary purpose of this is for the communication of information, but is maybe the simplest theory\u2014the simplest\u2014that it is to allow for the interaction between the cells so that they can communicate with each other.' And the simplest theory is not the only one. I've always argued, and I've always told my students, that people are fascinated because all the different components of the system, from the single biological neuron to the different network synapses have to work together in some kind of coordination; that there are a number of coordinated processes that have to occur, and that is not obvious. That is not evident. That means that there are other important considerations, and that is a way that a number of neurons have to influence the behavior of other neurons and networks within the system. So it is a coordinated series of interactions of neurons that have to occur.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think they are really important for controlling both the output of the brain, and keeping the neurons and circuits from going totally crazy. You see in some other systems, even the crabs where the neurons have no intrinsic excitability, there is no regulation of excitability based on activity. They can go completely crazy without regulation, but the higher order cortical neurons control the brain circuits in the same way. And it is interesting that despite the fact that there are many other systems, if you really think about it, there is only one solution and one that is not totally crazy, and it is regulation of excitability that is being maintained that is critical for controlling function. And I also think that this may be a kind of constraint that we impose on ourselves because we don't really feel like there is a regulator out there who can control excitability, and we feel like excitability is just kind of a black-box thing or something.'",
+          "children": [
+            {
+              "name": "Dr. B:'What makes the neurons in the cortex different from all other neurons in the brain, especially other mammalian neuro-cortical pyramidal neurons?  The reason to start with a very distinct neuron, rather than a typical pyramidal neuron, is because I want to ask you a question about a problem that has come up recently that is not totally related, but related to what you are asking about - why is it important for the cortex to have a very distinct and special type of cell?  I do' not want to answer that is not a well-thought-out question, but it is a question I have started in my mind since the beginning. And it really has been bothering me. So, what is it that makes that special?  Is it the way that it generates action potential bursts at times when the brain is not really under very much of a constraint?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, I think that's probably right. So, there are three different kinds of neurons that are critical to the brain's ability to process very different types of information. And so that they maintain their ability to use very different types of ion channels and to respond to synaptic potentials at different rates during times of need, and during times that are more flexible, because it is easy to disrupt neural activity when the brain is using a particular type of activity.  So, I think that is definitely important, and I don't think that's been addressed enough in the discussion of why the cortex has this type of cell type. I think that a big thing that I've been working on recently that is very interesting: We think about regulatory sequences, and regulatory sequences are not necessarily constrained in the way that it has traditionally been thought they would be. So, because historically neurons, neurons and their ion channel profiles are selected very early.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'You mean for example that neurons during development?  What neurons have ion channels that are unique?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh, you mean developmentally. You know how they select a neuron type of a neuron that is going to produce a particular synaptic potential, or different kinds of synapses. So, because they know that this neuron at the developmental time is going to produce this specific type of synapse. I mean, the reason that you want to create a neuron during development that is capable of being regulated properly during development is very different, but again it's a kind of constraint you can use. So, that was a big area I started to look into was regulatory sequences, this idea that if you have a neuron in your brain that is not regulated properly, it will not behave properly. And I discovered that if you take the regulatory sequences from an example neuron that is being regulated correctly, and you introduce them into a different neuron, you can make the cell behave like the original neuron, but the regulatory sequences that are required for function are often not present.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'But some regulatory sequences are there?  What were you talking about?  What kind of sequence?  So, when you look on an upstream sequence, what is the sequence that is being studied at the point we're at now? What kind of sequence is being studied? Is it an \"AND\" sequence, or a \"OR\" sequence? Is it a \"NOT\" sequence, or is it something else that's also used? What are the sequences that seem to control what's being programmed?  I have a question for you that is probably really not, but I want to make sure that it's really. Is it the sequence of a set of neurons that are activated, before the cell assembly, or before the output sequence can be sent? Are there a special sequence of neurons that should be activated? What are the special sequences? What is the sequence? What is the sequences that are being used?  These are all the special sequences that are there or could be.'"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, in general, I think pyramidal neuron cells because they sort of generate strong action potentials. I mean we would call them bursting neurons. But these are bursting in a different way, the way a pyramidal neuron does. Like pyramidal neuron bursting is a little bit different in the way in which it occurs. So, the other big difference is that neurons do not have multiple action potentials, they have a single action potential. So, a pyramidal cell has multiple action potentials over long periods of time, while these neurons have a single action possible. So they get their name from their single action potentials, rather than their bursting behavior.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'It feels like the differences between the two systems are more in the details of the properties than the behavior. So at the larger level, this is what is that special about a pyramidal neuronal system?  Is it that it is the way in which the neurons are wired, or is it that it is their distinct generation of action potentials and excitation? So many other neurons produce action potential bursts, but these are special bursts in the brain, and one can tell these neurons apart from many other neurons. So is it the way in which these neurons are generated that makes them special?  Or is it the way that they conduct their action potentials that makes them special?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'So it is actually, it is not that different. These are special bursts, but they are generated by one action potential, and they are maintained as a single action potential for very long periods of time. There are, I think a number of biological mechanisms that are present in these neurons, and one of them is a unique way in which the pyloric neurons respond to each other, and there is also a biological mechanism that is active in synaptic transmission when neurons are receiving inhibition also, which allows the neurons to maintain a single action potential in a bursting state over long periods of timescales.'"
+                        },
+                        {
+                          "name": "Dr. M:'Yes, so it is the way these neurons are generated. And I don't remember when I started working on this project specifically, the neurons have three action potentials. It has only one action potential  AP  and the other two APs are suppressed, and because these neurons always produce an AP, they are not suppressed. And there are many, many types of cell where when the neurons are not active, the APs are suppressed. But these neurons have a unique feature because when they get excited, they will excite the other neurons in the network, or excite themselves \u2013 so when they fire, they fire not because of their intrinsic excitability. So, they can fire because of the other neurons firing. So they are self-activated, it was originally called self-activation from the paper published about these cells because they can activate themselves when other cells are firing. So, they also can generate their own action potentials and also excite other network neurons.'"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, let me just say it was not, or it wasn't a unique set of properties at the beginning.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I wonder if you could define \"the primary purpose of the cortex?\"' (pause) 'There's certainly many things that could be done with the brain.'",
+          "children": [
+            {
+              "name": "Dr. B:'That is exactly right. And the primary purpose of cortical interconnections is not to learn all the stuff that happens in the visual system but for an orderly and orderly transmission of impulses from one place to another. For whatever reason, this is the primary goal of the brain.'",
+              "children": [
+                {
+                  "name": "Dr. M:'So, maybe more so than memory maybe more so than decision-making or decision-making.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'If we can push this to the limit, even more so, then the cortex can be fully described in the future using the same logic and methods that we currently use, that is, the logic of connectivity to describe structure, where the main idea is that the information we have about that structure is going to be the primary structure at the moment when we use that same logic we use to describe structure and we find new things. And then we can repeat the same logic and use the same structure and we would be able to describe all information in terms of neuronal connectivity that this structure produces.'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'We still say people describe themselves as having one eye. And when we think of the brain, we are not thinking of eye-to-eye connectivity between individuals, right? So it's more than just sending the same electrical impulse or sending the same biological impulse. So the connectivity between the nervous system and all of our other systems, if we can measure the circuit dynamics between these systems, these connections, that will be really informative.'",
+                          "children": [
+                            {
+                              "name": "Dr. B:'All of this is well, if you connect things in the right way. Now, the real problem that we are facing is to connect things, the right way. The reason that there's a fundamental divide in neuroscience is that we are doing, let's call it 'connectivity science' versus 'organization science'. The problem, of course, is what, if you connect with the wrong system, it becomes an illogic. What I like about the brain organization is its logarithm. It's a nice curve to wrap around. This is the type of organization that I like around anything and I like the idea that this is what is going to make the brain go crazy. It's a perfect match for my interests. Then I can figure out how to connect things back to the right system. That's the first step in making progress. But this is what we really want to make progress on.'",
+                              "children": [
+                                {
+                                  "name": "Dr. M:'To be honest, I just wish that we didn't have this. I wish that when we did brain mapping the result would, you know we would be like, 'Hey, this shows neural activity and this points to all sorts of different brain areas' and this would go away.' I wish that the mapping of brain activity would reveal information that's about brain functions, not about brain structure.'",
+                                  "children": [
+                                    {
+                                      "name": "Dr. B: 'Yes, to map brain features.'",
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'So you know, the real problem are the features that we haven't discovered.' For example, we don't have many neurons that we can ask about how they perform. We don't know which neurons are important and which neurons show which features, which neurons show how a brain generates language, which neurons are associated with what other brain features. Because the answer to all of that is not brain-specific. Like I'm, I can imagine, for example, going through a bunch of neurons' electrical properties and showing you which ones show high frequency oscillations, but it doesn't necessarily give me a sense of what the function is. I'm guessing from your studies, Dr. B, you know that we are seeing a more and more important role and value for electrical properties, because I do remember that you talked about electrical properties as being important in some of your early work.'",
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:'Yes. Now, I'm still very confident. I'm a student of this, or I'm looking at this from a broader perspective from now on, I'm learning it now, which are two different directions. But, in general, I'm fully convinced that the brain is basically the same from every mammals and there are basically the same general principles with an ever-expanding vocabulary in all sorts of different species. The real differences are mostly in details. In other words, the basic blueprint of the brain is the same in all mammals, in fact, it was a similar blueprint as recently as the 1930s, and the fundamental features, principles, and mechanisms in the brain are basically the same from a functional perspective, and that's what we are trying to uncover is how to connect the details to the principles and to the hardware. How many neurons and how big they are is really not as important as the fundamental mechanisms from a functional perspective.'",
+                                              "children": [
+                                                {
+                                                  "name": "Dr. M:'How many neurons are there? I just want to ask that question from a broader perspective. I mean, this is going to be a discussion of the number of neurons and their firing patterns and their location and how they interact but at the end of the day, we'll end up talking to the same people and we'll be talking about this, even if we talk about the details of how many neurons, whether they are different between species I don't know, we'll be talking to the same neuroscience investigators.'"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, the two neurons of the association are a kind of a \"nervous interface\". When you are interacting with the outside world, when you are interacting with your body, with your digestion, with your muscles, it is very easy to lose track. There are very few places that are absolutely protected from stimulation. The other part of it is that even when we are not sensing through muscle, the brain is always alert for any sensory input. It has to be alert, and so to protect it from stimulation you have to turn down some activity so that a steady stream of information can reach the cortex.'",
+          "children": [
+            {
+              "name": "Dr. B:'So you are talking about the \"default mode,\" which is the case when we are not interacting. How do we understand the consequences of such a structure and the dynamics that go on when the default mode is kept for a long time? How do we understand its consequences for cognition or other things?'",
+              "children": [
+                {
+                  "name": "Dr. M:'We know how important the function of the association areas is because we have found this amazing phenomenon of the loss of function when these neurons are removed. We take the mice from the population of these animals, of which we have done experiments on all kinds, and we then take two of these intact mice and we take these two mice and we disconnect everything. We then make it possible that they must rely on each other and on their direct neighbors as far as their sensory and motor input is concerned. So then these muscles are removed. They still have their brains. The two animals do not talk to each other. When we then introduce them back into the population, they immediately jump into a large group of mice and become indistinguishable from one another. So now we have two-year-old mice who are behaving exactly the same as old mice.'"
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So you would say the answer to this question lies in neural syntax, and how these areas and connections assist in segregating neural information, which would be in line with your studies?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Exactly! Because this is the problem of neuronal segmentation. You cannot think of neurons as islands. Like you cannot. If you think how networks really function, you cannot think of neurons, they are not islands. If you think that a neuron is just a tiny island of cellular processes, it will not even be able to respond independently to the outside world. It's got to be aware.'",
+                  "children": [
+                    {
+                      "name": "Dr. M:'The other part of it that is interesting is that the first thing I read when we found this mouse association was from The Times in 1980 and that was that, like in the human cortex, there was a kind of a \"warrior's dilemma,\" because these are these areas that are very vulnerable to any kind of perturbations and yet, you know they're gonna have to be able to respond to the changing inputs that the brain has to deal with, and so, it's a little bit analogous you know, to people that have to deal with heart disease.'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think they are a hub for coordinated movement of muscles.'",
+          "children": [
+            {
+              "name": "Dr. B:'And coordinated in what way?'",
+              "children": [
+                {
+                  "name": "Dr. M:'Right, in terms of the brain, the brain controlling the muscles.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, they are the primary focus, the central focus of the network because they release all the hormonal substances of the pyloric circuit. They sort of set the rhythm at the heart of the network, at the center of the network and they fire the motor neurons. But they do not fire the motor neurons, because they receive descending excitatory synaptic drive from another subnetwork, and then they stimulate the motor neurons. That's where the action potentials come from that are used to generate a rhythm that is sort of central to the network. It provides a rhythmic, robust and strong pacemaker for the network. And then also it provides, at the same time, a means of synaptic interaction because it forms an excitatory synapse.'",
+          "children": [
+            {
+              "name": "Dr. B:'How does it provide a mechanism for excitatory synaptic interaction?'",
+              "children": [
+                {
+                  "name": "Dr. M: 'You know, so we can go through the whole list, we have many examples of rhythm generators in the brain or network mechanisms in brain circuits, that are able to generate rhythms in the order of 30, 70, 100, 110. Here, I can say 20 times faster. And they have many other advantages as well. And they can be in a closed loop, since you don't have to put in that action potential at every single time of the cycle, but in this case, it is closed-loop, because they fire once and their mechanism is a bit different: the inhibition comes from a second subnetwork, which is responsible for the inhibition-induced inhibition that in essence, it becomes a closed loop. So, you have a rhythm.'",
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the mechanism in this case that is responsible for rhythmic inhibition of neurons?'",
+                      "children": [
+                        {
+                          "name": "Dr. M:'You know, in this case, we looked at it for many years and we realized that these neurons are neurons that are part of a pacemaker.'"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I don't know.'"
+        },
+        {
+          "name": "Dr. M:'Well, as far as I know, the association areas are primarily functional, so they're kind of \"place markers\", they mark a specific position in the network so you know if you are in the association areas, because the neurons are not distributed to many parts of the network, the network has to know where are the specific sites which they'll be releasing chemical or electrical synapses to.'",
+          "children": [
+            {
+              "name": "Dr. B:'But you mean the physiological reasons of why that's even there? I mean that may have a sort of an evolutionary reason, isn't it, because it's easier for the network, maybe it's got to do with neuronal compartmentalization and then once you think of physiological functions it may be for that reason, to compartmentalize?'"
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The only primary purpose of those association areas is to provide the modulatory inputs for the descending neurons to reach the underlying networks. I think there's been an interesting study in mice that shows that the main task of those higher cortical neurons is to help and maintain functional brain circuit function. There has also been interesting studies in  Xenopus, but these studies show that neuromodulators from descending modulatory neurons can really regulate networks of neurons that then will drive behavior and will maintain stable function. My view of the principal role of those neurons is to regulate activity within the nervous system of the animals. So this is the central role, which is to maintain functional connectivity. This includes maintaining structural connectivity, or that connectivity pattern, as well as functional connectivity, that is the pattern of activity between neurons that produces the behavior. The brain can tolerate variability in activity without compromising the behavior.'"
+        },
+        {
+          "name": "Dr. M:' The association areas are probably important for some of the circuits and neurons that work together to feed muscles, etc., but I think they are really important for providing the mechanisms for sensory perception, because the sensory cortex has more of those synaptic connections with the association are than any other cortex.  I'm not so sure what the actual function of the association areas is on the primary axis, because the primary axis is defined by the central pattern-generating elements in the cortex. They are important for the maintenance of the rhythm, for the generation of rhythmic motor patterns, but I'm thinking their main function is to provide the synaptic connections and sensory components for sensory perception.'"
+        },
+        {
+          "name": "Dr. M:'Well, I don't know if you know this, but they seem to have more to them than we thought. I don't know the name of all these, I'll just call them sensory nodes, because they do have more to them. They have more to do with filtering, filtering of sensory inputs from the outside. So a lot of what we thought we were working on for sensory-to-motor conversion was wrong we thought this was all the same network. This is important. So for instance, we used to think this was all in synaptic connections between the neurons, and we used to think that the synaptic connections between the neuron were graded by the strength, just like in the synaptic connections in the spinal cord, or elsewhere, and we used this to study neural variability. So we used this to figure out how robust our nervous systems could be, how variable our nervous systems might be, and so on.'"
         }
       ]
     }
