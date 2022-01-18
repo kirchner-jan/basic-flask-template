@@ -5,6 +5,7 @@ from anytree.exporter import JsonExporter
 from anytree import PreOrderIter, PostOrderIter
 from tqdm import tqdm
 import numpy as np
+from textscoring import *
 from textscoring import model
 import dill, nltk
 nltk.download('punkt')
@@ -12,7 +13,7 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
 
-def load_tree(inPath):
+def load_tree(inPath , importer):
   with open(inPath) as f:
     root = importer.read(f)
   return root
@@ -46,14 +47,14 @@ def sort_by_r(root):
     r_ratings = [x.r_rating for x in node.children]
     node.children = [x for _, x in sorted(zip(r_ratings, node.children))]
 
-def save_tree(outPath , root):
+def save_tree(outPath , root , exporter):
   with open(outPath , 'w') as f:
       exporter.write(root, f)
 
 def sort_tree(inPath , outPath):
   importer , exporter = JsonImporter() , JsonExporter(indent=2, sort_keys=False)
   print('Loading tree...')
-  root = load_tree(inPath)
+  root = load_tree(inPath , importer)
   print('Loading grammar model...')
   gramm_model = get_gramm_model(r"textscoring/training/model.dill")
   print('Adding grammar score...')
@@ -68,5 +69,5 @@ def sort_tree(inPath , outPath):
   print('Sorting by total similarity score...')
   sort_by_r(root)
   print('Saving tree...')
-  save_tree(outPath , root)
+  save_tree(outPath , root , exporter)
   
