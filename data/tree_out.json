@@ -6,6 +6,58 @@
   "r_rating": 1.2052631624532724,
   "children": [
     {
+      "name": "Dr. B: 'How does the brain make use of prior knowledge to guide decision-making?'",
+      "g_rating": 0.5,
+      "s_rating": 0.49391570687294006,
+      "t_rating": 0.7028177043130004,
+      "r_rating": 0.7172576392704741,
+      "children": [
+        {
+          "name": "Dr. M:' How much data you gather may be influenced by your prior knowledge, that is just a kind of fundamental principle of inference that every psychologist has learned.'",
+          "g_rating": 0.7,
+          "s_rating": 0.2974525988101959,
+          "t_rating": 0.7605774441428955,
+          "r_rating": 0.800716649095554,
+          "children": [
+            {
+              "name": "Dr. B:{ Yes, and there is really no way of measuring the influence it might have in the absence of knowledge, and the fact is that the models that are built in the brain require prior knowledge to build them.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4566052258014679,
+              "t_rating": 0.9211342639535289,
+              "r_rating": 0.8704478453530549,
+              "children": [
+                {
+                  "name": "Dr. M: But the same is the case with the models built with statistics, which require prior knowledge to work. So I would say yes, you can see how these models can be built on the basis of prior knowledge, but you still need to construct a model that will take into account all of the data and then make predictions from it.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.1614997386932373,
+                  "t_rating": 0.7183885895516325,
+                  "r_rating": 0.7565037631902187,
+                  "children": [
+                    {
+                      "name": "Dr. B:' How do we deal with the idea that we should not ignore information when we get it? In fact, how do we deal with information when we get the information can be built on top of this prior knowledge? A good example is learning mathematics, or statistics at a very young age, when it comes in, and this is a process, but this process is a sort of a process of building up knowledge and then knowledge can be used later in life for example, to make more accurate predictions or even to make more creative judgments. How do we deal to deal with this kind of process?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.3440617322921753,
+                      "t_rating": 0.870849284105977,
+                      "r_rating": 0.8181636156922067,
+                      "children": [
+                        {
+                          "name": "Dr. B:[...] It's not always easy to tell what is in fact useful and what is not useful in terms of data processing, but the big issue is that the goal is not always clear. What is your goal? We'll have to deal with this.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.27521035075187683,
+                          "t_rating": 0.660106610450896,
+                          "r_rating": 0.660106610450896
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Dr. B: 'What is the most useful model organism in neuroscience?'",
       "g_rating": 0.7,
       "s_rating": 0.49906444549560547,
@@ -4034,7 +4086,7 @@
       "g_rating": 0.8,
       "s_rating": 0.5646151900291443,
       "t_rating": 0.9791783866138217,
-      "r_rating": 0.9924564815681773,
+      "r_rating": 1.0042142922943333,
       "children": [
         {
           "name": "Dr. M:'the brain'.'",
@@ -4114,11 +4166,20 @@
           ]
         },
         {
-          "name": "Dr. M:' The answer could be very long. Probably the most famous and intriguing study of this kind was done in the 1930's with the Japanese neuroscientist  Dr. Suzuki. I think a couple times, and this is a little exaggeration, but he was probably the most renowned neuroscientist in the world, and he did experiments on the pyloric network of mice. And one of the fascinating studies was that he put mice into the pyloric pacemaker network either by himself or with people from the University of Kyoto, and what he found was that in about 40 seconds a mouse could, if he or she wanted to, develop muscle tension. So if he or she was asleep and had his or her pacemaker network with the mice, he or she could develop muscle tension. By themselves, mice could not maintain muscle tension for tens of seconds without maintaining a high-pitched, kind of squeaky sound.'",
-          "g_rating": 0.6,
-          "s_rating": 0.3061491847038269,
-          "t_rating": 0.6735928468257497,
-          "r_rating": 0.6735928468257497
+          "name": "Dr. M:'This insight you speak of [the brains capacity for flexibility] has been made evident recently because there comes a new experimental technology that has not been available until recent years, that was made for other purposes than studying the brain. This is the development of a technology called optogenetics. It enables direct manipulation of circuit activity by the application of light signals to a cell of origin.'",
+          "g_rating": 0.5,
+          "s_rating": 0.5944437980651855,
+          "t_rating": 0.7767647192413949,
+          "r_rating": 0.673432099549546,
+          "children": [
+            {
+              "name": "Dr. B:'Wow, interesting [that light is not damaging to the cell].'",
+              "g_rating": 0.3,
+              "s_rating": 0.2051449418067932,
+              "t_rating": 0.363434240473999,
+              "r_rating": 0.363434240473999
+            }
+          ]
         },
         {
           "name": "Dr. M:' The function of the brain is to perform. To solve problems. To solve problems.'",
@@ -4132,7 +4193,16 @@
               "g_rating": 0.6,
               "s_rating": 0.48892536759376526,
               "t_rating": 0.7739819216730442,
-              "r_rating": 0.7739819216730442
+              "r_rating": 0.8144175590298706,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes, and that is one of the interesting things about evolution, that by definition, we have a whole population, a population of solutions, or solutions are possible. We have evolutionarily tested solutions by asking whether they work, and some of them, well, I mean, as far as people that use computers and brain research for a living know, most solutions will not work. Like for example, if you've seen the results for the model neurons that we have studied, or with the model networks that we have studied in the past, it is possible to manipulate parameters in these populations. For instance, you can look at one of the solutions in evolution, and say, 'Okay, well, this works.' And then try to manipulate parameters, increase the number of neurons, increase the number and properties of some of the neurons in the network, increase the time scale of some of the components of it, and so on.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4853661358356476,
+                  "t_rating": 0.9357244711003493,
+                  "r_rating": 0.9357244711003493
+                }
+              ]
             },
             {
               "name": "Dr. B:'But in order to solve a problem, we must understand what is needed to break it down into a series of questions that can be systematically explored. To this end, we have to break down the tasks that we will face into constituent elements that we can understand.'",
@@ -4156,6 +4226,13 @@
                       "r_rating": 0.8728466155444919,
                       "children": [
                         {
+                          "name": "Dr. M:'Exactly right. And one of the reasons why it's really hard to think about our brains is because you have that in your mind, this model of how connectivity is going to be, because you know exactly. Or you know you're wiring them with, with conductance. Or you know, the connectivity is wired with all sorts of currents, and all sorts of ways of acting. And then it's hard for a brain, it's hard for an adult brain to take information from those mechanisms and say, 'well, that's the one for which we did everything.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.5726540684700012,
+                          "t_rating": 0.6065745478795207,
+                          "r_rating": 0.6065745478795207
+                        },
+                        {
                           "name": "Dr. M:'For instance, say it's a puzzle that you're playing around with, as a little kid, and you have to connect four dots. You have to make a puzzle connect those four dots of dots of dots. Well, if you think about solving problems, that problem is divided into elements. Each of the elements of this problem needs to be able to be examined separately. For example, even the simplest puzzle of dots, if you are looking at this with an opto-electro-biophysical approach, you know if you just look at the individual pieces, you're going to want to know what each of those circuits of neurons would do. Each of those circuits of ionic channels or excitatory transmitter receptors, how they work together to solve this problem, because ultimately, you're solving this to make the connections. At the same time there is something bigger than that. Now, the larger part of that puzzle is, is the system to be able to solve those problems.'",
                           "g_rating": 0.8,
                           "s_rating": 0.5624433159828186,
@@ -4167,7 +4244,16 @@
                               "g_rating": 0.8,
                               "s_rating": 0.5161126852035522,
                               "t_rating": 0.9520358731833697,
-                              "r_rating": 0.9520358731833697
+                              "r_rating": 0.9784461760284751,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'And this is why I was saying, because often I will tell people, \"oh you should look at a specific area of neuroscience because you'll see really cool stuff happening.\" And they'll say, \"oh why do we have to look at all kinds of brain areas? Why don't we just look at a single part of the brain?\" And I used to say well you're going to be doing that one day anyway when you're an adult and you don't understand why you looked at something before.\" So, I think that this idea of moving backwards and then looking at stuff, I don't like the term 'deconstructing'. I think that deconstructing, right, I'm not going to deconstruct every other neuroscience area. I just, you know, I want to push. I want to be in the field now. Because the world changes.'",
+                                  "g_rating": 0.9,
+                                  "s_rating": 0.5555905103683472,
+                                  "t_rating": 1.0576770845637908,
+                                  "r_rating": 1.0576770845637908
+                                }
+                              ]
                             }
                           ]
                         }
@@ -4260,6 +4346,13 @@
                   "r_rating": 1.0709906913881253,
                   "children": [
                     {
+                      "name": "Dr. B:'I would like to ask you a question, that we have never asked before from you. How should we read your work? Do you see it as a product of progress in a slow developmental process, such that the process of reading the brain is akin to reading music, and you can look back someday and see the process of your progress? Or do you see it as progress within a development process? I suggest that to find your most significant insight, we need to see the progress that has been made, and then ask ourselves whether we are at the place where we want to be.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5231777429580688,
+                      "t_rating": 0.9558843814639401,
+                      "r_rating": 0.9558843814639401
+                    },
+                    {
                       "name": "Dr. B:'The problem is that we're trying to think about the function of neurons in isolation, but the brain is composed of neurons. For example, many of the cells in the hippocampus that fire together in a single gamma cycle in the hippocampus are neurons with very low firing rates, in contrast with cells of the same type that fire in different gamma cycles in several layers. So, any single-neuron model will include low-value cells and high-value cells, and in the case of the hippocampus the high-value cells are actually functionally more important than the low-value cells. But, that is, we know that there are some neurons that fire with lower frequency activity at any given time, but we don't know how these neurons will affect the outcome of their partners in future gamma cycles.'",
                       "g_rating": 0.8,
                       "s_rating": 0.6259289979934692,
@@ -4298,7 +4391,25 @@
                       "g_rating": 0.5,
                       "s_rating": 0.2017783373594284,
                       "t_rating": 0.5391794668081633,
-                      "r_rating": 0.5391794668081633
+                      "r_rating": 0.6669323532197866,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, I mean, I had always thought, I mean, and when you first were talking with me about the fact that because all of these different models that you were working with it all came a little bit together, you know, then, so I'd always been able to rationalize the fact that although, you know, we didn't know everything that was probably because it was hard to see how much we didn't know. You know, so you know, so because you know, you know, I mean, when you first told me, you know, about finding out that you had found neurons that could be regulated, so I mean, I was always pretty rational, I mean, you know, maybe irrational in the fact that we knew there were different currents, but in part that, you know, when you first gave me that piece of information about different sets of currents or different sets of membrane properties that that made more sense.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.5412034392356873,
+                          "t_rating": 1.0501910124546565,
+                          "r_rating": 0.9986138348979797,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So the best example... Now, when you were very young in your career, there were two problems that were really being investigated to be solved, and you tried to deal with as a graduate student, as a postdoctoral fellow, or when you took your first research job at a small institution, a small lab, and the two...'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.2685839533805847,
+                              "t_rating": 0.8438823022279495,
+                              "r_rating": 0.8438823022279495
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4307,11 +4418,79 @@
           ]
         },
         {
-          "name": "Dr. M:'This insight you speak of [the brains capacity for flexibility] has been made evident recently because there comes a new experimental technology that has not been available until recent years, that was made for other purposes than studying the brain. This is the development of a technology called optogenetics. It enables direct manipulation of circuit activity by the application of light signals to a cell of origin.'",
-          "g_rating": 0.5,
-          "s_rating": 0.5944437980651855,
-          "t_rating": 0.7767647192413949,
-          "r_rating": 0.7767647192413949
+          "name": "Dr. M:' The answer could be very long. Probably the most famous and intriguing study of this kind was done in the 1930's with the Japanese neuroscientist  Dr. Suzuki. I think a couple times, and this is a little exaggeration, but he was probably the most renowned neuroscientist in the world, and he did experiments on the pyloric network of mice. And one of the fascinating studies was that he put mice into the pyloric pacemaker network either by himself or with people from the University of Kyoto, and what he found was that in about 40 seconds a mouse could, if he or she wanted to, develop muscle tension. So if he or she was asleep and had his or her pacemaker network with the mice, he or she could develop muscle tension. By themselves, mice could not maintain muscle tension for tens of seconds without maintaining a high-pitched, kind of squeaky sound.'",
+          "g_rating": 0.6,
+          "s_rating": 0.3061491847038269,
+          "t_rating": 0.6735928468257497,
+          "r_rating": 0.7396686337907903,
+          "children": [
+            {
+              "name": "Dr. B:' If there is a single, most important thing that we have learned from the brain, what is it?'",
+              "g_rating": 0.8,
+              "s_rating": 0.4895394742488861,
+              "t_rating": 0.9378959946859118,
+              "r_rating": 0.9106521472439886,
+              "children": [
+                {
+                  "name": "Dr. M: 'Probably what you and I understand, about how neuronal networks are organized.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5719347596168518,
+                  "t_rating": 0.828920604918219,
+                  "r_rating": 0.828920604918219
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I don't think there's one most important insight into brain function into the last century. We have learned about the function of neurons and networks many times, and we have also discovered significant new principles of how cells and networks behave in pathological states. If you look at Parkinson's disease, or other degenerative diseases of the brain, and you look at the brains of people with these diseases, you see that they have, we know when things start to go wrong in the brain. The brain starts to make mistakes and the neurons start to go wrong, but we have learned many, many times that, even in pathological cases, even if you look at a brain which is generating all kinds of things that shouldn't be there, the brain still has enough underlying mechanisms to recover behaviorally robust output. So, I think there are many important principles that we have derived from studying the brain under pathology but then we also have learned about the brain under normal conditions.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5653419494628906,
+          "t_rating": 0.8243855407650607,
+          "r_rating": 0.7574297930911008,
+          "children": [
+            {
+              "name": "Dr. B:'What was your most interesting and significant discovery? What did you learn about the complexity of the brain today? I'm glad you know that it's a question that has been asked a very long time and the answer is similar. The most interesting findings are those that are most significant and in fact the most important are usually ones that are most meaningful and significant for us. In order to tell what is significant or important, we should ask something to those who did not see them or realize those significant things. That's what we call a generalization at its best, for a brain. So, for my part, the most significant discoveries could be many important things, but I would still select things that I had not seen before. For example, my favorite or most significant memory, what I learned today, is not a memory of a memory that I had forgotten, but a memory of a new idea of how the brain works, such as a more realistic model.'",
+              "g_rating": 0.2,
+              "s_rating": 0.5193860530853271,
+              "t_rating": 0.5565625500692212,
+              "r_rating": 0.6069377490020726,
+              "children": [
+                {
+                  "name": "Dr. M:'The most exciting part is that it has to be. So, when people see an incredible new technique applied to solving a fundamental problem like, okay, that's a completely new technology.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.2909639775753021,
+                  "t_rating": 0.758063345800627,
+                  "r_rating": 0.8083939284869943,
+                  "children": [
+                    {
+                      "name": "Dr. B:'This was one of the most exciting discoveries, but it was even more exciting to me and to anyone else, because it was such a significant departure from traditional approaches. That was the case when people were using different approaches to try to solve a same problem. The most amazing examples of progress in the last century are these remarkable cases where, let's say, in America, a student like, I'm going to take the classical concept of brain rhythms and try to break it, right? So, that's this great, this is a classic challenge. But, we also realize that this is really a big question that requires a big approach. Now, my brain rhythms are the fundamental physiological mechanism that allows the brain to give rise to its own patterns that determine behavior. So my big question is this: that are we trying to understand brain, or are we trying to solve the problem of the brain? So, what was the more important approach to solve or uncover these problems?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.6560646891593933,
+                      "t_rating": 0.9593856765460965,
+                      "r_rating": 0.965523299591955,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, for example, when I was studying brain rhythms, I wanted to write a paper, so I submitted it to some journal, and they said this is really interesting, but we don't think you can be successful with this approach.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.397656112909317,
+                          "t_rating": 0.9839361687295307,
+                          "r_rating": 0.9839361687295307
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The brain evolved for making us human beings. It has the basic function of taking us from infancy to childhood, then preparing us to be responsible adults, and then letting us die, and finally burying us.'",
+          "g_rating": 0.6,
+          "s_rating": 0.4666016399860382,
+          "t_rating": 0.7600770292790464,
+          "r_rating": 0.7600770292790464
         },
         {
           "name": "Dr. M:' The ability to control nervous systems- I mean, if we have to be honest, it was the first time in a long history that there had been a revolution in understanding the brain from a scientific standpoint. We didn't know in any substantive way about nervous systems and understanding how they worked back in the days when, when you know, we took electricals out of the brain back in the 1870s. We didn't understand the brain. It was a mystery to us.'",
@@ -4339,7 +4518,43 @@
                       "g_rating": 0.5,
                       "s_rating": 0.5787827968597412,
                       "t_rating": 0.7648460799015606,
-                      "r_rating": 0.7648460799015606
+                      "r_rating": 0.7906711705535785,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So as you can tell from my work of course, my brain I think is always, you know, thinking about how that work, you know, can be applied to problems beyond our understanding, and certainly problems that we know will always be interesting things to study. So certainly the fact that people like, this is, people like [inaud]. I was reading about [inaud] with this neuroscientist [inaud]. You know, people like [ inaud ], we don't know. We think he may be a, may be a ghost.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5134961009025574,
+                          "t_rating": 0.8681464425096318,
+                          "r_rating": 0.814002274805363,
+                          "children": [
+                            {
+                              "name": "Dr. B:' There doesn't, there's actually a ghost. Now, that is, it's actually a interesting argument. Now, this is actually a good argument.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.2540534734725952,
+                              "t_rating": 0.6515697716925568,
+                              "r_rating": 0.7267275930373015,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I don't know, they're, I heard the, this argument, it is, it is really strong and he has a whole bunch of evidence I don't even bother repeating it and, and I was reading about this before. Where he had to find some way of putting something into a chamber of the brain and put a bunch of other electrical currents, like microelectrodes into the brain of [inaud] and see what happens. It's, it's really fun. People get excited about this now, but, and I loved doing this, I learned a lot about this and this is, and it turns out that after the first 30 seconds to 45 seconds, these guys they were all in agreement.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.5164173245429993,
+                                  "t_rating": 0.9522010570715355,
+                                  "r_rating": 0.9291676013817065,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:' It's interesting that for a long time, now I see this as a really, no doubt that this is a very exciting time to be studying, uh, cognitive psychology and cognitive science and neuroscience. And so it, but it would be very difficult to argue or say, \"There's not much more to be found.\" It's, it is difficult to be enthusiastic about it and say that, but it will be very difficult to ever be able to say, \"We have the means to approach whatever question we want to ask,\" you know, what would be, what's the next level of understanding? And I mean, they are very exciting things. [inaud] seems to be a very interesting, uh, a very interesting guy. Um, but I have to say, uh, I, I don't really watch the shows and I'm not sure who he is.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.49971556663513184,
+                                      "t_rating": 0.8600672343122199,
+                                      "r_rating": 0.8600672343122199
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4432,7 +4647,16 @@
                       "g_rating": 0.4,
                       "s_rating": 0.1591041088104248,
                       "t_rating": 0.4304812625891626,
-                      "r_rating": 0.4304812625891626
+                      "r_rating": 0.539327634304941,
+                      "children": [
+                        {
+                          "name": "Dr. B:'Is the fact that we discovered that we had to wait until after World War II for this insight?'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.3312479853630066,
+                          "t_rating": 0.8658667494522762,
+                          "r_rating": 0.8658667494522762
+                        }
+                      ]
                     }
                   ]
                 },
@@ -4487,7 +4711,16 @@
                           "g_rating": 0.7,
                           "s_rating": 0.5475800633430481,
                           "t_rating": 0.8887316387812333,
-                          "r_rating": 0.8887316387812333
+                          "r_rating": 0.8490739032521252,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So I can tell you where progress is. There are many things which I can say about it that are a little too general. There are multiple domains. There's an amazing domain called 'attention'. It is a fantastic topic. I, I believe that there's never going to be a full understanding of how the brain works, but that there is absolutely no shortage of topics like attention, which are absolutely critical. There are a few important topics that actually are close and we can look in to them. The most important I can tell you today is that in the past 40 years or so, a little bit over two millennia, there has been no progress whatsoever on the question about how we learn to be conscious at all, in any way, shape or form. That's a difficult problem. And there will not be.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5320216417312622,
+                              "t_rating": 0.7301006966648008,
+                              "r_rating": 0.7301006966648008
+                            }
+                          ]
                         }
                       ]
                     }
@@ -4530,7 +4763,43 @@
                           "g_rating": 0.1,
                           "s_rating": 0.476349413394928,
                           "t_rating": 0.48673274354792695,
-                          "r_rating": 0.48673274354792695
+                          "r_rating": 0.5134453604771285,
+                          "children": [
+                            {
+                              "name": "Dr. B:' I mean I actually find that fascinating. And I mean it's interesting, how much could change because of just those early experiences when, when I was learning I thought that I would probably be a scientist, and I thought that's pretty cool, and it was so weird and scary that I'm about to die in high school. So I've had many other fears, which I've now got used to, but the fear of how to die was very real. And a part of me was happy about it. I was not scared in the sense that, I have fear of heights, but not of dying. It was more like, oh, I'm going to end up in a loony bin, not ending up in the ground. Well, maybe this is a little irrational. I was not rational in high school. I was afraid of dying. But a lot of that fear may be rooted in this issue as well.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.3199078440666199,
+                              "t_rating": 0.5935832112647331,
+                              "r_rating": 0.48734968525299704,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Right.'",
+                                  "g_rating": 0.0,
+                                  "s_rating": 0.1686491072177887,
+                                  "t_rating": 0.1686491072177887,
+                                  "r_rating": 0.33691891022727716,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B: I mean, I did not know my parents were not going to be alive. I did not know that I would have to go through the rest of my life. So as a scientist I had really, well as you said, because I grew up in a small town and my high school, we had one, you know we had one, just one high school and that was it, they were really, there was not a lot going on in our town.'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.261737585067749,
+                                      "t_rating": 0.8417283192557425,
+                                      "r_rating": 0.7903567026557052,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M: So it was pretty weird.'",
+                                          "g_rating": 0.6,
+                                          "s_rating": 0.21166883409023285,
+                                          "t_rating": 0.6362418528555933,
+                                          "r_rating": 0.6362418528555933
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
                           "name": "Dr. M:'I learned to speak with a stammer. (LAUGHTER) I don't know. They had me, you know, learning how to speak because there were, there were rules about not showing off. So I had to learn how to speak.'",
@@ -4670,7 +4939,7 @@
                       "g_rating": 0.7,
                       "s_rating": 0.49669626355171204,
                       "t_rating": 0.858316479060161,
-                      "r_rating": 0.8561848492658924,
+                      "r_rating": 0.8624159671039536,
                       "children": [
                         {
                           "name": "Dr. M:' Oh, absolutely.'",
@@ -4684,7 +4953,23 @@
                           "g_rating": 0.7,
                           "s_rating": 0.48181217908859253,
                           "t_rating": 0.8497899598830866,
-                          "r_rating": 0.8497899598830866
+                          "r_rating": 0.8073189065168264,
+                          "children": [
+                            {
+                              "name": "Dr. B:' The science moves forward. What is the most exciting possibility is to take the brain from its environment, and, uh, the best example is to change the balance of chemicals or change the structure. It would be interesting to make, say, a new brain which did the same thing but could be connected with the outside world through a robot.'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.5497925281524658,
+                              "t_rating": 0.6799057464180458,
+                              "r_rating": 0.6799057464180458
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:' We're going to see technology that we're going to see innovation that will allow us to transform our lives. Because what's happening in neuroscience is it's really creating the opportunity to change our lives because it's enabling us to gain insight into the brain, into how it functions, how it could be changed, how we could be changed. But in a way that you might not anticipate or might not be able to realize.'But certainly, the whole point is that people want to be changed. They want to be enhanced in a way that they think will allow them to function better in their lives, so that's going to come into it. And as it has with me, with my husband, just to use your  example  of my husband, as he was studying for years in biology, and he came home, because of course I'd always heard the stories of Einstein and how he was on the street when the world was happening around him.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.524523913860321,
+                          "t_rating": 0.8747144312353315,
+                          "r_rating": 0.8747144312353315
                         }
                       ]
                     }
@@ -4718,7 +5003,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.43486377596855164,
                           "t_rating": 0.910552856043858,
-                          "r_rating": 0.910552856043858
+                          "r_rating": 0.9006919194863781,
+                          "children": [
+                            {
+                              "name": "Dr. B:'That question is actually not so easy, because in reality, we are born with prewired brains. It doesn't matter how we were educated. What matters is how our early brain develops because this is what we are. And then we are driven to change. So what is the most important of all, is our capacity to adapt to external changes. It is not how much information we acquire in a course of a lifetime but that the brain can change itself and adapt to external changes.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.3447188436985016,
+                              "t_rating": 0.8711091098139383,
+                              "r_rating": 0.8711091098139383
+                            }
+                          ]
                         }
                       ]
                     }
@@ -4757,11 +5051,27 @@
                       "r_rating": 0.7373573462835386,
                       "children": [
                         {
+                          "name": "Dr. M:'You think you have a unitary neuron. I know this sounds ridiculous, and it sounds like I know what I'm talking about when I talk about how cells with different neurotransmitter properties are quite different. So, let's use a neurohormone like orcokin. I don't think you've ever heard of orcokin, but this is a neurohormide which is an octapeptide isolated from the STG of the lobster,  Panulirus.'",
+                          "g_rating": 0.4,
+                          "s_rating": 0.41941526532173157,
+                          "t_rating": 0.5795767117344334,
+                          "r_rating": 0.5795767117344334
+                        },
+                        {
                           "name": "Dr. M:'They [the neurons with different neurotransmitters] are not neurons working all at the same level but they have a level of freedom in a system, and their behavior will be different but can be studied and controlled. So that's the most significant insight. That we know that the behavior of a single cell will be different when it receives all kinds of neuromodulation. The difference is between them being different neurons versus being different. Not saying that they're the same, but they are different, so it's like, say, a bunch of different neurons, that are all different and would behave uniquely when they're free, but in the context of a brain, right? And a brain requires people to communicate. A neuron might have unique functions, but we're going to be making decisions and having conversations.'",
                           "g_rating": 0.7,
                           "s_rating": 0.5761781930923462,
                           "t_rating": 0.9066318493165575,
-                          "r_rating": 0.9066318493165575
+                          "r_rating": 0.9024018046341349,
+                          "children": [
+                            {
+                              "name": "Dr. B:'What can be done with the information that is available to us about how we connect to the brain, right? So, that's where we have to turn and say, oh, there are some things it's telling us about the state of the network. And the network is a piece of information of information, but it comes from many, many different sources. And when that information is connected, it gives us more information than you would imagine. I also agree with what I'm hearing from your response to this question in terms of that. So it's not like, how am I going to go directly into network connectivity, right? It's something much larger. What can I learn from looking at the information generated by the brain? And this is what it'll look like in a few months. But this is just a hypothesis. It's nothing. It's just a hypothesis which can be tested. So in a real sense, it's much larger than where you're starting, right?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5491692423820496,
+                              "t_rating": 0.8897116705868673,
+                              "r_rating": 0.8897116705868673
+                            }
+                          ]
                         }
                       ]
                     }
@@ -4797,7 +5107,16 @@
                       "g_rating": 0.7,
                       "s_rating": 0.16838006675243378,
                       "t_rating": 0.719966559556452,
-                      "r_rating": 0.719966559556452
+                      "r_rating": 0.5799844555164333,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.16003814339637756,
+                          "t_rating": 0.16003814339637756,
+                          "r_rating": 0.16003814339637756
+                        }
+                      ]
                     }
                   ]
                 },
@@ -4806,7 +5125,102 @@
                   "g_rating": 0.3,
                   "s_rating": 0.3371678590774536,
                   "t_rating": 0.45131160542896925,
-                  "r_rating": 0.45131160542896925
+                  "r_rating": 0.4883649034033313,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Okay, how would you put together? For example, how would you build, you know, a neuronal network so that it's wired so, so that it can move a muscle, or it can generate the movement that produces a ripple in the hippocampal EEG or a fast spike in the neocortex?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.5190664529800415,
+                      "t_rating": 0.5995247973264172,
+                      "r_rating": 0.5998168909807999,
+                      "children": [
+                        {
+                          "name": "Dr. B:\"So how would you, um, put together a network based on inhibitory cells and excitatory cells? And what would you predict? What would you look for? For instance, I think what you're looking for is that, um, for example, the GABA A  receptor-mediated hyperpolarization will produce a spiking response in my cell. Now, what you are looking for is a cell type that will discharge when it receives a GABAergic inhibition it has a depo, the synaptic excitatory response will discharge it in a spiking response.'",
+                          "g_rating": 0.4,
+                          "s_rating": 0.4481431543827057,
+                          "t_rating": 0.6006931719439481,
+                          "r_rating": 0.5592560944602448,
+                          "children": [
+                            {
+                              "name": "Dr. M:'Hmm. And all these different cell types with their individual properties. So you're trying to sort of, you're trying to build like a puzzle, you're trying it put together right? So you're trying, you're trying, again, trying to build a puzzle where you put them all together, like you have to build a puzzle, right?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.31492385268211365,
+                              "t_rating": 0.4349448620091351,
+                              "r_rating": 0.5253598315081148,
+                              "children": [
+                                {
+                                  "name": "Dr. M: So this is, um, because you're going to find the cell type that is, is the key. Right. The key to building a puzzle. This is your key to finding the key to building the puzzle. So, and it's going to be complicated because you're going find, you're going to have to study many different cell types because you're going study, you're going study neurons, excitatory neurons neurons, inhibitory neurons, but you're going to study also, a lot of neurons that just respond to a ton of different types of inhibitory inputs. So yeah. Yeah.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.5240029692649841,
+                                  "t_rating": 0.7966047400050541,
+                                  "r_rating": 0.8014616552736727,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'So for each neuron, there's all these cell types that are being produced. And so this is a sort of the big, big goal that you would try to achieve is that I, I'll try to build a puzzle that connects them to brain oscillations, and then from there I can build another puzzle that uses these cell types. So I'm building two puzzles. I'm trying to build the second puzzle from the first puzzle. And then I'm going to work my way up.'",
+                                      "g_rating": 0.5,
+                                      "s_rating": 0.6449099779129028,
+                                      "t_rating": 0.8160324010795287,
+                                      "r_rating": 0.8160324010795287
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I am very interested in how the brain works, and the last century has given us many new tools to use. The ability to use the genetic code has given us the ability to study the function of the individual cell, the function of the circuits in each of these cells, and the function of the entire network. The ability to monitor brain activity in intact brains and to develop tools that we didn't know about has been very, very exciting. And it has been possible to study the evolution of these circuits, too, so we have actually been able to track the evolution of this brain and how it evolved to become a fully functioning cortex. So, a very exciting century. You know, it had a few more downsides, but I am fascinated by how neurons work, how neurons interact with other cells, how neurons connect. You know, how these neurons move around in the brain, the muscles, and then they go into the limbs and then you start to see how those cells work together.'",
+          "g_rating": 0.6,
+          "s_rating": 0.6385781168937683,
+          "t_rating": 0.8762317110077626,
+          "r_rating": 0.8480759708528802,
+          "children": [
+            {
+              "name": "Dr. B:'What was the most important question that neuroscience answered? What is the most important question still out there? We know enough to have a good idea of a lot of things that happen. But what is the most important insight into the function or function of the brain that the past century brought about? What is that? It could have been anything. It could have been the most exciting event, or it could just have been some mundane facts that we now see in a new depth of understanding. What is the most significant discovery within the last 80 years or so?'",
+              "g_rating": 0.5,
+              "s_rating": 0.5771467089653015,
+              "t_rating": 0.7636087503882328,
+              "r_rating": 0.7703213188217817,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, I would say that the most important, I don't know, most important discovery to science in general would have been relativity. Just to throw that out there. No, not relativity, that was a discovery, but then with the ability to record, to monitor, to record from the brain and to measure the dynamics and connectivity of neurons, I think a lot of important things we learned. We learned enough to start to understand just how complex are these circuits, but it's true that you see in many cases, even when people ask you simple questions, they don't get simple answers. Like you asked earlier about evolution, all those important details about evolution that came before and then it was clear that evolution takes place because evolution is a random mechanism, and then with the ability of scientists to understand how neurons work, I think again, more specifically how neurons work in their network connections.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5146119594573975,
+                  "t_rating": 0.7904590241224285,
+                  "r_rating": 0.7904590241224285
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The most significant insight is that there is no functional logic to nervous systems such as you find in other systems, and that neurons can act in random manners. So, you're going to have neurons firing randomly, but those interactions can have an enormous effect on the function of the central pattern generating circuits.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5982176661491394,
+          "t_rating": 0.9207955126372648,
+          "r_rating": 0.8593536662153585,
+          "children": [
+            {
+              "name": "Dr. B:'Now you can call it random at all levels. But, I'm glad you agree that this is the most significant in retrospect, especially considering current conditions. What are the things that are wrong with this picture?'",
+              "g_rating": 0.6,
+              "s_rating": 0.30929431319236755,
+              "t_rating": 0.6750281269496393,
+              "r_rating": 0.7625178745431749,
+              "children": [
+                {
+                  "name": "Dr. M:'I think at the moment, we're seeing at the moment the result of these previous ideas that were not tested and were not tested, or were not looked at in a rigorous way, and we're seeing it, and we're not seeing it because it's not the case, and it's not like hard-wired. It's not the case that the neurons, each neuron is fixed, and you don't have flexibility in the nervous system because the neurons that provide the flexibility in the nervous systems are the modulatory neurons that are sending back to the same network that they were sent from. To the original question, the original question was the question of the function of the nervous system, and there are many examples that are coming about, I mean, the function of the visual and auditory systems, the function of sensory neurons, to some degree at least. This notion of neurons acting in random ways, that wasn't even possible.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.6407796740531921,
+                  "t_rating": 1.0249871173237814,
+                  "r_rating": 1.0249871173237814
                 }
               ]
             }
@@ -4890,7 +5304,7 @@
               "g_rating": 0.8,
               "s_rating": 0.5330716371536255,
               "t_rating": 0.961335201861269,
-              "r_rating": 0.9379165172911507,
+              "r_rating": 0.9405472448712693,
               "children": [
                 {
                   "name": "Dr. M:'I'm just picking up what you're talking about because you're talking about neuromodulation and you're talking about a lot of these pathways that develop as the nervous system develops'.' Well, there still are a lot of mysteries. Yeah, I remember when we first got into this, our first paper when we first started working on this, which was a little bit like you and me, as far as the way that you're talking about how we started working on this was like the whole notion that you could understand how neurons work by using tools like electrophysiology or electrical recordings from the neurons, which didn't seem to be possible, like it seemed all of a sudden that you can understand how the nervous system works. And that's interesting because, for example, the first time that we first wrote down the equations for the model neuron was a real, actual neuron, just one cell. And it was, you know, one compartment, just like the model.'",
@@ -4941,10 +5355,24 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'That's a big question, because I would say there are some good ideas, whether or not they're wrong. For instance, it's clear that at least in a population of animals there's lots of variability. So there are a lot of variables that control your cell identity, for example. I don't know, but you just can't have the same neuron type in two different neurons, as a consequence of neuromodulation. So that's clearly something that's happening. So it's clear that neurons that will respond with the same electrical activity under different sets of environmental conditions.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5302886366844177,
+                  "t_rating": 0.8781833739012703,
+                  "r_rating": 0.8781833739012703
                 }
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'Well, really the most significant insight was made by the German biologist Carl Von Weimann because he realized that there is far more complexity in the nervous system than just reflex action. Today, we see neurons with multiple compartments with unknown inputs, circuit neurons with many inputs. We also see circuits of neurons that are not part of neural circuits. We see many different intrinsic and synaptic conductances with properties that are not defined by their synaptic inputs. We see a wide variety of receptor types and we see neuromodulators that have their receptors on neurons in many neurons. We also see neurons with many projections and neuromodulators and synaptic connections that go many different ways. So, you know, I think maybe in the future we're going to see that the most significant insight we're going to get is when we understand that the brain is more of an environment for learning and behaviour in terms of evolution and learning. Our ancestors developed into different species because they had very good brains.'",
+          "g_rating": 0.7,
+          "s_rating": 0.557104229927063,
+          "t_rating": 0.8946312776795957,
+          "r_rating": 0.8946312776795957
         },
         {
           "name": "Dr. M:'the brain changes over the lifetime of the animal, in the sense that the circuits are not pre-wired, they can be reprogrammed by neural activity, and the brain is homeostatic and self-regulatory, and it has very well-defined feedback control mechanisms.'",
@@ -4972,7 +5400,25 @@
                       "g_rating": 0.6,
                       "s_rating": 0.23211191594600677,
                       "t_rating": 0.6433319061916066,
-                      "r_rating": 0.6433319061916066
+                      "r_rating": 0.7053387277548065,
+                      "children": [
+                        {
+                          "name": "Dr. M:'we were arguing about this a while ago, and whether the brain was plastic. But I think that the first thing that we should discuss is that the brain changes. My point was that it is a changing body organ, and it is changing over the lifetime of an animal, and that it is homeostatic, that it makes sense that it would be changing...the most significant insight is that we're not all thinking that identical brains can solve identical problems, which of course, you know, the same neuron can do all kinds of different things, because cells are flexible, each neuron has many properties, so you can make a neuron do different things, so that's kind of the most significant insight that we have so far.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5518344044685364,
+                          "t_rating": 0.8913591924444063,
+                          "r_rating": 0.9180840284009467,
+                          "children": [
+                            {
+                              "name": "Dr. B:'what is the problem that we're trying to understand, then, if we're not going to start with the problem that we are going to solve? This always comes through in a funny way to a problem that you might already have in front of you. But at this end of the twentieth century, what has been happening more strongly than we, the humans have been aware of is the evolution and development of the nervous system or the brain in relation to its sensors, and what has changed more, if not all, it's the evolution of the brain network, which is a change that the brain has not only with regards to its neurons and their connectivity and their internal connectivity in time, but also in their external connectivity in the form of the connections to environment and the body and other sensory systems. And the brain has a very well-defined control systems that can affect and/or can control the activity of the neurons with a very high level of specificity within a very large brain networks'.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5970930457115173,
+                              "t_rating": 0.9982585362705677,
+                              "r_rating": 0.9982585362705677
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5034,7 +5480,16 @@
                                       "g_rating": 0.7,
                                       "s_rating": 0.5383487939834595,
                                       "t_rating": 0.88307384967705,
-                                      "r_rating": 0.88307384967705
+                                      "r_rating": 0.7044676640622347,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right.'",
+                                          "g_rating": 0.0,
+                                          "s_rating": 0.1686491072177887,
+                                          "t_rating": 0.1686491072177887,
+                                          "r_rating": 0.1686491072177887
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -5119,6 +5574,38 @@
           ]
         },
         {
+          "name": "Dr. M:'The function of the brain, as scientists have known for a century, is to create connections. Connections between all kinds of neurons. You will hear all kinds of speculation about 'the brain working' and 'the brain being important'. But that's all speculation because we don't understand the brain as function, what any brain is doing, or what a brain does. Because you have to know the connection between the structure and function within a brain, and what is most important is knowing what you know. And the function of the individual neurons, and what they do, because the neurons are, the neurons are so very important, because everything you hear about the brain and the brain's function is coming from the fact that the brain has neurons. Right. And by definition, the neurons have their connections, and the number of connections is important, and the connectivity between those different cells is important, and that connectivity is actually, is fundamental to understanding all kinds of brain-based behavior.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5793737769126892,
+          "t_rating": 0.9086660406189254,
+          "r_rating": 0.9146832454798504,
+          "children": [
+            {
+              "name": "Dr. B:' What new insights did we learn about the function of neurons? And connections? We learned that neurons have their axons and their boutons. And these are called synapses or, it is, it would like like to say that these are the things that link neurons together into neuronal syntax. And in this framework, it is quite easy to link together the many different types of neurons across the brain into assembly sequences that are needed for many things. For example, in the hippocampus of the brain, the temporal segmentation of neuronal syntax has a characteristic length of about 250 milliseconds that is needed for a large number of the computations that are needed in memory consolidation, imagination, planning, and decision-making. So there is a fundamental importance to segmenting and sequencing neuronal syntax into the appropriate length of assembly sequences necessary to perform their desired function.'",
+              "g_rating": 0.6,
+              "s_rating": 0.7141388654708862,
+              "t_rating": 0.932734860062625,
+              "r_rating": 0.9320989834318552,
+              "children": [
+                {
+                  "name": "Dr. M:'So when a cell is born, a cell is specified for its size, its location, and it's identity. But then in the developing brain, these cells are growing, and as they grow, they change their properties, and those properties, are not fixed when the cell is born. Right?'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4746113717556,
+                  "t_rating": 0.9301913535395459,
+                  "r_rating": 0.9301913535395459
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Two I think most significant insights are the understanding that the number and properties of neuron types that can constitute a network can be regulated in a homeostatic fashion as a function of environmental conditions...but also understanding that the brain has a robust mechanism to protect it from the influence of neuromodulators, and that neuromodulators can evoke a diverse set of responses...which I find particularly impressive.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5892338752746582,
+          "t_rating": 0.9149844587593777,
+          "r_rating": 0.9149844587593777
+        },
+        {
           "name": "Dr. M:' The first studies of neural structures, the first studies on the stomatogastric nervous system. Not understanding that all neurons are not electrically coupled, that some neurons can fire before other neurons, that all neurons have a different pattern of voltage-dependent currents, that a long-term activity pattern of neuronal circuits can be altered and that we can reconfigure circuits by changing their neuromodulators has changed how we understand what the brain does. It has changed everything about the brain.'",
           "g_rating": 0.7,
           "s_rating": 0.6047860980033875,
@@ -5137,7 +5624,102 @@
                   "g_rating": 0.8,
                   "s_rating": 0.627892017364502,
                   "t_rating": 1.0169800319918105,
-                  "r_rating": 1.0169800319918105
+                  "r_rating": 1.0055589935512423,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So the challenge is to use those techniques of understanding circuits and connect them with the brains' output. I understand that this is a very difficult task and the only solution is to understand the neural syntax and to figure out which part of the syntax that we have to figure out. However, it would be really good if you could suggest what steps we can take to advance our understanding today. For example, how can we, with all the knowledge we have, determine which aspects of the brain syntax should be studied? Do we have to be using optogenetics and silicon probes to study the syntax, or maybe the syntax could be studied without the tools we have right now? We only have to understand these circuits and explain them, but then the only way forward is to figure out the syntax first by using the tools available.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.6733614802360535,
+                      "t_rating": 0.9712958782295378,
+                      "r_rating": 0.8241706397099973,
+                      "children": [
+                        {
+                          "name": "Dr. M:(Interlude: I agree and disagree.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.23776449263095856,
+                          "t_rating": 0.3827949241513753,
+                          "r_rating": 0.4762583296519982,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Then there's disagreement. Now, there is no need for me to tell you that neuroscience is a fascinating field. I'm sure you are aware that the discovery of the genetic code and its role in molecular biology revolutionized the world. At the same time, the discoveries of molecular biology transformed neuroscience. Today, we have the tools that are needed for a second era of molecular biology/neuroscience that can create even more interesting solutions. So the big challenge is not only to understand the neural syntactical rules that are expressed in various brain rhythms, but to understand how those specific neural syntax can be used to generate specific patterns in the brain. Understanding how neural syntax could be used towards such a goal would be the big advantage of science. But, as just mentioned, all those technical details we have to understand require the implementation of more modern techniques such as optogenetics and high-density probes.'",
+                              "g_rating": 0.2,
+                              "s_rating": 0.7297376394271851,
+                              "t_rating": 0.7566485461538669,
+                              "r_rating": 0.7566485461538669
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'When we looked into the brain, we found that it is not a simple mechanism, but a complex series of mechanisms, each with a small subset of neurons, each with a separate electrical and chemical composition and an entirely separate set of physiological properties from all the other neurons of the brain. Every neuron is its own unique cell. We discovered that every neuron was a separate unit, separate from all other neurons in the brain, each uniquely defined, and each with a small number of properties, but each with enough unique properties to determine how that part of the brain would function. Of course we had anticipated that the brain had cells with unique properties, and our original interest had been in understanding the properties of different neurons, but these unique properties of neurons lead us to appreciate that these neurons aren't just components that get put together, but they contain their own unique machinery. Neurons do not just join together to form networks, but they are active participants in the circuits they are part of.'",
+          "g_rating": 0.8,
+          "s_rating": 0.6523988246917725,
+          "t_rating": 1.0322907664312444,
+          "r_rating": 0.926832766422847,
+          "children": [
+            {
+              "name": "Dr. B:'What do we know today about neural syntax (neural syntax)? Do we know more about neural syntax than a hundred years ago? What do we know about syntax today that was not known in the last century and what do we not know about syntax that we did not know in the previous century?'",
+              "g_rating": 0.3,
+              "s_rating": 0.5316576957702637,
+              "t_rating": 0.6104587663976546,
+              "r_rating": 0.6598823756860064,
+              "children": [
+                {
+                  "name": "Dr. M:'It's a great thing that you should ask. The answer is yes, and the answer will be yes again in a hundred or two hundred years. It's amazing we started studying neural syntax. We started studying neural syntax around the time that we started learning how to decipher Greek scripts. We started studying the human brain in the 19th century, so it was quite late in our evolutionary history that we realized that all cells in our nervous systems need to be individually and specifically regulated, because neurons don't just sit there and take up space. They need to be regulated, and regulated at a fine level of detail, which was not possible to do with the old models.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.6349107027053833,
+                  "t_rating": 0.8081532035510616,
+                  "r_rating": 0.7919291609377377,
+                  "children": [
+                    {
+                      "name": "Dr. B:'How do we study syntax? What are the big questions? What's being done in research? What are the current paradigms? What is the current strategy? Why should we be studying grammar. We don't have to study syntax of, or grammar of neurons, but rather a brain, with a mind. That can be a huge challenge, but not necessarily so expensive. We can look for mechanisms and use our experimental findings as an anchor for theoretical research, which can be conducted either with neuroimaging or in other laboratories. What do we need to understand in order to understand? What do we want to understand? I don't have to understand the brains hardware, but it wouldn't be impossible if we understand how the circuits work together. And it should be obvious, but it isn't: what do we know about neural syntax if we want to understand how the circuits works together? I've read a book recently about the neural syntax of the brain, which I liked very much.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.6264431476593018,
+                      "t_rating": 0.7432570330977661,
+                      "r_rating": 0.7432570330977661
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, the most significant insight from the last century is the concept of homeostasis, which was really sort of brought into neuroscience by Paul Marder.'",
+          "g_rating": 0.9,
+          "s_rating": 0.5957650542259216,
+          "t_rating": 1.079322009335868,
+          "r_rating": 0.9379312071252942,
+          "children": [
+            {
+              "name": "Dr. B:'Who was Paul?'",
+              "g_rating": 0.5,
+              "s_rating": 0.11810209602117538,
+              "t_rating": 0.513758800493573,
+              "r_rating": 0.5643601316311119,
+              "children": [
+                {
+                  "name": "Dr. M: 'Paul Marder is from the Bernstein Neurophysiological Programme in the 1980's in Heidelberg. He was a young assistant to my mentor, Hans Bergers, and at that time, the most prominent thing in neuroscience was the relationship between the brain state and brain function. They would often have long dinners in which we would discuss whether we ought to take it as a fact that the cortex is always at a certain level of excitability. My mentor, Hans Berger, was already extremely cautious about that. After dinner, we would go down to where Bergers had his laboratory located. We had to climb up his stairs up to the laboratory. All we could see was the back wall. For me, the most fun part of those sessions was when Bergers would take out his sledgehammer and strike at the wall. At age thirteen, I asked him why he could not ask his neighbor to break it open for me.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.6503007411956787,
+                  "t_rating": 0.7161641250437284,
+                  "r_rating": 0.7436011862821805,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Were you afraid of him doing this because you were a little kid who had to ask permission for things?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.20525896549224854,
+                      "t_rating": 0.8259123699975368,
+                      "r_rating": 0.8259123699975368
+                    }
+                  ]
                 }
               ]
             }
@@ -5151,18 +5733,81 @@
           "r_rating": 0.9508660406296259,
           "children": [
             {
-              "name": "Dr. B:'Can you elaborate a little bit?'",
-              "g_rating": 0.6,
-              "s_rating": 0.25865891575813293,
-              "t_rating": 0.653379242631087,
-              "r_rating": 0.653379242631087
-            },
-            {
               "name": "Dr. B:'Does the brain have a language? Is it a machine? What are the principles? How does the brain learn? How do machines learn?'",
               "g_rating": 0.4,
               "s_rating": 0.5240716934204102,
               "t_rating": 0.6592807746662543,
               "r_rating": 0.6592807746662543
+            },
+            {
+              "name": "Dr. B:'Can you elaborate a little bit?'",
+              "g_rating": 0.6,
+              "s_rating": 0.25865891575813293,
+              "t_rating": 0.653379242631087,
+              "r_rating": 0.685847637834668,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, you know, when a neuron is working well, there is a network of interacting cofactors that give each neuron its identity, and then when the network is damaged, then you know this process can flip, and then the neurons, all of their intrinsic properties can flip to become, maybe even more extreme? So they could be something that is very different.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5034729242324829,
+                  "t_rating": 0.7832528234454106,
+                  "r_rating": 0.7779419821731514,
+                  "children": [
+                    {
+                      "name": "Dr. B:\"Even more different, yeah, as in the case where a neuron is damaged and then it can be much more difficult to say 'Oh, oh, what kind of personality will this neuron become'?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.46974292397499084,
+                      "t_rating": 0.7620094583563737,
+                      "r_rating": 0.8034215004916432,
+                      "children": [
+                        {
+                          "name": "Dr. M: So in some cases, it might be more useful to characterize neurons, or to describe the neurons that you see in your patients by kind of a cartoon-like, you know, picture and then saying 'Oh, this is a normal neuron, this is a kind of a pathological, this is a neuron that's very, very different.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.4696260988712311,
+                          "t_rating": 0.9276576268974516,
+                          "r_rating": 0.8543443324671741,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Do you agree that's a good approach?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.2060800939798355,
+                              "t_rating": 0.634404449176342,
+                              "r_rating": 0.6200805446530527,
+                              "children": [
+                                {
+                                  "name": "Dr. M:-'I'm not sure. I think it would depend on how good and reliable the data is to describe and draw from, and I'm not sure how good that is. It would be hard to just say now, that the problem is, you know, there are many different things about to neurons. It depends to which aspects of the neuron we look at because every aspect of the neuron has so many dimensions that there is a different dimension that's very telling and unique to those neurons, that those are, it gives away important information or important information.'",
+                                  "g_rating": 0.2,
+                                  "s_rating": 0.5413451790809631,
+                                  "t_rating": 0.5771088310831849,
+                                  "r_rating": 0.5817009967895285,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Okay. Here's what is it that these neurons are actually doing or doing. Please go ahead.'",
+                                      "g_rating": 0.3,
+                                      "s_rating": 0.5143864750862122,
+                                      "t_rating": 0.5954774939085593,
+                                      "r_rating": 0.6548604113561342,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:\"So the first thing is to explain a little, but here are some questions. So, there are questions that are, but there are also other questions that, well, these are just sort of a broad class. One of the main classifying dimensions that we have is a neuron's orientation or the degree of divergence and or convergence of their axonal processes. There's a very broad dimension. For instance, one dimension has to do with their pattern of dendritic and axonal coverage.'",
+                                          "g_rating": 0.6,
+                                          "s_rating": 0.577844500541687,
+                                          "t_rating": 0.8330091636988586,
+                                          "r_rating": 0.8330091636988586
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "Dr. B:'Yeah, but at some point the plasticity of neurons ceases, at which point it turns back to hard-wired, right?'",
@@ -5442,7 +6087,16 @@
                       "g_rating": 0.4,
                       "s_rating": 0.3194071650505066,
                       "t_rating": 0.5118798072649493,
-                      "r_rating": 0.5118798072649493
+                      "r_rating": 0.554405446903145,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh no, no, no. Because there are always going to be cells that are going to be doing something different. Like neurons that are always going to contribute because they have a certain type of action. So, in an interesting sense, we don't fit together. We can't be in a special group. We're all individuals. And so, you know, these different neurons are going to contribute, because they're going to make circuits that are going to behave as individuals, and to make circuits with different properties. And, and of course, every neuron has a number of different components, and you know many, many, many different molecules that contribute to its function. So, you know, what I would say is that we're going to be individuals, which is good, because it allows us the freedom to be who we are. But, we're also part of a group.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.4637886881828308,
+                          "t_rating": 0.6819823658177322,
+                          "r_rating": 0.6819823658177322
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:'How could such a complex system have emerged from randomly? What was the process by which the hippocampus would emerge? How would it be possible for it to develop from nothing? Would the hippocampus begin to exist? Or, it would it just be an embryonic structure. If the hippocampus would have developed as an embryonic organ, I would say that it's important to talk about it because then one can go from the embryonic state to the birth of a child, and I wonder if we ever think about how the brain evolves back from there? Where do we stop?'",
@@ -5728,6 +6382,13 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Dr. B:'What do we understand today about the function of neurons and circuits?'",
+              "g_rating": 0.7,
+              "s_rating": 0.6494536995887756,
+              "t_rating": 0.9548770119285246,
+              "r_rating": 0.9548770119285246
             }
           ]
         },
@@ -5743,7 +6404,7 @@
               "g_rating": 0.7,
               "s_rating": 0.5120639204978943,
               "t_rating": 0.8673000972418219,
-              "r_rating": 0.8657611529267943,
+              "r_rating": 0.8903818730906486,
               "children": [
                 {
                   "name": "Dr. M: 'I think it's very exciting, and I'm very optimistic, too, that neuroscience is going to be able to make much more progress on how to understand the brain, the minds, and not stop and worry about the details. I mean, these are some of the hard questions in science. And we're going to go on about neuroscience's future for many years. And we might come to different answers, but it doesn't matter how we get here. We just need to move forward. The important thing is to get into the brain, the brain in its own environment and to observe what it's doing.'",
@@ -5764,7 +6425,75 @@
                           "g_rating": 0.3,
                           "s_rating": 0.18245354294776917,
                           "t_rating": 0.35112575430206405,
-                          "r_rating": 0.35112575430206405
+                          "r_rating": 0.34781238838717,
+                          "children": [
+                            {
+                              "name": "Dr. B:'OK. I'm not sure that you'd want to respond to these more general questions, but I may push this a little further: what are the biggest obstacles?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.15542742609977722,
+                              "t_rating": 0.33787229064248775,
+                              "r_rating": 0.4709216100019762,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I'm very curious, because they're many, many things that come into play with any animal. And the first thing you know that we think about is, oh my God, if we study an animal that is highly sophisticated, the complexity of that system and how it interacts with the rest of the body and how the behavior evolves over time. And with an animal that is more or less typical, one that's not an extreme outlier, like an animal that is going to evolve into something different, you realize that each behavior is unique to a specific animal. And it may have different strengths and weaknesses and so forth. So I think the hard part is just to find animals whose brains have been evolutionarily tuned to do whatever some brain function requires. What makes them the most interesting? For example, that makes it easier to study the role of neurons, the role of synapses, and the role of hormonal systems.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.5167407989501953,
+                                  "t_rating": 0.8700695680804416,
+                                  "r_rating": 0.8700695680804416
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Oh, I think our biggest insight into the function the central pattern generating circuits are, what are referred to as the pacemaker systems. Right? These are systems that produce rhythmic oscillations. We always talk about biological pacemaker neurons as small isolated central pattern generating networks that generate rhythmic oscillations, and it's this pacemaker group, the pacemaker group that is very small, not many neurons, and has the ability to control the rhythmic generation of an oscillation by the larger neuron groups that drive the larger circuits, the large circuits.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5656269192695618,
+                  "t_rating": 0.8999632280278874,
+                  "r_rating": 0.870995591089311,
+                  "children": [
+                    {
+                      "name": "Dr. M:'It allows the larger circuits to function correctly despite this complex interactions of the components, because if something goes wrong in the small pacemaker network or in each of the neurons that contribute to that pacemaker network, then the whole larger circuit will be disrupted as well.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.35327231884002686,
+                      "t_rating": 0.7840926802735819,
+                      "r_rating": 0.7840926802735819
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Yeah, well, I think it's that we have found many novel ways to observe the brain with single probes. We have discovered more or less the components that are there that allow the brain to function correctly. We have discovered many more or fewer that allow us to do basic neuroscience tasks, for example, to understand how neurons fire in different classes of behavior. So we've learned a lot of fundamental principles and techniques that allow us to manipulate the activity, the connectivity, the synapses in the brain to understand these fundamental principles and principles which you have to understand if you want to understand the brain.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.529985249042511,
+                  "t_rating": 0.9596272006371289,
+                  "r_rating": 0.9592058019329298,
+                  "children": [
+                    {
+                      "name": "Dr. M: So, the fact is that we really don't know enough about the brain yet. We understand that the brain is made of different components, and we can find and find a few pieces and try to understand in terms of their interactions. But, we know, for example, you've seen my husband, he has a pacemaker that sits inside his stomach; okay.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5269270539283752,
+                      "t_rating": 0.9579416058203324,
+                      "r_rating": 0.761996346841808,
+                      "children": [
+                        {
+                          "name": "Dr. B:'Yeah.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.17416056990623474,
+                          "t_rating": 0.17416056990623474,
+                          "r_rating": 0.37345817855752006,
+                          "children": [
+                            {
+                              "name": "Dr. M:'And so it's got a lot of different things going on, so we have to find new things, new ideas to understand how the brain and its components interact, how each member of the brain interacts with each other, how they contribute to the processing of information.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5509290099143982,
+                              "t_rating": 0.971351004511376,
+                              "r_rating": 0.971351004511376
+                            }
+                          ]
                         }
                       ]
                     }
@@ -5802,6 +6531,22 @@
                       "t_rating": 0.982310340041829,
                       "r_rating": 0.980655255304055,
                       "children": [
+                        {
+                          "name": "Dr. M:'So the first thing is that neurons, in general, each neurons has many functions: neurons have a voltage-dependent membrane conductance, they have an ionic current. They are electrically coupled with other neurons, and they have synaptic connections with other neurons. So each neuron has a large spectrum of functions and you can have as many of those. In general, neurons can get activated by many sensory modalities and these different modalities may have many different signalling molecules that can activate these different pathways or pathways. You know, in general, for the nervous system to work, it needs to get rid of a lot of different stuff. In general, the brain has to be very efficient, and so it's constantly trying to do its optimisation.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5386991500854492,
+                          "t_rating": 0.8063477998375052,
+                          "r_rating": 0.7341964934318627,
+                          "children": [
+                            {
+                              "name": "Dr. M:'. It is, and it's always balancing this and this against this. In general, we think of synapses as being bidirectional.'",
+                              "g_rating": 0.0,
+                              "s_rating": 0.5177425742149353,
+                              "t_rating": 0.5177425742149353,
+                              "r_rating": 0.5177425742149353
+                            }
+                          ]
+                        },
                         {
                           "name": "Dr. M:'So you're really asking about networks, and I think that might be the most important insight, is not that it has a segmented and dynamic networked representation per se, which is extremely well known, and I don't think that's really at the level that you're asking. So network, you're asking about networks of neurons that are active together, so is they have connections to both cells that are different or that have connections from different modulatory neurons. And so many of the network functions that we know are important are actually the network architecture, the dynamics of the networks themselves. They require that the nodes of the networks have connections to other modules that then make them responsive to the changes, so for example in terms of networks, say how many neurotransmitters do you know that are released by different neurons and influence the brain circuitry. Not just one but probably more than one. The neural syntax has to be well organized in terms of the interactions between neurons.'",
                           "g_rating": 0.8,
@@ -5843,6 +6588,13 @@
               ]
             },
             {
+              "name": "Dr. B:'Is that because the systems have some autonomy or independence that can be studied and understood, or is that more because the most significant insight to be explored in the next century is what is the function of the system? What is its goal, its function?'",
+              "g_rating": 0.7,
+              "s_rating": 0.3319244384765625,
+              "t_rating": 0.7747088697426804,
+              "r_rating": 0.7747088697426804
+            },
+            {
               "name": "Dr. B:'What is the most important insight of the last century?'",
               "g_rating": 0.7,
               "s_rating": 0.31238850951194763,
@@ -5875,7 +6627,25 @@
                               "g_rating": 0.8,
                               "s_rating": 0.5489620566368103,
                               "t_rating": 0.9702367441129596,
-                              "r_rating": 0.9702367441129596
+                              "r_rating": 0.8937121358731817,
+                              "children": [
+                                {
+                                  "name": "Dr. B:'I think that's what I'm trying to ask, the big question is how do we make decisions with due consideration and consideration is what we value most. In this sense, it's not a, like, you could say what really is the answer to a, a, a practical decision? What is the, an economic model for the, a, a decision? One decision would be whether to save or to let go. What's the economics of that? What is the brain economics? I'm not, I'm not proposing to make up new words for the brain science and the economics, but I would say it is, right? It is a system that is complex, and so maybe the way to view it is as a system, and it can make decisions, but it really depends on how you go about it.'",
+                                  "g_rating": 0.5,
+                                  "s_rating": 0.43712663650512695,
+                                  "t_rating": 0.664138311153848,
+                                  "r_rating": 0.6158597619963481,
+                                  "children": [
+                                    {
+                                      "name": "Dr, M: 'I agree, I concur. It is that.'",
+                                      "g_rating": 0.4,
+                                      "s_rating": 0.24872417747974396,
+                                      "t_rating": 0.4710241145238481,
+                                      "r_rating": 0.4710241145238481
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
@@ -5968,6 +6738,22 @@
           "r_rating": 1.0077852949785866,
           "children": [
             {
+              "name": "Dr. B:'So what is the \"neural syntax\"?'",
+              "g_rating": 0.3,
+              "s_rating": 0.6043117642402649,
+              "t_rating": 0.6746797080090533,
+              "r_rating": 0.7001838054380602,
+              "children": [
+                {
+                  "name": "Dr. M:'So what is neural syntax, the neural syntax is the way in which neurons connect to one another. Not like a line or a line-like connect, but in a grid. To produce a picture, an image in the cortex. To produce a pattern, a shape. You know, like an animal. When you write a sentence. Like how you read a sentence and the brain looks through. Just to produce a pattern. So it wasn't that neurons just sit there and fire all at the same frequency. It has to be a complex interaction between the frequency in the neuron and also the network.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.6657753586769104,
+                  "t_rating": 0.7766960977250811,
+                  "r_rating": 0.7766960977250811
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'What is the most important insight that we have, and what is the most significant breakthrough since the 1950s? Is it the discovery of how the hippocampus works, the fundamental organization of the brain? What is the most important understanding? Do we still need to ask this question in 2050, 2021? How is it different? That is, what have we accomplished in the past 10 years in neuroscience that might be considered significant breakthroughs in the way forward?'",
               "g_rating": 0.8,
               "s_rating": 0.5312339663505554,
@@ -5979,7 +6765,7 @@
                   "g_rating": 0.7,
                   "s_rating": 0.5423519611358643,
                   "t_rating": 0.8855199883390087,
-                  "r_rating": 0.8229017595292892,
+                  "r_rating": 0.89690278208047,
                   "children": [
                     {
                       "name": "Dr. B:'Is it different? Is it fundamentally different? What are the differences? Is it fundamentally fundamentally different in terms of how we look at the brain, looking at the human brain? Is it fundamentally the same? What are the fundamental similarities? Is it fundamentally similar? The same fundamental similarities? Is there fundamental similarity? What really matters is what we can do in the lab, whether that be in a rodent, in a monkey, in a human-to-human process, is that a fundamental similarity or a fundamental difference. Is there fundamental similarity between human and mouse circuits? Is there major similarity here? Can the insights that we have be taken to the next level? To the next level. Now, I can look at this differently, a more practical question. And I'm sure Dr. M would agree with me. Should we use the mouse as the focus as a tool to pursue new research directions, even if the mouse is not the best tool to understand human minds?'",
@@ -5993,22 +6779,38 @@
                           "g_rating": 0.7,
                           "s_rating": 0.29261094331741333,
                           "t_rating": 0.7586970173587784,
-                          "r_rating": 0.7586970173587784
+                          "r_rating": 0.7800417884875533,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Then, I guess, what this could mean is that it would require a long restorative process or that there's already evidence, and an explanation for this that needs to be discovered. Or is it more practical? And there's a way that you would proceed. Or not proceed. Is it more practical? So, I have several interesting ideas and interesting question. Is it more appropriate to go ahead and use the same kind of methods as in the past in a new approach, or would you be more practical to take a new approach altogether. It is more practical. What are the options? What are the best choices? Is it more appropriate for a new approach to be in the field? I don't know. Is the mouse appropriate for that kind of a question?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.23241497576236725,
+                              "t_rating": 0.5513771131980559,
+                              "r_rating": 0.5513771131980559
+                            },
+                            {
+                              "name": "Dr. B:'Well, maybe it's not so important. The mice are not going to spend their entire life in a coma, paralyzed and unable to move. We put them back to normal function, and then we can start to understand these mice and study in larger sets of mice the mechanisms by which these things will occur. And that's what we're spending the time doing in the laboratory. And there are things that we can do in a mouse that cannot be done, or not very well, in other more complex mammalian subjects. And our approach is this: how in the mouse are these issues going to be resolved? Do we have to spend a lifetime and die young because there's not enough time there to do that? Or do we have the time now to do work that goes beyond the brain? Beyond the single neuron and how it works. It's important. It's important work. We have to do it. We have to see where this goes.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.47166138887405396,
+                              "t_rating": 0.8440761018738782,
+                              "r_rating": 0.8440761018738782
+                            }
+                          ]
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'Who has the right to be recognized as a major intellectual of the twentieth century? Who is the person who made the most significant breakthrough regarding the function of the hippocampus in neuroscience? Who is he? I mean, there isn't a list, but the list is very big. And who the right to be on this list will be is hard to answer. Maybe it's me. Just because we're both very important. Maybe one of us. Maybe it's another one of us who are also very important. There may be a few people who you think are significant who happened to be born at different times. And there may be a few who you don't, but if you have the list, it really varies a lot, from person to person. And this is because the list is just as large as the list is wide. There are individuals who are as special as a mountain, and there are individuals who might get a bit less recognition. What is the scientific method?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.47629430890083313,
+                      "t_rating": 0.9310511633048543,
+                      "r_rating": 0.9310511633048543
                     }
                   ]
                 }
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'When we looked into the brain, we found that it is not a simple mechanism, but a complex series of mechanisms, each with a small subset of neurons, each with a separate electrical and chemical composition and an entirely separate set of physiological properties from all the other neurons of the brain. Every neuron is its own unique cell. We discovered that every neuron was a separate unit, separate from all other neurons in the brain, each uniquely defined, and each with a small number of properties, but each with enough unique properties to determine how that part of the brain would function. Of course we had anticipated that the brain had cells with unique properties, and our original interest had been in understanding the properties of different neurons, but these unique properties of neurons lead us to appreciate that these neurons aren't just components that get put together, but they contain their own unique machinery. Neurons do not just join together to form networks, but they are active participants in the circuits they are part of.'",
-          "g_rating": 0.8,
-          "s_rating": 0.6523988246917725,
-          "t_rating": 1.0322907664312444,
-          "r_rating": 1.0322907664312444
         }
       ]
     }
