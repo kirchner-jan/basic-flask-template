@@ -4069,7 +4069,34 @@
                           "g_rating": 0.8,
                           "s_rating": 0.37801238894462585,
                           "t_rating": 0.8848126164310854,
-                          "r_rating": 0.8848126164310854
+                          "r_rating": 0.8069886991064106,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Now, this is what you're saying is, right? In case you don't remember my question.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.2809300422668457,
+                              "t_rating": 0.5735169471323858,
+                              "r_rating": 0.6698608973167353,
+                              "children": [
+                                {
+                                  "name": "Dr. M: 'The reason you want to connect the brain is not because you want to connect those circuits to those modules that you are talking about, but because, if once you have connected those to my module with higher order cognition, then you can make the connections between, or relate those to the things that you're trying to understand, which is what you want. And this is what your higher order cognitive is.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.6553436517715454,
+                                  "t_rating": 0.9588927478697837,
+                                  "r_rating": 0.9694811699486754,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B: 'I want to understand how you can solve a problem with the network as a whole. Because there are modules in the brain, and there are higher order functions, and then there are the problems, which are about how those two relate to each other. But the higher-order function is about what it is that is doing, rather than what it is, it's about how it operates. And that could be your mechanism.'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.6020750999450684,
+                                      "t_rating": 1.00124643618535,
+                                      "r_rating": 1.00124643618535
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
