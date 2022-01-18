@@ -10,7 +10,7 @@
       "g_rating": 0.5,
       "s_rating": 0.49391570687294006,
       "t_rating": 0.7028177043130004,
-      "r_rating": 0.7172576392704741,
+      "r_rating": 0.7564589643922253,
       "children": [
         {
           "name": "Dr. M:' How much data you gather may be influenced by your prior knowledge, that is just a kind of fundamental principle of inference that every psychologist has learned.'",
@@ -34,6 +34,56 @@
                   "r_rating": 0.7565037631902187,
                   "children": [
                     {
+                      "name": "Dr. B:' Is it possible to build-in enough data to simulate the effect of a drug on brain activity? How far down into the brain can we go and still tell the truth about how a drug works?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4577217698097229,
+                      "t_rating": 0.7546583455827842,
+                      "r_rating": 0.8108216986304387,
+                      "children": [
+                        {
+                          "name": "Dr. M:' So the brain is very complex, it is always changing, and it is always changing its neural state, and a drug can have different effects on different animals. For us, I mean, I would love to be able to experimentally manipulate single units, like the voltage-clamp experiment that you did in the past, but at the same time the brain is an integrated network, it's always on. So I would love to experiment with single units, but I would not want to be able to control the entire brain because it's a lot of data and you could collect it from an individual brain, but you could also collect it from many brains.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5648464560508728,
+                          "t_rating": 0.9793117577734022,
+                          "r_rating": 0.9755007449027322,
+                          "children": [
+                            {
+                              "name": "Dr. B:' Are you thinking there might be a way to do this? To manipulate neural activities to test out models of how drugs work, but not actually manipulate brain function? This would be difficult, right? There's a lot of people being targeted by drugs, is this what you're thinking?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.47061920166015625,
+                              "t_rating": 0.7625499544103604,
+                              "r_rating": 0.7196215842313228,
+                              "children": [
+                                {
+                                  "name": "Dr. M:' Yes, exactly. So I think that in the end we will need to develop a way of measuring what is going on in brain activity during drug or stimulation, because this is very difficult, and I think there is a real problem here to be solved. But that's the problem that we're going to have to solve for sure, because you're going to see drugs with effects that you wouldn't expect, and then you're going to ask, 'How did this happen?'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.5090066194534302,
+                                  "t_rating": 0.5908364736942101,
+                                  "r_rating": 0.5867333642584306,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B: 'So are you trying to say there are different drugs that will show different behaviours in brain states?'",
+                                      "g_rating": 0.4,
+                                      "s_rating": 0.4122656583786011,
+                                      "t_rating": 0.574424035951092,
+                                      "r_rating": 0.574424035951092
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:' And I don't want to manipulate every part of the brain, but rather I would like to manipulate a small portion of the brain that allows me to observe a large number of brain circuits. Then I will ask further questions like what happens to the rest? How can the individual circuits and systems be manipulated? And if it is possible at all to control how the brain works in this way, then what is the point of manipulating the brain? That's what I'm really interested in.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.537983775138855,
+                              "t_rating": 0.9640677062907222,
+                              "r_rating": 0.9640677062907222
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "name": "Dr. B:' How do we deal with the idea that we should not ignore information when we get it? In fact, how do we deal with information when we get the information can be built on top of this prior knowledge? A good example is learning mathematics, or statistics at a very young age, when it comes in, and this is a process, but this process is a sort of a process of building up knowledge and then knowledge can be used later in life for example, to make more accurate predictions or even to make more creative judgments. How do we deal to deal with this kind of process?'",
                       "g_rating": 0.8,
                       "s_rating": 0.3440617322921753,
@@ -45,7 +95,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.27521035075187683,
                           "t_rating": 0.660106610450896,
-                          "r_rating": 0.660106610450896
+                          "r_rating": 0.7106636807790738,
+                          "children": [
+                            {
+                              "name": "Dr. M:'I'll probably agree with [Dr. Buzsak] on that. I agree with [Dr.] Buzsaki. But let me back up on that. What I mean is a lot of time you read papers, particularly neuroscientist papers, and you read a paper and you see some new technique and everything is exciting, the whole model is new, something is cool, but unless you have the full idea of the model, you may just be reading the results. But it's like building a house on what you can see clearly, and if they haven't built a house around every foundation, it will just collapse. The house will fall down. Okay? So then it's like trying to build something, a house on something you can see. So you need the whole idea of the rest of it, because you need the whole rest of it to go with the new parts, and it's like any new piece of equipment is the first time you use it.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.6193718314170837,
+                              "t_rating": 0.8623348917636073,
+                              "r_rating": 0.8623348917636073
+                            }
+                          ]
                         }
                       ]
                     }
@@ -54,6 +113,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'That is a complex question that is the basis of many of what we study in this lab. So, let me ask you, just what does this study suggest?' Okay, I'll ask you a more direct and simple question. 'How does the neural circuit use prior knowledge to maintain stability and behavior despite all of the external influences that can change the network?'",
+          "g_rating": 0.7,
+          "s_rating": 0.5929511785507202,
+          "t_rating": 0.9173827446298999,
+          "r_rating": 0.9173827446298999
         }
       ]
     },
