@@ -1,23 +1,22 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-<div style="width:800px; margin:0 auto;">
-    <title>{{ new_data['html_title'] }}</title>
-    <div class="row">
-      <div class="column">
-            <img src="{{url_for('static', filename='left_col.png')}}" align="middle" />
-      </div>
-    <div class="column">
-    {% autoescape false %}
-    <p>{{ new_data['history'] }}</p>
-    {% endautoescape %}
-      {%for ii , cname in enumerate(new_data['children_name'])%} 
-        <p><a href="/explore/{{new_data['treeloc']}}/{{ii}}">>>></a> {{ cname }}</p> <br><br>
-      {%endfor%} 
-    <a href="/" style="color: inherit;text-decoration: none;">
-      <input type="submit" value="Start over." name="reset"/> <br>
-    </a>
-      </div>
-    </div>
+<div class="row">
+  <div class="column">
+        <img src="{{url_for('static', filename='left_col.png')}}" align="middle" />
   </div>
+<div class="column">
+    <div style="width:800px; margin:0 auto;">
+        <title>{{ new_data['html_title'] }}</title>
+        {% autoescape false %}
+        <p>{{ new_data['history'] }}</p>
+        {% endautoescape %}
+        {%for ii , cname in enumerate(new_data['children_name'])%} 
+            <p><a href="/explore/{{new_data['treeloc']}}/{{ii}}">>>></a> {{ cname }}</p> <br><br>
+        {%endfor%} 
+        <a href="/" style="color: inherit;text-decoration: none;">
+          <input type="submit" value="Start over." name="reset"/> <br>
+        </a>
+    </div>
+</div>
 {% endblock %}
