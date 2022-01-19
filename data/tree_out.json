@@ -6,6 +6,22 @@
   "r_rating": 1.1552514260790236,
   "children": [
     {
+      "name": "Dr. B: 'What is the primary function of the brain?'",
+      "g_rating": 0.6,
+      "s_rating": 0.4621029794216156,
+      "t_rating": 0.7573236848206545,
+      "r_rating": 0.8043690235709764,
+      "children": [
+        {
+          "name": "Dr. M:'When we take the brain and we dissect it, we find it's got many different pieces and they interact with each other.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5039640665054321,
+          "t_rating": 0.9455050398219418,
+          "r_rating": 0.9455050398219418
+        }
+      ]
+    },
+    {
       "name": "Dr. B: 'What is neuroscience?'",
       "g_rating": 0.5,
       "s_rating": 0.5459738969802856,
