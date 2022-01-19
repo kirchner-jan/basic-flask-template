@@ -10,7 +10,7 @@
       "g_rating": 0.5,
       "s_rating": 0.5459738969802856,
       "t_rating": 0.7403293160370185,
-      "r_rating": 0.8049745283354455,
+      "r_rating": 0.8102796853901858,
       "children": [
         {
           "name": "Dr. M:'We study the nervous system. We're trying to understand how neurons and circuits function in the nervous system. So, we study the nervous system, and we study how the brain works. We're studying all aspects of the nervous system, including its structure, its activity, its development, its function, and how it's built.'",
@@ -38,6 +38,13 @@
           ]
         },
         {
+          "name": "Dr. M:'What is neuroscience? In a very simple way, neuroscience is understanding how the brain works. In a really complex way, it's understanding how we think.'",
+          "g_rating": 0.2,
+          "s_rating": 0.5394721627235413,
+          "t_rating": 0.5753522524103082,
+          "r_rating": 0.5753522524103082
+        },
+        {
           "name": "Dr. M:'What is neuroscience? I don't know what it is, I think it means, really, we understand how the neurons are connected.'",
           "g_rating": 0.2,
           "s_rating": 0.5426201224327087,
@@ -49,7 +56,25 @@
               "g_rating": 0.5,
               "s_rating": 0.2985539734363556,
               "t_rating": 0.5823525350289429,
-              "r_rating": 0.5823525350289429
+              "r_rating": 0.6041558882475958,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, we understand very, very, very well how the cells function. We know the cells. We know the molecules that are important to their function and we know the electrical properties of the cell. We know that if we change the parameters of their electrical properties, they'll function in a different way, but we don't know how neurons are built.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.5369530320167542,
+                  "t_rating": 0.6695659479035545,
+                  "r_rating": 0.6739438417881926,
+                  "children": [
+                    {
+                      "name": "Dr. B:'It seems like we have two separate goals. The first goal is to understand the mechanisms of the cells and how they work. And the second goal is to understand how the cells are put together. But I'm just trying to think of other things that we can do, in addition to understanding how neurons work and how they work together.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5586372017860413,
+                      "t_rating": 0.6870775234421064,
+                      "r_rating": 0.6870775234421064
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -72,7 +97,16 @@
                   "g_rating": 0.0,
                   "s_rating": 0.14070172607898712,
                   "t_rating": 0.14070172607898712,
-                  "r_rating": 0.14070172607898712
+                  "r_rating": 0.23067119411440287,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So what are we? What is a brain? What is a cell?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.40072426199913025,
+                      "t_rating": 0.5005795982206501,
+                      "r_rating": 0.5005795982206501
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'Yes, yes. I am.'",
@@ -249,13 +283,6 @@
           ]
         },
         {
-          "name": "Dr. M:'Neuroscience is understanding how the brain works. How it processes information. How the brain processes information.'",
-          "g_rating": 0.2,
-          "s_rating": 0.5602751970291138,
-          "t_rating": 0.5949019216694567,
-          "r_rating": 0.5949019216694567
-        },
-        {
           "name": "Dr. M:'What is neuroscience? Well, I've been thinking about the concept of neuroscience for quite a long time, and you know, the idea of a brain as a circuit of interacting neurons, as a collection of circuit neurons and neurons, that are interconnected, and that the neurons, or the neurons that we measure in neuroscience, the neurons we study in neuroscience, are neurons in a circuit.'",
           "g_rating": 0.2,
           "s_rating": 0.5867712497711182,
@@ -274,7 +301,50 @@
               "g_rating": 0.2,
               "s_rating": 0.47133705019950867,
               "t_rating": 0.5120142721553513,
-              "r_rating": 0.5120142721553513
+              "r_rating": 0.5945616111597559,
+              "children": [
+                {
+                  "name": "Dr. M:'No, because you know all of those brain circuits, those circuits that you look at in terms of a circuit of neurons that can produce behavior, if you like, if you like a neuron that can produce behavior. They are all integrated circuits of neurons, all of these neurons, and these neurons are all connected and all work together, so it's not just this one single neuron that can produce behaviors.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5910219550132751,
+                  "t_rating": 0.8422036281729697,
+                  "r_rating": 0.8514700992044177,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is there something more than circuits and neurons and synapses?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.6427401304244995,
+                      "t_rating": 0.8792695122987619,
+                      "r_rating": 0.8714347938093349,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think it's probably more than neurons and synapses.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5991547107696533,
+                          "t_rating": 0.8479306383410538,
+                          "r_rating": 0.8479306383410538
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Neuroscience is understanding how the brain works. How it processes information. How the brain processes information.'",
+          "g_rating": 0.2,
+          "s_rating": 0.5602751970291138,
+          "t_rating": 0.5949019216694567,
+          "r_rating": 0.6422174897624953,
+          "children": [
+            {
+              "name": "Dr. B:'Now, this is a big general question, but what is information?'",
+              "g_rating": 0.7,
+              "s_rating": 0.35343101620674133,
+              "t_rating": 0.7841641940416113,
+              "r_rating": 0.7841641940416113
             }
           ]
         },
@@ -290,7 +360,32 @@
               "g_rating": 0.7,
               "s_rating": 0.2229156643152237,
               "t_rating": 0.7346369126290194,
-              "r_rating": 0.7346369126290194
+              "r_rating": 0.7865405800022249,
+              "children": [
+                {
+                  "name": "Dr. M:'The change in neuroscience is it's gone from being descriptive and studying what you don't understand to trying to understand what you don't study and studying. And the change in neuroscience is there's been a fundamental shift from being passive about studying what you observe to actually trying to understand how the brain works and how nervous systems work to understanding how neurons work, and how circuits work.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5787600874900818,
+                  "t_rating": 0.8336445518753944,
+                  "r_rating": 0.7905028582027144,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is it just a shift? Or is it a shift? How would you say that you're doing it? What is your research agenda? Do you see a big shift? Or are there small changes, small shifts, medium shifts, or large shifts?  There are multiple shifts. But the biggest shift is that there is now a real shift from being passive to actively investigating how the brain works.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5263305306434631,
+                      "t_rating": 0.661077777184674,
+                      "r_rating": 0.661077777184674
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'I think I can answer this in a somewhat roundabout way. You see when we came into neuroscience, it was almost by accident that we discovered the brain, I mean there was almost no neuroscience in the world. There were certainly neuroscientists in Italy and Germany and the United States studying invertebrates and the crustaceans and the like. And there was very little done about how human brain circuits worked because you didn't really have access to human brains.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.6307440400123596,
+                  "t_rating": 0.9422515821218413,
+                  "r_rating": 0.9422515821218413
+                }
+              ]
             },
             {
               "name": "Dr. B:'Can you imagine that there's a different kind of future in which neuroscientists are working together to understand how the brain works? And then we'll have a chance to learn how to modify the circuits and the brain so that it will work in a different manner, right? Or is there a vision to be found out? What's the roadmap? What is the roadmap? What's the vision? What's the science roadmap for the future?'",
@@ -397,7 +492,7 @@
                   "g_rating": 0.6,
                   "s_rating": 0.2544099986553192,
                   "t_rating": 0.6517088670685703,
-                  "r_rating": 0.6176814311730457,
+                  "r_rating": 0.6784914454404258,
                   "children": [
                     {
                       "name": "Dr. B:'Where are the neurons? Where are the connections? Is it somewhere else?'",
@@ -418,9 +513,41 @@
                               "g_rating": 0.1,
                               "s_rating": 0.27262938022613525,
                               "t_rating": 0.2903907349804512,
-                              "r_rating": 0.2903907349804512
+                              "r_rating": 0.4306387309630713,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'The wiring diagram is like, you know, if you have a circuit, say like a circuit that controls the muscles, you know, like the muscles are controlled by a single neuron, you can't just say \"oh, they're controlled by this one neuron.\" You would have to go back and say, \"Okay, and so, and so, you know, all the neurons in this network, or all the synaptic connections between all the neurons.\" It is a network.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.48461586236953735,
+                                  "t_rating": 0.8513827189109316,
+                                  "r_rating": 0.8513827189109316
+                                }
+                              ]
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'But is it made up of neurons with a bunch of connections?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.46458250284194946,
+                      "t_rating": 0.7588391805559923,
+                      "r_rating": 0.7521288323294705,
+                      "children": [
+                        {
+                          "name": "Dr. M:'It is. It is a network.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.2852187752723694,
+                          "t_rating": 0.3483529098025024,
+                          "r_rating": 0.3483529098025024
+                        },
+                        {
+                          "name": "Dr. M:'Not only neurons.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.534622073173523,
+                          "t_rating": 0.7319977876499052,
+                          "r_rating": 0.7319977876499052
                         }
                       ]
                     }
@@ -449,7 +576,34 @@
                   "g_rating": 0.8,
                   "s_rating": 0.5267468690872192,
                   "t_rating": 0.957842504847842,
-                  "r_rating": 0.957842504847842
+                  "r_rating": 0.8796011162800964,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Gap junctions are a kind of electrical junctions that are established between cells. There are two types of gap junctions. One type is called 'inhibitory' and these junctions are between inhibitory neurons that are coupled by GABAergic synapses. The second type of gap junctions is called 'excitatory' and these juncles are between excitatory neurons that are coupled in the case of excitatory connections by chemical synapses.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.23636049032211304,
+                      "t_rating": 0.6448769505768598,
+                      "r_rating": 0.7126063267619684,
+                      "children": [
+                        {
+                          "name": "Dr. M:'That's the other type of electrical junctions, which is excitatory. There are neurons in the brain, that have excitatory connections with each other that are not identified as neurons.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.44573476910591125,
+                          "t_rating": 0.9157944553172945,
+                          "r_rating": 0.8887094623250924,
+                          "children": [
+                            {
+                              "name": "Dr. B:'What do you think are the conditions to be in to say that we can fully understand the brain? Do you have any example that will say it's been in our grasp for a long time, 20 years, 10 years or even 5 years? Is there any example that will tell us that  \"we have a full grasp.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.40247079730033875,
+                              "t_rating": 0.8074544833484859,
+                              "r_rating": 0.8074544833484859
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -481,7 +635,16 @@
                       "g_rating": 0.3,
                       "s_rating": 0.46962496638298035,
                       "t_rating": 0.5572679867444525,
-                      "r_rating": 0.5572679867444525
+                      "r_rating": 0.501213423768262,
+                      "children": [
+                        {
+                          "name": "Dr. M:'No, no.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.1446448266506195,
+                          "t_rating": 0.3330497348396899,
+                          "r_rating": 0.3330497348396899
+                        }
+                      ]
                     }
                   ]
                 }
@@ -538,11 +701,122 @@
                           "g_rating": 0.7,
                           "s_rating": 0.5440742373466492,
                           "t_rating": 0.8865758713975572,
-                          "r_rating": 0.8865758713975572
+                          "r_rating": 0.869552044582704,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Is there a single word that could really describe a single neuron? How many synapses it has, how many different ways of communication it has?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5566959977149963,
+                              "t_rating": 0.8184805641381444,
+                              "r_rating": 0.7457617153725817,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Yeah. It is interesting to think about. What is a neuron?'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.43401291966438293,
+                                  "t_rating": 0.5276051690758934,
+                                  "r_rating": 0.5198585448447711,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'No. What is a synapse? How many different types of neurons are there? In fact, a synapse is the smallest functional unit in the brain. It is an active and inactive membrane, which is where communication between neurons happens. What is an action potential? What is a calcium-mediated action potential? What are the different types of ion channels? What is a neuron? What is a synapse? What is a spike, a synapse? This is what is a neuron?'",
+                                      "g_rating": 0.3,
+                                      "s_rating": 0.3957652151584625,
+                                      "t_rating": 0.49661867215140443,
+                                      "r_rating": 0.5438530511996296,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'I don't know. You know, I feel like we are not looking for the answer, and yet we are asking the question 'What are neurons for?' You know what I mean?'",
+                                          "g_rating": 0.4,
+                                          "s_rating": 0.5567650198936462,
+                                          "t_rating": 0.6855561883443051,
+                                          "r_rating": 0.6855561883443051
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, what is neuroscience? The way that the neuroscience people like to talk about it, there is this sort of notion of the brain being this sort of separate compartment that is somehow protected from the rest of the animal, the outside world. It's actually that it is more connected than you might think.'",
+          "g_rating": 0.4,
+          "s_rating": 0.5672800540924072,
+          "t_rating": 0.6941229428358383,
+          "r_rating": 0.7274078399416712,
+          "children": [
+            {
+              "name": "Dr. B:'Well, I mean, I agree with you on that point.'",
+              "g_rating": 0.8,
+              "s_rating": 0.21062596142292023,
+              "t_rating": 0.8272625312591703,
+              "r_rating": 0.8278380022222595,
+              "children": [
+                {
+                  "name": "Dr. M:'That the brain, the nervous system is more integrated, more connected than you think.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5728674530982971,
+                  "t_rating": 0.8295644151115269,
+                  "r_rating": 0.8251796546209165,
+                  "children": [
+                    {
+                      "name": "Dr. B:'The way that the brain and the nervous system work together, how does that relate to how we talk about it?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5471610426902771,
+                      "t_rating": 0.8120253731490853,
+                      "r_rating": 0.8120253731490853
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I guess, I guess, that is, the general term that people throw around, like \"neuroscience\" is a general term to describe the discipline. It's a discipline that looks at the brain, as we all understand that there are, there are neurons and there are these cells called synapses and these neurons and synapses together, form, form the brain.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5236836671829224,
+          "t_rating": 0.7963947408629428,
+          "r_rating": 0.7288080026192839,
+          "children": [
+            {
+              "name": "Dr. B:'What is it?'",
+              "g_rating": 0.5,
+              "s_rating": 0.1634817272424698,
+              "t_rating": 0.5260477878883071,
+              "r_rating": 0.5260477878883071
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'What is neuroscience?' - 'It's an interdisciplinary field of study that focuses on understanding the brain. You might be interested in psychology or neuroscience because you're interested in understanding human psychology or human behavior. You might be studying neuroscience because you're studying the brain as a whole, and as an entire organ. You might be understanding brain dynamics, brain chemistry, brain physics, and then you want to understand the whole brain as an object. It's all about understanding how the brain works.'",
+          "g_rating": 0.5,
+          "s_rating": 0.47305598855018616,
+          "t_rating": 0.6883182173262552,
+          "r_rating": 0.7384191746910941,
+          "children": [
+            {
+              "name": "Dr. B:'So, what is the problem I'm looking to solve? What's the brain for?'",
+              "g_rating": 0.8,
+              "s_rating": 0.3870747685432434,
+              "t_rating": 0.888722046785611,
+              "r_rating": 0.8835491606543171,
+              "children": [
+                {
+                  "name": "Dr. M:'It is for all kinds of reasons that the brain is interesting. I'm interested in what is the brain for? We all talk about the brain being for thinking, for behavior. But, I think if we ask ourselves why are we human beings, why are we here? Why do we have the brain we have? We can be very good at understanding the details of how we walk or how we hear, we can be good at how we think.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5133000612258911,
+                  "t_rating": 0.8680305022604353,
+                  "r_rating": 0.8680305022604353
                 }
               ]
             }
@@ -563,11 +837,45 @@
               "r_rating": 0.797336842603001,
               "children": [
                 {
+                  "name": "Dr. M:'Well, we're looking for circuit neurons that have a relationship with the other neurons in the circuit. For example, the pacemaker neurons in the pyloric circuit are part of a triphasic ganglion. This is the point at which the pyloric rhythm is initiated. In the pacemaker group of the pyloric pacemaker circuit, one of the neurons has been identified as a pacemaker for the triphasic rhythm.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.45722153782844543,
+                  "t_rating": 0.7543550454886668,
+                  "r_rating": 0.7799494125057196,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the most important function of the brain circuit? Do we know what it is?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.6115477085113525,
+                      "t_rating": 0.8567325135568781,
+                      "r_rating": 0.8212201158654755,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think that's an excellent question. This is, this is a very, this is a really good question. So the, the first question that is asked is, is, are we sure that we know what the most important function is? For example, one of the important functions of the brain is to generate and maintain behaviors, and a large group of animals, and a large number of studies of behavior are performed on animals. So it's not just in humans.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.5106580853462219,
+                          "t_rating": 0.7146829227912678,
+                          "r_rating": 0.7146829227912678
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   "name": "Dr. M:'In the history of neuroscience, we think of some of the first important neuroscientists as Descartes who did studies of how the nervous system was organized, as Locke who looked at the first cortical neurons and as Darwin who first came to understand how complex animals were formed by evolution and genetics. So these are all really, really important, influential people and then there are people like Galvani and Volterra who worked on animal behavior.'",
                   "g_rating": 0.8,
                   "s_rating": 0.4950166344642639,
                   "t_rating": 0.9407664260571413,
-                  "r_rating": 0.9407664260571413
+                  "r_rating": 0.9071899746417607,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the first important brain circuit? What is the first cortical circuit? What is our top priority to find the first important circuit?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5388680100440979,
+                      "t_rating": 0.8064606203956186,
+                      "r_rating": 0.8064606203956186
+                    }
+                  ]
                 }
               ]
             }
@@ -615,7 +923,25 @@
                       "g_rating": 0.8,
                       "s_rating": 0.4896879196166992,
                       "t_rating": 0.9379734850295774,
-                      "r_rating": 0.9379734850295774
+                      "r_rating": 0.7335852407938535,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Okay.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.12042050808668137,
+                          "t_rating": 0.12042050808668137,
+                          "r_rating": 0.26899984720460884,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And the answer is the same. The answer is how the brain works and how the brain works in my book is that how the brain works? In fact, in the first chapters and, uh, in some of the chapters, there are some interesting observations. I'm not going to have time to make my case, uh, but in fact the book itself is built on the basis of, uh, on the observations of how the brain actually works.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5107349753379822,
+                              "t_rating": 0.7147378645583913,
+                              "r_rating": 0.7147378645583913
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -781,7 +1107,7 @@
                       "g_rating": 0.5,
                       "s_rating": 0.5816221833229065,
                       "t_rating": 0.7669969779166699,
-                      "r_rating": 0.7849313023082607,
+                      "r_rating": 0.8214877200924754,
                       "children": [
                         {
                           "name": "Dr. M:'To get started, I think we should start at the end, right? I mean, I'm sure you and I have had many years of doing a different kind of biology and I'm sure many years of neuroscience and so, I think we can go in that direction as well.'",
@@ -789,6 +1115,13 @@
                           "s_rating": 0.462033748626709,
                           "t_rating": 0.8387342754830334,
                           "r_rating": 0.8387342754830334
+                        },
+                        {
+                          "name": "Dr. M:'The neural syntax that you need to know, you need to understand to be aware of neural syntax.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5745834112167358,
+                          "t_rating": 0.9849599466198921,
+                          "r_rating": 0.9849599466198921
                         }
                       ]
                     }
@@ -808,7 +1141,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.47867897152900696,
                   "t_rating": 0.767550361724928,
-                  "r_rating": 0.767550361724928
+                  "r_rating": 0.8101065781021297,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I think it is important to try to answer that question, because without understanding how the brain works, how the brain makes decisions, how the brain handles information, how the brain analyzes the consequences of decisions, how it acts, how it thinks, how it decides, how it represents the world, how it processes the world around it, how it constructs thoughts, it will be impossible to really understand how we behave, how we operate as a society.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.48930805921554565,
+                      "t_rating": 0.9377752272337354,
+                      "r_rating": 0.9377752272337354
+                    }
+                  ]
                 }
               ]
             },
@@ -951,7 +1293,16 @@
                       "g_rating": 0.8,
                       "s_rating": 0.42688146233558655,
                       "t_rating": 0.9067677667880398,
-                      "r_rating": 0.9067677667880398
+                      "r_rating": 0.8598685050034233,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Or the brain, the nervous system of the brain.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.39649277925491333,
+                          "t_rating": 0.7191707196495735,
+                          "r_rating": 0.7191707196495735
+                        }
+                      ]
                     }
                   ]
                 }
@@ -988,6 +1339,22 @@
                       "r_rating": 0.7934535941892872
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:' 'Well, it's not exactly that. There are two fundamental questions that are at the heart of neuroscience: what is it? What is it? and, the second question, what is it? and what is it? And they are fundamentally different questions, because the first question, what is a neuron? or what is a synapse? Or what is a neuron in the brain, I can tell you that these things exist, they are physical entities.'",
+              "g_rating": 0.5,
+              "s_rating": 0.5848891139030457,
+              "t_rating": 0.7694772742338073,
+              "r_rating": 0.6382415060597425,
+              "children": [
+                {
+                  "name": "Dr. M:' OK.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.14070172607898712,
+                  "t_rating": 0.2445342015375484,
+                  "r_rating": 0.2445342015375484
                 }
               ]
             },
@@ -1063,7 +1430,25 @@
                                       "g_rating": 0.6,
                                       "s_rating": 0.3655538856983185,
                                       "t_rating": 0.7025878189586974,
-                                      "r_rating": 0.7025878189586974
+                                      "r_rating": 0.7014523704486485,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:' It can be, the length of the neuron's axon can be over 100 or even over 200 micrometers.' So, it can be that they need to be many, many times the diameter in order to send their actions throughout the whole brain. So, it might be many times larger, so it's likely to have a few to many more cells in it.'",
+                                          "g_rating": 0.6,
+                                          "s_rating": 0.35674676299095154,
+                                          "t_rating": 0.6980460249185022,
+                                          "r_rating": 0.7194135728009574,
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:' But what is the ratio of neuron types in each brain? If you know, for example, where the numbers of cells that exist in the prefrontal cortex are, can you say how many cells exist in each type? And so on? I'm just looking for a number. That's what I want. Or a number. I want a number, and then I'm going to calculate the number of neurons in the human cortex.'",
+                                              "g_rating": 0.6,
+                                              "s_rating": 0.5038825869560242,
+                                              "t_rating": 0.7835162164483229,
+                                              "r_rating": 0.7835162164483229
+                                            }
+                                          ]
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -1171,7 +1556,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.5807381272315979,
                           "t_rating": 0.835019025184734,
-                          "r_rating": 0.835019025184734
+                          "r_rating": 0.8003257334516625,
+                          "children": [
+                            {
+                              "name": "Dr. B:' \"Are there only two types of circuit?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.3532114028930664,
+                              "t_rating": 0.6962458582524481,
+                              "r_rating": 0.6962458582524481
+                            }
+                          ]
                         }
                       ]
                     },
@@ -1185,13 +1579,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "name": "Dr. B:' 'Well, it's not exactly that. There are two fundamental questions that are at the heart of neuroscience: what is it? What is it? and, the second question, what is it? and what is it? And they are fundamentally different questions, because the first question, what is a neuron? or what is a synapse? Or what is a neuron in the brain, I can tell you that these things exist, they are physical entities.'",
-              "g_rating": 0.5,
-              "s_rating": 0.5848891139030457,
-              "t_rating": 0.7694772742338073,
-              "r_rating": 0.7694772742338073
             }
           ]
         },
@@ -1207,7 +1594,7 @@
               "g_rating": 0.7,
               "s_rating": 0.47082024812698364,
               "t_rating": 0.8436063691357211,
-              "r_rating": 0.8414484430983441,
+              "r_rating": 0.8576429952106894,
               "children": [
                 {
                   "name": "Dr. M:'We study the brains because we think that the brain is unique.'",
@@ -1221,7 +1608,57 @@
                       "g_rating": 0.8,
                       "s_rating": 0.6009448766708374,
                       "t_rating": 1.0005672115340019,
-                      "r_rating": 1.0005672115340019
+                      "r_rating": 0.95393519479343,
+                      "children": [
+                        {
+                          "name": "Dr. M:'But we are all aware that we have learned about the brain of other animals.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.4155234396457672,
+                          "t_rating": 0.814039144571715,
+                          "r_rating": 0.814039144571715
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'So that's not changing, so that gives you the chance to study the brain.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.41177085041999817,
+                  "t_rating": 0.8997528734355943,
+                  "r_rating": 0.8997528734355943
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Neuroscience is not trying to understand the brain. Neuroscience is trying to understand how our nervous systems work.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5915022492408752,
+          "t_rating": 0.8425407472977283,
+          "r_rating": 0.7792793761662233,
+          "children": [
+            {
+              "name": "Dr. B:'What is the brain?'",
+              "g_rating": 0.4,
+              "s_rating": 0.4330180883407593,
+              "t_rating": 0.5894952627717085,
+              "r_rating": 0.6349800859912831,
+              "children": [
+                {
+                  "name": "Dr. M:'The brain is the part of the nervous system that is the most complex. The brain is the central part of the nervous network that deals with sensory and motor processes. It's the part that deals with decision-making, emotion and behavior. It is the part that is in charge of generating behaviors.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.48488274216651917,
+                  "t_rating": 0.7714345556500066,
+                  "r_rating": 0.755011044411005,
+                  "children": [
+                    {
+                      "name": "Dr. B:'How does the brain generate behavior?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5814375877380371,
+                      "t_rating": 0.7057405106939998,
+                      "r_rating": 0.7057405106939998
                     }
                   ]
                 }
@@ -1241,7 +1678,7 @@
               "g_rating": 0.7,
               "s_rating": 0.4944339394569397,
               "t_rating": 0.8570092884484443,
-              "r_rating": 0.6767061477738255,
+              "r_rating": 0.8275197467453177,
               "children": [
                 {
                   "name": "Dr. M:'No.'",
@@ -1255,11 +1692,68 @@
                       "g_rating": 0.3,
                       "s_rating": 0.40725019574165344,
                       "t_rating": 0.5058188627677056,
-                      "r_rating": 0.5058188627677056
+                      "r_rating": 0.6285922822587595,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Okay, so I study the dynamics of small networks, and then we did a study with large networks, and the big networks we studied with small networks, so we were just interested in how the brain works in the animal. How it works, how it generates behaviors.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5948399901390076,
+                          "t_rating": 0.9969125407319214,
+                          "r_rating": 0.9804629917505349,
+                          "children": [
+                            {
+                              "name": "Dr. B:'But you don't understand the mechanisms, for example, how the networks can generate different behaviors. So, in that sense, you have never really approached the brain from a physiological point of view. You approach it from an anatomical point of view, a systems point of view, and so on. But then how you can explain and understand what is in fact going on? What is happening? Why is it doing something? Why is it producing a behavior?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.6139820218086243,
+                              "t_rating": 0.9311143448063756,
+                              "r_rating": 0.9311143448063756
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'No, no. We have to understand how the nervous system works. We're trying to understand what the brain is doing and how it does it. How the neurons do it, and how the synapses, how they interact. Then we do experiments, and we try to understand what it means. We want to understand how a circuit works.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.5418757796287537,
+                  "t_rating": 0.577606579384506,
+                  "r_rating": 0.6192702860324792,
+                  "children": [
+                    {
+                      "name": "Dr. B:'You have to understand how a system works, what the components are, and then how those components interact. And how they work together, how they interact and interact with each other. And then you try to understand what that means. So you want to be able to answer, 'what is the function?'' Because that's what we have to do, to understand. So, so I would say, we need to look at the brain as a system.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.5512939691543579,
+                      "t_rating": 0.7442614059763989,
+                      "r_rating": 0.7442614059763989
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, I would think we are trying to understand the brain. Because we've heard about evolution, and we're trying to answer questions like, how is this possible? How is this possible?'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4315049946308136,
+                  "t_rating": 0.7390511216359383,
+                  "r_rating": 0.7390511216359383
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'How we study brains, nervous systems, brains of animals. Animals are used, primarily, to find correlations in behavior across individuals. It turns out that the same neurons fire consistently across individuals, and they fire at a consistent frequency and with consistent timing. But we are also using these animals to do a little bit of research into how brains and nervous systems work, and that has turned out to be the primary driver of the research that we do.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5584641098976135,
+          "t_rating": 0.8196841843318278,
+          "r_rating": 0.7945358295663515,
+          "children": [
+            {
+              "name": "Dr. B:'How do you describe what neuroscience does in a way that could be useful to the average person? How do you describe the work that you do in a way that's accessible and interesting to most people?'",
+              "g_rating": 0.5,
+              "s_rating": 0.5168089866638184,
+              "t_rating": 0.7190907652699225,
+              "r_rating": 0.7190907652699225
             }
           ]
         },
@@ -1336,14 +1830,41 @@
               "g_rating": 0.6,
               "s_rating": 0.5175214409828186,
               "t_rating": 0.7923562594420095,
-              "r_rating": 0.7923562594420095
+              "r_rating": 0.8119028130170934,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, and I think you have to be good at teaching. You have to be able to teach science to others. And I think you have the advantage of being able to train younger people as well. In fact, I think, especially in biology, you need to have older people who are just as passionate and excited about this, about the history of ideas in neuroscience and the history of the brain.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.3432844281196594,
+                  "t_rating": 0.8705424737423452,
+                  "r_rating": 0.8705424737423452
+                }
+              ]
             },
             {
               "name": "Dr. B:'What is the role of the hippocampus in these studies? Does the hippocampus have a special function? It is a higher order-cortex, as you call it, and it is important because you want to understand what it does for the cortex.'",
               "g_rating": 0.7,
               "s_rating": 0.5636407732963562,
               "t_rating": 0.8987162629674142,
-              "r_rating": 0.8987162629674142
+              "r_rating": 0.8564577669974189,
+              "children": [
+                {
+                  "name": "Dr. M:'It's important because it provides a bridge between brain and spinal cord. For example, a neuron that comes down through the spinal cord would be very interesting to study, because they might have some intrinsic property, like, say, the speed at which they would fall off from their initial state. The initial state of this neuron would be quite different from their final state, because the final state would be determined by the action of many different neurons at the same time.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4152544140815735,
+                  "t_rating": 0.7296822790874333,
+                  "r_rating": 0.7391167970365276,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do you see any special function in the hippocampus? There is not much work done on the hippocampus, but there is a lot of talk about its role in memory, which is important, and there is a lot about how it can control the motor system and even emotions.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.47847047448158264,
+                      "t_rating": 0.7674203508838104,
+                      "r_rating": 0.7674203508838104
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "Dr. B:'I would argue that to understand the brain, one must understand the brain, not just the properties of neurons or circuits. My answer is not a single sentence, but it will take decades and decades of research in a systematic way, just like you did to understand the brain circuits in your original series of papers in 1998. I also think that we have to move away from the single-neuron- or single-circuit-level research. We have to look at the brain as a system.'",
@@ -1402,6 +1923,13 @@
               "t_rating": 0.7409156260441961,
               "r_rating": 0.701662824615513,
               "children": [
+                {
+                  "name": "Dr. M:'And the answers are fundamentally different. In the case of, you know, uh, in neuroscience the, you know, it's hard to quantify, but I'm gonna say like, we look at animals that were in captivity for years, you know, and these animals have developed all kinds of behaviors. Some of them are adaptive, and some of them are just because of their environment, you know?'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.43303602933883667,
+                  "t_rating": 0.4769907784282059,
+                  "r_rating": 0.4769907784282059
+                },
                 {
                   "name": "Dr. M:'Exactly. So, um, and there are answers we don't know, and they're not simple. The answers are not simple, and this has, you know, we're gonna talk about in a minute, but what is neuroscience?'",
                   "g_rating": 0.0,
@@ -1496,7 +2024,16 @@
                           "g_rating": 0.0,
                           "s_rating": 0.15024708211421967,
                           "t_rating": 0.15024708211421967,
-                          "r_rating": 0.15024708211421967
+                          "r_rating": 0.327819350643624,
+                          "children": [
+                            {
+                              "name": "Dr. B:'There are so many different ways to probe how the cortex works. So many different ways to manipulate neurons, that it will be hard to miss the point if you just look in the literature. If you just look at the different approaches, but they have to be, uh, somehow related to understanding how the cortex works, and I'm confident in saying that I, uh, can find a few dozen ways to do it.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.6168650388717651,
+                              "t_rating": 0.8605361562318369,
+                              "r_rating": 0.8605361562318369
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1539,7 +2076,16 @@
                           "g_rating": 0.0,
                           "s_rating": 0.1686491072177887,
                           "t_rating": 0.1686491072177887,
-                          "r_rating": 0.1686491072177887
+                          "r_rating": 0.26935309984014943,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And time is like a dimension. It's an axis along which something moves, but in this case, we don't have an explicit \"something.\" What we have is a concept. We have to figure out how to put things into our computer. You can call it \"stuff\" or you can call it time, but it's like a dimension that we have to put into our machine. But we have to use the same logic as physics to explain how we measure something.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.27671706676483154,
+                              "t_rating": 0.5714650777072315,
+                              "r_rating": 0.5714650777072315
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1573,7 +2119,32 @@
                           "g_rating": 0.5,
                           "s_rating": 0.4795819818973541,
                           "t_rating": 0.6928195128318732,
-                          "r_rating": 0.6928195128318732
+                          "r_rating": 0.783543634857484,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Yes. So, that is what I'm saying. And, again, I have a long list of things that make up the brain state and process. And then a list of what actually makes up the brains state. Now, at first glance, they may look the same, but I assure you that in fact, there are major differences.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.48679494857788086,
+                              "t_rating": 0.5718123135793262,
+                              "r_rating": 0.6617730965727838,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'That is what we always find when we're looking at the brain as a system. And, so, yeah, because you're absolutely right, I mean, the fact that the brain is a large network of cells, that it involves different neurons, that it has all sorts of pathways, neurons that are always firing, neurons that are silent, and so on, and it involves different types of synaptic connections.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.6148023009300232,
+                                  "t_rating": 0.9316554455531566,
+                                  "r_rating": 0.9316554455531566
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'And, in general, I don't like that approach of thinking about it as it does not work for the brain. It is not a box that we put in, and then it is a box that we will call it a function and then, we will go in and see if there are neurons that are active or not. We can find the state, and there are also other states and states, which are not simply controlled because those are state functions.'",
+                              "g_rating": 0.9,
+                              "s_rating": 0.5518480539321899,
+                              "t_rating": 1.0557160009343163,
+                              "r_rating": 1.0557160009343163
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1623,7 +2194,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.5670475363731384,
                               "t_rating": 0.825556120749429,
-                              "r_rating": 0.825556120749429
+                              "r_rating": 0.8169074523088893,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'No, I want to understand how brains are regulated.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.5153833627700806,
+                                  "t_rating": 0.7909614469872703,
+                                  "r_rating": 0.7909614469872703
+                                }
+                              ]
                             }
                           ]
                         }
@@ -1654,7 +2234,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.45468854904174805,
                   "t_rating": 0.7528224735152971,
-                  "r_rating": 0.7528224735152971
+                  "r_rating": 0.6656402373950921,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I'm sure. There were a lot of things at that time that you thought about, but how did you actually come up with your career? Do you remember any specific turning points? What was your first experiment? Where did it lead you? What was it like working as a postdoc? What were the first important experiments you did? Where did that lead you? What were the biggest hurdles, and the biggest successes, and the biggest challenges?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.27072417736053467,
+                      "t_rating": 0.40409352903447765,
+                      "r_rating": 0.40409352903447765
+                    }
+                  ]
                 }
               ]
             }
@@ -1679,7 +2268,16 @@
                   "g_rating": 0.3,
                   "s_rating": 0.4406418204307556,
                   "t_rating": 0.5330714904330659,
-                  "r_rating": 0.5330714904330659
+                  "r_rating": 0.596028013071016,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Let's get into the brain. Let's start with a really large structure in the brain that is almost the size of a small football and let's call it the hippocampus. Do you have a simple answer to the question of what the hippocampus is and does?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.50602787733078,
+                      "t_rating": 0.7848975809848664,
+                      "r_rating": 0.7848975809848664
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'No, but it is an exciting and active area of research. There are many, many different solutions to how the brain generates the ability to move and how it generates the ability to regulate and control behavior. We have identified many neurons that are part of the central pattern generating circuit that generate rhythmic motor patterns, and these neurons are part of the circuits that generate rhythmic movements.'",
@@ -1702,19 +2300,19 @@
           ]
         },
         {
-          "name": "Dr. M:'Neuroscience is not trying to understand the brain. Neuroscience is trying to understand how our nervous systems work.'",
-          "g_rating": 0.6,
-          "s_rating": 0.5915022492408752,
-          "t_rating": 0.8425407472977283,
-          "r_rating": 0.8425407472977283
-        },
-        {
           "name": "Dr. M:'Well, neuroscience is what you study, it's like you would study brain biology, it's like a neuroscientist would study something like, you know, the function of brain circuits, or the brain's circuits. You might do studies of how neurons connect with each other, how they interact with each other, and the interactions between different kinds of neurons. So neuroscience is, you know, it's a very, you know, broad area of research.'",
           "g_rating": 0.7,
           "s_rating": 0.49448055028915405,
           "t_rating": 0.8570361804581325,
           "r_rating": 0.8500014468095085,
           "children": [
+            {
+              "name": "Dr. B:'Yeah, I would ask the question differently. So I would ask, what is science? And the answer is very simple and very clear. And that's the problem. Science is what I call the 'worldview' of this particular time, of this age. And, I can tell you that if you ask, what is the worldview of science, you will have the same answers and you will have very similar answers in every time period of human history.'",
+              "g_rating": 0.6,
+              "s_rating": 0.26050683856010437,
+              "t_rating": 0.6541129970705216,
+              "r_rating": 0.6541129970705216
+            },
             {
               "name": "Dr. B:'Do you really think that what you're studying is the basic unit of neural syntax?'",
               "g_rating": 0.6,
@@ -1727,9 +2325,43 @@
                   "g_rating": 0.0,
                   "s_rating": 0.5732851624488831,
                   "t_rating": 0.5732851624488831,
-                  "r_rating": 0.5732851624488831
+                  "r_rating": 0.5902048511908184,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So how should neuroscience be done? What's a good approach? How should you go about it?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.500834047794342,
+                      "t_rating": 0.6409639174166244,
+                      "r_rating": 0.7170793836370756,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So I think if you look, if you just look at the function of the brain, if you look at the function, the actual function of the brain. So if you look at, you know, for example, if you look across animals, you look at how the brain does work. Right? So for example, when you look across animals in the population you will see how the brain works.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5038153529167175,
+                          "t_rating": 0.9454257822984291,
+                          "r_rating": 0.9454257822984291
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'If you have a little child you can give it a toy and say \"now it is a toy\". But then it develops into a little person and then you look at them, you see that the brain has been developed to a level that we can understand now because we know how neurons interact with each other, how the neurons connect to each other.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5660263299942017,
+          "t_rating": 0.9002143112874317,
+          "r_rating": 0.8623597141731694,
+          "children": [
+            {
+              "name": "Dr. B:'So if we go back in time when we first knew the brain, how was that?'",
+              "g_rating": 0.6,
+              "s_rating": 0.4479903280735016,
+              "t_rating": 0.7487959228303821,
+              "r_rating": 0.7487959228303821
             }
           ]
         },
@@ -1850,7 +2482,16 @@
                       "g_rating": 0.8,
                       "s_rating": 0.5833784937858582,
                       "t_rating": 0.9901163906389272,
-                      "r_rating": 0.9901163906389272
+                      "r_rating": 0.9432351862170831,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Exactly, exactly. So, that, that, I mean you know, that, you know, and then, and, you know I'm really interested in how, in how, you know, like what are the, what is the dynamics of neural networks. So, the dynamics of neural circuits. What happens when you give a neuron, like, you know, a, a strong electrical stimulus?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5330602526664734,
+                          "t_rating": 0.8025915729515508,
+                          "r_rating": 0.8025915729515508
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1873,7 +2514,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.5027837753295898,
                           "t_rating": 0.7828100182896712,
-                          "r_rating": 0.7828100182896712
+                          "r_rating": 0.7334281269920453,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Right. And in fact, my mentor, the, the, the late Endre Grastyn and a couple of people from the New York University School of Medicine were looking at how brain rhythms can be measured, and how we, how we can understand how rhythms are different in different people. I was in school, uh, and I did not take an interest in the brain.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.5025490522384644,
+                              "t_rating": 0.5852824530991672,
+                              "r_rating": 0.5852824530991672
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1895,7 +2545,16 @@
               "g_rating": 0.5,
               "s_rating": 0.5876378417015076,
               "t_rating": 0.7715686832677996,
-              "r_rating": 0.7715686832677996
+              "r_rating": 0.7862199623017779,
+              "children": [
+                {
+                  "name": "Dr. M:'I think there's so many areas where there are still great questions, but we have the technologies now to ask these questions. One of the first questions that came to my mind when I got into neuroscience was: what is the function of neurons? When I first started thinking about this question, which was a classic question, was, do neurons have specific roles? Are neurons kind of, you know, kind of a fixed role, or can they change their properties?'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5737495422363281,
+                  "t_rating": 0.8301737994037128,
+                  "r_rating": 0.8301737994037128
+                }
+              ]
             }
           ]
         },
@@ -1904,7 +2563,39 @@
           "g_rating": 0.7,
           "s_rating": 0.5485789179801941,
           "t_rating": 0.8893474176340316,
-          "r_rating": 0.8893474176340316
+          "r_rating": 0.8843724406401127,
+          "children": [
+            {
+              "name": "Dr. B:'But you do understand the difference between how we think about the brain and how we can actually make the brain work.'",
+              "g_rating": 0.7,
+              "s_rating": 0.5156927108764648,
+              "t_rating": 0.869447509658356,
+              "r_rating": 0.8371253780391636,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, that's one of the points of the talk.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.24048975110054016,
+                  "t_rating": 0.7401589831815863,
+                  "r_rating": 0.7401589831815863
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'This is the brain, not just neuroscience. It is the science of the brain. The science of the brain is not just neuroscience. This is a brain, and then we ask questions about what it is doing and how it is working and its function and its behavior. It is not just neuroscience; it is the brain that is doing the work. So, when you say 'neuroscience', you are saying 'brain science'.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5510991215705872,
+          "t_rating": 0.8909041709386442,
+          "r_rating": 0.8909041709386442
+        },
+        {
+          "name": "Dr. M:'Science has a very broad definition and can be many different things. I would define neuroscience as the science that studies the brain and the brain mechanisms that underlie behaviour. So it could be psychology, neuroscience could be neurobiology, neuroscience could be neuroscience as a whole. It could be a neurosurgeon that studies the brain as well.'",
+          "g_rating": 0.8,
+          "s_rating": 0.4032885432243347,
+          "t_rating": 0.895902700685742,
+          "r_rating": 0.895902700685742
         },
         {
           "name": "Dr. M:'Well, it's the science of the brain, that's the key.'",
@@ -1939,20 +2630,31 @@
                       "g_rating": 0.8,
                       "s_rating": 0.6613864302635193,
                       "t_rating": 1.0379942245199254,
-                      "r_rating": 1.0379942245199254
+                      "r_rating": 0.9536732790876633,
+                      "children": [
+                        {
+                          "name": "Dr. B:'But what is the organization of these structures?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.3619324862957001,
+                          "t_rating": 0.7007104427908771,
+                          "r_rating": 0.7525248192713725,
+                          "children": [
+                            {
+                              "name": "Dr. M:'The organization is to produce the same sensory perceptions, the same motor reflexes and changes in behavior, but the organization of the circuits is completely different. The cerebrum is different from the cortex, and the hippocampus is different from the cerebrum.' And we do studies in which we look at the connectivity between neurons and how the circuits work, and we also look at the changes in behavior.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5782783031463623,
+                              "t_rating": 0.9079679487128586,
+                              "r_rating": 0.9079679487128586
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'If you have a little child you can give it a toy and say \"now it is a toy\". But then it develops into a little person and then you look at them, you see that the brain has been developed to a level that we can understand now because we know how neurons interact with each other, how the neurons connect to each other.'",
-          "g_rating": 0.7,
-          "s_rating": 0.5660263299942017,
-          "t_rating": 0.9002143112874317,
-          "r_rating": 0.9002143112874317
         },
         {
           "name": "Dr. M:'What is neuroscience is to ask what are the properties and processes of the brain, of the nervous system, and the connections between neurons, between neurons and between neurons and other neurons in the brain. We study the brain, but we also study neurons and networks and the brain's interaction with other systems. How the brain is affected by experience, by history, by emotion. How the brain can be influenced by what we call homeostatic mechanisms in other systems.'",
@@ -1962,13 +2664,54 @@
           "r_rating": 0.9024800904335334,
           "children": [
             {
+              "name": "Dr. B:'What is the brain's main function? What is the fundamental goal of the brain? What is the brain's most fundamental function? This seems like a pretty serious question, and yet it is pretty easy to answer. And the answer is that the brain does not have a single function. It does not have a simple master function or main goal or fundamental function that is the center of its operations. What it has is a broad family of functions that are very different.'",
+              "g_rating": 0.6,
+              "s_rating": 0.47440943121910095,
+              "t_rating": 0.764894965619222,
+              "r_rating": 0.7841035326223602,
+              "children": [
+                {
+                  "name": "Dr. M:'Well that's a simple answer, but a very important one. Because there are brain structures that are fundamental and that are important for many different brain functions, and so we look at the different functions that arise from these different brain regions. So if you want to look at the brain, we don't just look at the brain's output, but also its morphology. So the brain is different regions, and many of these regions have different functions.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.46744850277900696,
+                  "t_rating": 0.841729233631775,
+                  "r_rating": 0.8122932682837689,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So how do we learn about brain functions? This is another pretty serious question, but you might have an easier time than I have answering it. How do we learn about the functions of the brain? And the answer is very simple: you ask yourself what is the question you want to answer. And this can be a question, \"Is the brain the best-known and most well-understood object in the world?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.5235979557037354,
+                      "t_rating": 0.723985372239751,
+                      "r_rating": 0.723985372239751
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'There is a long list of terms in the brain. For example, what is a synapse? And what is a cell? In neuroscience, we need to be able to relate these concepts to each other. For example, I can go to a computer, and I can ask it to give me all of the synapses in the brain. Or I can go to another computer, and I will ask it to give a definition of a cell.'",
               "g_rating": 0.8,
               "s_rating": 0.5895781517028809,
               "t_rating": 0.9937818658867675,
-              "r_rating": 0.9937818658867675
+              "r_rating": 0.9743733052431063,
+              "children": [
+                {
+                  "name": "Dr. M:'This is where neuroscience gets really interesting because it is going to be about brain structure, brain function, how we organize and understand things in the brain, and how the brain changes, as we live in a dynamic world. So, it is going to involve understanding how a neuronal circuit responds to external perturbation, to neuromodulation, to homeostatic regulation of brain function, how brain function changes during development, during learning and during aging.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5910384654998779,
+                  "t_rating": 0.9161476233121223,
+                  "r_rating": 0.9161476233121223
+                }
+              ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'This is neuroscience, this is about brains, brain circuits, understanding the nervous system how to make computers that can understand the world around them, that can think about things that are important in the world, or learn to read, or play instruments, or sing, or think creatively or understand science, or mathematics, or medicine or law or politics or history.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5788980722427368,
+          "t_rating": 0.9083628008930996,
+          "r_rating": 0.9083628008930996
         },
         {
           "name": "Dr. M:'A large number of people think of the brain as a big organ, and there are many many important people studying the brain and looking at how the nervous system works. So, neuroscience is the study of neurons, how they work, how their activity depends on intrinsic properties, synaptic interactions, and also interactions with the environment. So, the basic principles that were developed with regard to how the nervous system was put together, how synaptic interactions are responsible for creating the circuits and behaviour that we see.'",
@@ -2062,7 +2805,16 @@
                       "g_rating": 0.6,
                       "s_rating": 0.500464141368866,
                       "t_rating": 0.7813221850146559,
-                      "r_rating": 0.7813221850146559
+                      "r_rating": 0.7684426658492709,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Some of them are not. Some of them are not connected. So, we have some that are connected to each other and some are not. There's some that are connected, and there's some that are not connected to any other areas. So, if you're looking to connect with another part of the brain or connect with another part, you know, you may not be interested in a region that doesn't connect to anything. So that's the way I would think about it.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.4154684543609619,
+                          "t_rating": 0.729804108353116,
+                          "r_rating": 0.729804108353116
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2142,7 +2894,16 @@
                               "g_rating": 0.8,
                               "s_rating": 0.2569623291492462,
                               "t_rating": 0.8402556983453344,
-                              "r_rating": 0.8402556983453344
+                              "r_rating": 0.6653672052787476,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Ok.'",
+                                  "g_rating": 0.0,
+                                  "s_rating": 0.14070172607898712,
+                                  "t_rating": 0.14070172607898712,
+                                  "r_rating": 0.14070172607898712
+                                }
+                              ]
                             },
                             {
                               "name": "Dr. B:'I'm very much on the side of the early days of science when it was, in fact, very very different to the way we live now, but I'm very much in favor of being able to use new information to refine our understanding of how to do our job.'",
@@ -2242,6 +3003,22 @@
           "r_rating": 0.9179901514580097,
           "children": [
             {
+              "name": "Dr. B:'That is indeed a very broad perspective. But in particular, what would you say is neuroscience's fundamental question? And what are the fundamental research questions that are being asked about, say, the next 10 years? What I'm talking about are the questions about what we are trying to find out about the brain. Let me put it more concretely and say that there are at least four questions about the brain that I would like to understand.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5198086500167847,
+              "t_rating": 0.7938520218732659,
+              "r_rating": 0.8285393237005986,
+              "children": [
+                {
+                  "name": "Dr. M:'So I think it's the brain is really what the focus should be on. The brain and its interactions with other parts of the body. Because, as you're saying, we're really thinking about how things work, or how people think about how things work. So, I mean I have the example of our brain.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4793172776699066,
+                  "t_rating": 0.9326012291825968,
+                  "r_rating": 0.9326012291825968
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'You're trying to list it all so that I can think of it in a bigger context.'",
               "g_rating": 0.8,
               "s_rating": 0.3001670241355896,
@@ -2253,7 +3030,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.5680663585662842,
                   "t_rating": 0.9014984124970815,
-                  "r_rating": 0.9014984124970815
+                  "r_rating": 0.8748266728832663,
+                  "children": [
+                    {
+                      "name": "Dr. B:'It's just like how people are fascinated about the history of the mind and neuroscience, and are excited about doing it. It's a similar kind of curiosity to be honest. But it's, it's, there's a lot to think about. And there's a lot of ways to be able to understand a system. And then the question that's the interesting part of it is, what is the function? What is the brain function? And what is the goal of the brain?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5212727189064026,
+                      "t_rating": 0.7948114540418207,
+                      "r_rating": 0.7948114540418207
+                    }
+                  ]
                 }
               ]
             }
@@ -2264,7 +3050,41 @@
           "g_rating": 0.7,
           "s_rating": 0.6179253458976746,
           "t_rating": 0.9337193010229363,
-          "r_rating": 0.9337193010229363
+          "r_rating": 0.9232048843035523,
+          "children": [
+            {
+              "name": "Dr. B:'The brain is organized into a hierarchy of interconnected structures in which the components interact with each other. In order to understand how this occurs, it is necessary to understand how the organization of the different layers and layers interacts with each other. This is what I call the neuronal syntax.'",
+              "g_rating": 0.6,
+              "s_rating": 0.6595911383628845,
+              "t_rating": 0.8916616341454003,
+              "r_rating": 0.70822635672854,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes.'",
+                  "g_rating": 0.0,
+                  "s_rating": 0.15792052447795868,
+                  "t_rating": 0.15792052447795868,
+                  "r_rating": 0.15792052447795868
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'How do you break this down, in the sense of a neuron, for example? Or a synaptic junction? Or a network? And so on?'",
+              "g_rating": 0.6,
+              "s_rating": 0.4923861622810364,
+              "t_rating": 0.7761727467554159,
+              "r_rating": 0.8092466206255293,
+              "children": [
+                {
+                  "name": "Dr. M:'So, a neuron can be a synapse, it can be a network, it can be all of the above. A synapse can be a network. It doesn't have to be. But in general, in general, in all species, a neuron is the most general unit, because a neuron has to be identified before you can study other properties. And that is usually the case, because they have to identify the cells.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.43048176169395447,
+                  "t_rating": 0.9084682422358696,
+                  "r_rating": 0.9084682422358696
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'When I first started graduate school, people were asking about neurons, synaptic transmission and ion channels, but by the time I started graduate school, neuroscience had come to be a subfield of biology, because the idea had been that we should know how many neurons, and how their circuits should interact.'",
@@ -2328,7 +3148,16 @@
               "g_rating": 0.7,
               "s_rating": 0.17103838920593262,
               "t_rating": 0.7205929021175271,
-              "r_rating": 0.7205929021175271
+              "r_rating": 0.7111311137421519,
+              "children": [
+                {
+                  "name": "Dr. M:'The first book I read was a book about how cells were organized and how they functioned.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.3257940411567688,
+                  "t_rating": 0.6827457486160264,
+                  "r_rating": 0.6827457486160264
+                }
+              ]
             },
             {
               "name": "Dr. B:'Did you ever ask about what makes neurobiology the right branch of science?'",
@@ -2508,6 +3337,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I'm trying to study what is the function of higher-order-circuits in the nervous system and how they are regulated. So I'm interested in the brain.'",
+          "g_rating": 0.8,
+          "s_rating": 0.6329824924468994,
+          "t_rating": 1.0201307934496877,
+          "r_rating": 1.0201307934496877
         }
       ]
     },
