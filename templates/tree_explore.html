@@ -2,11 +2,11 @@
 
 {% block body %}
 <div class="row">
-  <div class="column">
+  <div class="column" style="width:100px; margin:50px auto;">
         <img src="{{url_for('static', filename='left_col.png')}}" align="middle" />
   </div>
-<div class="column">
-    <div style="width:800px; margin:0 auto;">
+<div class="column" style="width:800px; margin:0 auto;">
+    <!-- <div style="width:800px; margin:0 auto;"> -->
         <title>{{ new_data['html_title'] }}</title>
         {% autoescape false %}
         <p>{{ new_data['history'] }}</p>
@@ -17,6 +17,6 @@
         <a href="/" style="color: inherit;text-decoration: none;">
           <input type="submit" value="Start over." name="reset"/> <br>
         </a>
-    </div>
+    <!-- </div> -->
 </div>
 {% endblock %}
