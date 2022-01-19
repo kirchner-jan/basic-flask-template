@@ -2,11 +2,17 @@
 {% block body %}
 <div style="width:800px; margin:0 auto;">
     <title>{{ app_data['html_title'] }}</title>
+    <div class="column">
+            <img src="{{url_for('static', filename='left_col.png')}}" align="middle" />
+      </div>
+    <div class="column">
     {% autoescape false %}
     <p>{{ app_data['history'] }}</p>
     {% endautoescape %}
     {%for ii , cname in enumerate(app_data['children_name'])%} 
         <p><a href="/explore/{{ii}}">>>></a> {{ cname }}</p> <br><br>
     {%endfor%}     
+    </div>
+
   </div>
 {% endblock %}
