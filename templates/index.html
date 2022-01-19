@@ -3,8 +3,8 @@
 <div class="column">
         <img src="{{url_for('static', filename='left_col.png')}}" />
 </div>
-<div class="column">
-    <div style="width:800px; margin:0 auto;">
+<div class="column" style="width:800px; margin:0 auto;">
+    <!-- <div style="width:800px; margin:0 auto;"> -->
         <title>{{ app_data['html_title'] }}</title>
         {% autoescape false %}
         <p>{{ app_data['history'] }}</p>
@@ -12,6 +12,6 @@
         {%for ii , cname in enumerate(app_data['children_name'])%} 
             <p><a href="/explore/{{ii}}">>>></a> {{ cname }}</p> <br><br>
         {%endfor%}     
-    </div>
+    <!-- </div> -->
 </div>
 {% endblock %}
