@@ -6,11 +6,27 @@
   "r_rating": 1.1552514260790236,
   "children": [
     {
+      "name": "Dr. B: 'What is neuroscience?'",
+      "g_rating": 0.5,
+      "s_rating": 0.5459738969802856,
+      "t_rating": 0.7403293160370185,
+      "r_rating": 0.7826059280115237,
+      "children": [
+        {
+          "name": "Dr. M:'A large number of people think of the brain as a big organ, and there are many many important people studying the brain and looking at how the nervous system works. So, neuroscience is the study of neurons, how they work, how their activity depends on intrinsic properties, synaptic interactions, and also interactions with the environment. So, the basic principles that were developed with regard to how the nervous system was put together, how synaptic interactions are responsible for creating the circuits and behaviour that we see.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5805802345275879,
+          "t_rating": 0.9094357639350396,
+          "r_rating": 0.9094357639350396
+        }
+      ]
+    },
+    {
       "name": "Dr. B: 'Do you have any ideas about how neuromodulators might affect the formation and function of dendritic spines?'",
       "g_rating": 0.6,
       "s_rating": 0.49703702330589294,
       "t_rating": 0.7791314411168264,
-      "r_rating": 0.8239324695838607,
+      "r_rating": 0.8247288535256715,
       "children": [
         {
           "name": "Dr. M:'No.'",
@@ -31,7 +47,25 @@
                   "g_rating": 0.8,
                   "s_rating": 0.6129798889160156,
                   "t_rating": 1.0078414281103407,
-                  "r_rating": 1.0078414281103407
+                  "r_rating": 0.9866569935035374,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So, it would be really interesting to learn the rules that govern this mechanism, and learn how it affects synaptic plasticity in particular, because what has been shown is that it doesn't affect the synaptic strength and it doesn't affect how the synapse closes or open, but it affects how many spines are formed on the dendrites of pyramidal cells.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.46056532859802246,
+                      "t_rating": 0.923103689683128,
+                      "r_rating": 0.8530746694244669,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think it could be quite interesting.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.23115593194961548,
+                          "t_rating": 0.6429876086484834,
+                          "r_rating": 0.6429876086484834
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -70,7 +104,16 @@
                           "g_rating": 0.3,
                           "s_rating": 0.4692345857620239,
                           "t_rating": 0.5569390419743063,
-                          "r_rating": 0.5569390419743063
+                          "r_rating": 0.568148990721812,
+                          "children": [
+                            {
+                              "name": "Dr. B:'No. I'm not interested in neurons. And if you don't care about the brain, then that is a good start for you.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.5216682553291321,
+                              "t_rating": 0.601778836964329,
+                              "r_rating": 0.601778836964329
+                            }
+                          ]
                         }
                       ]
                     },
@@ -100,7 +143,34 @@
                                   "g_rating": 0.8,
                                   "s_rating": 0.49111345410346985,
                                   "t_rating": 0.9387185013631302,
-                                  "r_rating": 0.9387185013631302
+                                  "r_rating": 0.9509795854772065,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'But the fact that we identified a single neuron that responded to input by producing oscillations, for example, is very different from the question that we are facing today, which is whether we could create a system or a system in the brain that can create the same physiological effects as the single neuron. We have very limited options to do so.'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.5793750286102295,
+                                      "t_rating": 0.9877628378194354,
+                                      "r_rating": 0.7829844051690238,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right.'",
+                                          "g_rating": 0.0,
+                                          "s_rating": 0.1686491072177887,
+                                          "t_rating": 0.1686491072177887,
+                                          "r_rating": 0.33459112576704175,
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:'Now, there is the second option that is to use a different mechanism, which is that the system of neuronal activity that can produce oscillations that respond to the same inputs and yet can produce the same physiological results, the same physiological results. In other words to take the system of the neuron and its connections and its synaptic path lengths and, and the synaptic strength of synaptic connections, and that kind of stuff, and make a system out of that.'",
+                                              "g_rating": 0.6,
+                                              "s_rating": 0.5769907832145691,
+                                              "t_rating": 0.832417181414801,
+                                              "r_rating": 0.832417181414801
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -115,11 +185,77 @@
           ]
         },
         {
+          "name": "Dr. M:'No, I have no idea.'",
+          "g_rating": 0.4,
+          "s_rating": 0.167074054479599,
+          "t_rating": 0.4334901840644746,
+          "r_rating": 0.4334901840644746
+        },
+        {
+          "name": "Dr. M:'Oh yes, I do. It would depend on the neuron.'",
+          "g_rating": 0.4,
+          "s_rating": 0.4433209002017975,
+          "t_rating": 0.5971041957277909,
+          "r_rating": 0.5934260742948088,
+          "children": [
+            {
+              "name": "Dr. B:' What neurons?'",
+              "g_rating": 0.2,
+              "s_rating": 0.5469735860824585,
+              "t_rating": 0.5823917099958624,
+              "r_rating": 0.6363095443561317,
+              "children": [
+                {
+                  "name": "Dr. M:' Well, neurons that have a wide range of modulators in their periphery. So if we're talking about the neurons that are neurons in the cortex, we are talking about neurons that have a wider range of neuromodulators in their periphery because the neurons are in their central core, their cell bodies, and it's a very small diameter with their peripherals and then their dendrites and their neuromodulatory inputs that will come out of the periphery.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5262172818183899,
+                  "t_rating": 0.7980630474369395,
+                  "r_rating": 0.7980630474369395
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I'm very curious about that. You know, we see this kind of phenomenon quite commonly in the biological world. This is in the biological world, in which, you know, the spine is really a very sensitive site that can be regulated by neuromodulators, and that is a common phenomenon that we see in the biological world.'",
+          "g_rating": 0.4,
+          "s_rating": 0.33588123321533203,
+          "t_rating": 0.5223181050148006,
+          "r_rating": 0.6025838440728739,
+          "children": [
+            {
+              "name": "Dr. B:'And then I wondered what effect, how the neuromodulator would affect the formation and the function of the dendritic spine.'",
+              "g_rating": 0.7,
+              "s_rating": 0.47041642665863037,
+              "t_rating": 0.843381061247094,
+              "r_rating": 0.843381061247094
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'No, no. I don't have any idea how to answer this. I mean, of course I was thinking about this as we were talking and you asked me and then it got me thinking about dendritic spiking and dendritic spike morphology and how it might change because of neuromodulation and it's just so obvious.'",
           "g_rating": 0.2,
           "s_rating": 0.5513173341751099,
           "t_rating": 0.5864731903181507,
-          "r_rating": 0.5864731903181507
+          "r_rating": 0.6325020877854847,
+          "children": [
+            {
+              "name": "Dr. B:'Well, that's a pretty obvious answer. I was looking for something that was not so obvious, but the idea that's the sort of dendritic morphological changes and changes in dendritic spining that are brought about by neurotransmitters and neuromodulators is pretty obvious. What about those changes? Could you comment on that?'",
+              "g_rating": 0.6,
+              "s_rating": 0.4835360050201416,
+              "t_rating": 0.7705887801874866,
+              "r_rating": 0.6698790038524611,
+              "children": [
+                {
+                  "name": "Dr. M:'Sure. Let me think about that for a minute.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.21269655227661133,
+                  "t_rating": 0.3677496748473848,
+                  "r_rating": 0.3677496748473848
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'Not in detail.'",
@@ -215,7 +351,50 @@
               "g_rating": 0.7,
               "s_rating": 0.6299570202827454,
               "t_rating": 0.9417249319220105,
-              "r_rating": 0.9417249319220105
+              "r_rating": 0.9362250412889068,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, I'm thinking they are important for dendritic spiking and dendritic inhibition.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.4617163836956024,
+                  "t_rating": 0.6805747710376463,
+                  "r_rating": 0.7009426065369624,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What are the mechanisms that would be responsible for this, so that I could understand the physiological significance of this insight?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.3011881113052368,
+                      "t_rating": 0.7620461130349105,
+                      "r_rating": 0.7632153710113372,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I'm going to give you a hypothetical answer. I think there are many mechanisms responsible for this. And there are neurons that are activated that are responsible for this. I think probably it's something like an oscillator that would cause a different kind of voltage to be present across the membrane in different phases. And then I think there are a whole bunch of other factors. I'm sure there are a whole lot of different factors that play a role in this because the structure of these neurons varies.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.3128328323364258,
+                          "t_rating": 0.7667231449406169,
+                          "r_rating": 0.7185548470045005,
+                          "children": [
+                            {
+                              "name": "Dr. B:'It varies substantially in the pyramidal layer of the CA1 region and CA3 region.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.2820165753364563,
+                              "t_rating": 0.5740499531961509,
+                              "r_rating": 0.5740499531961509
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, it's obvious that dendritic spiking is important for neurons to be able to get messages to the surface, because of synaptic connections, because it determines synaptic strengths. But I mean, it can also influence the strength of other circuits and even the stability of the network itself.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.45375627279281616,
+                  "t_rating": 0.9197253693895959,
+                  "r_rating": 0.9197253693895959
+                }
+              ]
             }
           ]
         },
@@ -231,7 +410,7 @@
               "g_rating": 0.5,
               "s_rating": 0.5058289170265198,
               "t_rating": 0.7112403906558048,
-              "r_rating": 0.5755925697963008,
+              "r_rating": 0.6371943217375214,
               "children": [
                 {
                   "name": "Dr. M:'Right.'",
@@ -297,9 +476,34 @@
                       "g_rating": 0.8,
                       "s_rating": 0.4831433594226837,
                       "t_rating": 0.9345734351853987,
-                      "r_rating": 0.9345734351853987
+                      "r_rating": 0.838737533795529,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, absolutely. Because if you change a synaptic connection in a cell, if you change the postsynaptic neuron, the synapse is going to be different. I mean, this is a big deal. So it's going to change the circuit function.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.5136675238609314,
+                          "t_rating": 0.5512298296259198,
+                          "r_rating": 0.5829805937590025,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, that is, uh, that's a good argument. I wonder if there are other studies, uh, where this could be more effectively argued?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.316227525472641,
+                              "t_rating": 0.6782328861582501,
+                              "r_rating": 0.6782328861582501
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'Yes, indeed. There are some examples in the crab, Cancer borealis, where the same set of neurons in the stomatogastric ganglion that makes up the foregut also makes up the stomach and produces gastric mill rhythms that control the chewing and swallowing of food.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.3636915981769562,
+                  "t_rating": 0.4150561149826714,
+                  "r_rating": 0.4150561149826714
                 }
               ]
             }
@@ -331,6 +535,45 @@
           ]
         },
         {
+          "name": "Dr. M:'Well, it's possible that neuromodulation could alter the strength of synaptic inhibition at the dendrites, which is important to the formation of spines. The other possibility, I guess, is that it might affect the dynamics of the ionic currents and channels that are important to the formation and regulation of these processes.'",
+          "g_rating": 0.7,
+          "s_rating": 0.47011080384254456,
+          "t_rating": 0.8432106307972423,
+          "r_rating": 0.71072462347575,
+          "children": [
+            {
+              "name": "Dr. B:'Is there another possibility? The possibility that this is an independent process? In other words, what are the mechanisms? Or what is your best guess?'",
+              "g_rating": 0.2,
+              "s_rating": 0.24111400544643402,
+              "t_rating": 0.3132666015112735,
+              "r_rating": 0.3132666015112735
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I'd be quite surprised if modulators have that much effect on dendritic spining. We have some data on dendritic spine formation and function under different conditions, and I'm quite convinced that they have no effects on dendritic branching at all, nor on the number of spines per neuron. We did study some of these modulators in different preparations, and I think they have absolutely no effects on dending. They can only alter the properties of the dendrites themselves.'",
+          "g_rating": 0.6,
+          "s_rating": 0.31645667552948,
+          "t_rating": 0.6783397581501254,
+          "r_rating": 0.7129609239671669,
+          "children": [
+            {
+              "name": "Dr. B:'What I'm asking for is, what might happen is the formation of dendritic spine at the same frequency and in the same condition, only that the neurons are in different brain states, i.e. awake, and in the resting condition. In other words, a simple way to alter the formation of the dendritic spine, that is the basic mechanism of memory consolidation, is to affect the activity of the same mechanisms that formed that spine in the first place.'",
+              "g_rating": 0.7,
+              "s_rating": 0.4209538400173187,
+              "t_rating": 0.8168244214182913,
+              "r_rating": 0.8168244214182913
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I do not have any ideas about that. It is possible that neuromodulators will have a big impact in the way that we think about dendritic spiking. Because we believe that dendritic spike detection is important for information processing in neurons, we would certainly be open to the possibility of neuromodulators changing the extent to which dendrites contain spikes.'",
+          "g_rating": 0.6,
+          "s_rating": 0.4173251688480377,
+          "t_rating": 0.7308627070483507,
+          "r_rating": 0.7308627070483507
+        },
+        {
           "name": "Dr. M:' Oh, I mean, like, the structure of neural synapses? Like, the regulation of synapses, or the regulation of dendritic branches?'",
           "g_rating": 0.5,
           "s_rating": 0.5815966725349426,
@@ -356,7 +599,7 @@
                       "g_rating": 0.6,
                       "s_rating": 0.46255815029144287,
                       "t_rating": 0.7576015063349868,
-                      "r_rating": 0.677344817933185,
+                      "r_rating": 0.8271074556949962,
                       "children": [
                         {
                           "name": "Dr. M:' I don't know. Well, let's see.'",
@@ -389,6 +632,13 @@
                               "r_rating": 0.8601364160767341
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. M:' Well, I mean, it could be a large region, but it could be a relatively small region. It could be that the dendritic branches are the most important branches for regulating the system. But the primary branches, and then some of the processes in the main neuron. I mean, but you might be able to find, if you do a lot of research, some neuron and just figure out the best point to measure, because that can be a pretty big question.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.5123668313026428,
+                          "t_rating": 1.035625303775024,
+                          "r_rating": 1.035625303775024
                         }
                       ]
                     }
@@ -404,6 +654,22 @@
               "r_rating": 0.5353107401056332,
               "children": [
                 {
+                  "name": "Dr. M:' Sure. You can do a whole bunch of different experiments, because we know that dopamine strongly inhibits dendritic arborization in crabs.'",
+                  "g_rating": 0.0,
+                  "s_rating": 0.370646208524704,
+                  "t_rating": 0.370646208524704,
+                  "r_rating": 0.4219384780308141,
+                  "children": [
+                    {
+                      "name": "Dr. B:' Well, in other animals. But what about in mice, where they have the advantage that they can do a lot of interesting stuff. But, uh, you know, how would you go to, uh, that, uh, in mice? Because it is a, uh, very difficult thing to test in mice.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.28559279441833496,
+                      "t_rating": 0.5758152865491445,
+                      "r_rating": 0.5758152865491445
+                    }
+                  ]
+                },
+                {
                   "name": "Dr. M:' Well, so, there's a couple of problems. So one is, is that we can't block the release of these substances and see how they act, but we can block the release of, you know, the cotransmitters.'",
                   "g_rating": 0.5,
                   "s_rating": 0.24300694465637207,
@@ -415,7 +681,16 @@
                   "g_rating": 0.8,
                   "s_rating": 0.40124601125717163,
                   "t_rating": 0.8949851180605131,
-                  "r_rating": 0.8949851180605131
+                  "r_rating": 0.9093280633152755,
+                  "children": [
+                    {
+                      "name": "Dr. B:' And then, and then I would, I would, I'd go back and I would look at some of the projection neurons and see if any of those effects are relevant for the formation and function.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5167046189308167,
+                      "t_rating": 0.9523568990795628,
+                      "r_rating": 0.9523568990795628
+                    }
+                  ]
                 }
               ]
             },
@@ -438,6 +713,22 @@
           ]
         },
         {
+          "name": "Dr. M:'I mean, there are some studies that have shown that serotonin, dopamine, and acetylcholine all increase the size of dendritic branches and that serotonin increases the number of branch points. I mean, you know there's a lot of studies that show that neuromodulators that have been applied to the intact preparation can also have a similar effect as when applied to isolated neurons.'",
+          "g_rating": 0.7,
+          "s_rating": 0.44197943806648254,
+          "t_rating": 0.827856161222204,
+          "r_rating": 0.7536189756101874,
+          "children": [
+            {
+              "name": "Dr. B:'Yeah. Okay. And that may include other brain rhythms, right? There are lots of brain rhythms that can affect the growth and function of dicendritic spines. But what can they do? What are the mechanisms that can control them? And where does it come from? And I'm curious what you think are the critical issues.'",
+              "g_rating": 0.3,
+              "s_rating": 0.43802133202552795,
+              "t_rating": 0.5309074187741378,
+              "r_rating": 0.5309074187741378
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'It could be through the modulation of voltage-dependent conductance dynamics that cause the local depolarization, I think, to be enhanced. There are numerous examples in the literature of the kind of electrical coupling that occurs between the dendrites of different neurons (a phenomenon that you might call passive coupling), and there are many studies about how neuromodeulators alter these electrical connections, how they are regulated.'",
           "g_rating": 0.7,
           "s_rating": 0.30627477169036865,
@@ -451,6 +742,22 @@
               "t_rating": 0.5445982301993014,
               "r_rating": 0.6173322267253688,
               "children": [
+                {
+                  "name": "Dr. M:'Yes, I mean, that is a possibility. It could be a possibility.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.19087325036525726,
+                  "t_rating": 0.5351939813796472,
+                  "r_rating": 0.5790322146973123,
+                  "children": [
+                    {
+                      "name": "Dr. B:'If you have a drug or some other mechanism that can do this, what does it look like? What would be the mechanism? What is the mechanism of this drug? Are there mechanisms of the drug that I can talk about? What is the pathway for this drug to enter the brain? How can the brain respond to this drug? How does the brain respond to drugs and substances that can modulate these electrical connections? Is there some kind of pharmacological pathway that you can discuss for this drug?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.38062700629234314,
+                      "t_rating": 0.7105469146503075,
+                      "r_rating": 0.7105469146503075
+                    }
+                  ]
+                },
                 {
                   "name": "Dr. M:'I mean I think one of the key points to be made about how neurons are organized in neural networks is that most of the neurons in a network have similar properties, and yet the network has to be able to respond to all kinds of changes that will occur.'",
                   "g_rating": 0.6,
@@ -490,7 +797,16 @@
                   "g_rating": 0.0,
                   "s_rating": 0.4422045946121216,
                   "t_rating": 0.4422045946121216,
-                  "r_rating": 0.4422045946121216
+                  "r_rating": 0.4849774375740272,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Thanks for that. [In reference to the study by Zhang](http://jneurosci.org/content/2010/10/16/619.full), do we know whether it's possible to stimulate neurons with some frequency range and see what happens? Do we know how long-lasting the stimulation will be?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.4648999273777008,
+                      "t_rating": 0.613295966459744,
+                      "r_rating": 0.613295966459744
+                    }
+                  ]
                 }
               ]
             }
@@ -504,11 +820,36 @@
           "r_rating": 0.7875305407423023,
           "children": [
             {
+              "name": "Dr. B:'But you're aware of the fact that, so-called-calcium-spindles that occur in the hippocampus are actually the result of neurotransmitters releasing from neurons that innervate dendrites of pyramidal cells, and that these events occur mainly during sleep and wake-up states, and that they can affect the stability of the dendritic spine.'",
+              "g_rating": 0.6,
+              "s_rating": 0.44667911529541016,
+              "t_rating": 0.7480121870939606,
+              "r_rating": 0.7549157241358699,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes, yes, I'm aware that this may be relevant for that, but I don't know that I'm aware of it being a specific mechanism that they might use it to change things, so I haven 't really thought about it.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.3340601921081543,
+                  "t_rating": 0.7756263352615981,
+                  "r_rating": 0.7756263352615981
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'Do you have any thoughts about whether you're too old to do your own research? I'm just trying to convince people that my age is not relevant. I'm only an octogenarian, and I'm still very active in my research. There's nothing wrong with my age and I'm still motivated, as I am every day, and I'm very happy to be doing this.'",
               "g_rating": 0.7,
               "s_rating": 0.22995054721832275,
               "t_rating": 0.736802045440976,
-              "r_rating": 0.736802045440976
+              "r_rating": 0.7627121085378116,
+              "children": [
+                {
+                  "name": "Dr. M:'I'm sure you are, and you're certainly at the forefront of the field.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.25757184624671936,
+                  "t_rating": 0.8404422978283184,
+                  "r_rating": 0.8404422978283184
+                }
+              ]
             },
             {
               "name": "Dr. B:'There is a recent report that demonstrates that the neurotransmitter serotonin may increase spine size in the visual cortex, and in that case, it actually was not dendrites that responded to serotonin, it was a spine, which is a specialized structure. So, do you have any ideas? For example, do you have ideas for how long-range fibers might form and maintain connections across the brain and affect their structural integrity? Is there any information about how it might work? What would be the mechanism?'",
@@ -529,7 +870,16 @@
                       "g_rating": 0.2,
                       "s_rating": 0.45791518688201904,
                       "t_rating": 0.4996862199192554,
-                      "r_rating": 0.4996862199192554
+                      "r_rating": 0.63979295436848,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, I don't know, there are many, many possibilities, but I mean, I think the most important mechanism, if you're trying to answer this question, is trying to answer questions about the molecular basis of what it means to be a neural network, so that I think the most crucial part of your question is to understand how the basic cell types that neurons and neurons belong to work together in the brain.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.5602141618728638,
+                          "t_rating": 1.060113157716154,
+                          "r_rating": 1.060113157716154
+                        }
+                      ]
                     }
                   ]
                 }
@@ -541,6 +891,31 @@
               "s_rating": 0.5467024445533752,
               "t_rating": 0.8881911747369686,
               "r_rating": 0.8881911747369686
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, this is something that we have been interested in very, very extensively. So, the first idea that we came up with is that neuromodulators, for example, could be released by neurons that innervate the spine of a neuron and they could, if they were released into the synapse, could actually inhibit the release of neurotransmitters at the spiny tip of that neuron. In other words, they could be co-transmitters.'",
+          "g_rating": 0.8,
+          "s_rating": 0.45297056436538696,
+          "t_rating": 0.9193379858253967,
+          "r_rating": 0.7966273223400823,
+          "children": [
+            {
+              "name": "Dr. B:'And how would they do that?'",
+              "g_rating": 0.4,
+              "s_rating": 0.15364976227283478,
+              "t_rating": 0.4284953318841393,
+              "r_rating": 0.5499433262845341,
+              "children": [
+                {
+                  "name": "Dr. M:'So, that's an idea, it's a simple idea and we have done a couple of experiments with this. So, for example, we found that dopamine can co-transmit with acetylcholine, and the co-transmission of these two substances together can have an excitatory effect, and that actually occurs at the synapse between a motor neuron and a neuron that activates motor nerves.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.44262996315956116,
+                  "t_rating": 0.9142873094857188,
+                  "r_rating": 0.9142873094857188
+                }
+              ]
             }
           ]
         },
@@ -570,7 +945,16 @@
                       "g_rating": 0.4,
                       "s_rating": 0.1708741933107376,
                       "t_rating": 0.4349689528455972,
-                      "r_rating": 0.4349689528455972
+                      "r_rating": 0.5130711922816309,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So the location of the circuit is right there.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.26186588406562805,
+                          "t_rating": 0.7473779105897317,
+                          "r_rating": 0.7473779105897317
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:'But do the neurons that project to these neurons have a particular function? Do they have any special roles? Or does their sole function to project to these dendritic spindle neurons, and their sole function is to release the neurotransmitter? Do the neurons that project towards the dendritic spine neurons have any special function?  Do they have any particular roles in the network?'",
@@ -647,7 +1031,23 @@
                   "g_rating": 0.6,
                   "s_rating": 0.5174344182014465,
                   "t_rating": 0.7922994239171637,
-                  "r_rating": 0.7922994239171637
+                  "r_rating": 0.8165506926547044,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Well, you're a good candidate to be part of the effort to understand what is being done there. Do you have a particular goal? Do you know what you'd like to accomplish? What's your goal? Is it, as we say, the complete circuit, the complete circuit. Is it a particular behavior or just a circuit that can work? What's your...'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.31787484884262085,
+                      "t_rating": 0.7687941333846916,
+                      "r_rating": 0.7687941333846916
+                    },
+                    {
+                      "name": "Dr. B:'I agree with you that it would be quite amazing to see how this circuit would perform with no inputs from the environment. Or, if you want to put it in a different way, what happens to the brain if it's cut off from its inputs, or it's cut off its outputs. Do you have an example in your mind where such a circuit would perform at its best?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.38841021060943604,
+                      "t_rating": 0.8893044988673264,
+                      "r_rating": 0.8893044988673264
+                    }
+                  ]
                 }
               ]
             },
@@ -677,7 +1077,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.43780747056007385,
                           "t_rating": 0.911962379310797,
-                          "r_rating": 0.911962379310797
+                          "r_rating": 0.8646242421443304,
+                          "children": [
+                            {
+                              "name": "Dr. B:'I'm interested in how the brain controls the heart.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.4026971161365509,
+                              "t_rating": 0.7226098306449302,
+                              "r_rating": 0.7226098306449302
+                            }
+                          ]
                         }
                       ]
                     },
@@ -741,7 +1150,16 @@
                                   "g_rating": 0.6,
                                   "s_rating": 0.1610957682132721,
                                   "t_rating": 0.6212502286005409,
-                                  "r_rating": 0.6212502286005409
+                                  "r_rating": 0.622247075854812,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'I have a hard time because of the background noise and what-not. But at least this is something else we have to look into. So, if you can look into this and say, OK, this is not really a spiking activity that we have here, then there is a different type of activity going on in the brain than we originally thought.'",
+                                      "g_rating": 0.4,
+                                      "s_rating": 0.4805435240268707,
+                                      "t_rating": 0.6252376176176252,
+                                      "r_rating": 0.6252376176176252
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -783,7 +1201,16 @@
               "g_rating": 0.5,
               "s_rating": 0.4288513660430908,
               "t_rating": 0.6587211049883137,
-              "r_rating": 0.6587211049883137
+              "r_rating": 0.668759417820596,
+              "children": [
+                {
+                  "name": "Dr. M:'So, we thought that was a really interesting effect. We didn't expect it to influence dendritic sping. When serotonin acts on dendritic spinges, it acts on dendrites, but not on spines, but when it acts on neuromodulatory terminals, then it does act on both. So we were curious how it would influence dendritic spikes.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.35836485028266907,
+                  "t_rating": 0.6988743563174427,
+                  "r_rating": 0.6988743563174427
+                }
+              ]
             },
             {
               "name": "Dr. B:'What was the connection to this effect?'",
@@ -797,16 +1224,48 @@
                   "g_rating": 0.9,
                   "s_rating": 0.43880388140678406,
                   "t_rating": 1.001273612124907,
-                  "r_rating": 0.8881215916934272,
+                  "r_rating": 0.9442891169160754,
                   "children": [
                     {
                       "name": "Dr. B:'Where in the brain are these neurons? Are they in the cortex or in other areas? What is the connection to serotonin? Do these neurons have direct synaptic innervation or are they innervated by other neurons? Are they inhibitory or excitatory? Is it a feed-forward or feedback type of effect? What is the source? What is the target? What is the pathway? What are the mechanisms? What is the effect? Are there other direct effects of serotonin on this circuit?'",
                       "g_rating": 0.4,
                       "s_rating": 0.3755447566509247,
                       "t_rating": 0.5486655303989875,
-                      "r_rating": 0.5486655303989875
+                      "r_rating": 0.521951746996255,
+                      "children": [
+                        {
+                          "name": "Dr. M:'It is. It is. We've been studying the effects of serotonin, because we knew that serotonin could directly influence synaptic transmission. The biggest effect of serotonin is that it directly activates a subset of neurons, so that it's acting directly on each neuron individually.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.3939497768878937,
+                          "t_rating": 0.44181039678805795,
+                          "r_rating": 0.44181039678805795
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'But the spines, as you are referring to, are formed in a short window of time. What were the requirements for synaptic plasticity?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.48790162801742554,
+                      "t_rating": 0.7733356312895807,
+                      "r_rating": 0.7733356312895807
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What kind of neurons would be influenced by serotonin? Do we know that?'",
+              "g_rating": 0.6,
+              "s_rating": 0.47764167189598083,
+              "t_rating": 0.7669038836331368,
+              "r_rating": 0.7960387411640172,
+              "children": [
+                {
+                  "name": "Dr. M:'We don't, we don't know that, but we do know that neurons that are connected to serotonin that are known to produce dendritic spikes, that were not producing dendritic spikings in serotonin when they were studied in isolation. So that was one example that we just found, that neurons that do not appear to be directly influenced by serotonin are influenced by serotonin, and can respond to serotonin in the presence of this other neuromodulator.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.374796062707901,
+                  "t_rating": 0.8834433137566581,
+                  "r_rating": 0.8834433137566581
                 }
               ]
             },
@@ -815,7 +1274,25 @@
               "g_rating": 0.8,
               "s_rating": 0.370403915643692,
               "t_rating": 0.8815889409039677,
-              "r_rating": 0.8815889409039677
+              "r_rating": 0.8113574315590114,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes. Well, the hippocampus has some unique features that make it special. The first is that it's not a cell, but it's more of a cell. It's got many processes. It's got the long processes that project from it. It's got processes that project out. It's got projections in many directions, that then project out in all directions.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.5203805565834045,
+                  "t_rating": 0.600662903524143,
+                  "r_rating": 0.6403948541543033,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is it important to understand how these various neurons and processes interact with each other? What is the role of interneurons? Do they have special features, different from other neurons? How do different types of interneuronal networks contribute to the function of hippocampal networks? What are the advantages and disadvantages of the various patterns of inhibitory interactions in the hippocampus? How does the spatial navigation that's so prominent in hippocampal circuits relate to inhibition? Can you talk more about this?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.46580901741981506,
+                      "t_rating": 0.7595907060447841,
+                      "r_rating": 0.7595907060447841
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -824,7 +1301,7 @@
           "g_rating": 0.7,
           "s_rating": 0.4340716004371643,
           "t_rating": 0.8236614318432551,
-          "r_rating": 0.826167234223504,
+          "r_rating": 0.8315803163284525,
           "children": [
             {
               "name": "Dr. B:'What would make a network of synapses more effective and capable of forming spines? There are numerous synapses at the surface of a spine, and these synapses form a relatively small bundle. However, there are multiple layers of spines that can be created. For instance, in a brain slice, where neurons are disconnected from their afferent input, the spine is only as tall as a long, narrow, flexible hair.'",
@@ -838,7 +1315,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.4643351435661316,
                   "t_rating": 0.7586877655205598,
-                  "r_rating": 0.7586877655205598
+                  "r_rating": 0.7015729157536292,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Right, there could be. In fact, there are many, many ways in which synaptic strength could be affected. And one way that this would happen is that certain neurotransmitters would work on these spine-stabilizing mechanisms, thereby allowing the spine to expand.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.34805476665496826,
+                      "t_rating": 0.5302283664528374,
+                      "r_rating": 0.5302283664528374
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'Oh, I would like more details about this, because I have never heard this before, the idea of having multiple spine layers. If this is important, this would also explain why it might be difficult to find synaptic inputs because you would not find them all at the same place.'",
@@ -896,7 +1382,16 @@
                                       "g_rating": 0.7,
                                       "s_rating": 0.5608201622962952,
                                       "t_rating": 0.8969499732081175,
-                                      "r_rating": 0.8969499732081175
+                                      "r_rating": 0.7162365067768157,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Mm-hmm.'",
+                                          "g_rating": 0.0,
+                                          "s_rating": 0.17409610748291016,
+                                          "t_rating": 0.17409610748291016,
+                                          "r_rating": 0.17409610748291016
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -922,52 +1417,64 @@
                   "g_rating": 0.5,
                   "s_rating": 0.5265477299690247,
                   "t_rating": 0.7261215545179285,
-                  "r_rating": 0.7261215545179285
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'I'm interested in this problem because, you know, it is so obvious that the formation of dendritic arborizations is dependent on all sorts of inputs that may be differentially regulated, and therefore that the regulation of dendritic morphology is likely to be a target for neuromodulation.'",
-          "g_rating": 0.8,
-          "s_rating": 0.4996883273124695,
-          "t_rating": 0.9432329640403445,
-          "r_rating": 0.8451693323167734,
-          "children": [
-            {
-              "name": "Dr. B:'Do you have any examples that might illustrate that?'",
-              "g_rating": 0.5,
-              "s_rating": 0.2314675748348236,
-              "t_rating": 0.5509784371460599,
-              "r_rating": 0.6148811881339137,
-              "children": [
-                {
-                  "name": "Dr. M:'Well, for example, the dendritic arbours in the STNSs of the crab, you know, the stomatogastric ganglion.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.40073248744010925,
-                  "t_rating": 0.8065894410974751,
-                  "r_rating": 0.6917056826989053,
+                  "r_rating": 0.767035566721832,
                   "children": [
                     {
-                      "name": "Dr. B:'What are the STNSs?'",
-                      "g_rating": 0.3,
-                      "s_rating": 0.17449000477790833,
-                      "t_rating": 0.34705440750319605,
-                      "r_rating": 0.3914554675846161,
-                      "children": [
-                        {
-                          "name": "Dr. M:'Stomatogastrics ganglion, of which there are 2 to 3 neurons per ganglion. There are many neurons, but there are 3 neurons that are especially interesting, because they generate 2 distinct brain patterns.'",
-                          "g_rating": 0.3,
-                          "s_rating": 0.4304261803627014,
-                          "t_rating": 0.5246586478288762,
-                          "r_rating": 0.5246586478288762
-                        }
-                      ]
+                      "name": "Dr. B:'Is there any reason to think that the synaptic strength is not a causal factor?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5492760539054871,
+                      "t_rating": 0.8897776033335428,
+                      "r_rating": 0.8897776033335428
                     }
                   ]
                 }
               ]
+            },
+            {
+              "name": "Dr. B:'Well, maybe that is what it is, but what is the physiological role of these spines? Do they have any special physiological role?'",
+              "g_rating": 0.8,
+              "s_rating": 0.288822203874588,
+              "t_rating": 0.8505399846279857,
+              "r_rating": 0.8499982036001232,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, that is a great question, that is a very important question. What is the role of these dendritic processes? In many other systems, the primary purpose is to take inputs from other neurons, and that is why they usually have branching points, because this makes it easy for these dendrites to interact with other neurons. In the case of this system, I think we can say the primary purpose is integration.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.4793083667755127,
+                  "t_rating": 0.8483728605165357,
+                  "r_rating": 0.8483728605165357
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'What could possibly be the advantages of this? What are the advantages of this circuit for the brain? How could it benefit the brain? I would like to make some assumptions. Let's go with something like this: that there are two types of synaptic inputs to the cell body of this circuit: long-range connections and the local circuit. Local connections to this neuron are connected with local synapses in a random manner.'",
+              "g_rating": 0.7,
+              "s_rating": 0.49152958393096924,
+              "t_rating": 0.8553369697840446,
+              "r_rating": 0.8553369697840446
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'No, not really, I mean, I was just hoping that you might have a nice, long discussion, that would go through some of these ideas and I'd have something to think about while you're talking...'",
+          "g_rating": 0.8,
+          "s_rating": 0.26151421666145325,
+          "t_rating": 0.8416588890495089,
+          "r_rating": 0.8416588890495089
+        },
+        {
+          "name": "Dr. M:'Well, there's a whole range of modulators, and their actions seem to be different on spines of different neurons. I mean, it's quite hard to know how they'll be affected by neuromodulators. And they're just small little things, and the role of a single dendritic spine is relatively small.'",
+          "g_rating": 0.7,
+          "s_rating": 0.4934757649898529,
+          "t_rating": 0.8564568469177654,
+          "r_rating": 0.8536442453959772,
+          "children": [
+            {
+              "name": "Dr. B:'But if they work in combination, perhaps they might impact their target in a much larger way.'",
+              "g_rating": 0.8,
+              "s_rating": 0.27271583676338196,
+              "t_rating": 0.8452064408306126,
+              "r_rating": 0.8452064408306126
             }
           ]
         },
@@ -979,11 +1486,11 @@
           "r_rating": 0.8618725346616564,
           "children": [
             {
-              "name": "Dr. B:'So these would be the first steps in the chain. The next set of steps would be when they're coupled by the glutamate AMPA receptors, and then they would work together for a longer time and so on.'",
-              "g_rating": 0.6,
-              "s_rating": 0.40489432215690613,
-              "t_rating": 0.7238365921358911,
-              "r_rating": 0.7238365921358911
+              "name": "Dr. B:'Well, then, what would happen is that the spines could be more responsive to local activity than local activity could be to spines. In other words, the spines would not be controlled in the same way. What would be changed is the way the spines respond to input signals, but not to local activity. In fact, this is what the dendrites of all principal cells do in the brain.'",
+              "g_rating": 0.4,
+              "s_rating": 0.47715967893600464,
+              "t_rating": 0.6226406340757974,
+              "r_rating": 0.6226406340757974
             },
             {
               "name": "Dr. B:'So that would be the kind of coupling that could allow for plasticity. Is it even theoretically possible to do that? In other words, does there exist a single mechanism that would allow to change synaptic strengths in a brain state-dependent manner? If not, what other mechanisms are needed? Or are there any special conditions that would make it possible? Such as, for example, that the brain state-dependent changes need to take place in the somato-dendritic compartment?'",
@@ -1079,6 +1586,22 @@
               ]
             },
             {
+              "name": "Dr. B:'So these would be the first steps in the chain. The next set of steps would be when they're coupled by the glutamate AMPA receptors, and then they would work together for a longer time and so on.'",
+              "g_rating": 0.6,
+              "s_rating": 0.40489432215690613,
+              "t_rating": 0.7238365921358911,
+              "r_rating": 0.7515799275567387,
+              "children": [
+                {
+                  "name": "Dr. M:'Well I think you're going to find that there are many different kinds of regulation that can occur on many different kinds of conductances. We see this is happening. The neuromodulatory circuits in the crab, they're regulated by many different substances, many different sets of chemical substances, and each of them has its own set of conductances that respond to it. And it will be very interesting to see how many different kinds of different regulation of conductances occur during different kinds of behavior.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.4548709988594055,
+                  "t_rating": 0.8348099338192816,
+                  "r_rating": 0.8348099338192816
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'You know, the interesting thing is that when I started my experiments on how dendritic spine formation is governed by the ionotropic glutamate receptor, and this is not a question you had, but is there a way to do it differently than what I did? Is there a better way to do this?'",
               "g_rating": 0.8,
               "s_rating": 0.4782409071922302,
@@ -1144,6 +1667,22 @@
               "t_rating": 0.706847246411072,
               "r_rating": 0.7673331883736134,
               "children": [
+                {
+                  "name": "Dr. M:'Well, if you're interested in neural syntax, neural code that is, neural coding, if you look at these two neurons over there that are not the same type of neuron you're looking at two different neurons that code for different behaviors. So if you think about that neurons are coding for different behaviors. And then you think about the neurons that have different cell-type-specific morphologies that might give rise to the cell-type-dependent behaviors.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.6245206594467163,
+                  "t_rating": 0.9380970387309414,
+                  "r_rating": 0.8339891921282705,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Yeah, yeah, yeah. But I'm not looking to explain how all this works, I'm looking to understand how the brain works. So I'm not so sure how that's gonna help me, but I'm asking what are the best strategies to work out what is going on and work ahead? So that, uh, I understand the basic, uh, how that works. And then I'm looking to try to move forward and do more of that same thing but different neurons.'",
+                      "g_rating": 0.1,
+                      "s_rating": 0.5119912624359131,
+                      "t_rating": 0.5216656523202577,
+                      "r_rating": 0.5216656523202577
+                    }
+                  ]
+                },
                 {
                   "name": "Dr. M:'Yes, so in general my feeling is that we have to take a step back to appreciate this diversity of solutions and what you might see is, that maybe they're not the best solutions but that some solutions are very elegant and might work well for some neurons and some solutions are more robust and will work well for a lot of neurons. So I think I'm actually wondering about how robust is robust enough. I don't know.'",
                   "g_rating": 0.8,
@@ -1217,25 +1756,45 @@
                   "g_rating": 0.7,
                   "s_rating": 0.3331206738948822,
                   "t_rating": 0.7752221509839489,
-                  "r_rating": 0.7752221509839489
+                  "r_rating": 0.7304986884502074,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And how is the impact affected by the NMDA receptors and by other ion channels? And if so how do the NMDA receptors control the formation and function...the same way NMDA channels control the growth and maintenance of the dendritic tree? What is your answer for how NMDA channels regulate dendritic growth? And what would happen if NMDA receptors were activated by...how would NMDA receptors impact dendritic formation and function?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.3249729871749878,
+                      "t_rating": 0.5963283008489827,
+                      "r_rating": 0.6773537756045347,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So let me first just talk to you a little bit about the general mechanism of dendritic growth in the nervous system.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.455183207988739,
+                          "t_rating": 0.9204301998711906,
+                          "r_rating": 0.8664157120775869,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So how would it work in this way? What are some ways we could make the mechanism more complex? So it would be a mechanism of the following sort. So it would be some sort of local circuit. So we would have a mechanism for NMDA receptors and NMDA channel opening on dendrites of pyramidal neurons. And we would have a local circuit mechanism to inhibit those channels, and inhibition would prevent the initiation of dendritic sprouting and the formation of a complex network.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.4961252510547638,
+                              "t_rating": 0.7043722486967757,
+                              "r_rating": 0.7182533228551288,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'But the activation of the NMDA channel in these neurons would be local, right? Because the activation would be confined to the terminal dendrites?'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.4663075804710388,
+                                  "t_rating": 0.7598965453301879,
+                                  "r_rating": 0.7598965453301879
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'I think it would be important to look at neuromodulators in some context like synaptic potentials. So, I'm trying to do something like this where we try to look at the effects of neuromodulators on an identified neuron in a very defined context, like the effects of a synaptic modulator on an identified neuron. But, the effects of a modulator on an individual neuron might be very, very different from the effects of a different neuron on that same neuron.'",
-          "g_rating": 0.8,
-          "s_rating": 0.5276429057121277,
-          "t_rating": 0.9583355549849631,
-          "r_rating": 0.8766966266053721,
-          "children": [
-            {
-              "name": "Dr. B:'I'm not sure I understand. So, you're saying that the effects of the synaptic modulator on the neuron might be similar in a neuron, but the synaptic effects on other neurons could be quite different? So, can you give a concrete example? I mean, it's very clear what you're trying to say, but are there any examples, perhaps, that you can share? So, let me ask you a question about your recent paper on spine-based dendritic signaling.'",
-              "g_rating": 0.4,
-              "s_rating": 0.4890253245830536,
-              "t_rating": 0.6317798414665989,
-              "r_rating": 0.6317798414665989
             }
           ]
         },
@@ -1251,7 +1810,7 @@
               "g_rating": 0.6,
               "s_rating": 0.3037412166595459,
               "t_rating": 0.6725018414084984,
-              "r_rating": 0.616300669875322,
+              "r_rating": 0.7363822848515462,
               "children": [
                 {
                   "name": "Dr. M:' Hardwired, no. Hardwired, no, not hard-wired. But it is part of the circuit. The neurons get their energy from the pacemaker network that produces the oscillations, and they then send it to other neurons through the circuit. So the circuit is wired, and it's wired by the pacemaker neurons that generate the rhythmic activity.'",
@@ -1259,6 +1818,22 @@
                   "s_rating": 0.33231422305107117,
                   "t_rating": 0.4476971552757925,
                   "r_rating": 0.4476971552757925
+                },
+                {
+                  "name": "Dr. M:' Well, it's not hardwired and I don't know why they're interconnected, but in theory it would be easy to add an additional layer of synaptic transmission to this network.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.47034862637519836,
+                  "t_rating": 0.9280236151806893,
+                  "r_rating": 0.8345261112614861,
+                  "children": [
+                    {
+                      "name": "Dr. B:' And would it be possible to change these connections?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.23864875733852386,
+                      "t_rating": 0.5540335995038763,
+                      "r_rating": 0.5540335995038763
+                    }
+                  ]
                 }
               ]
             },
@@ -1288,7 +1863,16 @@
                           "g_rating": 0.0,
                           "s_rating": 0.4868183732032776,
                           "t_rating": 0.4868183732032776,
-                          "r_rating": 0.4868183732032776
+                          "r_rating": 0.5629084373509146,
+                          "children": [
+                            {
+                              "name": "Dr. B:' The most important thing that a neuron does is to transmit information. That is, it's its primary function. And what are spines? Are spines the primary function of the neuron? If you look at how neurons are, how do they communicate, you have their own little synapse, that's the primary function of neurons is to communicate. That is, the most important thing that the neuron can do is to send a message.'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5157166123390198,
+                              "t_rating": 0.7911786297938252,
+                              "r_rating": 0.7911786297938252
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1307,6 +1891,22 @@
                       "s_rating": 0.5140641927719116,
                       "t_rating": 0.5515994872099114,
                       "r_rating": 0.5515994872099114
+                    },
+                    {
+                      "name": "Dr. B:' So there are many, many challenges that we have to face. Can you tell us a little bit about the challenges that you are facing?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.1854373961687088,
+                      "t_rating": 0.5332795026042447,
+                      "r_rating": 0.6136424366734694,
+                      "children": [
+                        {
+                          "name": "Dr. M:' Well, when I talk about the nervous system as it is studied today, I think one of the questions that is, you know,' how we think about nervous systems as they are studied today, is how robust a nervous system is, right, and it is, you know.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.49047476053237915,
+                          "t_rating": 0.8547312388811437,
+                          "r_rating": 0.8547312388811437
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:' I mean, this is like, that's like a big issue, is it not, the fact that the spine can be affected, or, you know, you might be a neuron that would respond and not be able to respond to the inputs if there are certain things that are happening, but it is not necessarily a big issue because we already understand that most pyramidal cells have their own self-generated and spontaneous activity that is responsible for the majority of the spines.'",
@@ -1388,11 +1988,111 @@
           ]
         },
         {
-          "name": "Dr. M:'Well, this is something that we have been interested in very, very extensively. So, the first idea that we came up with is that neuromodulators, for example, could be released by neurons that innervate the spine of a neuron and they could, if they were released into the synapse, could actually inhibit the release of neurotransmitters at the spiny tip of that neuron. In other words, they could be co-transmitters.'",
+          "name": "Dr. M:'I'm interested in this problem because, you know, it is so obvious that the formation of dendritic arborizations is dependent on all sorts of inputs that may be differentially regulated, and therefore that the regulation of dendritic morphology is likely to be a target for neuromodulation.'",
           "g_rating": 0.8,
-          "s_rating": 0.45297056436538696,
-          "t_rating": 0.9193379858253967,
-          "r_rating": 0.9193379858253967
+          "s_rating": 0.4996883273124695,
+          "t_rating": 0.9432329640403445,
+          "r_rating": 0.8987292539729222,
+          "children": [
+            {
+              "name": "Dr. B:'Do you have any examples that might illustrate that?'",
+              "g_rating": 0.5,
+              "s_rating": 0.2314675748348236,
+              "t_rating": 0.5509784371460599,
+              "r_rating": 0.6148811881339137,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, for example, the dendritic arbours in the STNSs of the crab, you know, the stomatogastric ganglion.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.40073248744010925,
+                  "t_rating": 0.8065894410974751,
+                  "r_rating": 0.6917056826989053,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What are the STNSs?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.17449000477790833,
+                      "t_rating": 0.34705440750319605,
+                      "r_rating": 0.3914554675846161,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Stomatogastrics ganglion, of which there are 2 to 3 neurons per ganglion. There are many neurons, but there are 3 neurons that are especially interesting, because they generate 2 distinct brain patterns.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.4304261803627014,
+                          "t_rating": 0.5246586478288762,
+                          "r_rating": 0.5246586478288762
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'How would you describe the state of dendritic regulation? Is there a general idea of how synaptic strength is regulated? What is the goal of the regulation? Is it stability or plasticity? How can this goal be achieved? I'm interested in these issues because it's so obvious that spines are regulated by both synaptic strength and the frequency of Ca-spiking. What is the state of dennritic regulation? Is it a stable state or a transient state?'",
+              "g_rating": 0.6,
+              "s_rating": 0.4749302864074707,
+              "t_rating": 0.7652181237706555,
+              "r_rating": 0.7652181237706555
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think it would be important to look at neuromodulators in some context like synaptic potentials. So, I'm trying to do something like this where we try to look at the effects of neuromodulators on an identified neuron in a very defined context, like the effects of a synaptic modulator on an identified neuron. But, the effects of a modulator on an individual neuron might be very, very different from the effects of a different neuron on that same neuron.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5276429057121277,
+          "t_rating": 0.9583355549849631,
+          "r_rating": 0.9005854816204806,
+          "children": [
+            {
+              "name": "Dr. B:'I'm not sure I understand. So, you're saying that the effects of the synaptic modulator on the neuron might be similar in a neuron, but the synaptic effects on other neurons could be quite different? So, can you give a concrete example? I mean, it's very clear what you're trying to say, but are there any examples, perhaps, that you can share? So, let me ask you a question about your recent paper on spine-based dendritic signaling.'",
+              "g_rating": 0.4,
+              "s_rating": 0.4890253245830536,
+              "t_rating": 0.6317798414665989,
+              "r_rating": 0.7012566646461257,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, so, in my recent work, I was studying this particular neuron, called the pacemaker neuron, which is always firing, and I looked at the effects of dopamine on this pacemaker neuron, and dopamine produced a very distinct effect. So, dopamine changed the dynamics of the pacemaker. So, it slowed down the frequency of the pacemaker and it increased its duty cycle.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4330481290817261,
+                  "t_rating": 0.909687134184706,
+                  "r_rating": 0.909687134184706
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So would you like to just go through some things? We're only about 20 minutes into the conversation, and, I think we could probably, I would say, maybe you're a good time to start with one thing. We're, uh, we're going to have another segment when we get through the questions, and then we'll have time for a couple of questions for each of us. Is that a good idea?'",
+              "g_rating": 0.7,
+              "s_rating": 0.19752615690231323,
+              "t_rating": 0.7273352615270329,
+              "r_rating": 0.7273352615270329
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I thought that would be interesting, you know, because they can influence the strength of connections in neuronal networks, and they have to, because you know, you want, you want to make these connections, you know, so that the synapses are robust. And I think that a, I think, we have some work on the effects of a very similar neuromodulator called dopamine, and it can affect the size of dendritic structures in both invertebrates and vertebrates.'",
+          "g_rating": 0.8,
+          "s_rating": 0.513280987739563,
+          "t_rating": 0.9505037466390659,
+          "r_rating": 0.9090605464839907,
+          "children": [
+            {
+              "name": "Dr. B:'Are you saying that this drug could, in principle, influence the synaptic plasticity that is the main driving force of learning and memory?'",
+              "g_rating": 0.6,
+              "s_rating": 0.5057693719863892,
+              "t_rating": 0.7847309460187654,
+              "r_rating": 0.7172563210100138,
+              "children": [
+                {
+                  "name": "Dr. M:'Oh, yeah, yeah. Yeah. Yeah. Well, because you know the, you know the idea of the synaptic plasticity is that, you know, it's the, it's the thing that allows you to change your behavior and change your brain. And it's it's that ability that you use for learning, it's, it's it's the same thing that you use for forgetting. So, so the synaptic strength that it can change is important.'",
+                  "g_rating": 0.1,
+                  "s_rating": 0.505027174949646,
+                  "t_rating": 0.5148324459837592,
+                  "r_rating": 0.5148324459837592
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'I think if you were asking me about neuromodulators and their effects on a dendritic tree, the answer would be very interesting. But the dendritic tree of a dendritic neuron is already a fascinating place, so that's where I would start.'",
@@ -1413,7 +2113,7 @@
                   "g_rating": 0.3,
                   "s_rating": 0.5524622201919556,
                   "t_rating": 0.6286608821450757,
-                  "r_rating": 0.6586907727511359,
+                  "r_rating": 0.7095889251981133,
                   "children": [
                     {
                       "name": "Dr. B:'So, I'd be happy to learn a bit more about the dendrite and be influenced by what you think. I'll ask you to give me a very special daffron dendrite that might be different from any dendrite you have studied so far, and we'll see what it does.'",
@@ -1439,6 +2139,13 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'I don't know if it's very useful or if it's really that hard, but that would be pretty hard to achieve, but maybe you can achieve something special that's not the typical shape for dendrites, but maybe it's special in some way, like it's a special shape, but it has some kind of special behavior, I'm not really sure what to call it, but maybe it would be pretty special.'",
+                      "g_rating": 0.9,
+                      "s_rating": 0.3114714026451111,
+                      "t_rating": 0.9523730543572266,
+                      "r_rating": 0.9523730543572266
                     }
                   ]
                 }
@@ -1668,6 +2375,20 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'We know that neuromodulators are effective in producing changes in a wide variety of neural targets.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5138505101203918,
+          "t_rating": 0.9508114149246353,
+          "r_rating": 0.9508114149246353
+        },
+        {
+          "name": "Dr. M:' I do have ideas on this, and we have been doing some experiments in this direction, because we want to understand how neuromodulation affects the dendritic architecture of neurons, because we think that these features play an important role in their function, and if they are regulated by neuromodulators, this could change how they are regulated, and it would change how they are able to respond to various kinds of neuromodulators that could then be added to the circuits.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5334067940711975,
+          "t_rating": 0.9615210907522066,
+          "r_rating": 0.9615210907522066
         }
       ]
     }
