@@ -484,3 +484,15 @@ label.margin-toggle:not(.sidenote-number) {
         width: 100%;
     }
 }
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+}
+
+.right {
+  width: 85%;
+}

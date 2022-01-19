@@ -3,6 +3,11 @@
 {% block body %}
 <div style="width:800px; margin:0 auto;">
     <title>{{ new_data['html_title'] }}</title>
+    <div class="row">
+      <div class="column">
+
+      </div>
+    <div class="column">
     {% autoescape false %}
     <p>{{ new_data['history'] }}</p>
     {% endautoescape %}
@@ -12,5 +17,7 @@
     <a href="/" style="color: inherit;text-decoration: none;">
       <input type="submit" value="Start over." name="reset"/> <br>
     </a>
+      </div>
+    </div>
   </div>
 {% endblock %}
