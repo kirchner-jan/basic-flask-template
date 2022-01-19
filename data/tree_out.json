@@ -10,8 +10,160 @@
       "g_rating": 0.5,
       "s_rating": 0.49391570687294006,
       "t_rating": 0.7028177043130004,
-      "r_rating": 0.7564589643922253,
+      "r_rating": 0.8015047424192703,
       "children": [
+        {
+          "name": "Dr. M:' It's been studied a lot.'",
+          "g_rating": 0.7,
+          "s_rating": 0.29611310362815857,
+          "t_rating": 0.7600545836585032,
+          "r_rating": 0.6831162156577391,
+          "children": [
+            {
+              "name": "Dr. B:' What is it called? What is it called?'",
+              "g_rating": 0.3,
+              "s_rating": 0.2618173062801361,
+              "t_rating": 0.39818124248611536,
+              "r_rating": 0.39818124248611536
+            },
+            {
+              "name": "Dr. B:' What have we studied? What would be an intuitive answer?'",
+              "g_rating": 0.1,
+              "s_rating": 0.3062991797924042,
+              "t_rating": 0.3222098501621258,
+              "r_rating": 0.43414006474275196,
+              "children": [
+                {
+                  "name": "Dr. M:' Well, intuitively, I think that all the neural systems that use priors to create behaviour use priors that are known about the world. Intuitively, I think you'd need to understand how neural systems create priors for neurons and neurons that have not been in the past.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4824865758419037,
+                  "t_rating": 0.7699307084846305,
+                  "r_rating": 0.7789303801131018,
+                  "children": [
+                    {
+                      "name": "Dr. M: So if I asked you 'When you were in school, how many times did you study the brain?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.39940229058265686,
+                      "t_rating": 0.8059293949985153,
+                      "r_rating": 0.7796325467142736,
+                      "children": [
+                        {
+                          "name": "Dr. B:, I started studying the brain when I was about 13 or 14 years old. I went through a series of brain dissecting courses with an older brother who was an anatomist. He was about eight years older than me, and he took me through all of these courses about how the brain works and where all of the neurons are in the brain. At some point I realized that I might end up doing neuroscience in a scientific laboratory and I decided that I wanted to do neuroscience and be a scientist and look into the brain.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.4909575879573822,
+                          "t_rating": 0.7007420018615487,
+                          "r_rating": 0.7007420018615487
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:' So what is it, please, a review or a novel?'",
+              "g_rating": 0.4,
+              "s_rating": 0.2111309915781021,
+              "t_rating": 0.45230111165544645,
+              "r_rating": 0.5028684300382611,
+              "children": [
+                {
+                  "name": "Dr. M:' A review, it's interesting.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.26165318489074707,
+                  "t_rating": 0.6545703851867051,
+                  "r_rating": 0.6545703851867051
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:' What do you mean by 'prior knowledge'?'",
+              "g_rating": 0.3,
+              "s_rating": 0.3013242185115814,
+              "t_rating": 0.42520146361650174,
+              "r_rating": 0.5388207149332211,
+              "children": [
+                {
+                  "name": "Dr. M:' Like, you know, if you go out to a forest, and you're thinking of going to cut a tree and you have a list of trees to look at that are all different, and you go out to the forest and you find a certain kind of tree and you cut that tree, and then you go back, and there are all kinds of different trees, so you're really taking advantage of prior knowledge that you know that you already have.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.365833580493927,
+                  "t_rating": 0.8796784688833794,
+                  "r_rating": 0.7645148187666969,
+                  "children": [
+                    {
+                      "name": "Dr. B:' And how is this prior knowledge? Like what is the source of this prior knowledge?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.29254230856895447,
+                      "t_rating": 0.41902386841664924,
+                      "r_rating": 0.5462029223853508,
+                      "children": [
+                        {
+                          "name": "Dr. M: 'I don't think the source is the source. I think the source is where you get your knowledge from. I mean, how does your brain make use of? I'll give you an example of how to make use of prior-knowledge in how the hippocampus makes use of that? In my own research, I'm just trying to look at a small group of neurons, and I've been looking at their pattern changes, and I've called them'memory sequences'. And there's a group of neurons that are sequentially active during certain phases of the memory. So, for instance, the first neuron that becomes active is, say, in the middle of the second place field of the neuron, and so on. So the place fields become active and the sequential activity in the hippocampal system is there.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.608852744102478,
+                          "t_rating": 0.9277400842914558,
+                          "r_rating": 0.8763988193197182,
+                          "children": [
+                            {
+                              "name": "Dr. B:' So what's the source of prior knowledge for that? Like where is the prior knowledge? Where is the source? And how does this come to be? That's the source. The source of knowledge is where you come up with the prior knowledge.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.2837602496147156,
+                              "t_rating": 0.5749085833951392,
+                              "r_rating": 0.6371457580613381,
+                              "children": [
+                                {
+                                  "name": "Dr. M:' No, it is your brain is making use of the prior knowledge. It's your brain's making use of your prior knowledge because it uses the brain to recognize that you already know. So, for example, if you were a blind person and you walk out into a forest and you see a tree, and you're not sure which species it is, and you go up and you smell it and it turns out that it's a rose, you know that it's a plant that has to be identified. So, you come up with a rule that says you go and you look at the top of it and then you look at the sides of it, and you see that it has three leaves that are different, or that they have different shapes, and then you know it's probably a certain kind of plant. So, you're just taking advantage of the prior knowledge that you already have, and then the brain, or rather your brain, is making use of your own prior knowledge.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.4344431161880493,
+                                  "t_rating": 0.8238572820599348,
+                                  "r_rating": 0.8238572820599348
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:' How does the hippocampus make use of prior knowledge to make those sequences?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5213690400123596,
+                              "t_rating": 0.7223750244045052,
+                              "r_rating": 0.7338386673364925,
+                              "children": [
+                                {
+                                  "name": "Dr. M:-So this is a really good question. Because, the prior knowledge is a prior knowledge that you have to make a prediction from and you have to make that prediction because the goal is to predict the future, but the goal is to make the sequences and then you can make a prediction, and that prediction is going to be very inaccurate. What, and that's why it's not the future. And it's not going to be very accurate in the sense that you're using a prior knowledge that is more accurate. So it's very useful because it's going to be accurate. But it's only useful from the perspective of the hippocampus, which is the source of prior knowledge. And so what are the sequences that the hippocampus makes use? Well, the sequences are there. What are the sequences? I can give you an example.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.4797673523426056,
+                                  "t_rating": 0.7682295961324543,
+                                  "r_rating": 0.7496706763718273,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:' What are the sequences, and what is the source, and what is a good prediction? How do you predict the future? How does the hippocampus do that? What is a sequence that will predict the future? What is the sequence that will predict what is going to happen to me? And how does it do that? So what's the prediction?'",
+                                      "g_rating": 0.6,
+                                      "s_rating": 0.348751425743103,
+                                      "t_rating": 0.6939939170899462,
+                                      "r_rating": 0.7404858800045138,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M::So this is a very good question, because in a way, this is just what I'm looking for. And so I'm looking for a mechanism. And I'm looking for the mechanism, and I'm trying to build a model that will show a mechanism, that will explain how you can make a good prediction. And so I look, and I say, well, what does the hippocampus do, or what do the neurons in the hippocampus do? The sequence is there, right? So it's there. And I'm trying to figure out how the hippocampus is able to create sequences.'",
+                                          "g_rating": 0.7,
+                                          "s_rating": 0.5332285761833191,
+                                          "t_rating": 0.8799617687482165,
+                                          "r_rating": 0.8799617687482165
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Dr. M:' How much data you gather may be influenced by your prior knowledge, that is just a kind of fundamental principle of inference that every psychologist has learned.'",
           "g_rating": 0.7,
@@ -24,8 +176,85 @@
               "g_rating": 0.8,
               "s_rating": 0.4566052258014679,
               "t_rating": 0.9211342639535289,
-              "r_rating": 0.8704478453530549,
+              "r_rating": 0.9373580831143528,
               "children": [
+                {
+                  "name": "Dr. M:'Yes, they require the knowledge of how the neuron works, how the synaptic connections work, the properties of the neurotransmitter receptors, which all of these are necessary inputs. So we don't think that the neurons are building the models themselves, we think the models are built from a variety of inputs and then neurons are using these as parameters to construct the models. So to some extent, if we have a good model, then we can use it in many circumstances and we're going to use it. But you are asking a general question about whether it's possible to build a brain that does things that are not obvious from the available data. Whether we could build a brain that is able to predict where the tiger is going to jump, but has no knowledge of how to measure where the tiger is coming from. That sounds like an impossible problem. So, the answer is yes, it's possible.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4115934669971466,
+                  "t_rating": 0.7276051003633298,
+                  "r_rating": 0.7276051003633298
+                },
+                {
+                  "name": "Dr. M:'Yes, and so you are never really getting new data, you are always trying to make sense out of what data that you are seeing and trying to figure out what the rules are. So your decision-making is always going to be influenced by your own prior knowledge.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.2883346974849701,
+                  "t_rating": 0.7570580544276305,
+                  "r_rating": 0.7553915432424834,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And so you have to say, well, where would you have collected data in the absence of prior knowledge? Because I'm trying to build the models that are building in the brain without any prior knowledge. And you are trying to make sense of what the data that you are looking at and trying to infer is all going to be affected by your own prior experience. And so you have to be able to separate that out to try to build models that don't rely on your prior experience as much as the one's that rely on it.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4506530463695526,
+                      "t_rating": 0.7503920096870422,
+                      "r_rating": 0.7991884493068329,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So in the first model that you developed, that model of the pyloric circuit, you used that prior experience. You used a prior knowledge of how the brain processes and responds to synaptic potentials. In other words, you were trying to build a model in the brain and you needed to have the ability to construct models in the brain without prior knowledge, without any prior knowledge of the brain and how it processes synaptic potentials.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.504100501537323,
+                          "t_rating": 0.9455777681662046,
+                          "r_rating": 0.9299215416522401,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Yeah, but we have to start with the basics, the fundamentals of the brain. We have to start with a brain with a basic set of rules and mechanisms that will give us some initial data points. And that data points will become more and more complex and rich as we start to build in the brain and build out our data sets. But that is where I would argue. It's in building those data sets, building those models, building that fundamental knowledge of how the cortex processes information, that we will have a chance to figure out where we are. How far we can go. What questions we can ask. What are the problems that we can figure out? And then we can build in more. It may turn out that we can go as far as we want to go. And we may end up with some things we don't expect. And we have to remember that there are many things that we know very little about in the brain.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5381503105163574,
+                              "t_rating": 0.8829528621103462,
+                              "r_rating": 0.830891930667676,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'And that is an important thing to remember. And that is because the brains have to build things. That has to change. So you have to learn how to build things.'",
+                                  "g_rating": 0.5,
+                                  "s_rating": 0.45302584767341614,
+                                  "t_rating": 0.6747091363396654,
+                                  "r_rating": 0.6956798474276181,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'So I agree. You have to build things, but there are many things in the brain that we know very poorly about. We know very little about how some networks are formed in the brain. There are many things that don't work right in the brain. Many things that are imperfect. But we are trying to understand all of the imperfections and all of the imperfection of the brain in order to understand how the brain works. So this is where I'm very proud that I've been able to build models in the brain, to really understand how it works. And this is why I'm very, very proud that I have been able to build up a model in the cortex that works very well. It gives a fantastic account of how the cortex works in the world. But it's very sensitive to the things that I haven't understood how. And so we can make progress, but it's the imperfections and the imperfections of the brain that are the challenges.'",
+                                      "g_rating": 0.4,
+                                      "s_rating": 0.6445632576942444,
+                                      "t_rating": 0.7585919806914762,
+                                      "r_rating": 0.6089535213677015,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Yeah.'",
+                                          "g_rating": 0.0,
+                                          "s_rating": 0.16003814339637756,
+                                          "t_rating": 0.16003814339637756,
+                                          "r_rating": 0.3188317837233581,
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:'And this is the area where my brain can't work. So in order to figure out how the brain works, and this is a challenge, but then we can move on from there. And this is where you are extremely well prepared, because you already have all the knowledge that we have and you have the ability to build models in different regions. And this is very exciting. But this is where the work I've done comes to fruition. This is where I, uh, it's actually where my brain can work. And so this is where I have a chance to make progress and figure out what we are missing and figure out the best way to make progress with the data that we have, which is the brain. And so this, um, this is where my brain can operate. And this is a great opportunity, and it's an opportunity that I'm extremely excited about and excited to take advantage of. And this is not to say that it's going to be easy.'",
+                                              "g_rating": 0.6,
+                                              "s_rating": 0.5218843221664429,
+                                              "t_rating": 0.7952127047042995,
+                                              "r_rating": 0.7952127047042995
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "name": "Dr. M: But the same is the case with the models built with statistics, which require prior knowledge to work. So I would say yes, you can see how these models can be built on the basis of prior knowledge, but you still need to construct a model that will take into account all of the data and then make predictions from it.'",
                   "g_rating": 0.7,
@@ -102,11 +331,355 @@
                               "g_rating": 0.6,
                               "s_rating": 0.6193718314170837,
                               "t_rating": 0.8623348917636073,
-                              "r_rating": 0.8623348917636073
+                              "r_rating": 0.8597082306044973,
+                              "children": [
+                                {
+                                  "name": "Dr. B:' That's why we should not ignore the information when we get. We are building up knowledge that can be used later. This is what you were saying earlier about it. And this is the way how to make progress. We can build on knowledge of the past to make more accurate or more creative judgments later. Now, in fact, it's like a building. We can use the new pieces of knowledge to make predictions or even to build something. It can work the same way in a different way. So that is why I'm not afraid that we will come up with something that we will use and will use to justify all of this, as a scientist. So, no, this is a process where progress is made every single time you work. It's not like that we are building up the entire world. But this is the process. Now, in order to build on knowledge, we need to understand the past so that we can build with it.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.3634010851383209,
+                                  "t_rating": 0.7887080249875167,
+                                  "r_rating": 0.7416087506017396,
+                                  "children": [
+                                    {
+                                      "name": "Dr. M:'But you need the whole thing. You need the whole idea. So there has to be an idea of what you're building, because it's not just new techniques. You are building something, okay? So, for example, as you mentioned earlier, I'm trying to teach our younger scientists or my students who are in statistics, statistics, to look at all kinds of data, right? But then you realize that you can't just look at raw data. You can't just look into the raw data, and just start going, oh, oh, and it starts, and then it starts to make sense. Right? So it starts to make more sense. So then it's hard, you know, to come up with the idea, to get the idea to, you know, the idea to get it to fit all the pieces of the puzzle. But you also need the idea of how you'll use it.'",
+                                      "g_rating": 0.5,
+                                      "s_rating": 0.33222463726997375,
+                                      "t_rating": 0.6003109274444083,
+                                      "r_rating": 0.6003109274444083
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Dr. B:' So we can say this is new, but I don't know how we can use it properly until I know it's going to work the way it is expected to work. How do we know this is going to work? That it is really going to work? How many times do we have to fail? We can do this. We can build a house on new stuff and we can get good results. So we don't need to throw everything away.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.29259419441223145,
+                                  "t_rating": 0.8518282471271675,
+                                  "r_rating": 0.8260831887747179,
+                                  "children": [
+                                    {
+                                      "name": "Dr. M:' So what happens is you have this sort of, you have this model, and you're building it, and you think, \"Oh, this is going to be the perfect model\", but then you're going to realize that it doesn't work, because you're not thinking. So you're building this model. You're building this house, and then you're realizing, \"Oh, no, I have to go back to the foundation.\" Like in building houses, you realize that you have to have, it's like in building houses, they have to have, like they have a concrete foundation before they build the house around it. We build this house, we build a concrete foundation before we build the house around, and I have been thinking for some time about how you can test a model that has been made. Like if you have a model and you want to test the robustness of it, that means you don't just want to throw it out.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.2660326063632965,
+                                      "t_rating": 0.7488480137173689,
+                                      "r_rating": 0.7488480137173689
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'And there are different solutions to solve this problem, like the first solution that is often used by humans is to collect data, and then think through those data and try and see if they fit together. I have never seen anyone do that. I mean, that is not really a solution. That is not the only way to solve a problem.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.269582599401474,
+                  "t_rating": 0.8442006739514342,
+                  "r_rating": 0.8442006739514342
+                },
+                {
+                  "name": "Dr. M:'Well, I mean, there are examples of this, there are models that require the existence of the network of neurons, and if you don't have neurons that exist, or if the neurons are not connected, or if they are not part of a network, they won't even be represented, or they will be represented by the wrong units, so they can't use them, or the circuits can't work. I mean, it's a very fundamental principle that you can't just assume that every neuron or every circuit is perfectly present, or perfectly connected.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.46734854578971863,
+                  "t_rating": 0.9265066989783532,
+                  "r_rating": 0.8645542555278714,
+                  "children": [
+                    {
+                      "name": "Dr. B:'That's right. So the bottom-up approach in the brain would have us build, first, the single-cell and then build a network and then build a brain with that network, which is really impractical. It would just be extraordinarily impractical, because building, well, in fact, there is one simple rule that the brain has to obey: it has to work in the best way possible. So it would have to make more use of the wiring of the brain and more use of the firing patterns of the cells than, I mean, than it would have to, well, but it wouldn't do any of the things that the brain does to make use of its wiring. It's a simple, simple rule: it's an economy. But we're dealing with the, the economy of the brain. And we can make some kind of a, an estimate of that and we can go from there.'",
+                      "g_rating": 0.2,
+                      "s_rating": 0.6485595703125,
+                      "t_rating": 0.6786969251764257,
+                      "r_rating": 0.7125331581161674,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, I think that's the way we ought to go. And we also need to do this in many other brains, because many of the features that the brain uses to make decisions are likely to be, you know, very similar across brain. The kind of features of the neurons, the features of the networks, the features of synaptic inputs, the features of, of of all the other circuits that are involved in that. So, yeah, I think we should get away from thinking that all brains should be identical, because it's probably, it's probably impossible. But also, to think that each brain should have identical features is probably not desirable either, because it's going to make it very difficult to understand which features are important for which decision, right?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5501492023468018,
+                          "t_rating": 0.8140418569353927,
+                          "r_rating": 0.6574210703453205,
+                          "children": [
+                            {
+                              "name": "Dr. B:\"Exactly.'",
+                              "g_rating": 0.0,
+                              "s_rating": 0.18755871057510376,
+                              "t_rating": 0.18755871057510376,
+                              "r_rating": 0.3461020171121796,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'So, so that would, you would have to build models that would involve more complicated, more complicated features than the simple wiring of the brain, you would have have to build a, it would have to be more complicated. And if you think about this, if you just build a, a model, like the models that I build, it's really hard to build a model of the network if you don't know the parameters that it has. So like the kind of the strength of the synaptic input, or the strength of the different, the different intrinsic properties of the neurons. Like the kind of the voltage dependence of the synaptic current, or the voltage dependence of a different neuron's, different neurons' currents. So if you, I mean, so when we talk about the brain having features, it's going to be important to know these features, it's not enough to just know how many neurons are there and how many synapses there are.'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.5614653825759888,
+                                  "t_rating": 0.821731936723407,
+                                  "r_rating": 0.821731936723407
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'The way we work in the lab, we don't really look at how the system might work. We try to understand how different components of a system work independently. We are trained to read through these models and to understand how the behavior depends on their underlying mechanisms, not on whether or not they have prior knowledge. So, I think there is no right answer about how the system works or how it should work. We have to just work as much as we can. And we have to understand that it might require you to learn the details of how the system works, and it might require you learn a lot of information about how the system really works.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.42149391770362854,
+                  "t_rating": 0.9042439508568212,
+                  "r_rating": 0.9042439508568212
+                },
+                {
+                  "name": "Dr. M:' Yeah, it is actually true that the brains are trying to learn, and that the brain is trying to learn from experience. So as you start to make a connection between, say, a spike and a neuron's firing properties, you build a model, you use the model to try to understand the properties of the spike, and you do not want to start over with a new spike.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5764150023460388,
+                  "t_rating": 0.9860295405968241,
+                  "r_rating": 0.9860295405968241
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'So what you're saying is that you're not really trying to answer the question of whether the brain is rational or whether it follows rules. You're saying that it has to follow rules in order to make use of prior information in guiding its behavior?'",
+          "g_rating": 0.7,
+          "s_rating": 0.45268917083740234,
+          "t_rating": 0.8336231075212915,
+          "r_rating": 0.8695972999028505,
+          "children": [
+            {
+              "name": "Dr. B:'But it's very interesting because if you say that the brain is following rules, but it is making use of prior information, which is what you would have thought would have happened in the simplest case because the most basic rule would be to keep using the prior information.'",
+              "g_rating": 0.8,
+              "s_rating": 0.5617340207099915,
+              "t_rating": 0.9775198770475275,
+              "r_rating": 0.8176724294507419,
+              "children": [
+                {
+                  "name": "Dr. M:'Right. The first rule is to keep using the information and to make use of it and to build on it and to keep building new memories that way.'",
+                  "g_rating": 0.0,
+                  "s_rating": 0.33813008666038513,
+                  "t_rating": 0.33813008666038513,
+                  "r_rating": 0.38240494579076767,
+                  "children": [
+                    {
+                      "name": "Dr. B:\"Right. So this idea that the brain is using rules to keep using information and to remember things and to build on knowledge, it really goes back to the work of George Szczupak (sp). So the idea that rules govern how memory and how you can use the prior information is really the central idea that's central to the idea that you can use information over the long term and that rules can govern that.'",
+                      "g_rating": 0.0,
+                      "s_rating": 0.5152295231819153,
+                      "t_rating": 0.5152295231819153,
+                      "r_rating": 0.6021768732885849,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Rules can govern that, I suppose, right. But it's interesting because we've become so concerned about how you can use information. Right, what you can do with information and the role of information. That's not been a central concern in neuroscience, because it's not been clear how you can use that information or how it can be encoded into memory.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.6203238368034363,
+                          "t_rating": 0.863018923608594,
+                          "r_rating": 0.86300743358576,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And you can encode information into memory is one thing, but that's not quite the same thing as using that information. Because what we use in brain is information, which is a combination of the information of the past and the information of the future and the information of how the brain will use that information. So there is information and there is a difference between the two types of information and that difference is the brain. It will use one type of information or the other one, and that's the difference that makes the difference in how the information is encoded into memory. So what you can say is that that's the difference between how the brain is using information. It is how the brain is going to use that information.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.504700243473053,
+                              "t_rating": 0.8629729635172582,
+                              "r_rating": 0.8629729635172582
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Well, the difference between us is that I think that the brain's ability to predict the future is what makes it a rational entity. It doesn't necessarily mean that it's a rational brain. What is the difference between us? I have the ability to say that the information I'm processing at this point is very similar to that which I've processed in the past and very similar to the information which I will process in the future. This makes me a good-enough estimator, but only under the conditions that the prior knowledge base is similar to that which has already been learned. So the brain's ability...to predict the future is one measure that is very different from your ability to predict the past, which is a very different thing. We may be able to predict the past more accurately, and we may predict the future more accurately, but we can only predict the future to the condition that our prior knowledge base is a good-enough solution to the current problem.'",
+              "g_rating": 0.8,
+              "s_rating": 0.409306138753891,
+              "t_rating": 0.898627573147864,
+              "r_rating": 0.8517028282960969,
+              "children": [
+                {
+                  "name": "Dr. M:'Let me see. So what I'm trying to say is that we have neurons, we have circuits that are firing, and we have networks firing, and we're trying to figure out why it is that these neurons and these networks are firing as they should and we are trying to figure out how the brain uses that information in the real world?'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.587723970413208,
+                  "t_rating": 0.7109285937407958,
+                  "r_rating": 0.7109285937407958
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'You're asking how we can use past knowledge to guide our decision-making. You know, I think we're starting to learn more about what the brain does because people started to study other animals and other species, and you know, the brain of a fish that swims in the ocean, and they started to look at the brain of a lobster, and of course, the brain of mice. But you know, what they started to notice was that the mouse brain had different networks of cells in it than the lobster brain, and it had a different number of neurons in it, and it also had different network patterns. So you know, people started to notice that the number of neurons in the brain wasn't the same. You know, they also noticed that the neurons in the brain were more like the neurons of different species than they were identical, and the number of neurons of different species was larger than the number of neurons with identical properties.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5641260743141174,
+          "t_rating": 0.8990207048344644,
+          "r_rating": 0.8752908349638702,
+          "children": [
+            {
+              "name": "Dr. B:'That sounds like the brain makes use of previous knowledge to guide decision making. Do you have a good definition for that? Do you have a name for this? It sounds like the brain can take prior knowledge and make use of it to guide decisions. Do we have a name for that? Do we have a term for this? How would it go down? What would the scientific terminology look like? What would be the scientific terminology? If you were to, if you were to start with that, would that be enough to give you an idea of where to start? Do we have to start from where the, where the, where we are? Where should we look? Is it okay to start from where we are? Can you give me an example of a few neurons or a circuit, or the network from where you would start, the neurons, the circuit, or the networks, in the brain, from where you would look? In the cerebral cortex, maybe, or somewhere else.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5353305339813232,
+              "t_rating": 0.8041012253520875,
+              "r_rating": 0.8466601804556716,
+              "children": [
+                {
+                  "name": "Dr. M:'Right, right. So the neurons that make up circuits, the ones that make up circuits of neurons, the pacemaker neurons and the neurons that, that are active in networks are, these are known as networks of neurons, and the neurons that comprise networks are known as network neurons, or as network cells, and they have many different properties and, and, and it depends on what circuit you're talking about, but what, what comes to my mind immediately is, I think it is important to start from where you are, or where you're thinking, if you're thinking about the brain and, and neurons and how neurons communicate, start with neurons. And it sounds like you're starting from neurons to, you know, to explain how, how neurons can communicate with each other, and how neurons can express, you know, many different kinds of information in, in their cells.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.5681362748146057,
+                  "t_rating": 0.6023112374513838,
+                  "r_rating": 0.6719010910624409,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So the neurons are already in place, they're already there. What do we have to figure out? What are the connections? What are the synapses? What is the gap junction? What's the communication in this case? We have to determine how neurons communicate with each other? We don't need to invent new words, but how do we determine the nature of communication between neurons?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5420567989349365,
+                      "t_rating": 0.8085948140271432,
+                      "r_rating": 0.8085948140271432
+                    },
+                    {
+                      "name": "Dr. B:'I'm trying to figure out how the brain uses prior knowledge to make decisions. Is it enough to look at the properties of individual neurons? Or is it, is it important to look at the collective behavior of the network that they make up? Or is it more important to look at how they interact with each other? There are many examples that illustrate this point: how to approach the problem of how the brain makes decisions, but is it, is there a good example that you can point to that, that could be useful for me?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5343976020812988,
+                      "t_rating": 0.880670651895612,
+                      "r_rating": 0.8534808128116936,
+                      "children": [
+                        {
+                          "name": "Dr. M:So I would be, I would be, uh, so that there would be one that could be useful. The way that I approached this is, uh, this, this question is the same way I approached everything. I have always looked at it from, from a scientific point of view.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.32534143328666687,
+                          "t_rating": 0.7719112955599384,
+                          "r_rating": 0.7719112955599384
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Yeah, so you might look at the networks in the lobster brain because there are about 10-15 different network patterns in the lobster brain. So one pattern of network in the brain of the lobster, and one network is the one that is used for walking, and one network that's used for chewing, and one network used for hearing. And, and then the other networks are used for smelling, for seeing, for hearing, for seeing, and for chewing. So, you know, and that's a big difference because you can't just go to the brain of a mouse, and you can't just turn off the switch, you know, to the brain of the mouse.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5213510990142822,
+                  "t_rating": 0.8728155409039186,
+                  "r_rating": 0.8614745537368986,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is that why the mouse brain doesn't do anything else? Do they have the switch, and they just turn it off? Is that the reason? Why does the brain of the chicken do nothing else? Why does the switch switch off? Is it because they don't have the brains of the mouse, or would it be more appropriate to say that the mouse brain is still doing the same things, but the switch just goes off, because they don't use all of the brain. So there's always a use, a use of all of the brain, but it's hard to give a precise definition of what, what is the use and what is the use of the entire brain because it's hard to quantify it, but it's always there. So my advice is, start from somewhere. So where does the switch go off in the mouse brain? Let's go there. Let's look at the circuit in the mouse brain. The circuit is already there.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.4839267432689667,
+                      "t_rating": 0.6958340986549225,
+                      "r_rating": 0.6958340986549225
+                    },
+                    {
+                      "name": "Dr. B:'I agree with that. I agree with that. In fact, that's a great question to ask from you: how does the brain make, how does the brain use prior knowledge to guide decisions? What is the neuroscience of that? How should we start to look? Do we have some, some neuron, circuit, or the like, or the networks in the brain, in the cerebral cortex, or somewhere else, from where we would look? What are the neurons, the circuits, the networks, the circuits that are responsible for this? How, how would they function? And if we have some neuron, circuit or networks, or networks that are responsible for that, and we just can't find these, it doesn't mean that it doesn't exist. I mean, I'm not a molecular geneticist, but that would be a surprise.'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5554269552230835,
+                      "t_rating": 0.6844699427939734,
+                      "r_rating": 0.7739490081267704,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, the networks that are responsible, the networks that make decisions and make use of past knowledge are also regulated, right? So, it's not like we just can say, you know, \"Oh, there are these neurons in the brain that are responsible for making decisions.\" And if we look back and we go back and look at the way that networks work in biological systems, then we learn a lot about the way networks work, and then we can learn how to write software and how to write software that might work. So, that's really what I'm thinking about, is the kind of the biology of these networks, and then writing software that's gonna work on all the platforms that we're gonna be working on. So, it sounds like you're really talking about a biology of how networks and neurons work to make decisions.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5238150954246521,
+                          "t_rating": 0.7964811700189386,
+                          "r_rating": 0.7964811700189386
+                        },
+                        {
+                          "name": "Dr. M:'Okay, well, so I think this is where we're at, we're at a really interesting point now, because in neuroscience today, people started to study how the brain works in mice, in flies, in, in, and we started to see that neurons are more like, are more like neurons of other species than they are identical, so, and then we started to see the complexity of the brain, and the diversity of neurons, the number of neurons that exist in the brain, and so you know, now people are studying the brain of birds, birds, birds, and all these different species, so you know, we're going to get to know different species of neurons, and so, you know, but, but then you also know that there are different patterns of networks in different animals, because you know you look at different animals, there's different patterns of network, different patterns of network.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5929892063140869,
+                          "t_rating": 0.9958093184967747,
+                          "r_rating": 0.9334122460373447,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Yeah. So one other example is that in the brain of a human, how do we make use of the prior knowledge? In humans, you know, we have a bunch of memories and experience. It's hard to say what's happening in the brain of, of a mouse that's experiencing. It's hard, but maybe it's one of the memories in the memory buffer. And so this is where the memory comes in. So that's one pattern of networks from where we can start. And then we can look at how those networks function. We can look at how these network patterns work together. And there's a couple of things that might interest me in the way the networks of different species interact with each other. There are a couple of things in particular that I'm interested in, but there are many other things that we can think about. And so it's where we start. It's where we start from.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.5344359874725342,
+                              "t_rating": 0.6128799431420012,
+                              "r_rating": 0.6128799431420012
+                            },
+                            {
+                              "name": "Dr. B:'Yeah, so now we're going, but how does this mean? Do we know that there are some brain networks that have some special function that's different from other networks, right? That's, that's what I'm asking. Is it all equal? Or are there some brain networks that are special? Or maybe you know, we should go down and see those neurons, those circuits, those networks, those structures, those systems that make that network special? Do we have any idea what those are? We have no idea what the brain networks are, right? So, and, and, and this is where we should start to look for some special functions of networks. And this is why that's the scientific question, what is the brain's special function? What is the special function of the networks? I don't know, but I have some ideas about this.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5539366602897644,
+                              "t_rating": 0.7462210286590548,
+                              "r_rating": 0.7462210286590548
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'It might be a great thing for you to study because when I was working with, you know, with a colleague, and when I was doing, doing this with a colleague, who's also an experimental neurophysiologist and he's trying to find these neurons in the brain.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.525898277759552,
+                          "t_rating": 1.0423862041251615,
+                          "r_rating": 0.9524194047595389,
+                          "children": [
+                            {
+                              "name": "Dr. B:'The question is how should you look for them. So the question is whether there are some kind of markers in the brain, or whether there are some sort of markers in the brains of different species, for example, that the same neurons in different species would have the same physiological and behavioral outputs. That would be great, if you find such a markers that would be good, but if you do, that's fine too. The important thing is that you look at the whole brain of the lobster and then the whole brain of a mouse and you look at the network patterns, the functional networks, the functional circuits in the cerebral cortex and other areas. And then you can say, \"Now, what happens if there are some, a, b, or any kind of a neuron or any kind of circuits or networks in the brain that are responsible for those functions?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.46457743644714355,
+                              "t_rating": 0.6825190066626714,
+                              "r_rating": 0.6825190066626714
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'Is it right to say, OK, let's look at the network patterns in the mouse brain and see how they can make use of prior information, or is it fine to say, Okay, let's look, let's look the network patterns in, in the lobster brain? And it's like that's a similar strategy, the difference in the numbers of neurons and the number of network patterns of the mouse brain is that the number of network activities in the mouse brain is smaller. So it doesn't have many brain states. It has only four brain states, where you have different patterns of activity. And that's different from the number of different patterns of activity in the lobster brain.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5698035955429077,
+                      "t_rating": 0.8274515922358392,
+                      "r_rating": 0.8274515922358392
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, so I mean, I think that is a really, you know, we started with how, you know, how the brain develops, and then you know, the cells in the brain started to grow. You know, there are different kinds of cells, and different neurons started to grow, and then you end up with different neurons and different circuits. You know, you end up with something that's unique, and then that's why we call that person a human, because, you know, because, you have this unique brain, and this unique set of neurons, and this unique network of cells that you have in your brain, and then all the other animals have a unique network of neurons in their brain, and then you make your decision. You know, and then you choose what you do with that information.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5070031881332397,
+                  "t_rating": 0.9471284140903331,
+                  "r_rating": 0.8861464513703969,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So what would be the mechanism for doing that? What would be a simple mechanism? What would be simple for a mechanism? And then you can say, I'm just trying to answer this question, but in the context of the brain, rather than in the context of psychology or cognition, or, or any kind of function. What would be a good way to look for a mechanism? What would you try to find? What would be an experiment that would tell you whether a mechanism is, is there? What would you look for? What would the experiment look for? What should the experiment look for to tell us whether it's there? Is it possible to answer this question with a question? Can we answer this question with just a question, or do we have to look for a answer? Is it better to look for a short answer or a long answer? What should the long answer look for? And you go from there? Do we know the goal of our question?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.4944603443145752,
+                      "t_rating": 0.7032005632105881,
+                      "r_rating": 0.7411920311873283,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah, we can start with the simple answer, and then we can, we can build on it. So first, let's start with the simplest thing. So let's say you, you're interested in, like you were interested in how your stomach works or how, you know how your stomach works, and then you want to understand the digestive system in general, because you know, like we all eat, and then you eat your dinner, and you need to, you need to understand the stomach. You need to understand how the stomach makes your food digestible, right? So, that's, that's simple, it's just to understand a system. So then, then you want to make sure that the system is always working, and that's the kind of thing that you're interested in.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.302174836397171,
+                          "t_rating": 0.8551664351175491,
+                          "r_rating": 0.7601785605497171,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Okay. What about the long answer? And then, that's one long answer that's the long answer of what would you look for that could tell you that, if you look at it, if you look into a mechanism, that, that the mechanism, that the, that the mechanism is there, that would be your long answer. So we have two things to look for. One is the simple mechanism, which is the simple mechanism of how that occurs, which, which we're now doing. And the other one is how that is maintained, which is the maintenance of the system. So then we can look at both sides of the thing and say, yes, it's there. It's there. Now, I can go back. Now the, the mechanism is there. Now the maintenance of the systems in my question is there. So you would then say, there it is. Okay.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.368550181388855,
+                              "t_rating": 0.47521493684622107,
+                              "r_rating": 0.47521493684622107
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'I think it would be interesting to start with the neuropeptide system, because it's a good place to start because these peptide systems are responsible for, first of all, generating networks of neurons. So for example, the neuropeptides are responsible for generating networks of neurons, including networks of neurons with different properties, different membrane conductance densities, and all these sort of things. And I think you know, you've been interested in how the brain deals with uncertainty. How do animals and different people deal with uncertainty? I mean, there are people who have, who always have trouble with decision-making, and I know that some people, you know, when you're trying to figure out how to sort of deal with, you know, with uncertainty.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5561768412590027,
+                  "t_rating": 0.9743370457664237,
+                  "r_rating": 0.9814898885925423,
+                  "children": [
+                    {
+                      "name": "Dr. B:'There are two ways that I'm thinking about how we could look at the neuronal mechanisms of decision-making. One is how a brain structure or circuit could deal with uncertainty, or uncertainty as a brain structure or network. And the other way is how a brain, you know, how a brain network could look for the right uncertainty for the brain and sort of what could be the right or optimal uncertainty to use. So I'm interested in the first one. How would you look at it? The first one, where does that lie? What is that layer? What is that circuit? Or are there multiple layers, circuits, in the brain? Is there a circuit? What is that network? Is it a network of neurons? Is it a circuit of neurons? Is there a network of neurons and a circuit of neurons, and then another layer, another layer of neurons? Is that it? Is that enough? Is that the right level of analysis?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.6049012541770935,
+                      "t_rating": 1.0029484170708984,
+                      "r_rating": 1.0029484170708984
                     }
                   ]
                 }
@@ -119,7 +692,405 @@
           "g_rating": 0.7,
           "s_rating": 0.5929511785507202,
           "t_rating": 0.9173827446298999,
-          "r_rating": 0.9173827446298999
+          "r_rating": 0.8997536994918247,
+          "children": [
+            {
+              "name": "Dr. B:'I don't know what I'm expecting to hear from you, but perhaps a 'Yes' or 'No' is what is the best guess? How does it use prior knowledge to guide decisions?'",
+              "g_rating": 0.6,
+              "s_rating": 0.34285590052604675,
+              "t_rating": 0.6910500477718864,
+              "r_rating": 0.739127755899299,
+              "children": [
+                {
+                  "name": "Dr. M:  I would suggest an answer of 'Yes' or an answer of 'No', or a range of answers that would fall somewhere between the extremes.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.2036968320608139,
+                  "t_rating": 0.6336342788956508,
+                  "r_rating": 0.6958072528565477,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What are the details that are needed to explain how the neural circuit uses prior knowledge to guide behaviors? It's probably a single sentence, but I'm open to hearing the details. I'm willing to put them in writing. What do I have to say? Do I have to say anything else? Is there anything more that we have to say? Is there some new thing that we have to add? Do I have an idea? Is there some way to explain it? Or is there no way to explain it, and the study should be dismissed? I'm not asking for the last word. I'm not asking you to explain it. I'm not expecting to hear it. But I would like to understand what is the best argument that we have. We are trying to make sense of something very, very difficult. That's why we are here, and this is an opportunity for you to explain how the brain makes use of prior knowledge and guides decisions.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5371214747428894,
+                      "t_rating": 0.882326174739238,
+                      "r_rating": 0.8522359009755425,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh, no, it's not. No, no, this is an opportunity to hear about how the brain makes us do things that we might not have been able to do without our brains. This is not a brain fair or a brain circus, this is a chance to listen to people who can talk to each other. There is more detail than there is probably space to explain. We talk about this in the paper. So, the fact that neural networks can change and re-organize, and also the fact that neural oscillators can be sensitive to electrical coupling is very important. But this is an important example.'",
+                          "g_rating": 0.4,
+                          "s_rating": 0.6485297083854675,
+                          "t_rating": 0.7619650796844561,
+                          "r_rating": 0.7069016741591237,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Do you know that? Have you heard that? Is that interesting to you? Do you know that? Do you know about that? Are there elements of that that you are really looking forward to? What kind of thing do you really look forward to? What are the most exciting parts of the study for you? How does this work? Do we have an idea about what happens in the brain that you're looking forward to? Are there any parts of the study that are particularly interesting, that you are looking forward to?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.45105576515197754,
+                              "t_rating": 0.5417114575831269,
+                              "r_rating": 0.6492869880099101,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'No. I don't know that you are. I don't think this will surprise you. There are parts of it that are interesting. There is the work on the neural oscillator, which I have heard you talk about. So, we use neural oscillators to monitor synaptic connections, we use neuraloscators to measure neuronal morphology.'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.5558143854141235,
+                                  "t_rating": 0.6316087642150636,
+                                  "r_rating": 0.6316087642150636
+                                },
+                                {
+                                  "name": "Dr. M:'The thing that I really look forward to hearing is just the whole story. I like to hear how you guys have done it, how you have come up with this, and how it works in real people. I also really like to hear the details about how it is implemented. How does it use the knowledge that you guys have been working with, with the brain, for so long? And then, as far as neural oscillators, and so on, it's a whole bunch of things that I'm going to learn about. How neural oscillators work, and how the neural oscillators come into play. But, it's also like how does the brain interpret what you're saying, because I'm going to hear about how it does that, too. What does it do when it's talking to the rest of the world? It's talking to other people. It's talking to people with language, and it's talking to people without language.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.5520963668823242,
+                                  "t_rating": 0.9720135792902598,
+                                  "r_rating": 0.9720135792902598
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:-  So, how is the brain supposed to maintain stability and brain function in the face of all the external influences that are constantly affecting it? How is the brain supposed, in the face of the external influences, how is the network supposed to maintain stability, behavior, brain function? How is the network supposed, in the external influences, to maintain stability, stability, behavior, behavior? How is the neuronal circuit supposed to do what is, what is it supposed to do, what would be the optimal function of that network?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5280218720436096,
+                      "t_rating": 0.8768164559110635,
+                      "r_rating": 0.8920361274292429,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right. I don't know whether I'd say that it always does, or never does, but it is hardwired into the brain.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.4448874592781067,
+                          "t_rating": 0.4448874592781067,
+                          "r_rating": 0.3797975070774555,
+                          "children": [
+                            {
+                              "name": "Dr. M:-Yes.'",
+                              "g_rating": 0.0,
+                              "s_rating": 0.18452765047550201,
+                              "t_rating": 0.18452765047550201,
+                              "r_rating": 0.33634231861842845,
+                              "children": [
+                                {
+                                  "name": "Dr. B:'So, how is it, how is the circuit supposed to do this? How would you propose to figure out what the optimal function is, what the optimal function would be, what the optimal structure is, what the optimum structure is, what is the optimum function? How would you recommend to figure out what is the optimum? What would you suggest that we could do to figure out what are the optimum structures and functions, what are the optimum mechanisms for the brain to support optimal function? What would you recommend that we could do? Do we have a chance to do this, or do we have a chance? What would you argue in favor of, in favor of a certain structure of the brain for optimal function?'",
+                                  "g_rating": 0.6,
+                                  "s_rating": 0.5166484117507935,
+                                  "t_rating": 0.7917863230472079,
+                                  "r_rating": 0.7760581779248812,
+                                  "children": [
+                                    {
+                                      "name": "Dr. M::  For optimal function, I have a hard time answering because we don't know. It could be a hardwired circuit. It could be many things. You just don't have the right data, because the data are there to support the experiment.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.20311802625656128,
+                                      "t_rating": 0.7288737425579008,
+                                      "r_rating": 0.7172434452664578,
+                                      "children": [
+                                        {
+                                          "name": "Dr. B:'The right data is available. I have seen it. I've watched it for a long time. That data is there. There are some things that we do know, and there are some things that have been shown that we do know. For example, for example, there is some things that have shown, at least some of these things have shown, that the brain's ability to create and recognize rhythms is what gives the brain its ability to operate and function optimally. There are two types of oscillations that are used in the brain. One is a high-frequency oscillation that is mostly controlled by thalamocortical systems. They're generated by different areas of the brain. The other is the alpha-oscillation that is generated in the cortex, that is, in the higher-order cortex. This is largely under our control. We can modulate alpha-oscillation frequency and duration, and we can optimize the network's ability to process information.'",
+                                          "g_rating": 0.3,
+                                          "s_rating": 0.612866222858429,
+                                          "t_rating": 0.6823525533921284,
+                                          "r_rating": 0.6823525533921284
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'Well, to be honest with you, I've always thought that the answers would be yes, yes, that this is the way that the brain works. And we did experiments to study this. We found that in all cases, you can make large changes in the activity of a network, you can turn off its pacemaker activity, change the synaptic strengths, or the intrinsic properties of the neurons. And this is not the first paper that has demonstrated this. This is just the latest example of the same type of finding that we've seen many, many times. And in some cases we have been successful in changing the activity of the system to make it work for a completely different purpose than it was designed for. And in other cases we found that we couldn't make the system work for a completely new purpose. But we found that a large number of changes in the system could result in a complete loss of function.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.6239168047904968,
+                          "t_rating": 0.9376951419837808,
+                          "r_rating": 0.891263074985658,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So, is it the same as what you are asking, though? What I'm asking is, is that how is the brain using prior knowledge to maintain its stability, stability, brain function and behavior? Is it the same as how you think about this? Is it how you think about it? Is there something that the network would do optimally, that the network would be optimal for, which would allow the network to maintain stability, brain function, behavior and stability? Is there something like that?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.5616530776023865,
+                              "t_rating": 0.7519668739912898,
+                              "r_rating": 0.7519668739912898
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'This study provides a really intriguing insight into how the neural network itself uses prior knowledge to guide and maintain behavior. So, what we've done is we've studied some neurons that have a prior knowledge of their inputs. And we used that prior knowledge to guide our experiment. So, I have a little bit of knowledge, because of my experience with working with synaptic inhibition in this lab, and so I knew to test these neurons, because I knew they would be relatively weak. So, I knew that if I was going to test these neurons to find their strengths, their sensitivity to neuromodulation, they would be very weak. So, it's very simple, because when you have no previous knowledge of the neurons that you are testing, you don't know whether they are stable or not, and you don't know their sensitivity to neuromalodulators.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5388194918632507,
+                  "t_rating": 0.8833608802815369,
+                  "r_rating": 0.8901643506136061,
+                  "children": [
+                    {
+                      "name": "Dr. B:'This is what's called a closed-loop system. So when the circuit that controls these neurons is not in a closed-loop state, then they go crazy, or their input is unstable, or it fails to maintain function. That's because the circuit is not prepared to maintain function when the network goes in a closed-state. So, these experiments have a particular kind of context. So I would ask you what was the context? What was the context of this study, and how would you respond to the question? What is the context? If you would tell me the context, the question is how would you answer the question? I don't know what the context is, and I don't know the context of these experiments, so I'm just going to ask you this question, that you can respond to the question, and I'm not going to answer it for you, either. How do these experiments reflect that closed-loop state?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5640491843223572,
+                      "t_rating": 0.6914849834484597,
+                      "r_rating": 0.7265196221056557,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Okay, so it's very simple. So you can think about this as a feedback system, like when we're testing neurons. We have a little switch, and we're asking a neuron to give us a signal. So, imagine it's a little switch that we are holding with the two ends of our little switch, one end of our switch is connected to a light, and the other end is connected to a fire alarm. So, if we turn the switch around, it gives us a signal, and we can see the light, we know that the alarm is off, or the light is on, we know that something is going to happen, we know that it will be interesting. So, the same kind of principle that we've applied to the system we study here is similar to the principles that you apply to the light in the switch. So, we have a switch. So, the switch is turned around.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.44899633526802063,
+                          "t_rating": 0.8316235380772437,
+                          "r_rating": 0.737096669952011,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Oh, I understand. I have another question. So one of the things that I see as promising in the future is that the closed-loop systems that are designed to maintain function will also have to work in the real world. So when I look ahead at what's possible with this sort of technology, what I see is a future of closed-loop systems in which sensors and actuators are connected to each other through computer networks, and which are trained to predict the consequences of their actions. And the consequence of this training is then to control actuators and sensors to maintain function. And the process continues. This training takes place in real time, when the system is in use. So there are some issues with this, but the technologies that can enable these sensors and actuators to communicate and predict are already available, and many of them are already well suited to be used for closed-loop systems.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.34011295437812805,
+                              "t_rating": 0.45351606557631297,
+                              "r_rating": 0.45351606557631297
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'So, it would seem to follow that if a brain mechanism that you have studied extensively is already primed to act, as would be the case in many people who know about inhibition, then this is the best time to test it. Is it the case?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.4349096417427063,
+                      "t_rating": 0.9105747616098138,
+                      "r_rating": 0.9484539667980274,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think you're absolutely right, but I think if you look at the previous work we've done, and I just want to mention that when we look at these systems, when we try to understand how these networks function, we look at the system and try to understand the behavior that the network performs. So, I've spent the last 40 years looking at systems, small networks, larger networks and trying to understand the functions that a network might perform. It's a very difficult task, and it can get even more complex when you have larger networks. So, the networks that we study are much more simple, so, you have an inhibition between two neurons. You have two neurons, the same cell. So, in the end of the experiment, they have a similar structure, although they have different properties, as they would in the world. So, there is a network, and a circuit, and a neuron, and the neurons themselves have similar properties.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5386546850204468,
+                          "t_rating": 0.9644422583516739,
+                          "r_rating": 0.927511630354647,
+                          "children": [
+                            {
+                              "name": "Dr. B:'It would be nice if we could get an insight into how that circuit functions. Can you, please, tell us how that circuit works? The circuit in this case, the circuit that you study is just a pair of neurons. And what you have done is that you have shown how this circuit functions. How it operates. Is it a single-cell mechanism? Is it a single cell mechanism? Or are it two? Can you explain it? If you could explain it to a neuroscientist with no knowledge whatsoever, what would you say? If this was, let's say, a real network, what would you tell them? What would you tell them if it was, you know, a single cell, or two cells, or even three? Can you explain how it operates? And in the case of a circuit, how it works?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5541039109230042,
+                              "t_rating": 0.8167197463635666,
+                              "r_rating": 0.8418653194278566,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Well, I guess, I mean, one of the features that comes up again and again is the idea that these networks work. I mean, neurons have to, you know, to fire, to be awake, you know, for their own biological purposes. So, you know, this system will fire, even if it is asleep. Even if it is, you know, if there is nothing in it, it will fire. You know, but I mean, again, you start to run into this idea of the fact that networks do have to be intact, because there will be neurons that will fire because they're always firing, so, you know, it will have to have the same level of activity. So, it would have to work, you know, even if the other neurons are silent, because you need to, you know  fire, and so we try to make them, we try to make these networks as robust as possible.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.5928263068199158,
+                                  "t_rating": 0.9173020386207266,
+                                  "r_rating": 0.8931667205552885,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'And the second issue is what you just said, which is, \"it would be nice if it was a single-cell, or a single cell, that we can go in and examine. So, the way that I view these problems is that this would be a much better way to figure out how this network works, how it operates, than going in and trying to figure out how these other networks operate, how those other networks operate, so that way you know, we can learn from those how to make these circuits work. So can you, would you say that the reason why those other networks are so difficult to get an understanding of, is because you're trying to get the wrong things? Is it because those networks are more complex than what you're trying to figure out? Do you believe that that would be the case? What would be the case if we just started with the circuits that we've already been working on? Do you think that that would be a better approach?'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.42854198813438416,
+                                      "t_rating": 0.8207607663589742,
+                                      "r_rating": 0.8207607663589742
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'So, for the brain to use prior knowledge, you have to be primed to use prior knowledge. So, if you are a scientist working on neuromodulation and you just come into this lab, you come in, and you are looking for something specific to your study, it's hard to know that a neuron or a network is already primed to be a model or to have something else that you're looking for. So, that's the way it's been done for quite a long time, in neuroscience.'",
+                          "g_rating": 0.9,
+                          "s_rating": 0.5639490485191345,
+                          "t_rating": 1.0620915823626687,
+                          "r_rating": 1.0374408558531898,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Is there an alternative, or is this the way to do it? Do we have to be in search for all possible circuits, networks and subcircuits in order to figure out how they are used? Is there a better way? Can we test them, and see that this is a mechanism that does something, or does not do something? Do we have a little more experience and so on? Or is the best way the experiment is done, and then I can go into that? Are we not just taking the wrong approach here? Is there a smarter way of doing this? Or how will this work out in the long run? Is it the right way to do it?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.3406275808811188,
+                              "t_rating": 0.6050017759122059,
+                              "r_rating": 0.6050017759122059
+                            },
+                            {
+                              "name": "Dr. B:'Okay, so the, the circuit that I'm talking about is the prefrontal cortex. What is it good for? In fact, you have shown that in the prefrontal cortex, the firing patterns of neurons, their responses to neurotransmitters can be predicted from their history of activity in the past, even if they are only stimulated in the present. So, how do they use prior knowledge to control future activity? Do they use the same mechanism that they use in the hippocampus, or is there a different mechanism in the prefrontal cortex? What's the circuit that they use in prefrontal cortex that they use in hippocampus, and what is it good for?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.5685995817184448,
+                              "t_rating": 0.8266229396347469,
+                              "r_rating": 0.8031620528897209,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'The prefrontal cortex is good for two things. First of all, it's the first place in the brain that sends its information to the lower lobes, so it has the best opportunity to control those lower lobes. Because the lower lobes are not controlled by the neuromodulatory inputs that are present in the hippocampus. They are controlled by inputs that are present throughout the rest of the brain, and they are important for food storage and food digestion. But the important thing for this is it's the first area that sends its information that can control the rhythmic, motor behaviors that we see in the lobster, and it is the first area that can regulate the rhythmic, neural, rhythmic activities that are seen in mammals, like pyloric rhythms in the crab, and so forth.'",
+                                  "g_rating": 0.5,
+                                  "s_rating": 0.5356917381286621,
+                                  "t_rating": 0.7327793926546428,
+                                  "r_rating": 0.7327793926546428
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. M: 'So, to some extent this is a model of how the brain would be likely to behave in the real world, because it has a specific biological input.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5369454622268677,
+                              "t_rating": 0.963488676324753,
+                              "r_rating": 0.963488676324753
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'The answer is not very clear. But, there is one thing I'd like to be clear about. How do you know that the brain can respond to external influences if you haven't tried to stimulate the brain in a way that it is most responsive, so that it responds? This is a difficult question. So, the challenge is, how do you know that it responds? And the challenge is, what's the most optimal way to stimulate the brain that makes it respond in a way that is optimal for this task? The answer is that it is not very clear because the way we look at things in science, in our quest to figure out how the brain works, is, we have two choices. One of them is, let me present to you various ways to stimulate the brain. And then I'll tell you if it responds.'",
+              "g_rating": 0.5,
+              "s_rating": 0.5552793145179749,
+              "t_rating": 0.7472182526755834,
+              "r_rating": 0.7472182526755834
+            },
+            {
+              "name": "Dr. B:'You already know that this has been a very active area of study and discussion and I am grateful to be discussing this with you, but the main question is how does the neural circuit maintain stability? Or, how does the neural network maintain behavior? If you understand how the network changes and you know that this is very complicated, then we can start from there and understand how the neural circuit can maintain stability and behavior. And then I can answer that question.'",
+              "g_rating": 0.7,
+              "s_rating": 0.4766371548175812,
+              "t_rating": 0.8468665640775994,
+              "r_rating": 0.8947664613335508,
+              "children": [
+                {
+                  "name": "Dr. M:'Right, okay, so I understand. So, the main question is, how is it that the neural circuit maintains a stereotyped behavior?'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4501659572124481,
+                  "t_rating": 0.7500995860770753,
+                  "r_rating": 0.7877715761258757,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Okay, so, if we make this question a little bit more direct and simple, then I'll tell you why I'm so interested in the idea that is how the neural circuit maintains stability. It's a simple idea that has been around for a long time. I think you already know it. This is the problem of stimulus-induced plasticity. And in fact, the problem of stimulus induced plasticity is the basis of a few neurophysiological concepts and theories that are now being discussed more widely. This is what we have to explain: how do you change or how does the brain change when the network is perturbed? And this is what is the main question in this area of study, because we're trying to explain the maintenance of network stability. And this is the reason that I'm so interested is how the brain maintains stability and behavior, despite external perturbations, such as changes in sleep, changes in activity during sleep, changes in waking.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5669375658035278,
+                      "t_rating": 0.900787546272277,
+                      "r_rating": 0.900787546272277
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'And so, let me ask my first question again to take you back. So, if you don't have any prior knowledge about how the neural network functions, how do you think it's possible to maintain behavior with all the perturbations that occur? Or even if you have prior knowledge how do you think you can maintain stable behavior? So, if you take me for example, my first year of graduate school was done in the lab of this very strong scientist named Lillian Farder who had just done the first experimental work on a very interesting network of neurons in the brain called the crustacean STG and she discovered a ton of interesting things about the STG neurons, their function, the way they express their identity and the way they work. And then I came on to the lab of the neurobiologist, Robert Harris-Warrick and we started studying how to maintain stable behavior in response to changes in the external environment.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.6621268391609192,
+                  "t_rating": 1.0384661531014046,
+                  "r_rating": 1.0384661531014046
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'You are asking a question that is not just brain biology, but also neuroscience, that has been debated by a few hundred years of philosophers who were arguing over the nature of knowing how to know.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5609080791473389,
+          "t_rating": 0.9770454816705093,
+          "r_rating": 0.9649723158473285,
+          "children": [
+            {
+              "name": "Dr. B:\"The fact that you were willing to accept that a question like this could be explored on the philosophical side of neuroscience, I find, is remarkable, because this is the kind of question you would expect to have an answer that would be quite obvious, that would not require exploring the brain, and you would expect to know the answer very early in neuroscience, because this is a general property of the brain. It's a general property of nervous systems. For example, when you have an electrical stimulator that is going off, or a light that is going off in the middle of the night, there is not a single neuron in the brain, that's responsible for that, that is responsible for making you wake up.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4717857539653778,
+              "t_rating": 0.9287528183777857,
+              "r_rating": 0.9287528183777857
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'We think that one of the most important features of the brain is that you get new information from the world and you can't be certain that all of these neurons, or all of these receptors, or all of the connections among these neurons that you are seeing in the brain, are all part of the same circuit. So, you could make a connection and think, well, this is a circuit that you are hearing about in other parts of the brain, but you can't know that. You can't know that it is a circuit. So, this is another feature of the brain that really, I think, sets it apart from other animals and makes it so powerful. Because there is always, always a possibility that a circuit is just a circuit, that it is a completely independent circuit, but we don't know if it is. We don't know if all of the neurons that are in the same circuit are there for a reason.'",
+          "g_rating": 0.9,
+          "s_rating": 0.6282123923301697,
+          "t_rating": 1.0975658567380797,
+          "r_rating": 1.0705915516127862,
+          "children": [
+            {
+              "name": "Dr. B:'So, we are constantly discovering the things that the brain makes use of and how the brain makes use in its operations, but how does the brain make its use of those? That is, what is that thing that a circuit does? Can you give me a specific example? Can you give an example? What is an example? Where is a specific circuit where, where does it work? How does it make use? What does it do? What is the circuit's action? What are its? What are its effects? What are its consequences? Can you give one example? Can you? You could? Do you have a good example? Can you, can you give me a good example where the circuit is doing something, or making use of something, and it has consequences, right? Where there is a circuit and the circuit is doing a thing, and it's making a connection. And it's not going to work properly without that.'",
+              "g_rating": 0.7,
+              "s_rating": 0.5101053714752197,
+              "t_rating": 0.8661451899121024,
+              "r_rating": 0.9000477879613946,
+              "children": [
+                {
+                  "name": "Dr. M:'Okay. So, I think an example like that is an example of a circuit making use of prior knowledge. So, I studied this example of this neuron from the stomatogastric ganglion of the crab, and it receives input from the STG and it has to go from the STG, through the oesophageal nerve to the rest of the brain. The whole circuit has to make use of the prior knowledge that that particular neuron is in the STG. So, that makes its passage through the nerve all the way through the brain to the rest of us, to make that connection and to use that prior knowledge. So that's an example of a neuron that has to make use, make use of that prior knowledge. But you know, what it does is it makes use of it to generate rhythmic movement, like in the case of gastric mill in the case of chewing.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.5620719790458679,
+                  "t_rating": 0.6371223662912318,
+                  "r_rating": 0.6404128623133609,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Oh, it has consequences. It has consequences for the circuit. Okay. I don't have to be there. We're having a conversation here. We're going to have a conversation about how the brain makes its use of knowledge, what it does, how it makes its use. We'll be able to learn a lot, and we'll be able to, to share ideas. And we're also going to get some good insights from each other. So it will be very entertaining. And it'll be interesting, and we're going to come out with some new insights and, and we're also going after new questions and new directions that are relevant to this particular subject and to the research I'm doing. And it'll make it possible for each of us to think about the questions differently. So in that way, I'm very enthusiastic about this particular conversation, and I very much appreciate your asking me to participate in it.'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.5769486427307129,
+                      "t_rating": 0.6502843503797486,
+                      "r_rating": 0.6454846266155176,
+                      "children": [
+                        {
+                          "name": "Dr. M:'And what will happen to this conversation? I mean, you're going to put it up on the internet?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.19562426209449768,
+                          "t_rating": 0.6310854553228245,
+                          "r_rating": 0.6500187093105104,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Yeah, I'm going to put it online. I'm going to have it archived, and people will be able to read it. We're going after an audience, and this audience will get a view into what really goes on in our minds. That is, they'll hear the kind of questions we're going to ask each other, and they'll also hear the sort of answer. It will be online for a while, and people will, and it will go back to the original forum. So the conversation will be accessible for a long time, and then it'll go back to the forum. So, for people who want to learn something about the brains operations, this is a great opportunity. So I'm excited to do it, and I'm very grateful to do it, but, but this is really what's at stake here. And so, this is how the public will be able to watch the conversation.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.4995921850204468,
+                              "t_rating": 0.7068184712735684,
+                              "r_rating": 0.7068184712735684
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'I think, as you think about, as you are trying to design a circuit, you know, like, you are trying to make a circuit that will be reliable. You're trying to design a device that's going to give you reliable results. If you don't have a reliable connection, your results are going to be unreliable. You have to make sure that you are putting the necessary voltage into these neurons, and that you have to make sure, you know, that you have enough voltage. You have to set it up right so you can ensure that you are getting reliable results. Right, and so I think one of the things that is most, most unique to animals and most unique to, is the variability that you find within the brain. You know, within the same animal, within the same brain, you find variability, and variability is, is great. It is what enables evolutionary selection. And variability is great.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5831677317619324,
+                  "t_rating": 0.9110897888618646,
+                  "r_rating": 0.9110897888618646
+                },
+                {
+                  "name": "Dr. M:'And the reason why we think that it is, is that when I studied neuroscience, the first year of graduate school, there was a famous paper that came out about these neurons, these synaptic connections, that were very, very important for understanding brain function, but they were not well characterized. So, we were trying to understand, because we saw these neurons. We thought that they were not well described. And so, we did experiments, because we couldn't find any physiological effects for these neurons and we were trying to figure out what this mysterious thing is, which was well-described in literature. And I took the neurons home and we measured them. And so, what happens is we found that these neurons are not only well-described in the literature, but they do have some very interesting physiological properties. But their physiological properties don't determine how they are part of the circuit.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.6029214262962341,
+                  "t_rating": 1.0017555821092714,
+                  "r_rating": 1.0017555821092714
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'You are also aware that this is the same way that you would approach a connection to a network, that you wouldn't know if you could make it with a circuit that is independent or whether you could just make it with another circuit that is independent. And there's always, always a chance that this is a completely independent structure, but we can't be certain. And the more we make observations, the more certain we become. And so, the brain is always uncertain of how it does it. I can't help it. I'm in the middle of a book and I can't help myself.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4857211709022522,
+              "t_rating": 0.9359086792324639,
+              "r_rating": 0.9009780264652266,
+              "children": [
+                {
+                  "name": "Dr. M: 'So, in the brain, how does the uncertainty go away? And what makes it so difficult for the brain to say, yeah, it is a circuit and it is connected to some other circuits.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5233662724494934,
+                  "t_rating": 0.796186068163515,
+                  "r_rating": 0.796186068163515
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So, what do we think is the goal of the brain, what do we want to achieve? The brain of course doesn't care, but the brain of course is always looking at how the environment is organized and how the body and the body is organized and how everything is organized, and what happens in the environment, what happens in the brain, or in the body, or in the heart, what happens in all of the parts of the brain is what matters. And it really matters to the brain what is happening to its constituents. And then, this is the goal of neuroscience: to understand how the constituents in the brain interact with each other to bring about the output that the brain wants to achieve.'",
+              "g_rating": 0.8,
+              "s_rating": 0.582618236541748,
+              "t_rating": 0.9896686362369055,
+              "r_rating": 0.9931772754993282,
+              "children": [
+                {
+                  "name": "Dr. M:'And also, because all of us, we know many people who say, we don't know how many times they have said that, you know, that people think about the brain as, you know, a very little circuit, but it really, it is an amazing, amazing, amazing circuit that, it's not little circuits. Like, the brain has many neurons. You know, the smallest circuit has many neurons. The smallest circuit of neurons has millions of neurons. And if you're trying to understand how a brain functions, you are trying to understand how it functions as a whole. And so, we have to look at how the circuits work together and how they contribute to the behavior that we see, right?'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.6061518788337708,
+                  "t_rating": 1.0037031932865963,
+                  "r_rating": 1.0037031932865963
+                }
+              ]
+            }
+          ]
         }
       ]
     },
