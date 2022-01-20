@@ -11993,7 +11993,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.49655860662460327,
                               "t_rating": 0.7788263284025313,
-                              "r_rating": 0.7788263284025313
+                              "r_rating": 0.7816850691954474,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I think the main thing that perisomatic inhibition is really for, I think the main thing is for a kind of a pacemaker function so that cells that fire at specific times are inhibited. I mean, the most interesting feature of this is that it is not like you can inhibit all the time. It is that each cell has a certain period.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.3667600154876709,
+                                  "t_rating": 0.7902612915741961,
+                                  "r_rating": 0.7902612915741961
+                                }
+                              ]
                             }
                           ]
                         }
@@ -12555,13 +12564,6 @@
           ]
         },
         {
-          "name": "Dr. M:'The function of inhibitory cells is to stop the neurons firing. And they do that in many different ways.'",
-          "g_rating": 0.4,
-          "s_rating": 0.3630666136741638,
-          "t_rating": 0.5402012272892617,
-          "r_rating": 0.5402012272892617
-        },
-        {
           "name": "Dr. M:'It is to inhibit. So, neurons inhibit other neurons. What else are they good for? Oh, the next question. The next question is: Why do neurons have multiple receptors, and the same neurons have different receptors in different neurons?'",
           "g_rating": 0.3,
           "s_rating": 0.3973619341850281,
@@ -12575,6 +12577,13 @@
               "t_rating": 0.6745355530330622,
               "r_rating": 0.7507091935677012,
               "children": [
+                {
+                  "name": "Dr. M:'The answer to that is, neurons can be used to produce all kinds of things that can be very useful for animals, and for people.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.519453763961792,
+                  "t_rating": 0.7936196903391908,
+                  "r_rating": 0.7936196903391908
+                },
                 {
                   "name": "Dr. M:'Well, so that if they are connected together in a network, they can coordinate themselves. So, a neuron is not a static unit. A neuron has to be able to coordinate with other neurons in networks, because the networks that the animals need to survive are networks of neurons, right? So, the neurons need to coordinate with other cells in the network. And the mechanisms that allow coordination are, are mechanisms that are intrinsic in the neurons.'",
                   "g_rating": 0.8,
@@ -12695,6 +12704,31 @@
                   "s_rating": 0.5301257967948914,
                   "t_rating": 0.9597048298447907,
                   "r_rating": 0.9597048298447907
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The function of inhibitory cells is to stop the neurons firing. And they do that in many different ways.'",
+          "g_rating": 0.4,
+          "s_rating": 0.3630666136741638,
+          "t_rating": 0.5402012272892617,
+          "r_rating": 0.5770938843551663,
+          "children": [
+            {
+              "name": "Dr. B:'Inhibitory neurons can stop neurons from discharging in different ways. How does it work?'",
+              "g_rating": 0.5,
+              "s_rating": 0.47226065397262573,
+              "t_rating": 0.6877718555528803,
+              "r_rating": 0.7034496627759168,
+              "children": [
+                {
+                  "name": "Dr. M:'Inhibitory neuron activation produces a voltage shift, a voltage displacement in some of the membrane currents. And these shifts in voltage are important because it means that if a cell is hyperpolarized and a membrane potential is shifted high enough, it will fire. But the shifts in voltage can be small, and small shifts in voltage can mean that if a cell gets a small voltage shift it might not fire.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4508046805858612,
+                  "t_rating": 0.7504830844450262,
+                  "r_rating": 0.7504830844450262
                 }
               ]
             }
@@ -12872,6 +12906,13 @@
               "r_rating": 0.8783464810568454,
               "children": [
                 {
+                  "name": "Dr. M:'So the inhibitory interneuron sends a tonic inhibitory signal to the neurons in the circuit.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4472294747829437,
+                  "t_rating": 0.748340967149753,
+                  "r_rating": 0.748340967149753
+                },
+                {
                   "name": "Dr. M:'I'm saying we have two processes going on, one is one's positive feed-forward mechanism, and the other is the negative feedback mechanism, and the two have to be coordinated. You can't have both. Because if the positive is too strong, it's going to overcompensate for the negative; and if the negative is too strong, then the positive will stop firing, because it's going to try and fire and have its excitatory mechanisms inhibited.'",
                   "g_rating": 0.6,
                   "s_rating": 0.5064995288848877,
@@ -12890,7 +12931,16 @@
                           "g_rating": 0.4,
                           "s_rating": 0.12330585718154907,
                           "t_rating": 0.4185741683564295,
-                          "r_rating": 0.4185741683564295
+                          "r_rating": 0.44187794901228966,
+                          "children": [
+                            {
+                              "name": "Dr. B:'What are these neurons doing?'",
+                              "g_rating": 0.1,
+                              "s_rating": 0.5019245743751526,
+                              "t_rating": 0.51178929097987,
+                              "r_rating": 0.51178929097987
+                            }
+                          ]
                         }
                       ]
                     }
@@ -12919,7 +12969,16 @@
                   "g_rating": 0.0,
                   "s_rating": 0.5112438201904297,
                   "t_rating": 0.5112438201904297,
-                  "r_rating": 0.5112438201904297
+                  "r_rating": 0.571632417705213,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And we have a second example, which is a GABA release into the synaptic cleft. When a postsynaptic neuron is activated, it releases the inhibitory neurotransmitter into the synaptic clef. It works together with a local inhibitory neurotransmitter, like GABA, that has been known since the 1980s, since the late 1980s, the late 1980s and early 1990s that inhibitory activity can be elicited in the synaptic cleft, and that is very significant.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.45464837551116943,
+                      "t_rating": 0.7527982102495631,
+                      "r_rating": 0.7527982102495631
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'Which means that you have a potential source of negative feedback.'",
@@ -12940,7 +12999,16 @@
                           "g_rating": 0.5,
                           "s_rating": 0.3335987329483032,
                           "t_rating": 0.6010724703600335,
-                          "r_rating": 0.6010724703600335
+                          "r_rating": 0.6967811928472429,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Now, the inhibitory potential that is released, whether it's released by a GABA A  receptor or by other inhibitory synapses or the inhibitory synapse is the one that you are trying to inhibit, or is there some other way that it can be inhibited? If I can ask you to list the inhibitory synapses of GABA, that is, where the inhibitory neurotransmitter is released. Can you do that?'",
+                              "g_rating": 0.9,
+                              "s_rating": 0.39758482575416565,
+                              "t_rating": 0.9839073603088709,
+                              "r_rating": 0.9839073603088709
+                            }
+                          ]
                         }
                       ]
                     }
@@ -13030,7 +13098,7 @@
               "g_rating": 0.6,
               "s_rating": 0.40882444381713867,
               "t_rating": 0.7260423030804698,
-              "r_rating": 0.6803930766478451,
+              "r_rating": 0.7605479934806354,
               "children": [
                 {
                   "name": "Dr. B:'How does inhibition occur in the brain? What are the most important questions in terms of inhibition in the brain? Inhibition is a mechanism that decreases neuronal output by some mechanism. Inhibition occurs in all cells in the brain. How does inhibition occur? What is the most important question in terms of inhibition?'",
@@ -13088,6 +13156,13 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. B:'Why is it beneficial for the other neuron to be inhibited?'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5065653324127197,
+                  "t_rating": 0.8640650646811322,
+                  "r_rating": 0.8640650646811322
                 }
               ]
             }
@@ -13511,7 +13586,16 @@
               "g_rating": 0.2,
               "s_rating": 0.40281814336776733,
               "t_rating": 0.4497359854695365,
-              "r_rating": 0.4497359854695365
+              "r_rating": 0.5357573527491443,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes it is their job to provide excitation, but they also play an important role in regulating their targets' properties. Some of their targets have excitatory properties, and they also play a role in regulating these excitatory properties.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.37436947226524353,
+                  "t_rating": 0.7938214545879677,
+                  "r_rating": 0.7938214545879677
+                }
+              ]
             },
             {
               "name": "Dr. B:'The functions of inhibitory neurons are to modulate neuronal circuits in the target network. These are mainly the principal cells that can move to a response. These are inhibitory neurons.'",
@@ -13568,7 +13652,7 @@
               "g_rating": 0.7,
               "s_rating": 0.38108953833580017,
               "t_rating": 0.797012695149201,
-              "r_rating": 0.8026236972616857,
+              "r_rating": 0.8277253579990644,
               "children": [
                 {
                   "name": "Dr. M:'It's because neural networks are not linear. They can have multiple modes of activity, and the neurons can fire in multiple modes. If you think about neurons firing together in the central pattern generating circuit in the brain, they do not fire in a fixed rhythm.'",
@@ -13609,7 +13693,32 @@
                   "g_rating": 0.7,
                   "s_rating": 0.42603906989097595,
                   "t_rating": 0.8194567035991395,
-                  "r_rating": 0.8194567035991395
+                  "r_rating": 0.7302214029680073,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What do the rhythms do?'",
+                      "g_rating": 0.2,
+                      "s_rating": 0.41703787446022034,
+                      "t_rating": 0.46251550107461104,
+                      "r_rating": 0.46251550107461104
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'You know, because we don't know the answer to that, to the question that we asked a hundred years ago about neurons, about the cell type that a neuron is. The fact that neurons that have different roles may be in the same neuron, and the way neurons can be reconfigured in response to external influences is really fascinating.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.596781849861145,
+                  "t_rating": 0.9198633465486546,
+                  "r_rating": 0.8587026896156698,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What role does the cortex play in this? In this sense, does the cortex serve a role in inhibition or memory or in general, or, in fact, do we have any idea about the cortex's role in any process? What is it doing? Does it serve a role? Is it necessary? Can it do a more efficient job, say, than can inhibitory neurons? If you don't have inhibitory neurons, can you have the same kind of functions?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.4537874162197113,
+                      "t_rating": 0.6752207188167152,
+                      "r_rating": 0.6752207188167152
+                    }
+                  ]
                 }
               ]
             }
@@ -13750,7 +13859,43 @@
                   "g_rating": 0.8,
                   "s_rating": 0.18144212663173676,
                   "t_rating": 0.8203177709379745,
-                  "r_rating": 0.8203177709379745
+                  "r_rating": 0.7666103386466717,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the function? If we have some data that we can analyze, we can go to the experiments and say, \"Oh, what does this mean? What does that mean?\" And we can learn more about the mechanisms of inhibitory neurotransmission, and the brain rhythms, and the processes of cognition, then I'm happy with that.'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.5259427428245544,
+                      "t_rating": 0.6054880417727632,
+                      "r_rating": 0.6876477931111387,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, it could be, it could be a long, long, long process, because you'd be learning about synaptic connections and how the brain works. But I'm thinking that there are two aspects to this, and one is that it's very hard to find the mechanism, and how neurons are regulated, and how networks are regulated. So what you're doing is you're asking the most basic questions, which, in neuroscience, I think, that are always really important.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.6185413002967834,
+                          "t_rating": 0.9341270471262652,
+                          "r_rating": 0.8363231750370781,
+                          "children": [
+                            {
+                              "name": "Dr. B:'That's right. What is the function? Is it to reduce inhibition? Is it to increase inhibition? Or is it to increase excitation? How do we understand the function? Do we have to understand the neurons? Or can we just look at how inhibition is released? Or how it's excitation is released? Is it to have very weak inhibition or strong inhibition? Or is there something that we can find, which is very well defined and understood?'",
+                              "g_rating": 0.2,
+                              "s_rating": 0.5047305822372437,
+                              "t_rating": 0.5429115587695172,
+                              "r_rating": 0.6244333230533229,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I think that you're going to discover, and you're going to learn about many new mechanisms that come to light.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.33935025334358215,
+                                  "t_rating": 0.8689986159047398,
+                                  "r_rating": 0.8689986159047398
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -14061,7 +14206,7 @@
                       "g_rating": 0.6,
                       "s_rating": 0.47111502289772034,
                       "t_rating": 0.7628560577198817,
-                      "r_rating": 0.7900357349564356,
+                      "r_rating": 0.811610471057971,
                       "children": [
                         {
                           "name": "Dr. M:'Okay, so as a general rule, when you find a neuron that is specifically involved in a functional task, there's a strong indication that that neuron is doing it because its evolutionarily related, genetically, to other neurons that are doing it. And therefore, you can make some predictions about what its function is going to be and how it's going to behave.'",
@@ -14105,11 +14250,27 @@
                                   "g_rating": 0.5,
                                   "s_rating": 0.284856915473938,
                                   "t_rating": 0.575450660172813,
-                                  "r_rating": 0.575450660172813
+                                  "r_rating": 0.5594112786054986,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'That's right. And so, it's very important that there's inhibition. I'm not asking you to write a paper, but it's important that we understand what we're talking about. We're not saying that this is an issue. I'm just asking you to consider, that inhibition is a fundamental thing that needs to be understood. Because it's, it's an extremely important piece of function in a very important piece of architecture.'",
+                                      "g_rating": 0.2,
+                                      "s_rating": 0.47055357694625854,
+                                      "t_rating": 0.5112931339035549,
+                                      "r_rating": 0.5112931339035549
+                                    }
+                                  ]
                                 }
                               ]
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. M:'I think the best example is the pyloric neurons in the pyloric circuit in the pacemaker group of the pyloric network. And what happens when the pacemaker group becomes active is that they initiate the pacemaker rhythm, which gives rise to the pyloric rhythm that gives rise to the entire nervous system. It's very important to understand how the pacemaker neurons are able to generate the pyloric rhythms that give rise to the entire brain.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5268036127090454,
+                          "t_rating": 0.9578737110722384,
+                          "r_rating": 0.9578737110722384
                         }
                       ]
                     }
@@ -14522,56 +14683,6 @@
               ]
             },
             {
-              "name": "Dr. B:'When you say the stimulus, we can assume that you mean external perturbations or some stimulus that comes to the brain.'",
-              "g_rating": 0.8,
-              "s_rating": 0.4552956223487854,
-              "t_rating": 0.9204857976796643,
-              "r_rating": 0.8030363969526522,
-              "children": [
-                {
-                  "name": "Dr. M:'Okay, right. So when we talk about the stimulus, we mean external stimuli that might come to the brain.' You know, like, for example, there are the sensory systems in animals, and the sensory system comes to the brain, and you know it's, there's a large number of sensory neurons, so it's not entirely external, but these sensory neurons will also be inhibited.'",
-                  "g_rating": 0.2,
-                  "s_rating": 0.4038809835910797,
-                  "t_rating": 0.4506881947716159,
-                  "r_rating": 0.5242182393950153,
-                  "children": [
-                    {
-                      "name": "Dr. B:'How would you expect that to happen? For example, how does a brain respond to the, to a natural stimulus? Is that what we call a native input that causes a native response? What's that stimulus? What's the stimulus? In what sense is the native stimulus? So what's the stimulus in the brain? Is it the native stimulus? Is it the natural stimulus, or is it the sensory input? Is it the internal stimulus?'",
-                      "g_rating": 0.6,
-                      "s_rating": 0.44129300117492676,
-                      "t_rating": 0.7448083732652137,
-                      "r_rating": 0.7823237501029324,
-                      "children": [
-                        {
-                          "name": "Dr. M:'Well, it could be any of the stimuli that you would be aware of. The stimulus could be some chemical substance that comes into the brain, or the stimulus could be some other kind of sensory input, a visual input or auditory input that is a stimulus that comes into the eye or the ear, and we have to be aware of that. I mean, you know, we talk about the animal that eats.'",
-                          "g_rating": 0.8,
-                          "s_rating": 0.400988906621933,
-                          "t_rating": 0.894869880616089,
-                          "r_rating": 0.8837155355563666,
-                          "children": [
-                            {
-                              "name": "Dr. B:'It eats? So you have to be aware that you are aware. So in that sense, this stimulus would be a different stimulus. So the stimulus would be that you are aware of that stimulus and its consequences, and the stimulus would be a signal that comes into the head and affects the brain. So there's no difference. The only thing that is different is that you are aware that it comes to the brain. You could call that a native stimulus and the stimulus as the external stimuli.'",
-                              "g_rating": 0.2,
-                              "s_rating": 0.35309669375419617,
-                              "t_rating": 0.4058044789552533,
-                              "r_rating": 0.4058044789552533
-                            },
-                            {
-                              "name": "Dr. B:'So the response is not to the stimulus but to a set of inhibitory neurons that have an effect on the response.'",
-                              "g_rating": 0.7,
-                              "s_rating": 0.4826275110244751,
-                              "t_rating": 0.8502525003771996,
-                              "r_rating": 0.8502525003771996
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "name": "Dr. B:'What would be a very simple but useful experiment to study this function?'",
               "g_rating": 0.8,
               "s_rating": 0.18267880380153656,
@@ -14661,6 +14772,72 @@
                       ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'When you say the stimulus, we can assume that you mean external perturbations or some stimulus that comes to the brain.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4552956223487854,
+              "t_rating": 0.9204857976796643,
+              "r_rating": 0.8918998663205099,
+              "children": [
+                {
+                  "name": "Dr. M:'Okay, right. So when we talk about the stimulus, we mean external stimuli that might come to the brain.' You know, like, for example, there are the sensory systems in animals, and the sensory system comes to the brain, and you know it's, there's a large number of sensory neurons, so it's not entirely external, but these sensory neurons will also be inhibited.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.4038809835910797,
+                  "t_rating": 0.4506881947716159,
+                  "r_rating": 0.5242182393950153,
+                  "children": [
+                    {
+                      "name": "Dr. B:'How would you expect that to happen? For example, how does a brain respond to the, to a natural stimulus? Is that what we call a native input that causes a native response? What's that stimulus? What's the stimulus? In what sense is the native stimulus? So what's the stimulus in the brain? Is it the native stimulus? Is it the natural stimulus, or is it the sensory input? Is it the internal stimulus?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.44129300117492676,
+                      "t_rating": 0.7448083732652137,
+                      "r_rating": 0.7823237501029324,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, it could be any of the stimuli that you would be aware of. The stimulus could be some chemical substance that comes into the brain, or the stimulus could be some other kind of sensory input, a visual input or auditory input that is a stimulus that comes into the eye or the ear, and we have to be aware of that. I mean, you know, we talk about the animal that eats.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.400988906621933,
+                          "t_rating": 0.894869880616089,
+                          "r_rating": 0.8837155355563666,
+                          "children": [
+                            {
+                              "name": "Dr. B:'It eats? So you have to be aware that you are aware. So in that sense, this stimulus would be a different stimulus. So the stimulus would be that you are aware of that stimulus and its consequences, and the stimulus would be a signal that comes into the head and affects the brain. So there's no difference. The only thing that is different is that you are aware that it comes to the brain. You could call that a native stimulus and the stimulus as the external stimuli.'",
+                              "g_rating": 0.2,
+                              "s_rating": 0.35309669375419617,
+                              "t_rating": 0.4058044789552533,
+                              "r_rating": 0.567019490777859,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Sure, and so I mean, and if we think about a neuron that just starts firing and if you think about, like, say we're talking about an isolated neuron that just starts to fire, and it starts firing and it starts firing, so we have to be, we have to be careful about that. So what we do is, what we do is we, as we study the brain, we study these individual neurons.'",
+                                  "g_rating": 0.9,
+                                  "s_rating": 0.5421217083930969,
+                                  "t_rating": 1.0506645262456757,
+                                  "r_rating": 1.0506645262456757
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Dr. B:'So the response is not to the stimulus but to a set of inhibitory neurons that have an effect on the response.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.4826275110244751,
+                              "t_rating": 0.8502525003771996,
+                              "r_rating": 0.8502525003771996
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Yeah, that's the stimulus, and when it comes to the brain it can have multiple effects.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.39983126521110535,
+                  "t_rating": 0.8061420722430466,
+                  "r_rating": 0.8061420722430466
                 }
               ]
             }
@@ -14790,6 +14967,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'Inhibitory neurons are critical for regulating the activity of other neurons. But they also create synaptic feedback through the inhibitory synapses that are created between the neurons that have receptors that respond to the inhibitory substances. So the first thing we did when we began studying the invertebrate central pattern generating network, is we found that there were two different subtypes of inhibitory neurons. One was the 'fast inhibitory neuron', which creates fast inhibitions.'",
+          "g_rating": 0.5,
+          "s_rating": 0.4659510552883148,
+          "t_rating": 0.6834547431427294,
+          "r_rating": 0.6834547431427294
         },
         {
           "name": "Dr. M:'I don't know that.'",
@@ -15312,6 +15496,13 @@
               "r_rating": 0.8226183965483738
             },
             {
+              "name": "Dr. B:'This is a very interesting question, but how would you answer it? Why would it be important? Do we not have enough knowledge? How many pieces and pieces there are in the brain, and what is their function? Can you answer me these questions? The reason that I asked you these questions, because I asked the question to both you and Marder recently in our, um, in our book.'",
+              "g_rating": 0.7,
+              "s_rating": 0.5402345657348633,
+              "t_rating": 0.8842247372782195,
+              "r_rating": 0.8842247372782195
+            },
+            {
               "name": "Dr. B:'That's a good, easy answer, but what is the function of inhibition that actually gives rise to it?'",
               "g_rating": 0.8,
               "s_rating": 0.41570860147476196,
@@ -15393,7 +15584,16 @@
               "g_rating": 0.6,
               "s_rating": 0.4668072462081909,
               "t_rating": 0.7602032656549659,
-              "r_rating": 0.7602032656549659
+              "r_rating": 0.7529131437787424,
+              "children": [
+                {
+                  "name": "Dr. M:'They're not active in a pacemaker, but the entire PYR group is active in the cerebral cortex.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.41764044761657715,
+                  "t_rating": 0.7310427781500717,
+                  "r_rating": 0.7310427781500717
+                }
+              ]
             }
           ]
         },
@@ -15416,7 +15616,16 @@
                   "g_rating": 0.3,
                   "s_rating": 0.441110223531723,
                   "t_rating": 0.5334587418950097,
-                  "r_rating": 0.5334587418950097
+                  "r_rating": 0.6175045632287203,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is it fair to say that the connection between inhibition and learning is not well understood? I mean, how do we make progress on this problem?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5160205960273743,
+                      "t_rating": 0.869642027229852,
+                      "r_rating": 0.869642027229852
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'There is a process by which neurons can be regulated by many modulators at a given time. One of the fascinating things that has been shown over many years, is that neurons have multiple levels of regulation. That is, there are different pathways by which neurons can control synaptic and electrical coupling, and then there are different mechanisms by which the activity of the neurons can be regulated.'",
@@ -15807,7 +16016,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.4561472237110138,
                               "t_rating": 0.7537043781876722,
-                              "r_rating": 0.7537043781876722
+                              "r_rating": 0.7992512348049486,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'I think, if we really get into the details of these individual neurons, and look at all the synaptic connections, we find that there are many different sets of synaptic connections that produce a given function. That is to say that the circuit that produces a specific behavior, or a specific cognitive function has a number of sets of synaptic connections, and different sets of synaptic connection strength.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.6212032437324524,
+                                  "t_rating": 0.935891804656778,
+                                  "r_rating": 0.935891804656778
+                                }
+                              ]
                             }
                           ]
                         }
@@ -15912,7 +16130,16 @@
                                       "g_rating": 0.6,
                                       "s_rating": 0.44928422570228577,
                                       "t_rating": 0.7495707541419305,
-                                      "r_rating": 0.7495707541419305
+                                      "r_rating": 0.7583835174060852,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'You know, I really think this depends on the particular circuitry, and I think it will depend on how much you can tolerate having a neuron that is weak or silent or that you can't measure reliably. So, you know, like you wouldn't want a very weak neuron if you can't measure it. And it depends on how many synapses you can tolerate that may have to be relatively weak, so I think this is just an issue that we have to learn about.'",
+                                          "g_rating": 0.6,
+                                          "s_rating": 0.505910336971283,
+                                          "t_rating": 0.7848218071985494,
+                                          "r_rating": 0.7848218071985494
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -16282,7 +16509,16 @@
                                               "g_rating": 0.5,
                                               "s_rating": 0.44818103313446045,
                                               "t_rating": 0.6714657388590071,
-                                              "r_rating": 0.6714657388590071
+                                              "r_rating": 0.5244620343642155,
+                                              "children": [
+                                                {
+                                                  "name": "Dr. M:'Okay.'",
+                                                  "g_rating": 0.0,
+                                                  "s_rating": 0.08345092087984085,
+                                                  "t_rating": 0.08345092087984085,
+                                                  "r_rating": 0.08345092087984085
+                                                }
+                                              ]
                                             }
                                           ]
                                         }
@@ -16677,7 +16913,16 @@
               "g_rating": 0.5,
               "s_rating": 0.5754739046096802,
               "t_rating": 0.7623452071645176,
-              "r_rating": 0.7623452071645176
+              "r_rating": 0.7669946045371193,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, when I'm thinking of what is most important in neurons, it is that they have to do three things. They have to provide sensory input to the organism; they have to drive the neurons of the circuit, and then they have to control the network. So it's really interesting that it should be important to have these kinds of features and capabilities, because most networks can tolerate a lot of changes in the parameters of their network.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5998930335044861,
+                  "t_rating": 0.7809427966549243,
+                  "r_rating": 0.7809427966549243
+                }
+              ]
             },
             {
               "name": "Dr. B:'What is the function, though, of neurons in the brain, that do not communicate by way of inhibition?'",
@@ -16741,18 +16986,20 @@
                   "g_rating": 0.8,
                   "s_rating": 0.4991360902786255,
                   "t_rating": 0.9429405265543699,
-                  "r_rating": 0.9429405265543699
+                  "r_rating": 0.8931942020122453,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So, why do you not have any information? It would be difficult to give a simple answer, but perhaps the reason is that the brain is a circuit and you don't have the information. And then you have to think of the circuit as a system, like the computer, and to learn how things interact. There is only the information that you have to make the brain circuits work, but it is a system and the information is generated by the interactions of components.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.5508805513381958,
+                      "t_rating": 0.7439552283858717,
+                      "r_rating": 0.7439552283858717
+                    }
+                  ]
                 }
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'Well, I suppose the primary function of the inhibitory neuron is to inhibit. It is usually the first neuron to fire in the network, and as soon as the first neuron fires, the subsequent neurons fire too. It also activates a cascade of further oscillators. One of the examples is when I was working on a model of a pyloric network for which we found the optimal balance between activation of the anterior/pyloric dilator and lateral posterior (LP) neurons.'",
-          "g_rating": 0.6,
-          "s_rating": 0.40620002150535583,
-          "t_rating": 0.7245677728625194,
-          "r_rating": 0.7245677728625194
         },
         {
           "name": "Dr. M:'Inhibitory neurons have a role as inhibitors. As in other species, the majority of inhibitory neurons are modulators, and there are several hundred different substances that affect inhibitory neurons. One thing that we are beginning to appreciate about some of these substances is that they also have some important noninhibitory functions as well.'",
@@ -16841,7 +17088,16 @@
                   "g_rating": 0.8,
                   "s_rating": 0.5448088645935059,
                   "t_rating": 0.9678929170831168,
-                  "r_rating": 0.9678929170831168
+                  "r_rating": 0.9093087541821464,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do we know the role and function of alpha oscillations? What is the role and function in the pyloric area of these two interneurons that we have in theta? It is not clear to me how the pyloric networks of these interneurons are used in theta.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4220246374607086,
+                      "t_rating": 0.7335562654792355,
+                      "r_rating": 0.7335562654792355
+                    }
+                  ]
                 }
               ]
             }
@@ -17250,7 +17506,16 @@
                       "g_rating": 0.9,
                       "s_rating": 0.4681088626384735,
                       "t_rating": 1.0144584305335953,
-                      "r_rating": 1.0144584305335953
+                      "r_rating": 0.9551181254017621,
+                      "children": [
+                        {
+                          "name": "Dr. M:'You know, these neurons also are designed to be very small, because they also have important functions. So, the function of the gamma neuron is to generate a very small electrical burst in one phase of the theta cycle. So, this neuron plays a role in phase maintenance, but it also plays a role in synchronizing the activity of the other theta phase neurons with the correct timing.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.49384215474128723,
+                          "t_rating": 0.7770972100062626,
+                          "r_rating": 0.7770972100062626
+                        }
+                      ]
                     }
                   ]
                 }
@@ -17272,6 +17537,13 @@
               "t_rating": 0.5211532083688027,
               "r_rating": 0.5977957907601723,
               "children": [
+                {
+                  "name": "Dr. M:'A synapse is a voltage-gated potassium current that flows preferentially into one neuron from another when the presynaptic neuron is depolarized.  A synaptic current has a long half-life, so that it flows out of the presynaptic cell after it is activated by hyperpolarization and contributes to the long-lasting post-inhibitory rebound that occurs after a neuron has been inhibited for some period of time.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.4371863603591919,
+                  "t_rating": 0.7423825925249845,
+                  "r_rating": 0.7423825925249845
+                },
                 {
                   "name": "Dr. M:'The synapse between a and b is a synaptic gap that's part of the circuit that the neurons belong to. The strength of this synaptic gap depends on a variety of underlying parameters and processes. Some of those underlying parameters are intrinsic to a single neuron, and some of those are determined by the synaptic network.'",
                   "g_rating": 0.7,
@@ -17518,11 +17790,36 @@
                       "g_rating": 0.4,
                       "s_rating": 0.40880534052848816,
                       "t_rating": 0.5719456324202618,
-                      "r_rating": 0.5719456324202618
+                      "r_rating": 0.5965391051304357,
+                      "children": [
+                        {
+                          "name": "Dr. M:'You're saying this is kind of like an automatic relaxation mechanism that sets that balance, that sets that regulation of gastric mill contraction.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.29887834191322327,
+                          "t_rating": 0.6703195232609577,
+                          "r_rating": 0.6703195232609577
+                        }
+                      ]
                     }
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, that's a good question. So, we all know that there are many neurons that are inhibitory because their transmitter phenotype is appropriate for producing inhibitory effects. For example, if you have a neuron that releases dopamine, it is inhibiting another neuron in its environment by virtue of its transmitter phenotype, which will produce inhibitory effects.'",
+          "g_rating": 0.6,
+          "s_rating": 0.45296600461006165,
+          "t_rating": 0.7517833473364532,
+          "r_rating": 0.7501667924088746,
+          "children": [
+            {
+              "name": "Dr. B:'So what is the function of these inhibitory cells?'",
+              "g_rating": 0.7,
+              "s_rating": 0.2559250295162201,
+              "t_rating": 0.7453171276261388,
+              "r_rating": 0.7453171276261388
             }
           ]
         },
@@ -17632,13 +17929,6 @@
               "r_rating": 0.8009392038271341
             }
           ]
-        },
-        {
-          "name": "Dr. M:'Well, that's a good question. So, we all know that there are many neurons that are inhibitory because their transmitter phenotype is appropriate for producing inhibitory effects. For example, if you have a neuron that releases dopamine, it is inhibiting another neuron in its environment by virtue of its transmitter phenotype, which will produce inhibitory effects.'",
-          "g_rating": 0.6,
-          "s_rating": 0.45296600461006165,
-          "t_rating": 0.7517833473364532,
-          "r_rating": 0.7517833473364532
         },
         {
           "name": "Dr. M:'The function of inhibitory synapses is to ensure network stability.'",
@@ -17757,6 +18047,22 @@
           ]
         },
         {
+          "name": "Dr. M:'Well, I suppose the primary function of the inhibitory neuron is to inhibit. It is usually the first neuron to fire in the network, and as soon as the first neuron fires, the subsequent neurons fire too. It also activates a cascade of further oscillators. One of the examples is when I was working on a model of a pyloric network for which we found the optimal balance between activation of the anterior/pyloric dilator and lateral posterior (LP) neurons.'",
+          "g_rating": 0.6,
+          "s_rating": 0.40620002150535583,
+          "t_rating": 0.7245677728625194,
+          "r_rating": 0.7559752405011935,
+          "children": [
+            {
+              "name": "Dr. B:'And who is the ideal inhibitory neuron?'",
+              "g_rating": 0.7,
+              "s_rating": 0.4825308620929718,
+              "t_rating": 0.8501976434172154,
+              "r_rating": 0.8501976434172154
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'Inhibitory neurons are there to slow down the rhythm.'",
           "g_rating": 0.6,
           "s_rating": 0.5018691420555115,
@@ -17770,13 +18076,6 @@
               "t_rating": 0.6804250115094307,
               "r_rating": 0.6942958125078184,
               "children": [
-                {
-                  "name": "Dr. M:'I don't know. There are probably at least 10 different neurons.'",
-                  "g_rating": 0.4,
-                  "s_rating": 0.4565412104129791,
-                  "t_rating": 0.6069842475759549,
-                  "r_rating": 0.6069842475759549
-                },
                 {
                   "name": "Dr. M:'I'm saying it's one or two, but it depends on the species.'",
                   "g_rating": 0.5,
@@ -17837,6 +18136,22 @@
                   ]
                 },
                 {
+                  "name": "Dr. M:'I don't know. There are probably at least 10 different neurons.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.4565412104129791,
+                  "t_rating": 0.6069842475759549,
+                  "r_rating": 0.6369408063435773,
+                  "children": [
+                    {
+                      "name": "Dr. B:'That is not a big number. How many cells are inhibitory? In my view, the brain should be viewed as a self-stabilized system with only a handful of principal cells. The inhibition is a major player. In the hippocampus, inhibition is only a small part of the total activity and a very complex system, but it does a great job.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.41018712520599365,
+                      "t_rating": 0.7268104826464444,
+                      "r_rating": 0.7268104826464444
+                    }
+                  ]
+                },
+                {
                   "name": "Dr. M:'There's many hundreds, it changes throughout development.'",
                   "g_rating": 0.7,
                   "s_rating": 0.22707025706768036,
@@ -17875,7 +18190,16 @@
                   "g_rating": 0.3,
                   "s_rating": 0.3438277542591095,
                   "t_rating": 0.45630858484019626,
-                  "r_rating": 0.45630858484019626
+                  "r_rating": 0.5156447921842203,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And what kind of things are going to be affecting the network? In the simplest case, inhibition should reduce the excitatory effect. We can have inhibition that reduces synaptic efficacy, or inhibitory neurons should decrease their rate of release of the neurotransmitter glutamate. We can have inactivity of pyramidal cells, which is the default state of the network. Then we have inhibition that affects synaptic transmission, the transmission of neurotransmitter glutamate.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.48078587651252747,
+                      "t_rating": 0.6936534142162923,
+                      "r_rating": 0.6936534142162923
+                    }
+                  ]
                 }
               ]
             }
@@ -17888,6 +18212,13 @@
           "t_rating": 0.7589268195848542,
           "r_rating": 0.7581078968760966,
           "children": [
+            {
+              "name": "Dr. B:'Well, of course it is not. Because, it's not about inhibition but about the excitatory neurons. And the inhibition comes from the inhibition of the excitatory cells.'",
+              "g_rating": 0.6,
+              "s_rating": 0.4442136883735657,
+              "t_rating": 0.7465425647198205,
+              "r_rating": 0.7465425647198205
+            },
             {
               "name": "Dr. B:'So what is the actual function of inhibition? So what is inhibition? What is inhibition? Inhibition, if you were to call it inhibition, inhibition is the process that prevents other neurons from firing. I don't have the exact numbers, but, I would say in the hippocampus, the numbers are high enough that I have to work hard to avoid inhibition. In the thalamus, the numbers are not so high.'",
               "g_rating": 0.6,
@@ -18181,7 +18512,16 @@
                       "g_rating": 0.6,
                       "s_rating": 0.3575214445590973,
                       "t_rating": 0.6984422548211295,
-                      "r_rating": 0.6984422548211295
+                      "r_rating": 0.6492290664220774,
+                      "children": [
+                        {
+                          "name": "Dr. M:'There are multiple functions of GABAergic systems.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.4019851088523865,
+                          "t_rating": 0.501589501224921,
+                          "r_rating": 0.501589501224921
+                        }
+                      ]
                     }
                   ]
                 },
@@ -19022,6 +19362,22 @@
           ]
         },
         {
+          "name": "Dr. M:'This has been discussed for years. Inhibitory neurons play important roles in determining how neuromodulatory inputs work. One of the earliest observations of the role of inhibitory neurons was from the neuroanatomists who found that the pyloric pacemaker networks of the pylorus circuit ( Fig.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5369641780853271,
+          "t_rating": 0.8051897469210912,
+          "r_rating": 0.7669135853239646,
+          "children": [
+            {
+              "name": "Dr. B:'So what you mean by 'pacing' is that the neuron oscillates, right? Or it's a perpetual process that happens in the absence of synaptic input or excitation. If that is the case, that the system is perpetually 'active', and there are no refractory periods, that would be an ideal way to coordinate a small group of cells, and that is the function of inhibition.'",
+              "g_rating": 0.4,
+              "s_rating": 0.5149902701377869,
+              "t_rating": 0.6520851005325844,
+              "r_rating": 0.6520851005325844
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'Well, I've always found it very fascinating to think that inhibitory neurons have multiple functions. Inhibitory neurons are really interesting in terms of circuit design, because we've observed that some neurons can act as either a pacemaker or an inhibitory hub for multiple circuits.'",
           "g_rating": 0.7,
           "s_rating": 0.5796334743499756,
@@ -19043,13 +19399,6 @@
                   "r_rating": 0.4671775202106409,
                   "children": [
                     {
-                      "name": "Dr. B:'I mean, that would seem like a disadvantage.'",
-                      "g_rating": 0.5,
-                      "s_rating": 0.10953648388385773,
-                      "t_rating": 0.5118576377291235,
-                      "r_rating": 0.5118576377291235
-                    },
-                    {
                       "name": "Dr. B:'Are there any functions they don't have? Anything they can't do?'",
                       "g_rating": 0.4,
                       "s_rating": 0.2048758715391159,
@@ -19061,7 +19410,32 @@
                           "g_rating": 0.8,
                           "s_rating": 0.5239379405975342,
                           "t_rating": 0.9563006669440242,
-                          "r_rating": 0.9563006669440242
+                          "r_rating": 0.9100877076466298,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Control function is one of the oldest. How about something else? Perhaps, say, a new form of memory, or language. It's certainly not very new, but it's very fascinating because people are talking about how they can do things that we just couldn't do in the past with other types of neural networks. Is there anything they can't do? What is their ultimate goal? Can they be used in ways that would be very difficult to think about? What's the ultimate goal?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.4849054515361786,
+                              "t_rating": 0.7714488297544466,
+                              "r_rating": 0.7714488297544466
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'I mean, that would seem like a disadvantage.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.10953648388385773,
+                      "t_rating": 0.5118576377291235,
+                      "r_rating": 0.6008665904506794,
+                      "children": [
+                        {
+                          "name": "Dr. M:'That they're more variable and can change their properties, but it turns out that that's actually a good thing. Because, if you think about it, it turns out that because they can change their properties in response to a neuromodulator, a neuron can respond to a number of neuromodulators with different properties, and so it becomes an additional constraint on circuit design and allows the network to deal with that.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5130682587623596,
+                          "t_rating": 0.8678934486153468,
+                          "r_rating": 0.8678934486153468
                         }
                       ]
                     }
@@ -19299,6 +19673,13 @@
           ]
         },
         {
+          "name": "Dr. M:'I believe that inhibitory neurons have an important function in maintaining the homeostasis of neuronal network performance.'",
+          "g_rating": 0.5,
+          "s_rating": 0.5891610383987427,
+          "t_rating": 0.772729402292345,
+          "r_rating": 0.772729402292345
+        },
+        {
           "name": "Dr. M:'Inhibitory neurons are neurons that normally provide negative feedback to the network in which they function. This means that they inhibit other neurons in that network from acting in certain ways. For example, when you eat dinner, you don't want to also eat your breakfast, so your stomach needs to be able to inhibit the gastric mill rhythm from bursting when you are eating breakfast.'",
           "g_rating": 0.6,
           "s_rating": 0.41244247555732727,
@@ -19340,7 +19721,7 @@
                   "g_rating": 0.3,
                   "s_rating": 0.4412737488746643,
                   "t_rating": 0.5335939668379884,
-                  "r_rating": 0.5506039522970407,
+                  "r_rating": 0.5872386120472932,
                   "children": [
                     {
                       "name": "Dr. B:'Can the properties of the inhibitory neuron family evolve? What are the constraints?'",
@@ -19375,6 +19756,13 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'Is there a general classification scheme of inhibitory neurons? I mean, one can come up with hundreds of ways of dividing inhibitory neurons into classes. What's the best scheme, and why?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4469476044178009,
+                      "t_rating": 0.7481725476752078,
+                      "r_rating": 0.7481725476752078
                     }
                   ]
                 }
@@ -19551,7 +19939,16 @@
               "g_rating": 0.7,
               "s_rating": 0.5878623127937317,
               "t_rating": 0.9141017989278849,
-              "r_rating": 0.9141017989278849
+              "r_rating": 0.8896180000034927,
+              "children": [
+                {
+                  "name": "Dr. M:' I don't think the answer to your question would be the same as if you asked a different question.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.16164134442806244,
+                  "t_rating": 0.8161666032303158,
+                  "r_rating": 0.8161666032303158
+                }
+              ]
             }
           ]
         },
@@ -19991,7 +20388,16 @@
                               "g_rating": 0.0,
                               "s_rating": 0.527274489402771,
                               "t_rating": 0.527274489402771,
-                              "r_rating": 0.527274489402771
+                              "r_rating": 0.5383250120263832,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Right, right. In the case of the nervous system, which we studied a little bit, in the case that we studied in our lab, we found that some neurons in the network are connected to each other by different synapses with different properties that are variable across preparations. We call this variable connectivity the'sophistication' of a network, and we think that there is sophistication.'",
+                                  "g_rating": 0.2,
+                                  "s_rating": 0.5353367924690247,
+                                  "t_rating": 0.5714765798972199,
+                                  "r_rating": 0.5714765798972199
+                                }
+                              ]
                             },
                             {
                               "name": "Dr. B:'It's very difficult for me to give you a hard time. But the hard problem, the question we are asking is whether we actually know the answer and not whether we have a good story for the answer.'",
@@ -20201,7 +20607,16 @@
                                           "g_rating": 0.3,
                                           "s_rating": 0.46475622057914734,
                                           "t_rating": 0.5531711711279006,
-                                          "r_rating": 0.5531711711279006
+                                          "r_rating": 0.6444818879971154,
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:'And this is a perfect case, you know, uh, and if you look at the history of the brain, then you can see how it's a perfect case. We have a structure called the cortex in which there are a number of neuron types.'",
+                                              "g_rating": 0.8,
+                                              "s_rating": 0.451092392206192,
+                                              "t_rating": 0.9184140386047597,
+                                              "r_rating": 0.9184140386047597
+                                            }
+                                          ]
                                         }
                                       ]
                                     }
@@ -20329,7 +20744,16 @@
                       "g_rating": 0.7,
                       "s_rating": 0.25292351841926575,
                       "t_rating": 0.7442918151972253,
-                      "r_rating": 0.7442918151972253
+                      "r_rating": 0.7890211628068311,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, there's a kind of balance between the inhibition that you need to get an output and also the inhibition that you don't need because it prevents it from getting the right output.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.46077677607536316,
+                          "t_rating": 0.9232092056356487,
+                          "r_rating": 0.9232092056356487
+                        }
+                      ]
                     }
                   ]
                 }
@@ -20403,6 +20827,13 @@
                               "r_rating": 0.4592031590782695
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. M:'Because when you really analyze the synaptic inputs that inhibitory neurons have, you find that they have the capacity to either inhibit an oscillator, inhibit a neuron that is tonically firing, inhibit a neuron when they are silent, or to turn off a circuit...'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.4772343039512634,
+                          "t_rating": 0.84720279795799,
+                          "r_rating": 0.84720279795799
                         },
                         {
                           "name": "Dr. M:'If you think about inhibition in the biological system as being the inhibition of the activity of one neuron by another neuron, and you think about how many neurons are active and they send out their action potentials and the voltage of that action potential gets passed through the circuit, and it gets reflected off the voltage clamp, and so you have a voltage-gated conductance that can be changed by another voltage-gated conductor that is not necessarily an inhibition.'",
@@ -20632,7 +21063,7 @@
                               "g_rating": 0.6,
                               "s_rating": 0.603976309299469,
                               "t_rating": 0.8513444556670395,
-                              "r_rating": 0.8584352673087616,
+                              "r_rating": 0.8739910186361428,
                               "children": [
                                 {
                                   "name": "Dr. M:'I think you might say, that the answer is, 'Yes, because we have multiple mechanisms to balance excitation and inhibition'. The answer is yes. One of the reasons why it is so hard to understand neural circuits is because it is hard to know how neurons and circuit mechanisms in the brain will interact, and you can't measure everything. You can't monitor the brain. You can't see how the circuits in the brain will respond to stimuli, because you can't go to the brain.'",
@@ -20649,12 +21080,35 @@
                                       "r_rating": 0.5332442037889885
                                     }
                                   ]
+                                },
+                                {
+                                  "name": "Dr. M:'The balance between excitation and inhibition is absolutely critical for any circuit, and I think it comes from evolution. For example, in evolution, animals need to be able to respond to stimuli, and the balance between excitation, which is important in responding to stimuli, and inhibition, which is critical, is fundamental. It's not enough to have a circuit of neurons that is firing tonically, so you want to have many neurons firing together in bursts to be able to effectively respond to external stimuli.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.4972257614135742,
+                                  "t_rating": 0.9419307075434523,
+                                  "r_rating": 0.9419307075434523
                                 }
                               ]
                             }
                           ]
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'The role of inhibition in neurons and networks of neurons is very different, because neurons are already inhibited before they fire. In networks of neurons, however, there are many neurons that are active at a given time and it is important that those neurons be regulated by feedback. Many of the same processes that apply to single neurons that are important for determining the period of an individual neuron can also apply to networks.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5217386484146118,
+                  "t_rating": 0.8730470876473422,
+                  "r_rating": 0.8174838612107792,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So what are the examples of inhibition that are important in neural networks?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.5133547186851501,
+                      "t_rating": 0.6507941819010905,
+                      "r_rating": 0.6507941819010905
                     }
                   ]
                 },
@@ -20670,7 +21124,7 @@
                       "g_rating": 0.4,
                       "s_rating": 0.42126646637916565,
                       "t_rating": 0.5809177529526781,
-                      "r_rating": 0.616409879688844,
+                      "r_rating": 0.6620371503819733,
                       "children": [
                         {
                           "name": "Dr. M:'Excitatory neurons are ones that increase the frequency and/or amplitude of the network's activity. Inhibitory neurons are ones that decrease the frequency and/ or amplitude of the network activity. Excitatory neurons often increase the amplitude of oscillations, whereas inhibitory neurons tend to decrease the amplitude of oscillatory activity.'",
@@ -20696,6 +21150,13 @@
                               ]
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. M:'A few years ago, I read the work of a neuroscientist who is working in London, and he had this idea, which is actually quite general, that a neuron that has been inhibited can become very excitable, like a spiking neuron. You can actually see in the nervous system of animals, that if the neuron is inhibited for a long period of time, then when the inhibition goes away, the neuron then becomes very excitable.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5742305517196655,
+                          "t_rating": 0.905395342669859,
+                          "r_rating": 0.905395342669859
                         }
                       ]
                     }
@@ -20745,7 +21206,16 @@
                               "g_rating": 0.7,
                               "s_rating": 0.18783435225486755,
                               "t_rating": 0.724763232985094,
-                              "r_rating": 0.724763232985094
+                              "r_rating": 0.7541911565835796,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Well, you can make two or three different types of neurons, so that you could have two or three cells that would release different substances. So, there are already multiple-cell types in the brain, so you could have more than one type.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.4687899351119995,
+                                  "t_rating": 0.8424749273790364,
+                                  "r_rating": 0.8424749273790364
+                                }
+                              ]
                             }
                           ]
                         }
@@ -20760,7 +21230,16 @@
               "g_rating": 0.4,
               "s_rating": 0.4123104214668274,
               "t_rating": 0.5744561633842507,
-              "r_rating": 0.5744561633842507
+              "r_rating": 0.6916532199681567,
+              "children": [
+                {
+                  "name": "Dr. M:'This is important because in many cases, we don't have a direct view of the neurohormones that are released in the nervous system. So if we look at the structure, the function of the brain, we are looking at one type of inhibitory neurons, the GABAergic ones.'",
+                  "g_rating": 0.9,
+                  "s_rating": 0.5275972485542297,
+                  "t_rating": 1.0432443897198747,
+                  "r_rating": 1.0432443897198747
+                }
+              ]
             },
             {
               "name": "Dr. B:'Let's begin with the neuron types themselves. What are their properties?'",
@@ -20784,6 +21263,31 @@
                       "r_rating": 0.6908271349490023
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Inhibition is a function of modulatory neurons. In general, the role of inhibitory neurons is to maintain rhythmic neural activity.'",
+          "g_rating": 0.7,
+          "s_rating": 0.489959180355072,
+          "t_rating": 0.8544354852264822,
+          "r_rating": 0.8007705860353218,
+          "children": [
+            {
+              "name": "Dr. B:'How does inhibition support neural syntax? Is there a way to describe it objectively without the help of the language of inhibition?'",
+              "g_rating": 0.2,
+              "s_rating": 0.6077114343643188,
+              "t_rating": 0.6397758884618409,
+              "r_rating": 0.71466566037482,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, it's not necessary to use language like inhibition, because there are many other terms that are related to inhibition, that we can use to describe the role of inhibition. For example, in the case of synaptic depression, there are two neurons with similar properties, the presynaptic and the postsynaptic neuron, and the postsynptic neuron is slower than the presynaptic one.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.49229076504707336,
+                  "t_rating": 0.9393349761137573,
+                  "r_rating": 0.9393349761137573
                 }
               ]
             }
@@ -20850,7 +21354,16 @@
                                           "g_rating": 0.4,
                                           "s_rating": 0.44386541843414307,
                                           "t_rating": 0.597508585446031,
-                                          "r_rating": 0.597508585446031
+                                          "r_rating": 0.6703432449296295,
+                                          "children": [
+                                            {
+                                              "name": "Dr. B:'But the slow-wave network is not 'built in' like a rock that the power of the rhythm is just given to it. I'm looking at a network that has a slow-wave activity that is the consequence of some network. And I'm trying to understand how that slow-wave activity arises. And the neurons in the networks are the target of the network and they can respond to the slow-wave activity. They are part of the slow-wave generation.'",
+                                              "g_rating": 0.7,
+                                              "s_rating": 0.5477676391601562,
+                                              "t_rating": 0.888847223380425,
+                                              "r_rating": 0.888847223380425
+                                            }
+                                          ]
                                         }
                                       ]
                                     }
@@ -21031,7 +21544,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.1853208690881729,
                           "t_rating": 0.6279680123378862,
-                          "r_rating": 0.6279680123378862
+                          "r_rating": 0.6416479716998525,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, there's no way, right? There's no way you can say, \"Oh, now we have an action potential because we have the right level of stimulation.\" Right? There are many things in the brain which are so sensitive to changes in the external inputs. For instance, the brain activity in the hippocampus, in the case of the gamma oscillations, is controlled by the strength of hippocampal afferents coming from the entorhinal input.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.46482545137405396,
+                              "t_rating": 0.6826878497857516,
+                              "r_rating": 0.6826878497857516
+                            }
+                          ]
                         }
                       ]
                     }
@@ -21040,13 +21562,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'This has been discussed for years. Inhibitory neurons play important roles in determining how neuromodulatory inputs work. One of the earliest observations of the role of inhibitory neurons was from the neuroanatomists who found that the pyloric pacemaker networks of the pylorus circuit ( Fig.'",
-          "g_rating": 0.6,
-          "s_rating": 0.5369641780853271,
-          "t_rating": 0.8051897469210912,
-          "r_rating": 0.8051897469210912
         },
         {
           "name": "Dr. M:'Well, inhibitory neurons have a function. Their inhibition plays a role, but it is more important for them to produce a release to remove the inhibition. In fact, in certain preparations of mice, we had found that if you just took out the inhibitory inputs to the neuron, the neuron would fire and die and you wouldn't have any function at all.'",
@@ -21138,7 +21653,16 @@
                               "g_rating": 0.7,
                               "s_rating": 0.5245458483695984,
                               "t_rating": 0.8747275844751792,
-                              "r_rating": 0.8747275844751792
+                              "r_rating": 0.8152806787808062,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'So there are always a couple of components, one being the excitatory neurons, one being the inhibitory neurons.'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.5618652105331421,
+                                  "t_rating": 0.6369399616976879,
+                                  "r_rating": 0.6369399616976879
+                                }
+                              ]
                             }
                           ]
                         }
@@ -21213,7 +21737,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.4054710268974304,
                               "t_rating": 0.7241593427231722,
-                              "r_rating": 0.7241593427231722
+                              "r_rating": 0.6324695636305444,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'That's their sole function, yes.'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.1942547857761383,
+                                  "t_rating": 0.3574002263526611,
+                                  "r_rating": 0.3574002263526611
+                                }
+                              ]
                             }
                           ]
                         }
@@ -21292,7 +21825,16 @@
                       "g_rating": 0.4,
                       "s_rating": 0.5782498121261597,
                       "t_rating": 0.7031165232192591,
-                      "r_rating": 0.7031165232192591
+                      "r_rating": 0.6898388539123382,
+                      "children": [
+                        {
+                          "name": "Dr. M:'You know, like the water pump in a car, or the water tank in a refrigerator. There are different mechanisms that can be used to maintain homeostasis.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.2500151991844177,
+                          "t_rating": 0.6500058459915757,
+                          "r_rating": 0.6500058459915757
+                        }
+                      ]
                     }
                   ]
                 }
@@ -21455,7 +21997,16 @@
               "g_rating": 0.5,
               "s_rating": 0.3910147249698639,
               "t_rating": 0.6347381469104076,
-              "r_rating": 0.6347381469104076
+              "r_rating": 0.705339128610462,
+              "children": [
+                {
+                  "name": "Dr. M:'So it is the four-cell network, and that network consists of two neurons that are inhibitory neurons, and then the two neurons that are excitatory neurons. So the network of four cells is critical for generating the muscle movement for chewing food, and then chewing food, and so that network of four cells consists of two inhibitory neurons and then two excitatory neurons, and then when you put them all together, you get the entire muscle movement that enables chewing food.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4484970271587372,
+                  "t_rating": 0.9171420737106248,
+                  "r_rating": 0.9171420737106248
+                }
+              ]
             },
             {
               "name": "Dr. B:'What is the function or role of inhibitory neurons in this network? For example, what is their function in terms of STG? Or in terms of circuit function? What is their role in circuit function? In short, what is the role of inhibitory cells in the circuit? We will discuss in a moment how to define the roles of different cell types within a network in the context of STG, and then we can see how they interact to perform different functions in the circuit.'",
@@ -21490,6 +22041,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'Well, they are inhibitory neurons, because they are always inhibitory, and they cause the activity to be switched off. And one of the most interesting features of inhibition is that it causes the release of neurotransmitter. The release of transmitter is one of the most important features of inhibition. For example, when a neuron is inhibited, it actually releases neurotransmitter.'",
+          "g_rating": 0.7,
+          "s_rating": 0.41214725375175476,
+          "t_rating": 0.8123209702913703,
+          "r_rating": 0.8123209702913703
         },
         {
           "name": "Dr. M:'The inhibition of synapses in general is useful in generating rhythmic motor patterns. However, some synaptic inhibitory neurons serve as sensory modulators, and they can do a great deal.'",
@@ -21633,7 +22191,16 @@
                           "g_rating": 0.3,
                           "s_rating": 0.419412761926651,
                           "t_rating": 0.515661773711162,
-                          "r_rating": 0.515661773711162
+                          "r_rating": 0.5439718699062353,
+                          "children": [
+                            {
+                              "name": "Dr. B:'How is this done? Is the hippocampus part of this system? Can it act like a pacemaker and regulate other brain areas? What would be the effects of the hippocampus on these other brain areas? I'm also interested in how the hippocampus affects this circuit and how it affects these other areas of the brain. It seems like there are some areas that are affected by the hippocampus but not others. And is there any evidence for the impact that these other areas have on behavior?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.552736759185791,
+                              "t_rating": 0.6289021584914549,
+                              "r_rating": 0.6289021584914549
+                            }
+                          ]
                         }
                       ]
                     },
@@ -22108,7 +22675,16 @@
                       "g_rating": 0.8,
                       "s_rating": 0.4850054085254669,
                       "t_rating": 0.9355374104219217,
-                      "r_rating": 0.9355374104219217
+                      "r_rating": 0.9346720703720677,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yeah, I think they play an important role in regulating network activity, and their interaction with each other, as a mechanism for regulating network activity.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.47829464077949524,
+                          "t_rating": 0.9320760502225055,
+                          "r_rating": 0.9320760502225055
+                        }
+                      ]
                     }
                   ]
                 }
@@ -22324,7 +22900,16 @@
                       "g_rating": 0.1,
                       "s_rating": 0.45291849970817566,
                       "t_rating": 0.46382665660557365,
-                      "r_rating": 0.46382665660557365
+                      "r_rating": 0.37701783535314515,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.11659137159585953,
+                          "t_rating": 0.11659137159585953,
+                          "r_rating": 0.11659137159585953
+                        }
+                      ]
                     }
                   ]
                 }
@@ -22667,7 +23252,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.4967714548110962,
                   "t_rating": 0.8583599934264953,
-                  "r_rating": 0.8583599934264953
+                  "r_rating": 0.8301231344501899,
+                  "children": [
+                    {
+                      "name": "Dr. B:'The inhibitory neurons in this circuit are all interneurons, and that is, and these are the cells that are the main players in this circuit. Now, now there is an inhibitory circuit that has nothing to do directly with dopamine. Now, the important thing is that there is a circuit that has something to do with the, the function of the inhibition. Inhibition, is that a major function or a major function? What are the advantages of inhibition?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.44231197237968445,
+                      "t_rating": 0.7454125575212741,
+                      "r_rating": 0.7454125575212741
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'The function of these neurons is to inhibit other neurons that can respond to modulatory inputs, and that's why they're called modulatory neurons, but their action is inhibitory. So, that's one thing that's important to understand.'",
@@ -23457,6 +24051,13 @@
               "r_rating": 0.7027000364678107,
               "children": [
                 {
+                  "name": "Dr. M:' Exactly.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.13830794394016266,
+                  "t_rating": 0.2431647329629755,
+                  "r_rating": 0.2431647329629755
+                },
+                {
                   "name": "Dr. M:' And this is another part of neuroscience, is to understand the relationship between the two. Because we know a ton of things that inhibitory neurons do not do directly. We don't know as much about excitable neurons. But neurons are neurons, right? And that's the first thing to think about when we think about inhibitory neurons is how it's important to understand the role of inhibition.'",
                   "g_rating": 0.7,
                   "s_rating": 0.5289177894592285,
@@ -23673,6 +24274,13 @@
               "r_rating": 0.6100601895860934,
               "children": [
                 {
+                  "name": "Dr. M:'The advantage of this is that the output is, it's more robust because it is always suppressed. We now have a robust circuit that doesn't care how often the inputs get presented to it.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.2692817747592926,
+                  "t_rating": 0.7500084494307476,
+                  "r_rating": 0.7500084494307476
+                },
+                {
                   "name": "Dr. M:'You know, they really give you the reliability of output, so you know, you know you just want a neuron that can just keep firing, and then you don't want one that's going to fire intermittently, because, because then you're going to worry that something's wrong with your model.'",
                   "g_rating": 0.7,
                   "s_rating": 0.5286338329315186,
@@ -23760,6 +24368,40 @@
               "s_rating": 0.5066651701927185,
               "t_rating": 0.9469475142194611,
               "r_rating": 0.9469475142194611
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, the function of inhibitatory neurons is to remove some kind of information from the circuit and to make the network perform better or in some way that we can learn about.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5221726894378662,
+          "t_rating": 0.955334662615554,
+          "r_rating": 0.841863721111903,
+          "children": [
+            {
+              "name": "Dr. B:'Do we know what information is?'",
+              "g_rating": 0.4,
+              "s_rating": 0.3024119734764099,
+              "t_rating": 0.5014508966009502,
+              "r_rating": 0.5578420068467569,
+              "children": [
+                {
+                  "name": "Dr. M:'I would imagine so, at some level.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.19634485244750977,
+                  "t_rating": 0.7270153375841767,
+                  "r_rating": 0.6859120322946943,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What if it's too much? What if it's too confusing? What if it gives the wrong idea?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.2579169273376465,
+                      "t_rating": 0.5626021164262474,
+                      "r_rating": 0.5626021164262474
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -23903,7 +24545,7 @@
                           "g_rating": 0.6,
                           "s_rating": 0.1796858161687851,
                           "t_rating": 0.6263281827702171,
-                          "r_rating": 0.5759835723473122,
+                          "r_rating": 0.6625364763997151,
                           "children": [
                             {
                               "name": "Dr. B:'I like that question.'",
@@ -23911,6 +24553,13 @@
                               "s_rating": 0.14346526563167572,
                               "t_rating": 0.4249497410785978,
                               "r_rating": 0.4249497410785978
+                            },
+                            {
+                              "name": "Dr. B:'What is a mechanism that you can point to? What is a mechanism that can explain how the inhibition is created? What is the mechanism? What mechanism would you need to show it? What would it be? What would it take?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.32355809211730957,
+                              "t_rating": 0.7711613572882094,
+                              "r_rating": 0.7711613572882094
                             }
                           ]
                         }
@@ -24003,7 +24652,16 @@
                           "g_rating": 0.7,
                           "s_rating": 0.48674458265304565,
                           "t_rating": 0.8525962049775307,
-                          "r_rating": 0.8525962049775307
+                          "r_rating": 0.8562811081708667,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Then we would have a network in which neurons that are driven by inhibitory neurons would inhibit their principal cell targets.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5121244192123413,
+                              "t_rating": 0.8673358177508743,
+                              "r_rating": 0.8673358177508743
+                            }
+                          ]
                         }
                       ]
                     }
@@ -24078,6 +24736,29 @@
           ]
         },
         {
+          "name": "Dr. M:'The function of inhibitory neuron is that they inhibit the activity of other neurons in the circuit, and thus control the behaviour of the circuit. And this is particularly interesting because we have these neurons that we find in all animals, and they don't change in function. And so in principle this would seem to require some way for these cells to be regulated.'",
+          "g_rating": 0.8,
+          "s_rating": 0.4399568736553192,
+          "t_rating": 0.9129961942289588,
+          "r_rating": 0.847441918067246,
+          "children": [
+            {
+              "name": "Dr. B:'But you know, there's been a lot of work on how this is done. I mean, it's been a question since the time of Aristotle or I'm not sure what his answer was, but it would be the inhibition that would be regulated by other cells. You know, neurons are regulated by inhibition. Now we have different types of inhibition, like excitation and inhibition.'",
+              "g_rating": 0.4,
+              "s_rating": 0.5133355855941772,
+              "t_rating": 0.6507790895821076,
+              "r_rating": 0.6507790895821076
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I guess, they are just inhibitory in the sense that they are part of circuits that inhibit other neurons in the networks. They can change their role.'",
+          "g_rating": 0.7,
+          "s_rating": 0.48418259620666504,
+          "t_rating": 0.8511361738696261,
+          "r_rating": 0.8511361738696261
+        },
+        {
           "name": "Dr. M:'Well, inhibition is the function of all neurons. The function of the synapses, the neurons that release their inhibitory synapses is to inhibit other neurons, so if there is an inhibitory synapse from one neuron to another, then the second neuron is inhibited.'",
           "g_rating": 0.7,
           "s_rating": 0.47911182045936584,
@@ -24110,7 +24791,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.6616618037223816,
                           "t_rating": 1.0381697079500805,
-                          "r_rating": 1.0381697079500805
+                          "r_rating": 0.908628186311812,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, how would the syntax be constructed? Is it possible to learn, by analogy to how you learn a language and then apply it to other synapses and neurons to recreate the syntax? Or would the syntax need to be completely created? Would this syntax require to be completely constructed before the syntax could be applied? Or could it be a pre-existing syntax and be implemented by a set of rules?'",
+                              "g_rating": 0.2,
+                              "s_rating": 0.4800039231777191,
+                              "t_rating": 0.520003621397007,
+                              "r_rating": 0.520003621397007
+                            }
+                          ]
                         }
                       ]
                     }
@@ -24237,13 +24927,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'Inhibition is a function of modulatory neurons. In general, the role of inhibitory neurons is to maintain rhythmic neural activity.'",
-          "g_rating": 0.7,
-          "s_rating": 0.489959180355072,
-          "t_rating": 0.8544354852264822,
-          "r_rating": 0.8544354852264822
         },
         {
           "name": "Dr. M:'I want to come back to that question that you've just asked. We don't think the purpose of inhibitory neurons is to inhibit, we think the purpose of inhibition is to release and to be released. In other words, when we release inhibitory substances, the purpose of that is to make those neurons that release these substances more available for their purpose, the release and release of their transmitters.'",
@@ -24612,7 +25295,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.38164153695106506,
                           "t_rating": 0.7110908962477098,
-                          "r_rating": 0.7110908962477098
+                          "r_rating": 0.7477597118861956,
+                          "children": [
+                            {
+                              "name": "Dr. B:'The pyloric rhythm is not very important. The feeding is not very important to the cerebral cortex. In fact, it's not even a very good idea to get the two disconnected from each other. We would see a massive loss of cortical function. So these are examples of functions that you can learn a little bit about GABA. What is it's really function? What is inhibition?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.4957446753978729,
+                              "t_rating": 0.8577661588016529,
+                              "r_rating": 0.8577661588016529
+                            }
+                          ]
                         }
                       ]
                     }
@@ -24732,7 +25424,16 @@
                       "g_rating": 0.6,
                       "s_rating": 0.31989678740501404,
                       "t_rating": 0.6799514354658344,
-                      "r_rating": 0.6799514354658344
+                      "r_rating": 0.7296338521329881,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Because there are different components of neurons, and it turns out the same cell, in general, has many, many different combinations of proteins. So, if you're going to control this sort of regulation, the first thing that you want to do is have it regulated intrinsically. It turns out that the first thing that happens when you do this is that it turns out you want to have the rules, or the regulation rules, that are intrinsic to a neuron.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5311124920845032,
+                          "t_rating": 0.8786811021344498,
+                          "r_rating": 0.8786811021344498
+                        }
+                      ]
                     }
                   ]
                 }
@@ -24917,6 +25618,22 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, their function is to release a variety of substances that in turn influence other cells, either by activating receptors on those other cells or by influencing the release of neurotransmitters from those other cells. It is often a very complicated network of interacting neurons because there can be multiple inhibitory inputs to the same cell and multiple modulatory neurons acting together. And they can influence a variety of circuits.'",
+          "g_rating": 0.8,
+          "s_rating": 0.4380030930042267,
+          "t_rating": 0.9120563082843457,
+          "r_rating": 0.8665062340837297,
+          "children": [
+            {
+              "name": "Dr. B:'I've always wondered why neurons have dendritic spines and axons that go to other neurons that are considered inhibitory. I have a hard time visualizing inhibition as anything but a complex, and inhibitory neurons are very expensive to construct, as are excitatory neurons. What do inhibitory neurons do?'",
+              "g_rating": 0.6,
+              "s_rating": 0.4155596196651459,
+              "t_rating": 0.7298560114818817,
+              "r_rating": 0.7298560114818817
             }
           ]
         },
@@ -25222,6 +25939,13 @@
                   "r_rating": 0.5671097636222839
                 },
                 {
+                  "name": "Dr. M:'And that's also why we think of the nervous system as being extremely sensitive to neuromodulators. For example, if you put the neuromodulatory systems onto a noninhibiting neuron, you might get something that looks like it's very sensitive to neuromarkers, but it's not actually sensitive to neuromuscular stimulation because the neuron will go to the ground before it reacts to the neuromodulation.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.45719200372695923,
+                  "t_rating": 0.7543371449636243,
+                  "r_rating": 0.7543371449636243
+                },
+                {
                   "name": "Dr. M:'We can modify networks to meet our needs, if we modify the inputs that our network is receiving.'",
                   "g_rating": 0.7,
                   "s_rating": 0.4172862470149994,
@@ -25460,7 +26184,16 @@
                       "g_rating": 0.6,
                       "s_rating": 0.40376484394073486,
                       "t_rating": 0.7232053990413,
-                      "r_rating": 0.7232053990413
+                      "r_rating": 0.6695671730569057,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Each one has a distinct function.'",
+                          "g_rating": 0.4,
+                          "s_rating": 0.31420910358428955,
+                          "t_rating": 0.5086524951037229,
+                          "r_rating": 0.5086524951037229
+                        }
+                      ]
                     }
                   ]
                 }
@@ -25844,7 +26577,25 @@
                       "g_rating": 0.4,
                       "s_rating": 0.4221470057964325,
                       "t_rating": 0.5815566133257305,
-                      "r_rating": 0.5815566133257305
+                      "r_rating": 0.6180563659430731,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, there are probably as many possible answers to this question as there are different neurons, each with different sets of properties. I think the important point is that neurons need to inhibit other neurons. In some animals, the neurons that inhibit the principal neurons are probably identical, because they can inhibit other neurons at the same time. In some animals the neurons that are most likely to be involved in inhibition of the principal neurons are neurons with different properties.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.4115059971809387,
+                          "t_rating": 0.7275556237951011,
+                          "r_rating": 0.7469167102132556,
+                          "children": [
+                            {
+                              "name": "Dr. B:'This is the case in the hippocampus. The inhibitory neurons, such as basket cells and chandelier cells, are also inhibitory of other principal cells in the hippocampus. In the prefrontal cortex, different types of inhibitory neurons are involved in different functions, and they may be different in the prefrontal cortex. There is a special type of inhibition of the principal cells in the cortex, which is inhibition of inhibition. This is the case of inhibitory neurons.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.39752352237701416,
+                              "t_rating": 0.804999969467719,
+                              "r_rating": 0.804999969467719
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
@@ -25922,7 +26673,16 @@
                                   "g_rating": 0.7,
                                   "s_rating": 0.5722247958183289,
                                   "t_rating": 0.904124558315572,
-                                  "r_rating": 0.904124558315572
+                                  "r_rating": 0.8823768487185314,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'And what would be the advantage of neurons that change their firing patterns? What function would that serve? How would that be useful? So, what you are asking is that why there are so many different types of interneurons? Well, we have been discussing that issue recently.'",
+                                      "g_rating": 0.6,
+                                      "s_rating": 0.5547139048576355,
+                                      "t_rating": 0.8171337199274094,
+                                      "r_rating": 0.8171337199274094
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -25994,6 +26754,13 @@
                               "t_rating": 0.7777880510774023,
                               "r_rating": 0.804590481544105,
                               "children": [
+                                {
+                                  "name": "Dr. M:'Sleep? All of those! All of those. All of those.'",
+                                  "g_rating": 0.0,
+                                  "s_rating": 0.20988501608371735,
+                                  "t_rating": 0.20988501608371735,
+                                  "r_rating": 0.20988501608371735
+                                },
                                 {
                                   "name": "Dr. M:'So, these are all important aspects of the brain, and I think, so, you know, when you are doing neuroscience you are trying to understand how the brain works in all of these different domains. And I think the fact that some of these are very difficult to study, especially when you have to study brain circuits or you have to study neurons in isolation, right?'",
                                   "g_rating": 0.7,
@@ -26342,192 +27109,6 @@
           "r_rating": 0.8854486184923859
         },
         {
-          "name": "Dr. M:'Inhibition is a ubiquitous feature of neuronal networks and is an example of evolutionary conservation of an important functional mechanism. It's not the only mechanism for creating inhibition. Inhibition can also be generated by the activation of a hyperpolarization-activated current that depolarizes the membrane from a more hyperpolarized point, a kind of rectification.'",
-          "g_rating": 0.8,
-          "s_rating": 0.4838733375072479,
-          "t_rating": 0.9349510183696274,
-          "r_rating": 0.886198619826505,
-          "children": [
-            {
-              "name": "Dr. B:'If this is the case, then what is the function of inhibition?'",
-              "g_rating": 0.6,
-              "s_rating": 0.43302807211875916,
-              "t_rating": 0.7399414241971383,
-              "r_rating": 0.823142819023239,
-              "children": [
-                {
-                  "name": "Dr. M:'So it's a way of inhibiting voltage excitation from a depolarized to hyperpolarized state. If the excitation is already at a high enough level, the hyperpolarization will just make it increase and increase. So you can see, in general, the main reason for inhibition is to inhibit voltage excitation.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.19423912465572357,
-                  "t_rating": 0.7264494734990327,
-                  "r_rating": 0.7927745668360737,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Can we put aside the concept of inhibition for a moment, and what we would like to ask is how we can learn anything that we know about the brain if we ignore the effects that inhibition has on excitation?'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.5861465334892273,
-                      "t_rating": 0.9917498468471966,
-                      "r_rating": 0.9230222493736346,
-                      "children": [
-                        {
-                          "name": "Dr. M:'I'm not sure that there's anything to be lost if you put that aside.'",
-                          "g_rating": 0.7,
-                          "s_rating": 0.15446296334266663,
-                          "t_rating": 0.7168394569529484,
-                          "r_rating": 0.7791406923014722,
-                          "children": [
-                            {
-                              "name": "Dr. B:'But there would be something to be lost if we ignore the fact that inhibition can create a range of responses and inhibition is a mechanism to bring excitation down. I'm asking how we would learn about the brain if that aspect of the brain that is most critical is ignored.'",
-                              "g_rating": 0.8,
-                              "s_rating": 0.5415180325508118,
-                              "t_rating": 0.9660443983470439,
-                              "r_rating": 0.9333386817561836,
-                              "children": [
-                                {
-                                  "name": "Dr. M:'Well, I think we would learn about more of the intrinsic mechanisms. We would learn about the intrinsic mechanisms, because that's the most critical aspect of understanding how the brain works. And if you think of your brain like an electronic circuit, that depends on the strength of the connections. So you could imagine putting a really strong hyperpolarizing current in your head. Your head would be like a circuit that was kind of like a short circuit.'",
-                                  "g_rating": 0.7,
-                                  "s_rating": 0.4556259512901306,
-                                  "t_rating": 0.8352215319836028,
-                                  "r_rating": 0.8108589768467693,
-                                  "children": [
-                                    {
-                                      "name": "Dr. B:'And then we could learn about your intrinsic properties. Because this is not a long circuit, it would be very weak, but the response would be much more complicated. Now, the reason why that is very important is that in the brain there are multiple systems that are so interlocked that it is not always clear how to draw a line between them.'",
-                                      "g_rating": 0.6,
-                                      "s_rating": 0.42930933833122253,
-                                      "t_rating": 0.737771311436269,
-                                      "r_rating": 0.737771311436269
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Dr. M:'Well, if you look at neurons that have no hyperpolarization potential, there is no way for them to inhibit themselves because they have no synaptic connection. So, in a network with many neurons, the function of inhibitors is often to provide a feedback mechanism to maintain the structure of networks.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.37930217385292053,
-                  "t_rating": 0.7961596191025712,
-                  "r_rating": 0.8335764819418797,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Is there a particular example that you can illustrate that you can't get away from the feedback inhibition?'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.4256952404975891,
-                      "t_rating": 0.9062099303043971,
-                      "r_rating": 0.9015614379920226,
-                      "children": [
-                        {
-                          "name": "Dr. M:'It is a fundamental feature of how we understand the organization of brain circuits.'",
-                          "g_rating": 0.6,
-                          "s_rating": 0.6541116833686829,
-                          "t_rating": 0.887615961054899,
-                          "r_rating": 0.850707192441378,
-                          "children": [
-                            {
-                              "name": "Dr. B:'What is this fundamental feature and what makes it the fundamental feature? What is the essence of this feature? I mean, I want to be able to define this fundamental feature because it is a fundamental feature, but I want to know what is it's fundamental feature. What makes it so fundamental? So, you have a list of mechanisms that are available. The mechanisms that you're able to use are limited by a number of things.'",
-                              "g_rating": 0.7,
-                              "s_rating": 0.2399410605430603,
-                              "t_rating": 0.7399808866008152,
-                              "r_rating": 0.7399808866008152
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Dr. B:'What is an example of inhibition that we have observed in the brain?'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.5045679807662964,
-                      "t_rating": 0.9458270704598054,
-                      "r_rating": 0.9095938413596442,
-                      "children": [
-                        {
-                          "name": "Dr. M:'I'm not really sure that we've observed inhibition in the brain but certainly we have observed many different patterns of network activity that suggest that there are different mechanisms at work.'",
-                          "g_rating": 0.6,
-                          "s_rating": 0.530501127243042,
-                          "t_rating": 0.8008941540591604,
-                          "r_rating": 0.8008941540591604
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Dr. M:'Well, if the neuron is producing a hyperpolarizing current it will tend to be pushed further to the left, so that it will not fire in a burst. So it's more likely that it will have to fire in a slow and rhythmic mode to push the membrane far enough to make it hyperpolarized.'",
-                  "g_rating": 0.8,
-                  "s_rating": 0.36538514494895935,
-                  "t_rating": 0.8794920716807925,
-                  "r_rating": 0.8668976930869079,
-                  "children": [
-                    {
-                      "name": "Dr. B:'What is the function, or the use, or advantage of this mechanism?'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.21778647601604462,
-                      "t_rating": 0.829114557305254,
-                      "r_rating": 0.7944432796162746,
-                      "children": [
-                        {
-                          "name": "Dr. M:'Oh, I think it's essential. I mean, I think that it's fundamental. I don't think that it's just a kind of, you know, by-product of evolution.'",
-                          "g_rating": 0.6,
-                          "s_rating": 0.3416033089160919,
-                          "t_rating": 0.6904294465493364,
-                          "r_rating": 0.6904294465493364
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Dr. M:'It can act as a switch for other networks. For example, it's known that a group of invertebrate neurons have a switch, they have a switch for inhibition, that acts like a switch for a different network, the network that produces fast rhythmic bursting.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.5544767379760742,
-                  "t_rating": 0.89299745405941,
-                  "r_rating": 0.89299745405941
-                },
-                {
-                  "name": "Dr. M:'Well, it would be interesting to study this because it would provide insight into how neuromodulators use different mechanisms to achieve their effect on behavior. I mean, I've studied some of this in the context of the activation of voltage-dependent potassium currents. The activation of voltage-gated currents by neuromodulators is one example. In this case, we see a distinct mechanism being used to achieve the same goal, which is the activation of voltage gated currents.'",
-                  "g_rating": 0.9,
-                  "s_rating": 0.583768904209137,
-                  "t_rating": 1.0727470035015416,
-                  "r_rating": 1.0154864188787687,
-                  "children": [
-                    {
-                      "name": "Dr. B:'In other words, in order to achieve the goal of inhibiting the cell membrane, you have to use a specific mechanism. What are the consequences of the inhibition? In other words, is it possible that inhibition is the key to generating a specific output in terms of a neuron's output?'",
-                      "g_rating": 0.7,
-                      "s_rating": 0.47099635004997253,
-                      "t_rating": 0.8437046650104504,
-                      "r_rating": 0.7756090762338439,
-                      "children": [
-                        {
-                          "name": "Dr. M:'Yes, absolutely. I think it's the key, because it allows for feedback to occur and it allows for neurons to be active.'",
-                          "g_rating": 0.2,
-                          "s_rating": 0.5351721048355103,
-                          "t_rating": 0.5713223099040247,
-                          "r_rating": 0.5652167622557075,
-                          "children": [
-                            {
-                              "name": "Dr. B:'So there are numerous possible consequences for inhibition. I'm going to ask two questions from you. First, are there any potential consequences of inhibition that you find particularly interesting? Second, are there any possible ways in which inhibition may play a role that we haven't covered yet? I'm going to give you the opportunity to address that, and then we'll bring on the audience to respond to the questions.'",
-                              "g_rating": 0.4,
-                              "s_rating": 0.37296077609062195,
-                              "t_rating": 0.5469001193107559,
-                              "r_rating": 0.5469001193107559
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Dr. M:'Well, one is that they can provide inhibitory feedback to the central oscillator neurons to maintain the timing of the cycle, for example. So, one of the most exciting things is to watch the effects of manipulating neurons because one always thinks about neurons, they're always just the first neurons that come to mind, but the amazing thing about neurons is the interactions that they have with other neurons, with other circuits and their effects are also really fascinating'.'",
           "g_rating": 0.7,
           "s_rating": 0.5257880687713623,
@@ -26710,6 +27291,13 @@
               "r_rating": 0.856443144211377
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I'll tell you the function of an inhibitory neuron is to turn off the network that is going to be activated by it and you won't activate the network, and you won't excite other network elements. So, if you want to build an oscillator, and if you want to produce oscillations, you don't want excitable cells because you're going to excite other cells. So, the function of inhibitions is to turn off networks.'",
+          "g_rating": 0.8,
+          "s_rating": 0.43476980924606323,
+          "t_rating": 0.9105079829588856,
+          "r_rating": 0.9105079829588856
         },
         {
           "name": "Dr. M:'Well, inhibition is very important in the nervous system, in my view. It allows different neurons to be segregated and to keep each other off balance, and it allows a variety of rhythmic behaviors to occur, such as gastric mill rhythms, cardiac muscle contractions, or cardiac muscle contraction. And it's important in allowing neurons to release a variety of substances, as you know, that have many functions. And it's a fundamental mechanism that allows different neurons to behave according to their genetic profile.'",
@@ -26980,7 +27568,16 @@
                       "g_rating": 0.7,
                       "s_rating": 0.5668349862098694,
                       "t_rating": 0.9007229882663942,
-                      "r_rating": 0.9007229882663942
+                      "r_rating": 0.8317812170684544,
+                      "children": [
+                        {
+                          "name": "Dr. M:'And that's actually been very surprising.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.1748424470424652,
+                          "t_rating": 0.6249559034746349,
+                          "r_rating": 0.6249559034746349
+                        }
+                      ]
                     }
                   ]
                 }
@@ -27030,6 +27627,13 @@
                       "t_rating": 0.824140477704998,
                       "r_rating": 0.8441590914651358,
                       "children": [
+                        {
+                          "name": "Dr. M:'Well, pyramidal cells provide the highest current that they can and inhibitory cells are just the ones that are more hyperpolarized than the rest of the cells, and that's because they don't have an outward K +  conductance, they don't have a K +  equilibrium potential, so they're only hyperpolarized relative to the rest of the network.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.3080575168132782,
+                          "t_rating": 0.8572627564901927,
+                          "r_rating": 0.8572627564901927
+                        },
                         {
                           "name": "Dr. M:'Well, pyramidal neurons are pyramidal neurons, and they can generate more action potentials, and then they can also act as inhibitory neurons, and they are in effect inhibitory neurons.'",
                           "g_rating": 0.8,
@@ -27162,6 +27766,199 @@
           ]
         },
         {
+          "name": "Dr. M:'Inhibition is a ubiquitous feature of neuronal networks and is an example of evolutionary conservation of an important functional mechanism. It's not the only mechanism for creating inhibition. Inhibition can also be generated by the activation of a hyperpolarization-activated current that depolarizes the membrane from a more hyperpolarized point, a kind of rectification.'",
+          "g_rating": 0.8,
+          "s_rating": 0.4838733375072479,
+          "t_rating": 0.9349510183696274,
+          "r_rating": 0.9238671053496411,
+          "children": [
+            {
+              "name": "Dr. B:'If this is the case, then what is the function of inhibition?'",
+              "g_rating": 0.6,
+              "s_rating": 0.43302807211875916,
+              "t_rating": 0.7399414241971383,
+              "r_rating": 0.823142819023239,
+              "children": [
+                {
+                  "name": "Dr. M:'So it's a way of inhibiting voltage excitation from a depolarized to hyperpolarized state. If the excitation is already at a high enough level, the hyperpolarization will just make it increase and increase. So you can see, in general, the main reason for inhibition is to inhibit voltage excitation.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.19423912465572357,
+                  "t_rating": 0.7264494734990327,
+                  "r_rating": 0.7927745668360737,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Can we put aside the concept of inhibition for a moment, and what we would like to ask is how we can learn anything that we know about the brain if we ignore the effects that inhibition has on excitation?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5861465334892273,
+                      "t_rating": 0.9917498468471966,
+                      "r_rating": 0.9230222493736346,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I'm not sure that there's anything to be lost if you put that aside.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.15446296334266663,
+                          "t_rating": 0.7168394569529484,
+                          "r_rating": 0.7791406923014722,
+                          "children": [
+                            {
+                              "name": "Dr. B:'But there would be something to be lost if we ignore the fact that inhibition can create a range of responses and inhibition is a mechanism to bring excitation down. I'm asking how we would learn about the brain if that aspect of the brain that is most critical is ignored.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5415180325508118,
+                              "t_rating": 0.9660443983470439,
+                              "r_rating": 0.9333386817561836,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Well, I think we would learn about more of the intrinsic mechanisms. We would learn about the intrinsic mechanisms, because that's the most critical aspect of understanding how the brain works. And if you think of your brain like an electronic circuit, that depends on the strength of the connections. So you could imagine putting a really strong hyperpolarizing current in your head. Your head would be like a circuit that was kind of like a short circuit.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.4556259512901306,
+                                  "t_rating": 0.8352215319836028,
+                                  "r_rating": 0.8108589768467693,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'And then we could learn about your intrinsic properties. Because this is not a long circuit, it would be very weak, but the response would be much more complicated. Now, the reason why that is very important is that in the brain there are multiple systems that are so interlocked that it is not always clear how to draw a line between them.'",
+                                      "g_rating": 0.6,
+                                      "s_rating": 0.42930933833122253,
+                                      "t_rating": 0.737771311436269,
+                                      "r_rating": 0.737771311436269
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, if you look at neurons that have no hyperpolarization potential, there is no way for them to inhibit themselves because they have no synaptic connection. So, in a network with many neurons, the function of inhibitors is often to provide a feedback mechanism to maintain the structure of networks.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.37930217385292053,
+                  "t_rating": 0.7961596191025712,
+                  "r_rating": 0.8335764819418797,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is there a particular example that you can illustrate that you can't get away from the feedback inhibition?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.4256952404975891,
+                      "t_rating": 0.9062099303043971,
+                      "r_rating": 0.9015614379920226,
+                      "children": [
+                        {
+                          "name": "Dr. M:'It is a fundamental feature of how we understand the organization of brain circuits.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.6541116833686829,
+                          "t_rating": 0.887615961054899,
+                          "r_rating": 0.850707192441378,
+                          "children": [
+                            {
+                              "name": "Dr. B:'What is this fundamental feature and what makes it the fundamental feature? What is the essence of this feature? I mean, I want to be able to define this fundamental feature because it is a fundamental feature, but I want to know what is it's fundamental feature. What makes it so fundamental? So, you have a list of mechanisms that are available. The mechanisms that you're able to use are limited by a number of things.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.2399410605430603,
+                              "t_rating": 0.7399808866008152,
+                              "r_rating": 0.7399808866008152
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Dr. B:'What is an example of inhibition that we have observed in the brain?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5045679807662964,
+                      "t_rating": 0.9458270704598054,
+                      "r_rating": 0.9095938413596442,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I'm not really sure that we've observed inhibition in the brain but certainly we have observed many different patterns of network activity that suggest that there are different mechanisms at work.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.530501127243042,
+                          "t_rating": 0.8008941540591604,
+                          "r_rating": 0.8008941540591604
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'Well, if the neuron is producing a hyperpolarizing current it will tend to be pushed further to the left, so that it will not fire in a burst. So it's more likely that it will have to fire in a slow and rhythmic mode to push the membrane far enough to make it hyperpolarized.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.36538514494895935,
+                  "t_rating": 0.8794920716807925,
+                  "r_rating": 0.8668976930869079,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the function, or the use, or advantage of this mechanism?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.21778647601604462,
+                      "t_rating": 0.829114557305254,
+                      "r_rating": 0.7944432796162746,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Oh, I think it's essential. I mean, I think that it's fundamental. I don't think that it's just a kind of, you know, by-product of evolution.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.3416033089160919,
+                          "t_rating": 0.6904294465493364,
+                          "r_rating": 0.6904294465493364
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'It can act as a switch for other networks. For example, it's known that a group of invertebrate neurons have a switch, they have a switch for inhibition, that acts like a switch for a different network, the network that produces fast rhythmic bursting.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5544767379760742,
+                  "t_rating": 0.89299745405941,
+                  "r_rating": 0.89299745405941
+                },
+                {
+                  "name": "Dr. M:'Well, it would be interesting to study this because it would provide insight into how neuromodulators use different mechanisms to achieve their effect on behavior. I mean, I've studied some of this in the context of the activation of voltage-dependent potassium currents. The activation of voltage-gated currents by neuromodulators is one example. In this case, we see a distinct mechanism being used to achieve the same goal, which is the activation of voltage gated currents.'",
+                  "g_rating": 0.9,
+                  "s_rating": 0.583768904209137,
+                  "t_rating": 1.0727470035015416,
+                  "r_rating": 1.0154864188787687,
+                  "children": [
+                    {
+                      "name": "Dr. B:'In other words, in order to achieve the goal of inhibiting the cell membrane, you have to use a specific mechanism. What are the consequences of the inhibition? In other words, is it possible that inhibition is the key to generating a specific output in terms of a neuron's output?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.47099635004997253,
+                      "t_rating": 0.8437046650104504,
+                      "r_rating": 0.7756090762338439,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, absolutely. I think it's the key, because it allows for feedback to occur and it allows for neurons to be active.'",
+                          "g_rating": 0.2,
+                          "s_rating": 0.5351721048355103,
+                          "t_rating": 0.5713223099040247,
+                          "r_rating": 0.5652167622557075,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So there are numerous possible consequences for inhibition. I'm going to ask two questions from you. First, are there any potential consequences of inhibition that you find particularly interesting? Second, are there any possible ways in which inhibition may play a role that we haven't covered yet? I'm going to give you the opportunity to address that, and then we'll bring on the audience to respond to the questions.'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.37296077609062195,
+                              "t_rating": 0.5469001193107559,
+                              "r_rating": 0.5469001193107559
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So let me ask you a question that has to do with the evolutionary conservation of inhibition. In order to answer the question, I want to ask you two questions. One is from you: what is the evolutionary conservation of inhibitory neurons? And the second is for everyone to answer this: what are the evolutionary conservation of principal cells? And then I can go on and talk about inhibition. And hopefully you'll answer those questions. And then we can talk about what it means for neural syntax.'",
+              "g_rating": 0.7,
+              "s_rating": 0.550632119178772,
+              "t_rating": 0.8906153662896825,
+              "r_rating": 0.8906153662896825
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'Inhibitory neurons are typically used in the generation of synchronous bursts, and the coordination of multiple neurons within networks requires that neurons can communicate with each other even while they are activated. We see that inhibitory neurons can be used in both synchronization and coordination, but not in all networks.'",
           "g_rating": 0.8,
           "s_rating": 0.4800405502319336,
@@ -27201,7 +27998,16 @@
                               "g_rating": 0.7,
                               "s_rating": 0.39982518553733826,
                               "t_rating": 0.8061390568567974,
-                              "r_rating": 0.8061390568567974
+                              "r_rating": 0.6343300305123376,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Yes.'",
+                                  "g_rating": 0.0,
+                                  "s_rating": 0.11890295147895813,
+                                  "t_rating": 0.11890295147895813,
+                                  "r_rating": 0.11890295147895813
+                                }
+                              ]
                             }
                           ]
                         }
@@ -27740,7 +28546,16 @@
               "g_rating": 0.6,
               "s_rating": 0.561877429485321,
               "t_rating": 0.8220135313758721,
-              "r_rating": 0.8220135313758721
+              "r_rating": 0.7526593614570904,
+              "children": [
+                {
+                  "name": "Dr. M:'Not necessarily. We don't want to have a bunch of spikes randomly firing. We have to have the inhibition, and we have to have the time that it takes for the system to respond. So, it's important for them to function.'",
+                  "g_rating": 0.2,
+                  "s_rating": 0.5065429210662842,
+                  "t_rating": 0.5445968517007456,
+                  "r_rating": 0.5445968517007456
+                }
+              ]
             },
             {
               "name": "Dr. B:'What is the function for neurons to not be mutually inhibitory? What is the function of inhibition?'",
@@ -27782,7 +28597,16 @@
                                   "g_rating": 0.8,
                                   "s_rating": 0.27732452750205994,
                                   "t_rating": 0.8467047263091431,
-                                  "r_rating": 0.8467047263091431
+                                  "r_rating": 0.8427006757760598,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'You want to make it, you want to make it like a car. Or a truck. Or a computer. And so on. Do you want to comment on that?'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.22370387613773346,
+                                      "t_rating": 0.8306885241768099,
+                                      "r_rating": 0.8306885241768099
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -27920,7 +28744,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.46575480699539185,
                   "t_rating": 0.8407898311940474,
-                  "r_rating": 0.8407898311940474
+                  "r_rating": 0.8172849776910753,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Where does the neuronal code come from?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.5546765327453613,
+                      "t_rating": 0.7467704171821591,
+                      "r_rating": 0.7467704171821591
+                    }
+                  ]
                 }
               ]
             },
@@ -28107,13 +28940,6 @@
           ]
         },
         {
-          "name": "Dr. M:'Well, the function of inhibitatory neurons is to remove some kind of information from the circuit and to make the network perform better or in some way that we can learn about.'",
-          "g_rating": 0.8,
-          "s_rating": 0.5221726894378662,
-          "t_rating": 0.955334662615554,
-          "r_rating": 0.955334662615554
-        },
-        {
           "name": "Dr. M:'Inhibitory neurons provide inhibitory feedback to the central pattern generating networks which produce rhythms like the stomach rhythm, which is part of the pacemaker kernel of the pyloric circuit of the brain, which also contains a few other circuits like the stomatogastric circuit that generate the stomachs, the eyes and the heart of the animal. Those are all part of the pacemaking kernel of the central pattern generating network.'",
           "g_rating": 0.8,
           "s_rating": 0.5196452140808105,
@@ -28294,7 +29120,16 @@
                               "g_rating": 0.7,
                               "s_rating": 0.4842051863670349,
                               "t_rating": 0.851149024850957,
-                              "r_rating": 0.851149024850957
+                              "r_rating": 0.6675096115371826,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Right.'",
+                                  "g_rating": 0.0,
+                                  "s_rating": 0.11659137159585953,
+                                  "t_rating": 0.11659137159585953,
+                                  "r_rating": 0.11659137159585953
+                                }
+                              ]
                             }
                           ]
                         },
@@ -28557,7 +29392,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.4934875965118408,
                   "t_rating": 0.7768719379093528,
-                  "r_rating": 0.7768719379093528
+                  "r_rating": 0.806795821024453,
+                  "children": [
+                    {
+                      "name": "Dr. B:'How is inhibition critical for circuit activity?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5602082014083862,
+                      "t_rating": 0.8965674703697536,
+                      "r_rating": 0.8965674703697536
+                    }
+                  ]
                 }
               ]
             }
