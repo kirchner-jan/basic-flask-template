@@ -6,22 +6,6 @@
   "r_rating": 1.1588036219340965,
   "children": [
     {
-      "name": "Dr. B: 'What is the function of inhibitory neurons?'",
-      "g_rating": 0.6,
-      "s_rating": 0.5190266966819763,
-      "t_rating": 0.7933402245371176,
-      "r_rating": 0.7846324403343257,
-      "children": [
-        {
-          "name": "Dr. M:' Inhibitory neurons release chemical transmitters that activate one or more of the other neurons in the circuit. The activation of the next neuron is inhibited by the first, and the inhibitory input is released from the second neuron that activates the first.'",
-          "g_rating": 0.6,
-          "s_rating": 0.46404314041137695,
-          "t_rating": 0.7585090877259499,
-          "r_rating": 0.7585090877259499
-        }
-      ]
-    },
-    {
       "name": "Dr. B: 'What is the primary function of the brain?'",
       "g_rating": 0.6,
       "s_rating": 0.3977413475513458,
@@ -3388,6 +3372,47 @@
               "r_rating": 1.043231036309185
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Dr. B: 'What is the function of inhibitory neurons?'",
+      "g_rating": 0.6,
+      "s_rating": 0.5190266966819763,
+      "t_rating": 0.7933402245371176,
+      "r_rating": 0.7897440231181123,
+      "children": [
+        {
+          "name": "Dr. M:' Inhibitory neurons release chemical transmitters that activate one or more of the other neurons in the circuit. The activation of the next neuron is inhibited by the first, and the inhibitory input is released from the second neuron that activates the first.'",
+          "g_rating": 0.6,
+          "s_rating": 0.46404314041137695,
+          "t_rating": 0.7585090877259499,
+          "r_rating": 0.7587223721361472,
+          "children": [
+            {
+              "name": "Dr. B:' Let's say a group of neurons in a region of the brain, say the lateral intraparietal area, are being activated by stimuli in a pattern that is not initially meaningful, say to the extent of being able to determine which patterns of activation are \"good\" and which \"bad\". What are the properties of the neuronal network that are responsible for the development of representations of meaning, if they arise from activation patterns in the lateral intraparital area?'",
+              "g_rating": 0.5,
+              "s_rating": 0.5715163946151733,
+              "t_rating": 0.7593622253667393,
+              "r_rating": 0.7807846957040665,
+              "children": [
+                {
+                  "name": "Dr. M:' So far, we don't know how they develop meaning. We also don't know what they're doing during the development of meaning, and during learning. That's why I'm interested in trying to understand the mechanisms that are responsible for that. So we don't really know what this neuronal circuitry is doing, during development, when it's getting the features of its final form, or how it's doing during learning.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5950739979743958,
+                  "t_rating": 0.8450521067160481,
+                  "r_rating": 0.8450521067160481
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Inhibitory neurons, which I think you call synaptic inhibitory neurons, are important because they determine the parameters of the network. In some cases the parameters of the networks are determined by synaptic inputs, but in other cases synaptic inputs can be inhibited, so they play an essential role in establishing the output of the networks. But, you are asking about what is the function of the neuron? I mean, neurons do not have a function, they do not have a program.'",
+          "g_rating": 0.6,
+          "s_rating": 0.4967610538005829,
+          "t_rating": 0.7789554188610961,
+          "r_rating": 0.7789554188610961
         }
       ]
     },
