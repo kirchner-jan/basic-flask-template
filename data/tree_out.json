@@ -6245,7 +6245,16 @@
                           "g_rating": 0.5,
                           "s_rating": 0.38480144739151,
                           "t_rating": 0.6309295950536803,
-                          "r_rating": 0.6309295950536803
+                          "r_rating": 0.5812777026293765,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Okay. I'm sorry, it's been a long day. You said 'evolution'. I can guess what you're talking about, but I'm not sure what 'evolution' means. Can you explain what you mean by 'evolution'?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.3112913966178894,
+                              "t_rating": 0.4323220253564652,
+                              "r_rating": 0.4323220253564652
+                            }
+                          ]
                         },
                         {
                           "name": "Dr. M:'I'm interested more in my brain, because my brain was a problem.'",
@@ -6272,7 +6281,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.39148423075675964,
                   "t_rating": 0.8020348514442572,
-                  "r_rating": 0.8020348514442572
+                  "r_rating": 0.8289673206725939,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But that is the primary function, and it's what we study too, and I've already been talking with the head of the neurosurgery department here at the University of Virginia who gave me some sense of how your models of the brain, especially your models of the cortex, don't fit into his. So what's your model of neurobiology?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5810953974723816,
+                      "t_rating": 0.909764728357604,
+                      "r_rating": 0.909764728357604
+                    }
+                  ]
                 }
               ]
             }
@@ -6357,6 +6375,13 @@
                   ]
                 },
                 {
+                  "name": "Dr. M:'It is generating the mental machinery that allows us to see the world in terms of information.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5209450125694275,
+                  "t_rating": 0.7945965681532742,
+                  "r_rating": 0.7945965681532742
+                },
+                {
                   "name": "Dr. M:'The brain is creating new neurons to be created and then to be modified.' That's the whole brain doing. That's it. That's the brain doing. It's not doing anything else, it's not doing anything beyond that. I mean, the brain is creating a new brain. The brain is creating a brain that can think. And then we have neurons, and then we have circuit neurons that can modify the brain. The brain, by itself, can't think.'",
                   "g_rating": 0.6,
                   "s_rating": 0.5554361343383789,
@@ -6398,7 +6423,159 @@
                           "g_rating": 0.5,
                           "s_rating": 0.41087377071380615,
                           "t_rating": 0.6471609192933249,
-                          "r_rating": 0.6471609192933249
+                          "r_rating": 0.7384183052296031,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So, in other words, your brain is a special case of a general mechanism that allowed us to solve the problem of survival, even if we don't know what it does, because that's what we had to do. And you think that the brain, having solved this problem, is now doing something else. What's the point of that?'",
+                              "g_rating": 0.9,
+                              "s_rating": 0.4631733298301697,
+                              "t_rating": 1.0121904630384377,
+                              "r_rating": 1.0121904630384377
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'What's your primary function?'",
+          "g_rating": 0.4,
+          "s_rating": 0.24317748844623566,
+          "t_rating": 0.46811888542016666,
+          "r_rating": 0.5614100112505678,
+          "children": [
+            {
+              "name": "Dr. B:'Well, I can think of many things it does \u2013 like make plans, make decisions, maintain social relationships, communicate thoughts and feelings, perform language tasks, produce music, and so on. But my primary function is to make plans, make choices, make decisions, and do language and social work.'",
+              "g_rating": 0.6,
+              "s_rating": 0.38767725229263306,
+              "t_rating": 0.7143484107528804,
+              "r_rating": 0.6031200468426505,
+              "children": [
+                {
+                  "name": "Dr. M:'But how does that all come together? How does the planning come about?'",
+                  "g_rating": 0.1,
+                  "s_rating": 0.2501903176307678,
+                  "t_rating": 0.26943495511196114,
+                  "r_rating": 0.42136820545912157,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I suppose I can say it's by virtue of the fact that I have a little sub-cortex in my brain that processes language and social information, that integrates these two features of my personality.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.3597549498081207,
+                      "t_rating": 0.8771679565006029,
+                      "r_rating": 0.8164199356191881,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right, but how do you know that this is important to you as a human being?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.20537535846233368,
+                          "t_rating": 0.6341758729749438,
+                          "r_rating": 0.6341758729749438
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'I'm a neuroscientist, and my primary function is to study the neural dynamics underlying learning, perception, perception of motion, the generation of motor output, and other phenomena. My primary interests are how learning takes place in small networks and in larger areas, and how the brain moves in relation to a body and to the environment.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5897098779678345,
+              "t_rating": 0.8412833887417712,
+              "r_rating": 0.8565633091575793,
+              "children": [
+                {
+                  "name": "Dr. M:'And so your brain is, really, a toolbox of sorts, for moving about, and for perceiving, and learning, and performing many different kinds of cognitive functions, such as perception. So, really, your brain is a toolbox, and it's a toolbox that is organized so that you can move through life, and perform those different kinds of functions that are required in life, so that you can, as an animal, be able to function correctly and adapt.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5695009231567383,
+                  "t_rating": 0.9024030704050032,
+                  "r_rating": 0.9020345109859875,
+                  "children": [
+                    {
+                      "name": "Dr. B:'It doesn't mean that the tools in the toolbox all have the same function, so that everything that you do, or everything that you learn, has to fit into one neat toolbox. You've got all this machinery built into your brain for moving in the world.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.41433411836624146,
+                      "t_rating": 0.9009288327289402,
+                      "r_rating": 0.8210992807574725,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right, right, right. Right, so your brain has, basically, a series of switches that you can manipulate to make your brain work in a certain way. So, you can turn these switches off, but you can also turn them on. You can turn on those switches and make your brain work, or work, or work in certain ways.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.49826791882514954,
+                          "t_rating": 0.5816106248430696,
+                          "r_rating": 0.5816106248430696
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, if we ask the question, you mean 'what is the primary function'? Or the primary function? I mean, to some extent there's going to be a 'primary function'. You know, the function of the heart is to pump blood, the function of blood is to carry oxygen, the function of oxygen is to, in turn, supply our brains with oxygen.'",
+          "g_rating": 0.5,
+          "s_rating": 0.3453933298587799,
+          "t_rating": 0.6076977474953613,
+          "r_rating": 0.5762352359685902,
+          "children": [
+            {
+              "name": "Dr. B:'Oh, sure. I mean, we know that the brain produces blood, and blood pumps oxygen and energy to our brains and that we're ultimately, at a certain point, an oxygen-energy system.'",
+              "g_rating": 0.2,
+              "s_rating": 0.3786450922489166,
+              "t_rating": 0.42821969348009975,
+              "r_rating": 0.42821969348009975
+            },
+            {
+              "name": "Dr. B:'Hmm. I'm not sure I understand you. So your brain's role is to produce the right internal conditions to enable you to produce oxygen, right?'",
+              "g_rating": 0.3,
+              "s_rating": 0.37706393003463745,
+              "t_rating": 0.4818477013882768,
+              "r_rating": 0.47562148354551054,
+              "children": [
+                {
+                  "name": "Dr. M:'Correct. And this is one of the big issues, because it's a fact that our brain does not require oxygen to live. So you know, we're not getting our brains filled with enough oxygen to live.'",
+                  "g_rating": 0.3,
+                  "s_rating": 0.34466904401779175,
+                  "t_rating": 0.45694283001721175,
+                  "r_rating": 0.5015481393488403,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But how can the brain be the source of the brain-stuff that is oxygen? Why don't we just run an oxygen-generator that turns air into the brain's exact oxygen content?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.3920299708843231,
+                      "t_rating": 0.6353640673437263,
+                      "r_rating": 0.7029987170541685,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Exactly. That's what you're asking the questions, that's what you're describing. The answers are going to be, well, we need to be in a particular state of mind to be able to respond to that stimulus that comes from the external world, because that stimulus comes in, in a complex, convoluted way.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.3894175887107849,
+                          "t_rating": 0.3894175887107849,
+                          "r_rating": 0.3894175887107849
+                        },
+                        {
+                          "name": "Dr. M:'I mean, you do run an oxygen-generation system, but the brain's function is to make you able to think, and think and read and write and interact with people and so forth. So to me the brain has multiple functions. The brain has a primary function of making you function, and that primary function requires that you have adequate oxygen.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.42504075169563293,
+                          "t_rating": 0.9059026661854952,
+                          "r_rating": 0.8772928309004208,
+                          "children": [
+                            {
+                              "name": "Dr. B:'So if you were to cut off all air supply to the brain, what is the brain doing?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.3693429231643677,
+                              "t_rating": 0.7914633250451976,
+                              "r_rating": 0.7914633250451976
+                            }
+                          ]
                         }
                       ]
                     }
@@ -6413,7 +6590,7 @@
           "g_rating": 0.5,
           "s_rating": 0.16422025859355927,
           "t_rating": 0.5262777720296911,
-          "r_rating": 0.4864027164692043,
+          "r_rating": 0.5774797785764543,
           "children": [
             {
               "name": "Dr. B:' And the second?'",
@@ -6455,14 +6632,37 @@
                               "g_rating": 0.8,
                               "s_rating": 0.21775293350219727,
                               "t_rating": 0.8291057472052721,
-                              "r_rating": 0.7692933570855643,
+                              "r_rating": 0.8575027488097486,
                               "children": [
+                                {
+                                  "name": "Dr. M:' That would be really difficult.'",
+                                  "g_rating": 0.4,
+                                  "s_rating": 0.13120608031749725,
+                                  "t_rating": 0.42096916218683,
+                                  "r_rating": 0.4701876038293286,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:' You see what I mean? I'm not talking about \"What makes someone like you?\". I'm talking about \"What would be a brain's fundamental function that is more fundamental than the brain being an environment processor, which has nothing to do with the brain being robust to temperature and humidity changes and so on?\" How could a brain have a purpose which is more fundamental than that? How could a brain possibly do anything but what it is in some sense 'to do'?'",
+                                      "g_rating": 0.4,
+                                      "s_rating": 0.47088202834129333,
+                                      "t_rating": 0.6178429287568246,
+                                      "r_rating": 0.6178429287568246
+                                    }
+                                  ]
+                                },
                                 {
                                   "name": "Dr. M:' Right, right. Right. Because if it's robust to change, that means that there is some sort of mechanism that can change the circuit. And so I think the first question is the mechanism of the change. The mechanism that lets the brain go from being robust to being robust to temperature, to humidity, and yet it can be robust to all kinds of changes in the external world.'",
                                   "g_rating": 0.3,
                                   "s_rating": 0.5078684091567993,
                                   "t_rating": 0.589856186726441,
                                   "r_rating": 0.589856186726441
+                                },
+                                {
+                                  "name": "Dr. M:' That sounds weird, and maybe it's a good thing that you're saying, but I'm trying to say, because I think when I hear that, my mind goes back to the idea that there is something to be said about the environment that the brain has evolved to survive and to function in. I mean, if we're going to talk about environmental adaptation, I guess it might be better to talk about evolution than evolution of behavior.'",
+                                  "g_rating": 0.8,
+                                  "s_rating": 0.49866974353790283,
+                                  "t_rating": 0.9426937536231784,
+                                  "r_rating": 0.9426937536231784
                                 }
                               ]
                             }
@@ -6473,117 +6673,29 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'What's your primary function?'",
-          "g_rating": 0.4,
-          "s_rating": 0.24317748844623566,
-          "t_rating": 0.46811888542016666,
-          "r_rating": 0.5614100112505678,
-          "children": [
-            {
-              "name": "Dr. B:'Well, I can think of many things it does \u2013 like make plans, make decisions, maintain social relationships, communicate thoughts and feelings, perform language tasks, produce music, and so on. But my primary function is to make plans, make choices, make decisions, and do language and social work.'",
-              "g_rating": 0.6,
-              "s_rating": 0.38767725229263306,
-              "t_rating": 0.7143484107528804,
-              "r_rating": 0.6031200468426505,
-              "children": [
-                {
-                  "name": "Dr. M:'But how does that all come together? How does the planning come about?'",
-                  "g_rating": 0.1,
-                  "s_rating": 0.2501903176307678,
-                  "t_rating": 0.26943495511196114,
-                  "r_rating": 0.42136820545912157,
-                  "children": [
-                    {
-                      "name": "Dr. B:'I suppose I can say it's by virtue of the fact that I have a little sub-cortex in my brain that processes language and social information, that integrates these two features of my personality.'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.3597549498081207,
-                      "t_rating": 0.8771679565006029,
-                      "r_rating": 0.8771679565006029
-                    }
-                  ]
-                }
-              ]
             },
             {
-              "name": "Dr. B:'I'm a neuroscientist, and my primary function is to study the neural dynamics underlying learning, perception, perception of motion, the generation of motor output, and other phenomena. My primary interests are how learning takes place in small networks and in larger areas, and how the brain moves in relation to a body and to the environment.'",
-              "g_rating": 0.6,
-              "s_rating": 0.5897098779678345,
-              "t_rating": 0.8412833887417712,
-              "r_rating": 0.8565633091575793,
-              "children": [
-                {
-                  "name": "Dr. M:'And so your brain is, really, a toolbox of sorts, for moving about, and for perceiving, and learning, and performing many different kinds of cognitive functions, such as perception. So, really, your brain is a toolbox, and it's a toolbox that is organized so that you can move through life, and perform those different kinds of functions that are required in life, so that you can, as an animal, be able to function correctly and adapt.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.5695009231567383,
-                  "t_rating": 0.9024030704050032,
-                  "r_rating": 0.9020345109859875,
-                  "children": [
-                    {
-                      "name": "Dr. B:'It doesn't mean that the tools in the toolbox all have the same function, so that everything that you do, or everything that you learn, has to fit into one neat toolbox. You've got all this machinery built into your brain for moving in the world.'",
-                      "g_rating": 0.8,
-                      "s_rating": 0.41433411836624146,
-                      "t_rating": 0.9009288327289402,
-                      "r_rating": 0.9009288327289402
-                    }
-                  ]
-                }
-              ]
+              "name": "Dr. B:' But there's a very fundamental difference between being robust to changes in temperatures and being robust to changes at higher levels of organization, such as changes in our environment.'",
+              "g_rating": 0.7,
+              "s_rating": 0.2109180986881256,
+              "t_rating": 0.7310857982167441,
+              "r_rating": 0.7310857982167441
             }
           ]
         },
         {
-          "name": "Dr. M:'Well, if we ask the question, you mean 'what is the primary function'? Or the primary function? I mean, to some extent there's going to be a 'primary function'. You know, the function of the heart is to pump blood, the function of blood is to carry oxygen, the function of oxygen is to, in turn, supply our brains with oxygen.'",
-          "g_rating": 0.5,
-          "s_rating": 0.3453933298587799,
-          "t_rating": 0.6076977474953613,
-          "r_rating": 0.5762352359685902,
+          "name": "Dr. M:'To extract meaning from sensory inputs.'",
+          "g_rating": 0.3,
+          "s_rating": 0.41187697649002075,
+          "t_rating": 0.5095514142484162,
+          "r_rating": 0.5792654957971781,
           "children": [
             {
-              "name": "Dr. B:'Hmm. I'm not sure I understand you. So your brain's role is to produce the right internal conditions to enable you to produce oxygen, right?'",
-              "g_rating": 0.3,
-              "s_rating": 0.37706393003463745,
-              "t_rating": 0.4818477013882768,
-              "r_rating": 0.47562148354551054,
-              "children": [
-                {
-                  "name": "Dr. M:'Correct. And this is one of the big issues, because it's a fact that our brain does not require oxygen to live. So you know, we're not getting our brains filled with enough oxygen to live.'",
-                  "g_rating": 0.3,
-                  "s_rating": 0.34466904401779175,
-                  "t_rating": 0.45694283001721175,
-                  "r_rating": 0.5015481393488403,
-                  "children": [
-                    {
-                      "name": "Dr. B:'But how can the brain be the source of the brain-stuff that is oxygen? Why don't we just run an oxygen-generator that turns air into the brain's exact oxygen content?'",
-                      "g_rating": 0.5,
-                      "s_rating": 0.3920299708843231,
-                      "t_rating": 0.6353640673437263,
-                      "r_rating": 0.7029987170541685,
-                      "children": [
-                        {
-                          "name": "Dr. M:'I mean, you do run an oxygen-generation system, but the brain's function is to make you able to think, and think and read and write and interact with people and so forth. So to me the brain has multiple functions. The brain has a primary function of making you function, and that primary function requires that you have adequate oxygen.'",
-                          "g_rating": 0.8,
-                          "s_rating": 0.42504075169563293,
-                          "t_rating": 0.9059026661854952,
-                          "r_rating": 0.8772928309004208,
-                          "children": [
-                            {
-                              "name": "Dr. B:'So if you were to cut off all air supply to the brain, what is the brain doing?'",
-                              "g_rating": 0.7,
-                              "s_rating": 0.3693429231643677,
-                              "t_rating": 0.7914633250451976,
-                              "r_rating": 0.7914633250451976
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+              "name": "Dr. B:'Is that an algorithmic process? Is there some way of describing the algorithm? I can't even say what it is that the brain does; I can only observe how it does it.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5114555358886719,
+              "t_rating": 0.788407740443464,
+              "r_rating": 0.788407740443464
             }
           ]
         },
@@ -6599,7 +6711,25 @@
               "g_rating": 0.5,
               "s_rating": 0.3975617587566376,
               "t_rating": 0.6387921039161888,
-              "r_rating": 0.6387921039161888
+              "r_rating": 0.7150614425716948,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, if you were talking about animals, you would look at the sensory information, which goes into the brain. But we study the brain, so we look at what the brain does. But basically, you convert sensory information, whether it is visual or acoustic or olfactory, into cognitive output.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5008887648582458,
+                  "t_rating": 0.9438694585382129,
+                  "r_rating": 0.8206279308310448,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do you understand the idea of a \"representation\"? And are there different types of \"representations\"?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.3366211950778961,
+                      "t_rating": 0.4509033477095407,
+                      "r_rating": 0.4509033477095407
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -6615,30 +6745,23 @@
               "g_rating": 0.6,
               "s_rating": 0.33721545338630676,
               "t_rating": 0.6882690331567536,
-              "r_rating": 0.6882690331567536
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'It is certainly the most complex part of the body, and probably, most critical for our survival.'",
-          "g_rating": 0.7,
-          "s_rating": 0.2824440598487854,
-          "t_rating": 0.754834185065743,
-          "r_rating": 0.6567145539430228,
-          "children": [
-            {
-              "name": "Dr. B:'But what is it? I think I would like some more precise answer.'",
-              "g_rating": 0.3,
-              "s_rating": 0.20322801172733307,
-              "t_rating": 0.36235566057486257,
-              "r_rating": 0.4939614442345436,
+              "r_rating": 0.7275751365074093,
               "children": [
                 {
-                  "name": "Dr. M:'I know you would because it is interesting because you are asking us to find an answer that you think is simple. The reality is that the brain contains the whole set of mechanisms that allows us to perceive, to use sensory organs, to move, to think, to reason, to behave. All of these things require circuits with neurons that can interact. The brain has evolved to be the most complex thing in the body and it does need to be flexible. It can't be fixed and frozen.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.5476565957069397,
-                  "t_rating": 0.8887787952135865,
-                  "r_rating": 0.8887787952135865
+                  "name": "Dr. M:'So, if we don't decide whether it's hot or cold outside, if you don't feed your dog, it's going to die. So, the primary function is to control and feed the dog.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.27360403537750244,
+                  "t_rating": 0.8454934465593767,
+                  "r_rating": 0.8931004975119321,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Ah, but in order for a brain to decide whether it's warm or cold, and feed the dog, it needs to perform a certain series of operations, right? So the brain is not really only a simple controller; it's also a computer.'",
+                      "g_rating": 0.9,
+                      "s_rating": 0.5129655599594116,
+                      "t_rating": 1.0359216503695985,
+                      "r_rating": 1.0359216503695985
+                    }
+                  ]
                 }
               ]
             }
@@ -6691,7 +6814,16 @@
                                   "g_rating": 0.0,
                                   "s_rating": 0.14825282990932465,
                                   "t_rating": 0.14825282990932465,
-                                  "r_rating": 0.14825282990932465
+                                  "r_rating": 0.37610049183607236,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'We may have to admit that the brain's organization does not map on to the structure of reality. That is, there is no set of operations that can be performed in the brain that will duplicate all of reality, and it may seem obvious that this is just a fact. For the sake of argument, let's put this aside and assume that we have such a set of operations that is equivalent to reality.'",
+                                      "g_rating": 0.9,
+                                      "s_rating": 0.5593248605728149,
+                                      "t_rating": 1.0596434776163155,
+                                      "r_rating": 1.0596434776163155
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -6707,6 +6839,22 @@
                       "r_rating": 0.6912853128370438
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'I think you are saying that \"consciousness\" is the primary function?'",
+              "g_rating": 0.4,
+              "s_rating": 0.44513946771621704,
+              "t_rating": 0.5984556338766284,
+              "r_rating": 0.6366330982404631,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, that is what I am saying, because, when you wake up in the morning, that is a fact, it is not a guess'.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.2724877893924713,
+                  "t_rating": 0.7511654913319673,
+                  "r_rating": 0.7511654913319673
                 }
               ]
             },
@@ -6761,6 +6909,13 @@
                   ]
                 },
                 {
+                  "name": "Dr. M:'It is, it is.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.21595820784568787,
+                  "t_rating": 0.6376816976642197,
+                  "r_rating": 0.6376816976642197
+                },
+                {
                   "name": "Dr. M:'That's what they say in movies about how it works, it's not actually the center of consciousness.'",
                   "g_rating": 0.7,
                   "s_rating": 0.3780842125415802,
@@ -6799,16 +6954,86 @@
               "g_rating": 0.6,
               "s_rating": 0.18846774101257324,
               "t_rating": 0.6289038793030158,
-              "r_rating": 0.6289038793030158
+              "r_rating": 0.7032316332513798,
+              "children": [
+                {
+                  "name": "Dr. M:'No, but that's not why we study the brain, that's why we study the nervous system. Because we think that the brain is an organ, that has evolved to provide specific biological functions.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4667697846889496,
+                  "t_rating": 0.9262148950964719,
+                  "r_rating": 0.8421723433986927,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I don't mean that. I mean, what is the primary function?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.31329336762428284,
+                      "t_rating": 0.5900446883053554,
+                      "r_rating": 0.5900446883053554
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "name": "Dr. M:'Oh, I'd say it's getting us to breathe. The primary function of the nervous system is to make sure that you survive, right? The primary function of your brain is to make sure you survive. And then, also, you think you might want to have a life, you might want to do things, you might want... I think you might want a home, I think you might need a home, I'm not sure what you're asking. You might want to have kids.'",
-          "g_rating": 0.6,
-          "s_rating": 0.3774399161338806,
-          "t_rating": 0.7088447575394423,
-          "r_rating": 0.7088447575394423
+          "name": "Dr. M:'The primary function is sensory and motor function'. That's how it works. And the secondary function is sensory and executive function'. That's what it does. And the primary function is to feed all this stuff back to the system and to tell it what to do.'",
+          "g_rating": 0.5,
+          "s_rating": 0.42389464378356934,
+          "t_rating": 0.6555048962657709,
+          "r_rating": 0.7168701133163295,
+          "children": [
+            {
+              "name": "Dr. B:'Let's talk about how the brain's primary function of sensory and motor function is organized within the brain and how it is wired into the environment'.'",
+              "g_rating": 0.7,
+              "s_rating": 0.5672206878662109,
+              "t_rating": 0.9009657644680055,
+              "r_rating": 0.8926939505294156,
+              "children": [
+                {
+                  "name": "Dr. M:'OK.'",
+                  "g_rating": 0.0,
+                  "s_rating": 0.14070172607898712,
+                  "t_rating": 0.14070172607898712,
+                  "r_rating": 0.31440532725381765,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the organization of the cortex that leads to this division of labor? How is the functional integration of the various parts of the cortex organized?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5814526677131653,
+                      "t_rating": 0.8355161307783091,
+                      "r_rating": 0.8793376678587803,
+                      "children": [
+                        {
+                          "name": "Dr. M:'You know, I think that in theory the functional integration of these different neurons could be very chaotic.' You know, because if we are talking about neurons that were, say, very highly regulated, highly controlled units, you know, and, and and they were, you know, they were firing their own synaptic currents, if their receptors were different, or their axons were different. It's possible that these neurons could be, you know, you could, could be independent of each other.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.6178359389305115,
+                          "t_rating": 1.0108022791001943,
+                          "r_rating": 1.0017355029316772,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And this is an integral property of the brain, and I'm talking about the primary structure of the brain as opposed to the wiring and organization of individual parts. We are trying to figure out how these cells are wired together to make up the whole brain.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.556523859500885,
+                              "t_rating": 0.9745351744261266,
+                              "r_rating": 0.9745351744261266
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'So, I've spent a lot of my life talking to people who believe that the only function of the brain is feeding information back to the rest of the system. So, you know, the brain is a black box. We don't know anything about how it works. You know, and it just tells you how to do stuff.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5130429863929749,
+                  "t_rating": 0.867878508713646,
+                  "r_rating": 0.867878508713646
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'The primary function is cognition. It's processing information. It's recognizing patterns of activity and then generating action potentials, or other kinds of firing patterns. But there are two functions that are really important. One is sensory-motor transformation. When we experience a stimulus, it generates a pattern of firing from neurons that can move us, that can generate motor movements, and that can allow us to take action.'",
@@ -6822,7 +7047,7 @@
               "g_rating": 0.5,
               "s_rating": 0.5485090017318726,
               "t_rating": 0.7422008656562558,
-              "r_rating": 0.7751172491376137,
+              "r_rating": 0.8054025248265076,
               "children": [
                 {
                   "name": "Dr. M:'Well, if you ask a cell biologist like myself, the answer is going to be complicated, because the brain has hundreds of cells, and each cell has dozens of distinct cell-type-specific properties. And so to have multiple levels of neurons that are connected to each cell is going to be difficult, because you have to understand the properties of the cell type, and then you're going to be worried about maintaining the properties of the neurons, and how they interact.'",
@@ -6836,7 +7061,32 @@
                       "g_rating": 0.6,
                       "s_rating": 0.5988919138908386,
                       "t_rating": 0.8477449643164102,
-                      "r_rating": 0.8477449643164102
+                      "r_rating": 0.8840175554154748,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So the brain, as we have understood it, has multiple distinct networks, and the networks are connected, but they're not strictly linear. They're kind of a spider web of interacting networks, so that when you're taking this out of the biological realm, the networks are going to be very complicated.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5879812836647034,
+                          "t_rating": 0.9928353287126684,
+                          "r_rating": 0.9928353287126684
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'A brain is an electrical circuit, or it's a network of neurons, which has many parallel circuit loops. Some of those loops, like the stomatogastric circuit that is involved in chewing, are fairly obvious, and some of the networks are less obvious. But every circuit has its own characteristics, and every circuit is designed to perform a specific task, as an adaptive circuit. So in some ways it's a bit like assembling a circuit.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5916417241096497,
+                  "t_rating": 0.9950075023372632,
+                  "r_rating": 0.9734711133656557,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But if the brain is an electrical network, then it can't have layers of processing. At the point of being processed, a neural pattern is either \"fired\" or not fired. Why would you want to have separate processing circuits for different tasks?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5796809792518616,
+                      "t_rating": 0.9088619464508332,
+                      "r_rating": 0.9088619464508332
                     }
                   ]
                 }
@@ -6879,7 +7129,16 @@
               "g_rating": 0.6,
               "s_rating": 0.29386642575263977,
               "t_rating": 0.6680998998537806,
-              "r_rating": 0.6680998998537806
+              "r_rating": 0.6431546320875476,
+              "children": [
+                {
+                  "name": "Dr. M:'Why should we think? Well, what is it that we think about? Why should we think? We think about other people. Why should we think about other people? Why should we know what people are thinking about?'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.2701597511768341,
+                  "t_rating": 0.5683188287888489,
+                  "r_rating": 0.5683188287888489
+                }
+              ]
             },
             {
               "name": "Dr. B:'But\u2014you're talking about the higher-order cortex, or the cortex of higher organization. So what is its function? It is obviously something that we should not think about without knowing it.'",
@@ -6979,7 +7238,16 @@
                   "g_rating": 0.0,
                   "s_rating": 0.5992273092269897,
                   "t_rating": 0.5992273092269897,
-                  "r_rating": 0.5992273092269897
+                  "r_rating": 0.6452100119396051,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Why is the brain part of our higher order goals? How do we know that thinking is part of our higher goals?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5033255815505981,
+                      "t_rating": 0.7831581200774514,
+                      "r_rating": 0.7831581200774514
+                    }
+                  ]
                 }
               ]
             },
@@ -7029,6 +7297,13 @@
           ]
         },
         {
+          "name": "Dr. M:'One function is the generation of consciousness.'",
+          "g_rating": 0.6,
+          "s_rating": 0.45121049880981445,
+          "t_rating": 0.7507269238785842,
+          "r_rating": 0.7507269238785842
+        },
+        {
           "name": "Dr. M:'What is the primary role of the brain?' I'm thinking there are many functions of the brain. The brain is one of those organs that has many roles. But one of the roles of the brain is to extract information from the environment, and the brain is the brain is the best environment for extracting information from the environment. The other function of the brain is the transmission of information. So the primary function of brain is to extract useful information from the environment to provide for the needs of the brain.'",
           "g_rating": 0.6,
           "s_rating": 0.4549313485622406,
@@ -7054,7 +7329,25 @@
                       "g_rating": 0.6,
                       "s_rating": 0.4759274423122406,
                       "t_rating": 0.7658374046400914,
-                      "r_rating": 0.7658374046400914
+                      "r_rating": 0.7052201497283752,
+                      "children": [
+                        {
+                          "name": "Dr. M:'But that's a different problem. That's a different problem.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.15464302897453308,
+                          "t_rating": 0.5233683849932266,
+                          "r_rating": 0.613172807342494,
+                          "children": [
+                            {
+                              "name": "Dr. B:'It's one of the functions that we call \"information transfer,\" but information transfer doesn't seem like the primary function of the brain.' (Pause.) 'Well, yes, it is. The brain has to transmit information, it has to transmit the information that tells the brain what to do. But we are talking about the brain's function as an organism in the real world. And in the real world, the brain has other functions.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.537548303604126,
+                              "t_rating": 0.8825860743902962,
+                              "r_rating": 0.8825860743902962
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
@@ -7070,7 +7363,16 @@
                       "g_rating": 0.8,
                       "s_rating": 0.27917709946632385,
                       "t_rating": 0.8473133144630915,
-                      "r_rating": 0.8473133144630915
+                      "r_rating": 0.8544417572521239,
+                      "children": [
+                        {
+                          "name": "Dr. M:'But he had a theory of it, and I'm sure Aristotle had a theory of many functions of the mind and body.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.3564731180667877,
+                          "t_rating": 0.875827085619221,
+                          "r_rating": 0.875827085619221
+                        }
+                      ]
                     }
                   ]
                 },
@@ -7079,9 +7381,50 @@
                   "g_rating": 0.7,
                   "s_rating": 0.44405990839004517,
                   "t_rating": 0.828968758301165,
-                  "r_rating": 0.828968758301165
+                  "r_rating": 0.841255569023367,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I mean, if you had a superintelligence built of neurons, you could probably learn some useful things about how they work, like that they're sensitive to the size of the population of synapses, that they fire, that they use more and more synapses as you increase the population of synapse inputs, etc.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5301770567893982,
+                      "t_rating": 0.878116001189973,
+                      "r_rating": 0.878116001189973
+                    }
+                  ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Oh, I'd say it's getting us to breathe. The primary function of the nervous system is to make sure that you survive, right? The primary function of your brain is to make sure you survive. And then, also, you think you might want to have a life, you might want to do things, you might want... I think you might want a home, I think you might need a home, I'm not sure what you're asking. You might want to have kids.'",
+          "g_rating": 0.6,
+          "s_rating": 0.3774399161338806,
+          "t_rating": 0.7088447575394423,
+          "r_rating": 0.758685833796956,
+          "children": [
+            {
+              "name": "Dr. B:'Um... no. I have a son, and I don't know if he'd like that. I'm looking for a way to get more control over how he develops. It's been interesting in the past how that control aspect is very difficult to get, and I'm not sure it's gotten easier over time.'",
+              "g_rating": 0.2,
+              "s_rating": 0.21326491236686707,
+              "t_rating": 0.29237291743054367,
+              "r_rating": 0.4482889057349199,
+              "children": [
+                {
+                  "name": "Dr. M:'I mean, the first time I thought about this was when we had this mouse, and this mouse had a tumor. And the tumor was growing. And we had to kill it and you know we had to kill the mouse, and I didn't know what I thought about what the function of the brain was. I mean, the function of the neuron is getting enough sodium, right? Like how do you add sodium to the neuron? How does it work?'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4462326169013977,
+                  "t_rating": 0.9160368706480486,
+                  "r_rating": 0.9160368706480486
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Well, the brain has to make decisions, it's got to make plans, it has to choose courses of action.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4299345314502716,
+              "t_rating": 0.9082090625694971,
+              "r_rating": 0.9082090625694971
             }
           ]
         },
@@ -7107,12 +7450,44 @@
                   "r_rating": 0.7872650319625153,
                   "children": [
                     {
+                      "name": "Dr. B:'What do you do when you are awake?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.20833295583724976,
+                      "t_rating": 0.6351398432533464,
+                      "r_rating": 0.6346851301588089,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I'm not awake when I'm working.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.20272019505500793,
+                          "t_rating": 0.6333209908751963,
+                          "r_rating": 0.6122495076333437,
+                          "children": [
+                            {
+                              "name": "Dr. B:'You're not awake when you're sleeping.'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.2268027663230896,
+                              "t_rating": 0.5490350579077861,
+                              "r_rating": 0.5490350579077861
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "name": "Dr. B:'Then why don't you tell me what your theory says about what the brain is awake for?'",
                       "g_rating": 0.5,
                       "s_rating": 0.4392877519130707,
                       "t_rating": 0.6655627160387213,
                       "r_rating": 0.7445943320942144,
                       "children": [
+                        {
+                          "name": "Dr. M:'Yeah, well, it's not that we've written a theory and we're going to put it in a paper today, but, we really don't know that much about it.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.28572773933410645,
+                          "t_rating": 0.8494941677404143,
+                          "r_rating": 0.8494941677404143
+                        },
                         {
                           "name": "Dr. M:'But I would answer your question by saying that my theory would say that the brain is awake to keep the body working for your life. Right? Because if the brain were asleep, if the brain were not working, the body would stop working. So, I mean, I mean, that's the simplest answer I can give you.'",
                           "g_rating": 0.9,
@@ -7136,6 +7511,72 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'It is certainly the most complex part of the body, and probably, most critical for our survival.'",
+          "g_rating": 0.7,
+          "s_rating": 0.2824440598487854,
+          "t_rating": 0.754834185065743,
+          "r_rating": 0.7793940445796026,
+          "children": [
+            {
+              "name": "Dr. B:'But what is it? I think I would like some more precise answer.'",
+              "g_rating": 0.3,
+              "s_rating": 0.20322801172733307,
+              "t_rating": 0.36235566057486257,
+              "r_rating": 0.4939614442345436,
+              "children": [
+                {
+                  "name": "Dr. M:'I know you would because it is interesting because you are asking us to find an answer that you think is simple. The reality is that the brain contains the whole set of mechanisms that allows us to perceive, to use sensory organs, to move, to think, to reason, to behave. All of these things require circuits with neurons that can interact. The brain has evolved to be the most complex thing in the body and it does need to be flexible. It can't be fixed and frozen.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5476565957069397,
+                  "t_rating": 0.8887787952135865,
+                  "r_rating": 0.8771129894567022,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Ah, but is that just a metaphor, or does the brain have a specific purpose?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.4681438207626343,
+                      "t_rating": 0.8421155721860495,
+                      "r_rating": 0.773084455051822,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Absolutely. We were very interested that you are asking us because it is interesting, if I can find a metaphor, or find an analogy, for what I think of as brain circuits, which are very complex and flexible, so that I can tell you what some of our projects are working on. I mean, a lot of you are very interested in finding circuits that produce specific behaviors. Some of our projects are interested in understanding the circuits that produce behaviors such as sleep.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.5659911036491394,
+                          "t_rating": 0.5659911036491394,
+                          "r_rating": 0.6710879130289169,
+                          "children": [
+                            {
+                              "name": "Dr. B:'The neural circuits for vision, for hearing, for locomotion, for cognition and for motivation. I'm not interested in the circuits that produce behavior such as being hungry or dreaming. I'm interested in the circuitry for producing the behavior of being conscious.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.5770114660263062,
+                              "t_rating": 0.9863783411682493,
+                              "r_rating": 0.9863783411682493
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So what is the most important aspect of brain functioning?'",
+              "g_rating": 0.7,
+              "s_rating": 0.4875803589820862,
+              "t_rating": 0.8530736231211817,
+              "r_rating": 0.8530736231211817
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'So, the primary function of brains is to encode the nervous system.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5270874500274658,
+          "t_rating": 0.7986370765100105,
+          "r_rating": 0.7986370765100105
         },
         {
           "name": "Dr. M:'I've always been fascinated with understanding how the brain works, how the brain processes information. How information gets into the brain, how information gets into the system, the neural circuit, the circuits that are there, how circuits work together. The brain, in itself, is quite interesting. It's got the nervous system, and it's got all these different motor and sensory systems that come together.'",
@@ -7163,7 +7604,25 @@
                       "g_rating": 0.6,
                       "s_rating": 0.36196088790893555,
                       "t_rating": 0.7007251132761155,
-                      "r_rating": 0.7007251132761155
+                      "r_rating": 0.7069564441276835,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So, the primary function of your brain is to make sense of sensory information that comes through your ears, your eyes, your nose, and your mouth. How does your brain know what your eyes are seeing, what your nose is smelling, what your ears are hearing?'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.40812811255455017,
+                          "t_rating": 0.7256504366823874,
+                          "r_rating": 0.7369564862899938,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, the eyes, nose, and ears all have different neural circuitry, so the brain is getting information about their functions from elsewhere. It's not a one-to-one mapping, but your brain has many distinct and separate neural circuitry circuits for eyes, nose, ears, and so on.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.32287412881851196,
+                              "t_rating": 0.7708746351128133,
+                              "r_rating": 0.7708746351128133
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -7183,7 +7642,16 @@
               "g_rating": 0.8,
               "s_rating": 0.4315597116947174,
               "t_rating": 0.9089795293393729,
-              "r_rating": 0.9089795293393729
+              "r_rating": 0.8850116137030446,
+              "children": [
+                {
+                  "name": "Dr. M:'No, that peripheral phenomenon, and this is what I'm interested in. So, you're asking if the primary function of brains is to sort and to organize information in a way that enables us to think, right? That enables you to think. The primary function of brains, and then the brains of all of us, is to sort information in a way and to organize it, to make sense of it. To enable you to think.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5487662553787231,
+                  "t_rating": 0.8131078667940594,
+                  "r_rating": 0.8131078667940594
+                }
+              ]
             },
             {
               "name": "Dr. B:'In the course of living, the brain serves as a sensory organ to perceive the world, to carry out motor activities, and in particular, it performs high-level sensory-motor integration.'",
@@ -7274,7 +7742,16 @@
               "g_rating": 0.9,
               "s_rating": 0.37709757685661316,
               "t_rating": 0.9758086812849788,
-              "r_rating": 0.9758086812849788
+              "r_rating": 0.9250174399933055,
+              "children": [
+                {
+                  "name": "Dr. M:'So, I think I'm going to say 'it's to create an experience', but it's to create a narrative or, a narrative of experience that is consistent with what you want, and then you can use it to control the world.' I'm just trying to figure out. I think that you're saying it's to control reality, is that what you're saying?'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.32707539200782776,
+                  "t_rating": 0.7726437161182858,
+                  "r_rating": 0.7726437161182858
+                }
+              ]
             }
           ]
         },
@@ -7342,6 +7819,13 @@
                   "t_rating": 0.6390861953723257,
                   "r_rating": 0.7129645303588737,
                   "children": [
+                    {
+                      "name": "Dr. B:'Well, you're not going to get far on a job where you don't even know your own specialty.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.18724487721920013,
+                      "t_rating": 0.8216207422192027,
+                      "r_rating": 0.8216207422192027
+                    },
                     {
                       "name": "Dr. B:'What did you think the brain was doing the last time it was doing it?'",
                       "g_rating": 0.8,
@@ -7489,7 +7973,16 @@
                                       "g_rating": 0.6,
                                       "s_rating": 0.1733902543783188,
                                       "t_rating": 0.6245511831014157,
-                                      "r_rating": 0.6245511831014157
+                                      "r_rating": 0.6902276995412593,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'It has come from evolution, it has come from evolution. And we know, for example, that we know that there are other primates in our world that have brains with large numbers of neurons that are not sensory neurons. We know that there are animals that have brains with far greater numbers of neurons, and yet they have less sensory neurons. They have less number of neurons than we do.'",
+                                          "g_rating": 0.8,
+                                          "s_rating": 0.3836996555328369,
+                                          "t_rating": 0.88725724886079,
+                                          "r_rating": 0.88725724886079
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -7502,6 +7995,47 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'So that is a good question, and it is one I often get asked. So that has been something we have studied. But, I think as neuroscientists, the most important function is to think about how all that activity in the brain is organized. The second is to understand what all those neurons do, how they are built, how they are configured.'",
+          "g_rating": 0.5,
+          "s_rating": 0.6256479024887085,
+          "t_rating": 0.8008965587942806,
+          "r_rating": 0.8351779115734989,
+          "children": [
+            {
+              "name": "Dr. B:'Ah, but I'm not a neuroscientist\u2014I'm just a brain-computer researcher. So what are the primary functions of the brain as I understand them?'",
+              "g_rating": 0.8,
+              "s_rating": 0.4897807836532593,
+              "t_rating": 0.9380219699111535,
+              "r_rating": 0.9280781556936182,
+              "children": [
+                {
+                  "name": "Dr. M:'The brain is a very mysterious thing. In some sense it seems like the most mysterious part of the nervous system because its circuits are the most complicated. But we don't know the function of each neuron.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5628917813301086,
+                  "t_rating": 0.8982467130410123,
+                  "r_rating": 0.8982467130410123
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'I think the brain is a pretty complex circuit, as you say, in terms of how neurons are interacting to produce a circuit, but one of the most important functions, I think, of the brain is to generate behavior, and also to generate all of the functions of cognition, which is the ability to think and to reason.'",
+          "g_rating": 0.7,
+          "s_rating": 0.646682858467102,
+          "t_rating": 0.9529946061941704,
+          "r_rating": 0.8415341067625242,
+          "children": [
+            {
+              "name": "Dr. B:'I agree. Now, what is the primary function for a human brain?'",
+              "g_rating": 0.2,
+              "s_rating": 0.46605125069618225,
+              "t_rating": 0.5071526084675851,
+              "r_rating": 0.5071526084675851
             }
           ]
         },
@@ -7520,6 +8054,13 @@
               "r_rating": 0.7967096964336258,
               "children": [
                 {
+                  "name": "Dr. M:'Yes, it controls the actions of everything that we do'.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.38135576248168945,
+                  "t_rating": 0.5526592237337496,
+                  "r_rating": 0.5526592237337496
+                },
+                {
                   "name": "Dr. M:'No, the brain has to be able to respond to the demands of the world and the tasks we have to do every day.'",
                   "g_rating": 0.7,
                   "s_rating": 0.445617139339447,
@@ -7531,7 +8072,16 @@
                       "g_rating": 0.6,
                       "s_rating": 0.48635387420654297,
                       "t_rating": 0.7723600785616213,
-                      "r_rating": 0.7723600785616213
+                      "r_rating": 0.806271907729509,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I suppose that in the most general terms, we are talking about an information processor, because you've got to have information to be a mind and be smart and not make mistakes and also have to be flexible. Right?'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.42950835824012756,
+                          "t_rating": 0.908007395233172,
+                          "r_rating": 0.908007395233172
+                        }
+                      ]
                     }
                   ]
                 },
@@ -7554,6 +8104,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I don't know that, but it is certainly not just to store memories.'",
+          "g_rating": 0.8,
+          "s_rating": 0.3132343590259552,
+          "t_rating": 0.8591366385356878,
+          "r_rating": 0.8591366385356878
         },
         {
           "name": "Dr. M:'The brain has the fundamental job of protecting the nervous system. It's the hub of information. It's the interface to the outside. It's the circuit that connects neurons together, and all of those functions are critically important in ensuring that we do not succumb to pathogens, that we do not have brain damage, that we are not too hot or cold. So, the brain has to perform all of these very, very, very important functions. What is the primary function?'",
@@ -7669,7 +8226,16 @@
               "g_rating": 0.6,
               "s_rating": 0.19210542738437653,
               "t_rating": 0.6300035676331793,
-              "r_rating": 0.6300035676331793
+              "r_rating": 0.6286000432801864,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes, of course.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.17280685901641846,
+                  "t_rating": 0.6243894702212076,
+                  "r_rating": 0.6243894702212076
+                }
+              ]
             },
             {
               "name": "Dr. B:'You said \"the brain has the fundamental, core job of protecting the neuronal system\", but I think the brain has another, more fundamental function; that it organizes, synthesizes, and communicates information. So it has an important role in many different levels of organization, including a role in cognition. We, ourselves, are \"made of brain\". Therefore we need brains.'",
@@ -7760,7 +8326,25 @@
               "g_rating": 0.8,
               "s_rating": 0.35519304871559143,
               "t_rating": 0.8753068615382131,
-              "r_rating": 0.8753068615382131
+              "r_rating": 0.8643639535077028,
+              "children": [
+                {
+                  "name": "Dr. M:'So, what are the functions that you're worried about for example when we're talking about brain damage?'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.44883275032043457,
+                  "t_rating": 0.8315352294161719,
+                  "r_rating": 0.7816431850646387,
+                  "children": [
+                    {
+                      "name": "Dr. B:'I don't know what you mean by that question.'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.19844987988471985,
+                      "t_rating": 0.6319670520100393,
+                      "r_rating": 0.6319670520100393
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "Dr. B:'The primary function of the human brain is to maintain a healthy state of mind.'",
@@ -7772,11 +8356,38 @@
           ]
         },
         {
-          "name": "Dr. M:'The primary function of the central nervous system is to process and interpret sensory information, to generate muscle movements and motor neuron activity, to process and interpret motor neuron activity, and to provide motor neuron excitability. A secondary function of the nervous system is to produce the rhythmic behaviour that gives the animal its adaptive behaviour. So, the most basic role of the central nervous systems of animals is to extract sensory information and to convert sensory information into motor patterns and motor patterns.'",
+          "name": "Dr. M:'Well, it's not to make you think, it's not just to make you think but to control your motor systems.'",
           "g_rating": 0.8,
-          "s_rating": 0.38496094942092896,
-          "t_rating": 0.887803431272409,
-          "r_rating": 0.887803431272409
+          "s_rating": 0.429031640291214,
+          "t_rating": 0.9077819938569887,
+          "r_rating": 0.8730778013648793,
+          "children": [
+            {
+              "name": "Dr. B:'No, it's to make the muscles of the body move in specific ways.'",
+              "g_rating": 0.7,
+              "s_rating": 0.3182884156703949,
+              "t_rating": 0.7689652238885515,
+              "r_rating": 0.7657148332241825,
+              "children": [
+                {
+                  "name": "Dr. M:'So it's not just thinking but it's moving muscles, it's not, but muscles move muscles. So, you know I thought you were asking about neural circuitry. You know, because there's some neurons that are responsible for muscle movements and there are neurons that are responsible, you know neurons that are responsible of moving the muscles of the mouth, the mouth, the brain moves muscles. So, muscles have a lot to do with the brain. There are many different muscles that contribute to chewing.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.45987069606781006,
+                  "t_rating": 0.7559636612310754,
+                  "r_rating": 0.7963133780448416,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Okay, but can we talk about the brain in a little more depth, you think, or should we go back to your original topic, which is the muscles and the role of the muscles? The muscles are in the body, and the body moves. The brain has a role in movement, as does the muscles.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.4489476680755615,
+                      "t_rating": 0.9173625284861404,
+                      "r_rating": 0.9173625284861404
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'Well, that's a wonderful question, and I'm going to give you an answer that's going to be completely different from most of the people who have been talking about the brain.  The brain is a sensory apparatus that provides the body with feedback about how it's doing.  We have some sensory inputs, but most of our sensory input comes from our eyes, our ears, our nose, the tongue, and that's all sensory input.'",
@@ -7790,7 +8401,34 @@
               "g_rating": 0.7,
               "s_rating": 0.36361438035964966,
               "t_rating": 0.7888063245210017,
-              "r_rating": 0.7888063245210017
+              "r_rating": 0.813609982406232,
+              "children": [
+                {
+                  "name": "Dr. M:'You mean, we hear sound, we see light, we smell food, we taste food, and we use these sensory inputs to make decisions.  We're walking around our neighborhoods, we're trying to decide if somebody is at home, we're trying not to step in the street because it's too noisy and we're going to hit the cars or the motorcycles or the other people.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.38546234369277954,
+                  "t_rating": 0.8880209560619223,
+                  "r_rating": 0.8923176863364684,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Hmm, we don't really know much about how sensory inputs are transformed into perceptual experiences, but we know that there's some organization that turns a high-level pattern of electrical activity in your brain into a low-level pattern of neural firing in the visual cortex, and that's how a visual scene is represented.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.42355790734291077,
+                      "t_rating": 0.9052078771601062,
+                      "r_rating": 0.9151822015884264,
+                      "children": [
+                        {
+                          "name": "Dr. M:'And it's a little bit like that with the auditory system, because most of the sensory systems that I studied and that I read about, they turn their sensory input into a set of motor patterns that can then move the muscles.  So in your brain, you have lots of neurons that fire in different ways.  Some of them fire in a sequential manner, some of them fire together, and it is this pattern of firing that creates the sensory experience that the brain receives from the outside world.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.5032134652137756,
+                          "t_rating": 0.9451051748733873,
+                          "r_rating": 0.9451051748733873
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "Dr. B:'So what you're saying is that the brain is not the primary locus for cognition?'",
@@ -7884,7 +8522,16 @@
                           "g_rating": 0.3,
                           "s_rating": 0.47737565636634827,
                           "t_rating": 0.5638151446096511,
-                          "r_rating": 0.5638151446096511
+                          "r_rating": 0.5325525978112634,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Oh, I see.'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.18031829595565796,
+                              "t_rating": 0.4387649574161003,
+                              "r_rating": 0.4387649574161003
+                            }
+                          ]
                         }
                       ]
                     }
@@ -7904,7 +8551,7 @@
                   "g_rating": 0.0,
                   "s_rating": 0.29583653807640076,
                   "t_rating": 0.29583653807640076,
-                  "r_rating": 0.44060960034209296,
+                  "r_rating": 0.46358226692295945,
                   "children": [
                     {
                       "name": "Dr. B:'And then the hacker wants to go off and do something else. Now I'm confused, because the hacker's brain is a control system as well as the network. The hacker can use the control system to shut down the whole network and go off and do what he wants to do. But then I still think that the hacker is going off and doing something other than what he's been told to do, and there must be some other control system that the hacker is controlling.'",
@@ -7925,9 +8572,25 @@
                           "g_rating": 0.6,
                           "s_rating": 0.5103594064712524,
                           "t_rating": 0.7876971015394744,
-                          "r_rating": 0.7876971015394744
+                          "r_rating": 0.750211818486144,
+                          "children": [
+                            {
+                              "name": "Dr. B:'How is this possible?'",
+                              "g_rating": 0.6,
+                              "s_rating": 0.21617741882801056,
+                              "t_rating": 0.6377559693261531,
+                              "r_rating": 0.6377559693261531
+                            }
+                          ]
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'Then I would say that the brain is not a network of control. We can't go into the brain and take out an entire control network. We can't get into the brain and rewrite it to look different.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.542899489402771,
+                      "t_rating": 0.9668194534626356,
+                      "r_rating": 0.9668194534626356
                     }
                   ]
                 },
@@ -7936,7 +8599,23 @@
                   "g_rating": 0.6,
                   "s_rating": 0.46135011315345764,
                   "t_rating": 0.7568645366951131,
-                  "r_rating": 0.7568645366951131
+                  "r_rating": 0.7957430723764276,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But when we're talking about this particular control system, this brain, what are we trying to do? What does it accomplish?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.527962863445282,
+                      "t_rating": 0.8767809219966761,
+                      "r_rating": 0.8767809219966761
+                    },
+                    {
+                      "name": "Dr. B:'Oh, but the brain does a whole lot of things! How can the brain not be doing anything, when it has a whole bunch of stuff going on inside it?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.4386739730834961,
+                      "t_rating": 0.9123786794203709,
+                      "r_rating": 0.9123786794203709
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'Well, the brain is like a machine, and a control system is like a program. It is like a program that says, you know, I want to control behaviour. So, the question is, why do I want to control what I do, why should I have control of what I do?'",
@@ -7977,6 +8656,38 @@
           ]
         },
         {
+          "name": "Dr. M:'The brain is what we study, it's important to remember that the brain was evolved from many, many years of evolution to support behavior, cognition, and many other functions that were necessary for animals to eat, to survive in the world, and to procreate and to give us the joy of our children.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5031067132949829,
+          "t_rating": 0.9450483400136103,
+          "r_rating": 0.9113737687288133,
+          "children": [
+            {
+              "name": "Dr. B:'Let me turn that around. The primary function of the _cortex_ is the processing of information. We see the same thing in the visual cortex and the auditory cortex. The same part of the brain is doing the same thing. The visual cortex and the temporal cortex in the same brain. The processing of auditory information in the same brain, the temporal cortex. The integration of the visual information in the same areas of the cortex, the lateral intraparietal cortex.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5446716547012329,
+              "t_rating": 0.8103500548744222,
+              "r_rating": 0.8103500548744222
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The primary function of the central nervous system is to process and interpret sensory information, to generate muscle movements and motor neuron activity, to process and interpret motor neuron activity, and to provide motor neuron excitability. A secondary function of the nervous system is to produce the rhythmic behaviour that gives the animal its adaptive behaviour. So, the most basic role of the central nervous systems of animals is to extract sensory information and to convert sensory information into motor patterns and motor patterns.'",
+          "g_rating": 0.8,
+          "s_rating": 0.38496094942092896,
+          "t_rating": 0.887803431272409,
+          "r_rating": 0.9155905108273042,
+          "children": [
+            {
+              "name": "Dr. B:'It is interesting to observe the two-stage development of the neural circuits in the central nervous systems and the relationship between sensory processing and motor output. This relationship between the cerebral cortex and other regions of the brain is called the cortex. I have a couple of simple questions. First, what do you call the cortex?'",
+              "g_rating": 0.8,
+              "s_rating": 0.5982512831687927,
+              "t_rating": 0.9989517494919898,
+              "r_rating": 0.9989517494919898
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'The brain is the primary information processor of the animal. The brain is responsible for the acquisition of data from a vast array of sensory modalities, for the manipulation of sensory data to make decisions, to make movements, to move muscles, to produce sensory feedback of activity to allow you to learn what you have to do to get the behavior you are looking for.'",
           "g_rating": 0.8,
           "s_rating": 0.49250277876853943,
@@ -7995,7 +8706,16 @@
                   "g_rating": 0.4,
                   "s_rating": 0.356252521276474,
                   "t_rating": 0.5356452734000783,
-                  "r_rating": 0.5356452734000783
+                  "r_rating": 0.5911770775693533,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And what is the brain doing, in the course of doing these things?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.46283814311027527,
+                      "t_rating": 0.7577724900771785,
+                      "r_rating": 0.7577724900771785
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'Well, I mean, you can talk about synaptic transmission and circuit stability and neural circuit function in general, but I want to talk about specific functions that the brain needs to do, because when I read some of the literature from, say, the late 20th Century on neuroanatomy and neurophysiology, I find these are fascinating little details.'",
@@ -8016,7 +8736,25 @@
                           "g_rating": 0.4,
                           "s_rating": 0.5311670303344727,
                           "t_rating": 0.6649348946433347,
-                          "r_rating": 0.6649348946433347
+                          "r_rating": 0.659032111810587,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Okay, good. So let's say you're working on the neural circuitry in a specific region of the brain, say the visual cortex or the auditory cortex or the motor cortex, or whatever it is you're working on. How would you describe this circuitry? How would you say that the visual cortex does things differently from the auditory cortex? How would you describe that difference?'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.5012944936752319,
+                              "t_rating": 0.6413237633123438,
+                              "r_rating": 0.6252861803182952,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'Yes. So the visual cortex is very much tied to processing of motion, visual input, the processing of the patterns of light that come in, so it has to be very good at processing light information. It has to be fast, it has to be resilient to noise, because you get light fluctuations, you get changing light, the fluctuations in light that are inevitable when you're living in the world. So it has to be robust to that.'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.49308130145072937,
+                                  "t_rating": 0.5771734313361496,
+                                  "r_rating": 0.5771734313361496
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
@@ -8045,7 +8783,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.24769262969493866,
                   "t_rating": 0.6491160441748409,
-                  "r_rating": 0.6491160441748409
+                  "r_rating": 0.6829664104627231,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Well, then why did evolution choose to generate a brain with the sole purpose of executing behavior? Is there some other reason why it was good to have a brain that generates behavior, other than the fact that it generates behaviors? The brain is the controller, so it's good to have a controller that generates behavior, right? But the controller also generates the behavior? So it's also good to have a behavior-generating controller? Why not have two controllers that both generate behavior?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.5054381489753723,
+                      "t_rating": 0.7845175093263698,
+                      "r_rating": 0.7845175093263698
+                    }
+                  ]
                 }
               ]
             },
@@ -8069,56 +8816,6 @@
                       "s_rating": 0.4872016906738281,
                       "t_rating": 0.7728942278186819,
                       "r_rating": 0.7728942278186819
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'Well, if you like to make a list of the possible answers it's easy to see how they can be classified. And I think it's really useful to think about a list of possibilities because there are so many possible answers. So my first answer is it is the brain that generates behaviour, right? It is the brain that creates behaviour. So maybe we think about it as a circuit of many neurons, neurons that can generate behaviour and they can be divided into different types.'",
-          "g_rating": 0.8,
-          "s_rating": 0.583695650100708,
-          "t_rating": 0.9903032929090402,
-          "r_rating": 0.9406879008480028,
-          "children": [
-            {
-              "name": "Dr. B:'Yes, but you say they can generate behaviour \u2013 where do they come from?'",
-              "g_rating": 0.7,
-              "s_rating": 0.3701530992984772,
-              "t_rating": 0.7918417246648906,
-              "r_rating": 0.7408476349364821,
-              "children": [
-                {
-                  "name": "Dr. M:'I mean, that's an interesting question. I think the simplest answer is \u2013 when you start with a circuit and you put it in a box and you keep it cold and silent for many hours, it becomes fixed, right? It comes to be, I think, stereotyped. And maybe the easiest thing is just to think of it as a stereotyped circuit that is fixed. I mean, it can't function.'",
-                  "g_rating": 0.5,
-                  "s_rating": 0.30916935205459595,
-                  "t_rating": 0.5878653657512566,
-                  "r_rating": 0.5878653657512566
-                }
-              ]
-            },
-            {
-              "name": "Dr. B:'Okay, I'll try to put this question into clearer terms.'",
-              "g_rating": 0.7,
-              "s_rating": 0.2637845277786255,
-              "t_rating": 0.7480523224316548,
-              "r_rating": 0.7617314937302576,
-              "children": [
-                {
-                  "name": "Dr. M:'You know, neurons in the brain can be grouped into neurons that can drive behaviour, neurons that can process information, and neurons that can produce cognition, and the last one can be split further into neurons that can produce consciousness and the like, that can generate sensory input and motor systems. All of these neurons can be arranged into different networks that can then be thought of as circuits that can produce behaviour.'",
-                  "g_rating": 0.5,
-                  "s_rating": 0.6280430555343628,
-                  "t_rating": 0.802769007626066,
-                  "r_rating": 0.7874627164574934,
-                  "children": [
-                    {
-                      "name": "Dr. B:'It seems like we can put this question more explicitly: Is there a network of neurons that are all of the same type that can be thought of as performing one function, and no other functions?'",
-                      "g_rating": 0.5,
-                      "s_rating": 0.547619640827179,
-                      "t_rating": 0.7415438429517762,
-                      "r_rating": 0.7415438429517762
                     }
                   ]
                 }
@@ -8161,7 +8858,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.5721650123596191,
                   "t_rating": 0.904086722260914,
-                  "r_rating": 0.904086722260914
+                  "r_rating": 0.8309768336580511,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Where are the interactions that we care about?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.3522956967353821,
+                      "t_rating": 0.6116471678494623,
+                      "r_rating": 0.6116471678494623
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'You can ask this question by thinking of the neurons and their networks and how they interact.'",
@@ -8207,7 +8913,16 @@
                           "g_rating": 0.0,
                           "s_rating": 0.5119717717170715,
                           "t_rating": 0.5119717717170715,
-                          "r_rating": 0.5119717717170715
+                          "r_rating": 0.5147599299303262,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Right. What else is going on in the brain?'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.4285547137260437,
+                              "t_rating": 0.52312440457009,
+                              "r_rating": 0.52312440457009
+                            }
+                          ]
                         }
                       ]
                     },
@@ -8325,7 +9040,16 @@
                   "g_rating": 0.4,
                   "s_rating": 0.3321939706802368,
                   "t_rating": 0.5199546462493648,
-                  "r_rating": 0.5199546462493648
+                  "r_rating": 0.6051736917827899,
+                  "children": [
+                    {
+                      "name": "Dr. B:'All this is very fascinating, but what I want to know is something like the primary function of a brain, that it does all the things that brains do.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5010286569595337,
+                      "t_rating": 0.8608308283830651,
+                      "r_rating": 0.8608308283830651
+                    }
+                  ]
                 }
               ]
             },
@@ -8387,7 +9111,7 @@
                           "g_rating": 0.4,
                           "s_rating": 0.16776227951049805,
                           "t_rating": 0.43375590189247976,
-                          "r_rating": 0.5041924075366278,
+                          "r_rating": 0.5386215181695161,
                           "children": [
                             {
                               "name": "Dr. B:'The body doesn't have a central nervous system. So I'm thinking that, you know, that you could, you know, take the body and you could dissect it into many pieces and you could look at them but the pieces would just be made out of tissue. The nervous system is a separate part of the brain and it's a separate part of your body, but they're both made of the same tissue.'",
@@ -8445,6 +9169,13 @@
                                   ]
                                 }
                               ]
+                            },
+                            {
+                              "name": "Dr. B:'But the nervous system is in some sense the central processing unit of the body. It's the nervous system that drives you and guides you and makes you move. So as the nervous system's being more complex means the brain is more complex, then the nervous system is more complex than a simple system can be, and that's why we need brains, which are complex, as opposed to simpler systems, like bodies.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.48783355951309204,
+                              "t_rating": 0.8532183670006251,
+                              "r_rating": 0.8532183670006251
                             }
                           ]
                         }
@@ -8460,6 +9191,63 @@
                   "r_rating": 0.8390269937085717
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Well, if you like to make a list of the possible answers it's easy to see how they can be classified. And I think it's really useful to think about a list of possibilities because there are so many possible answers. So my first answer is it is the brain that generates behaviour, right? It is the brain that creates behaviour. So maybe we think about it as a circuit of many neurons, neurons that can generate behaviour and they can be divided into different types.'",
+          "g_rating": 0.8,
+          "s_rating": 0.583695650100708,
+          "t_rating": 0.9903032929090402,
+          "r_rating": 0.9583097336305453,
+          "children": [
+            {
+              "name": "Dr. B:'Yes, but you say they can generate behaviour \u2013 where do they come from?'",
+              "g_rating": 0.7,
+              "s_rating": 0.3701530992984772,
+              "t_rating": 0.7918417246648906,
+              "r_rating": 0.7408476349364821,
+              "children": [
+                {
+                  "name": "Dr. M:'I mean, that's an interesting question. I think the simplest answer is \u2013 when you start with a circuit and you put it in a box and you keep it cold and silent for many hours, it becomes fixed, right? It comes to be, I think, stereotyped. And maybe the easiest thing is just to think of it as a stereotyped circuit that is fixed. I mean, it can't function.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.30916935205459595,
+                  "t_rating": 0.5878653657512566,
+                  "r_rating": 0.5878653657512566
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'Okay, I'll try to put this question into clearer terms.'",
+              "g_rating": 0.7,
+              "s_rating": 0.2637845277786255,
+              "t_rating": 0.7480523224316548,
+              "r_rating": 0.7617314937302576,
+              "children": [
+                {
+                  "name": "Dr. M:'You know, neurons in the brain can be grouped into neurons that can drive behaviour, neurons that can process information, and neurons that can produce cognition, and the last one can be split further into neurons that can produce consciousness and the like, that can generate sensory input and motor systems. All of these neurons can be arranged into different networks that can then be thought of as circuits that can produce behaviour.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.6280430555343628,
+                  "t_rating": 0.802769007626066,
+                  "r_rating": 0.7874627164574934,
+                  "children": [
+                    {
+                      "name": "Dr. B:'It seems like we can put this question more explicitly: Is there a network of neurons that are all of the same type that can be thought of as performing one function, and no other functions?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.547619640827179,
+                      "t_rating": 0.7415438429517762,
+                      "r_rating": 0.7415438429517762
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So what is the primary function for a neuron?'",
+              "g_rating": 0.7,
+              "s_rating": 0.5035984516143799,
+              "t_rating": 0.8623290557950607,
+              "r_rating": 0.8623290557950607
             }
           ]
         },
@@ -8489,7 +9277,16 @@
                       "g_rating": 0.5,
                       "s_rating": 0.3460015058517456,
                       "t_rating": 0.6080436185436663,
-                      "r_rating": 0.6080436185436663
+                      "r_rating": 0.5291438531456304,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Memory.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.2924445569515228,
+                          "t_rating": 0.2924445569515228,
+                          "r_rating": 0.2924445569515228
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8502,14 +9299,41 @@
           "g_rating": 0.8,
           "s_rating": 0.6022077202796936,
           "t_rating": 1.00132618979255,
-          "r_rating": 0.9957065143761734,
+          "r_rating": 1.0163630558799415,
           "children": [
             {
               "name": "Dr. B:'I understand.'",
               "g_rating": 0.3,
               "s_rating": 0.16633418202400208,
               "t_rating": 0.34302632568010555,
-              "r_rating": 0.34302632568010555
+              "r_rating": 0.4364080249673261,
+              "children": [
+                {
+                  "name": "Dr. M:'You know, so I'm fascinated by this, that we, when you say, \"Why do neurons exist?'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.513272225856781,
+                  "t_rating": 0.7165531228289878,
+                  "r_rating": 0.7463559785415637,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Well, that's a deep question for the philosophers, I'm not a philosopher. I just study brains.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.45662060379981995,
+                      "t_rating": 0.8357645456792913,
+                      "r_rating": 0.7168882305438666,
+                      "children": [
+                        {
+                          "name": "Dr. M:'But it makes me wonder. I mean, I feel like that all day long.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.19946616888046265,
+                          "t_rating": 0.3602592851375926,
+                          "r_rating": 0.3602592851375926
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               "name": "Dr. B:'So that the brain's primary function is the neural code?'",
@@ -8530,7 +9354,16 @@
                       "g_rating": 0.3,
                       "s_rating": 0.48095279932022095,
                       "t_rating": 0.5668470650660165,
-                      "r_rating": 0.5668470650660165
+                      "r_rating": 0.5716400318884103,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Yes, it's called the'synthetic' network. It's called the 'genesis' network because it was the first to come into being in all of the animals in all the species. So all the animals in the same species have the same kind of brains. The animals have the same kind, and they don't change because they can't, because they're the same. But the brain is built from many, many neurons. The brain is composed of hundreds of neurons.'",
+                          "g_rating": 0.3,
+                          "s_rating": 0.5034065842628479,
+                          "t_rating": 0.5860189323555919,
+                          "r_rating": 0.5860189323555919
+                        }
+                      ]
                     }
                   ]
                 },
@@ -8696,6 +9529,13 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Dr. B:'But the brain is so complicated, and it's been through so many evolutionary changes, that we've only just started to get our understanding of the brain's functions.'",
+              "g_rating": 0.9,
+              "s_rating": 0.5627844333648682,
+              "t_rating": 1.0614736541421157,
+              "r_rating": 1.0614736541421157
             }
           ]
         }

@@ -44,7 +44,7 @@ def tree_explore(treeloc):
     new_data = app_data.copy()
     path = [int(a) for a in treeloc.split('/') if len(a) > 0] # if len(treeloc) > 9 else [int(treeloc)]
     cNode = root
-    history = cNode.name + '<br><br>'
+    history = cNode.name.replace('\n' , '<br>') + '<br><br>'
     pathHist = ''
     for choice in path:
         cNode = cNode.children[choice]
