@@ -19,7 +19,7 @@ def update_app_data(app_data , splitValue):
 app_data = {
     "html_title":   "A stroll through the multiverse of stream-of-consciousness neuroscience",
     "root": root,
-    "history": root.name + '<br><br>',
+    "history": root.name.replace('\n' , '<br>') + '<br><br>',
     "cnode": root,
     "children_name": [x.name for x in root.children]
 }
