@@ -30900,7 +30900,32 @@
           "g_rating": 0.3,
           "s_rating": 0.1281362622976303,
           "t_rating": 0.32621910078290495,
-          "r_rating": 0.32621910078290495
+          "r_rating": 0.4330097626525914,
+          "children": [
+            {
+              "name": "Dr. B:'What is the role of gamma oscillations in this process?'",
+              "g_rating": 0.7,
+              "s_rating": 0.27853915095329285,
+              "t_rating": 0.7533817482616507,
+              "r_rating": 0.7541844293636664,
+              "children": [
+                {
+                  "name": "Dr. M:'For that we need to look into the underlying mechanisms.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.28711003065109253,
+                  "t_rating": 0.7565924726697135,
+                  "r_rating": 0.7565924726697135
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The answer is obvious.  It provides a substrate for synaptic connectivity and neural circuit development. It is the means to test circuits that are not known to be functional. If there were no neural activity, synaptic connectivity would be impossible. We would not know how many synapses are present or how they are organized. And as the circuit is built it would not be possible to determine which neurons are active and which ones are silent, even though it would be possible to test the functionality of each neuron.'",
+          "g_rating": 0.3,
+          "s_rating": 0.4707655608654022,
+          "t_rating": 0.5582295345974778,
+          "r_rating": 0.5582295345974778
         },
         {
           "name": "Dr. M:'The nervous system grows. It gets larger and bigger, but its connectivity doesn't grow proportionally to it, right?'",
@@ -31035,7 +31060,16 @@
                       "g_rating": 0.2,
                       "s_rating": 0.4825268089771271,
                       "t_rating": 0.5223333431647351,
-                      "r_rating": 0.5223333431647351
+                      "r_rating": 0.5086721549455919,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right. So, what we know is that every neuron is very closely related, so is it that the neurons themselves are born with their neuronal morphology? Or do they develop?'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.46768859028816223,
+                          "t_rating": 0.46768859028816223,
+                          "r_rating": 0.46768859028816223
+                        }
+                      ]
                     }
                   ]
                 },
@@ -31097,7 +31131,16 @@
                                   "g_rating": 0.7,
                                   "s_rating": 0.4767341613769531,
                                   "t_rating": 0.8469211655306453,
-                                  "r_rating": 0.8469211655306453
+                                  "r_rating": 0.8754596326260917,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'So, for example, it turns out that it is very difficult to change the color of a neuron. But if you go to a different brain structure, the hippocampus, it's much easier to change the color. So, it's not only a difference in function, but a difference in function is a change in function. So this is a fundamental difference. And so these differences, whether they are in wiring and the biophysical properties of neurons, are very important, I agree with you.'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.5326023101806641,
+                                      "t_rating": 0.961075033912431,
+                                      "r_rating": 0.961075033912431
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -31294,7 +31337,25 @@
               "g_rating": 0.6,
               "s_rating": 0.4002785384654999,
               "t_rating": 0.7212647976687041,
-              "r_rating": 0.7212647976687041
+              "r_rating": 0.7743608036762966,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, it's a little bit different, because at that stage of development, the neurons have a huge influence over each other. For example, during early embryonic stages, the neurons are not necessarily identical. The neurons that are present in the nervous system might be different, but that is a consequence of their own history as cells. And even later in development, during larval stages, the neurons will become functionally distinct in response to ongoing neuromodulation.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.48135238885879517,
+                  "t_rating": 0.9336488216990738,
+                  "r_rating": 0.847263894382622,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the role of inhibition? Do the right conditions match with the current inhibition? Or should we change the inhibition? In other words should I approach this differently?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.3096325695514679,
+                      "t_rating": 0.5881091124332666,
+                      "r_rating": 0.5881091124332666
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -31614,92 +31675,6 @@
           ]
         },
         {
-          "name": "Dr. M:'Well, it's fundamental to generating behaviour. There are two functions that we think about, and one of those functions is just the generation of behavioural stability over a long period of time. But the other function, which I think we all would agree is the most important function is to generate cognitive flexibility.'",
-          "g_rating": 0.5,
-          "s_rating": 0.47766241431236267,
-          "t_rating": 0.6914921417100235,
-          "r_rating": 0.6815956955696864,
-          "children": [
-            {
-              "name": "Dr. B:'So, is this the role of the brain? I mean, that's what my question is.'",
-              "g_rating": 0.5,
-              "s_rating": 0.4183083772659302,
-              "t_rating": 0.651906357148675,
-              "r_rating": 0.7213425438958497,
-              "children": [
-                {
-                  "name": "Dr. M:'This is one of the reasons that this conversation is a little bit interesting because you're asking the question of how the brain develops, but how it functions at later times in life. Because, for example, I do neuroscience with people who are young people, they do not know the meaning of life. They don't know whether they're going to live happily ever after, whether they're going have a long, healthy life. They have no idea. You know, it's a funny question.'",
-                  "g_rating": 0.8,
-                  "s_rating": 0.4735516607761383,
-                  "t_rating": 0.9296511041373742,
-                  "r_rating": 0.9073394894461828,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Yes, but I think that's where the brain is most important for developing, so that it can adapt to different things in later life, but that it can also generate behaviour in order to get by. And if that's your question, then that's one that we can approach. Is there a role in the brain of spontaneous activity in early life? It's interesting. I mean, there's just no such thing in the brain as a function.'",
-                      "g_rating": 0.7,
-                      "s_rating": 0.4650591015815735,
-                      "t_rating": 0.8404046453726087,
-                      "r_rating": 0.8648521845890434,
-                      "children": [
-                        {
-                          "name": "Dr. M:'Right.'",
-                          "g_rating": 0.0,
-                          "s_rating": 0.11659137159585953,
-                          "t_rating": 0.11659137159585953,
-                          "r_rating": 0.32173189464489205,
-                          "children": [
-                            {
-                              "name": "Dr. B:'I think that's what we should have to focus on, and it seems so important to me that in the brain there is no such thing as a function or function, but instead there is always the possibility to adapt to situations. I mean, I think that's what the brain is always adapting to, and what happens is it makes a lot of noise and then it can adapt to that noise. It can adapt to that, right?'",
-                              "g_rating": 0.8,
-                              "s_rating": 0.4881153702735901,
-                              "t_rating": 0.9371534637919897,
-                              "r_rating": 0.9371534637919897
-                            }
-                          ]
-                        },
-                        {
-                          "name": "Dr. M:'Exactly, it has to be generated. I think it's just a good question. You know, is it that the brain just sits there, and does its own thing, and doesn't do any special jobs, but it kind of creates these different functions for itself?'",
-                          "g_rating": 0.8,
-                          "s_rating": 0.49011170864105225,
-                          "t_rating": 0.9381948022383474,
-                          "r_rating": 0.9081006024287412,
-                          "children": [
-                            {
-                              "name": "Dr. B:'Okay, but it doesn't do anything in the world, right? It can't help us, and it can't give us anything.'",
-                              "g_rating": 0.8,
-                              "s_rating": 0.16978305578231812,
-                              "t_rating": 0.8178180029999229,
-                              "r_rating": 0.8156612205888178,
-                              "children": [
-                                {
-                                  "name": "Dr. M:'No, I think it can generate behaviour, it can generate cognition. You know, because we're going to be using our brains to ask you questions.'",
-                                  "g_rating": 0.7,
-                                  "s_rating": 0.4059431850910187,
-                                  "t_rating": 0.8091908733555025,
-                                  "r_rating": 0.7140970558306833,
-                                  "children": [
-                                    {
-                                      "name": "Dr. B:'Exactly. And there's no way that you can generate a function without doing something, right. It's very simple. It's very very simple. What is the difference? There is no difference in my brain without the activity of my brain. It's not an argument for anything, but it's simple. What are we trying to achieve? And this is where I'm very skeptical, because there is a problem.'",
-                                      "g_rating": 0.0,
-                                      "s_rating": 0.4288156032562256,
-                                      "t_rating": 0.4288156032562256,
-                                      "r_rating": 0.4288156032562256
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Dr. M:'The function is to be there for the circuit. It allows it to become robust, so it becomes stable. You know, if you're going to live with another person, you don't want to be there when they're going to be angry, because it can create problems.'",
           "g_rating": 0.6,
           "s_rating": 0.29646289348602295,
@@ -31907,7 +31882,16 @@
                           "g_rating": 0.7,
                           "s_rating": 0.4963098466396332,
                           "t_rating": 0.8580929226321915,
-                          "r_rating": 0.8580929226321915
+                          "r_rating": 0.8076942756472787,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, do they have voltage-gated channels? And if so, can they be driven by the neurotransmitter that activates a voltage-gating channel? Are they part of a feed-forward network?'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.5205670595169067,
+                              "t_rating": 0.6564983346925404,
+                              "r_rating": 0.6564983346925404
+                            }
+                          ]
                         }
                       ]
                     },
@@ -31973,6 +31957,22 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'The brain grows in a variety of patterns during development. You know that neurons have a number of different roles, and I think a big part of the brain is growing, and I guess this part of the brain develops as the rest of the brain.'",
+          "g_rating": 0.6,
+          "s_rating": 0.48130449652671814,
+          "t_rating": 0.7691904955060467,
+          "r_rating": 0.7088272098540145,
+          "children": [
+            {
+              "name": "Dr. B:'What are these patterns? Is it a neural syntax?'",
+              "g_rating": 0.2,
+              "s_rating": 0.48837149143218994,
+              "t_rating": 0.527737352897918,
+              "r_rating": 0.527737352897918
             }
           ]
         },
@@ -32099,11 +32099,27 @@
                               "r_rating": 0.8058290711298853,
                               "children": [
                                 {
+                                  "name": "Dr. M:'It's just a question. You know, we have a tendency to think that, like, we're sort of building this, you know, hardwired, you know, the brain is going to be built and it's going to have a specific set of behaviors, and everything's going to be, you know, just kind of...'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.4403182566165924,
+                                  "t_rating": 0.826970475355605,
+                                  "r_rating": 0.8411679048541016,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'The only thing we have to be aware of is that the brain is made up of a lot of competing dynamics, and it's not one or the other. I'm a firm believer that there are, but the way that these dynamics interact is constantly changing. It's never fixed. It's always, always changing. I'm a great believer of dynamic interaction, and it has a lot to do with language, as it does.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.5394738912582397,
+                                      "t_rating": 0.8837601933495913,
+                                      "r_rating": 0.8837601933495913
+                                    }
+                                  ]
+                                },
+                                {
                                   "name": "Dr. M:'So I guess, you know, the thing that strikes me is that these models that you're describing are, like, the brain has a job and the job is to produce neural activity, right? So these models are going to be, if they are models of neurons, they're going to be bursting neurons, right?'",
                                   "g_rating": 0.6,
                                   "s_rating": 0.548816978931427,
                                   "t_rating": 0.8131421009660109,
-                                  "r_rating": 0.8237883587425896,
+                                  "r_rating": 0.8593107872017366,
                                   "children": [
                                     {
                                       "name": "Dr. B:'No, but I'm saying, what would be the function of bursting? Is the brain an information receiver or information generator? And there are at least two functions that can be done by bursting. And the first one is called pattern completion and the second one is called gain modulation. And both of these functions seem to be very helpful. So if it's the other way around, I'm just, I'm asking whether there are functions for the other way around.'",
@@ -32129,22 +32145,13 @@
                                           ]
                                         }
                                       ]
-                                    }
-                                  ]
-                                },
-                                {
-                                  "name": "Dr. M:'It's just a question. You know, we have a tendency to think that, like, we're sort of building this, you know, hardwired, you know, the brain is going to be built and it's going to have a specific set of behaviors, and everything's going to be, you know, just kind of...'",
-                                  "g_rating": 0.7,
-                                  "s_rating": 0.4403182566165924,
-                                  "t_rating": 0.826970475355605,
-                                  "r_rating": 0.8411679048541016,
-                                  "children": [
+                                    },
                                     {
-                                      "name": "Dr. B:'The only thing we have to be aware of is that the brain is made up of a lot of competing dynamics, and it's not one or the other. I'm a firm believer that there are, but the way that these dynamics interact is constantly changing. It's never fixed. It's always, always changing. I'm a great believer of dynamic interaction, and it has a lot to do with language, as it does.'",
-                                      "g_rating": 0.7,
-                                      "s_rating": 0.5394738912582397,
-                                      "t_rating": 0.8837601933495913,
-                                      "r_rating": 0.8837601933495913
+                                      "name": "Dr. B:'So this is why I'm so fond of your work, is that it makes the brain so that it can do something that it couldn't do before the intervention. Like, before, in many cases, all of these models are built using synaptic connectivity and a very simple network.'",
+                                      "g_rating": 0.8,
+                                      "s_rating": 0.5963543057441711,
+                                      "t_rating": 0.9978168459089135,
+                                      "r_rating": 0.9978168459089135
                                     }
                                   ]
                                 }
@@ -32175,13 +32182,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'That is a really good question.'",
-          "g_rating": 0.7,
-          "s_rating": 0.17616920173168182,
-          "t_rating": 0.7218279487791935,
-          "r_rating": 0.7218279487791935
         },
         {
           "name": "Dr. M:'It's one of the features of neural development that is often overlooked, but it's important.'",
@@ -32253,7 +32253,16 @@
                                   "g_rating": 0.5,
                                   "s_rating": 0.325141578912735,
                                   "t_rating": 0.5964201927650222,
-                                  "r_rating": 0.5964201927650222
+                                  "r_rating": 0.6337954690199067,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'But this is what I mean when you say it's a state of constant regulation. There are some states that are hard to get out of because you have to go through a long process of trying to get out of those states, and some are really just there forever, but it takes a very long time to get out of them.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.2576792240142822,
+                                      "t_rating": 0.7459212977845603,
+                                      "r_rating": 0.7459212977845603
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -32651,6 +32660,122 @@
           ]
         },
         {
+          "name": "Dr. M:'Well, it's fundamental to generating behaviour. There are two functions that we think about, and one of those functions is just the generation of behavioural stability over a long period of time. But the other function, which I think we all would agree is the most important function is to generate cognitive flexibility.'",
+          "g_rating": 0.5,
+          "s_rating": 0.47766241431236267,
+          "t_rating": 0.6914921417100235,
+          "r_rating": 0.7334012402508573,
+          "children": [
+            {
+              "name": "Dr. B:'So, is this the role of the brain? I mean, that's what my question is.'",
+              "g_rating": 0.5,
+              "s_rating": 0.4183083772659302,
+              "t_rating": 0.651906357148675,
+              "r_rating": 0.7213425438958497,
+              "children": [
+                {
+                  "name": "Dr. M:'I don't think we know the function of the brain yet.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.3979746699333191,
+                  "t_rating": 0.7199887762378899,
+                  "r_rating": 0.7199887762378899
+                },
+                {
+                  "name": "Dr. M:'This is one of the reasons that this conversation is a little bit interesting because you're asking the question of how the brain develops, but how it functions at later times in life. Because, for example, I do neuroscience with people who are young people, they do not know the meaning of life. They don't know whether they're going to live happily ever after, whether they're going have a long, healthy life. They have no idea. You know, it's a funny question.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4735516607761383,
+                  "t_rating": 0.9296511041373742,
+                  "r_rating": 0.9073394894461828,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Yes, but I think that's where the brain is most important for developing, so that it can adapt to different things in later life, but that it can also generate behaviour in order to get by. And if that's your question, then that's one that we can approach. Is there a role in the brain of spontaneous activity in early life? It's interesting. I mean, there's just no such thing in the brain as a function.'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.4650591015815735,
+                      "t_rating": 0.8404046453726087,
+                      "r_rating": 0.8648521845890434,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Right.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.11659137159585953,
+                          "t_rating": 0.11659137159585953,
+                          "r_rating": 0.32173189464489205,
+                          "children": [
+                            {
+                              "name": "Dr. B:'I think that's what we should have to focus on, and it seems so important to me that in the brain there is no such thing as a function or function, but instead there is always the possibility to adapt to situations. I mean, I think that's what the brain is always adapting to, and what happens is it makes a lot of noise and then it can adapt to that noise. It can adapt to that, right?'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.4881153702735901,
+                              "t_rating": 0.9371534637919897,
+                              "r_rating": 0.9371534637919897
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Dr. M:'Exactly, it has to be generated. I think it's just a good question. You know, is it that the brain just sits there, and does its own thing, and doesn't do any special jobs, but it kind of creates these different functions for itself?'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.49011170864105225,
+                          "t_rating": 0.9381948022383474,
+                          "r_rating": 0.9081006024287412,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Okay, but it doesn't do anything in the world, right? It can't help us, and it can't give us anything.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.16978305578231812,
+                              "t_rating": 0.8178180029999229,
+                              "r_rating": 0.8156612205888178,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'No, I think it can generate behaviour, it can generate cognition. You know, because we're going to be using our brains to ask you questions.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.4059431850910187,
+                                  "t_rating": 0.8091908733555025,
+                                  "r_rating": 0.7140970558306833,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Exactly. And there's no way that you can generate a function without doing something, right. It's very simple. It's very very simple. What is the difference? There is no difference in my brain without the activity of my brain. It's not an argument for anything, but it's simple. What are we trying to achieve? And this is where I'm very skeptical, because there is a problem.'",
+                                      "g_rating": 0.0,
+                                      "s_rating": 0.4288156032562256,
+                                      "t_rating": 0.4288156032562256,
+                                      "r_rating": 0.4288156032562256
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'So the brain doesn't do things just because it has a natural tendency to do them. There's a critical period that, when these things are under my control and can be altered, I'm in a better position to understand the function of it. Can you tell us a little bit about this? What does it look like? I mean, you have a very special career here. In a sense, you're a scientist like no one else.'",
+              "g_rating": 0.7,
+              "s_rating": 0.498098224401474,
+              "t_rating": 0.8591285358733588,
+              "r_rating": 0.8591285358733588
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'That is a really good question.'",
+          "g_rating": 0.7,
+          "s_rating": 0.17616920173168182,
+          "t_rating": 0.7218279487791935,
+          "r_rating": 0.7347031771978312,
+          "children": [
+            {
+              "name": "Dr. B:'I'm gonna go with a question that's probably easy to answer, though. What is the function of the hippocampus? The hippocampus is a piece of cortex whose neurons can encode a particular type of information, which we call episodic memories, that cannot be encoded in the neocortex. The hippocampus in itself can be conceived as a large associative network. It is a circuit of circuits. It can have many functions and it can do it in two different ways.'",
+              "g_rating": 0.6,
+              "s_rating": 0.48789089918136597,
+              "t_rating": 0.7733288624537441,
+              "r_rating": 0.7733288624537441
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'When you're small, you're not paying much attention to things, but your brains are working all the time to keep you alive. So you see activity, but you don't know it's different from what it is when you're big.'",
           "g_rating": 0.7,
           "s_rating": 0.3188765048980713,
@@ -32669,7 +32794,7 @@
                   "g_rating": 0.8,
                   "s_rating": 0.17172032594680786,
                   "t_rating": 0.8182223844061455,
-                  "r_rating": 0.7155077134218297,
+                  "r_rating": 0.8298370327659639,
                   "children": [
                     {
                       "name": "Dr. B:'Right. And the time when you first realize that, well, I'm the one who's talking is not a big event, but the big event is when you wake up.'",
@@ -32686,6 +32811,13 @@
                           "r_rating": 0.3827032379261394
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'Now, when I was a child, my parents, they had a radio. The radio is a piece of junk, but it was fun to turn the knob, press the button, and hear the operator. I had to put up with those annoying buzzing noises, but at the same time it was fun. It could be useful, or it could be dangerous, but I thought it would be fun to turn it on, or to turn it off. It was very different.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.3281359374523163,
+                      "t_rating": 0.8646809778454193,
+                      "r_rating": 0.8646809778454193
                     }
                   ]
                 }
@@ -33000,13 +33132,6 @@
           ]
         },
         {
-          "name": "Dr. M:'We don't know yet. I mean, we understand now that when neurons develop, they first undergo massive channel-closing inactivation of different channels. And they do that in an appropriate way. For example, the development of the gastric mill network is dependent on ion channel-closing to occur. But the expression of the ion channel genes that are responsible for ion channel-closes changes during development. For example, my colleague Dr.'",
-          "g_rating": 0.6,
-          "s_rating": 0.45240747928619385,
-          "t_rating": 0.7514469557554199,
-          "r_rating": 0.7514469557554199
-        },
-        {
           "name": "Dr. M:'It is interesting that it occurs in both sensory systems and motor systems. What you do is you create a set of parameters that allow the nervous system to respond to environmental perturbations. And what you get is an animal that is able to respond to changes in temperature and food availability as its nervous system matures.'",
           "g_rating": 0.6,
           "s_rating": 0.4291848838329315,
@@ -33139,7 +33264,16 @@
               "g_rating": 0.7,
               "s_rating": 0.5449710488319397,
               "t_rating": 0.8871265096168552,
-              "r_rating": 0.8871265096168552
+              "r_rating": 0.8679733147062584,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, the development of cognition depends on a number of factors, and I think some of the best work is done on this is on  Homo sapiens. Our brains and nervous systems have been evolving for millions of years. We are a very ancient species. You can go back, probably, maybe half a million years ago and look at a picture of, say, a baboon in the rainforest and see that the brain in that baboon has developed into a human-sized brain.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.4085737466812134,
+                  "t_rating": 0.8105137299744677,
+                  "r_rating": 0.8105137299744677
+                }
+              ]
             }
           ]
         },
@@ -33165,6 +33299,13 @@
                   "r_rating": 0.8266241513444231,
                   "children": [
                     {
+                      "name": "Dr. B:'How many? What is the rule book?'",
+                      "g_rating": 0.0,
+                      "s_rating": 0.1305517852306366,
+                      "t_rating": 0.1305517852306366,
+                      "r_rating": 0.1305517852306366
+                    },
+                    {
                       "name": "Dr. B:'And in the mouse brain, for example, these are the brain structures that are involved in language. And how are they involved in language? What is the role of language in the development of those brain areas? And there are many, numerous studies that are done in the development of these structures.'",
                       "g_rating": 0.5,
                       "s_rating": 0.46872708201408386,
@@ -33181,93 +33322,6 @@
               "s_rating": 0.26980260014533997,
               "t_rating": 0.6578703846846932,
               "r_rating": 0.6578703846846932
-            }
-          ]
-        },
-        {
-          "name": "Dr. M:'The brain grows in a variety of patterns during development. You know that neurons have a number of different roles, and I think a big part of the brain is growing, and I guess this part of the brain develops as the rest of the brain.'",
-          "g_rating": 0.6,
-          "s_rating": 0.48130449652671814,
-          "t_rating": 0.7691904955060467,
-          "r_rating": 0.7691904955060467
-        },
-        {
-          "name": "Dr. M:'The first thing you have to understand is that the nervous system develops in two phases. There's an early phase when neurons start their differentiation and are developing their circuits that produce basic behaviors, and then they enter the mature phase as their networks, their circuits come together and they develop their functions. So it's a two-step process.'",
-          "g_rating": 0.6,
-          "s_rating": 0.6080911755561829,
-          "t_rating": 0.8542686215642598,
-          "r_rating": 0.7712789167278474,
-          "children": [
-            {
-              "name": "Dr. B:'What are the basic functions of the developing brain?'",
-              "g_rating": 0.3,
-              "s_rating": 0.4275599718093872,
-              "t_rating": 0.5223098022186105,
-              "r_rating": 0.6387730801830612,
-              "children": [
-                {
-                  "name": "Dr. M:'Well, so the most fundamental function is to keep the body going, to make the cells produce and maintain all their cellular functions, and then the nervous system is there to regulate the body and to provide the control. So it's really two phases. So the initial phase, the most fundamental phase, is the body.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.36775314807891846,
-                  "t_rating": 0.7907226934405986,
-                  "r_rating": 0.7907226934405986
-                },
-                {
-                  "name": "Dr. M:'Well, you've got the basics of motor pattern generating, you've got memory storage, etc. That's why in  The Blind Watchmaker  you've got the story about the pigeon, because he has to remember that he's going to be able to find food, and he's going to remember that he can survive and he's going be able to survive the flight, he's going to do all these things.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.47031909227371216,
-                  "t_rating": 0.8433267744813802,
-                  "r_rating": 0.795536664631721,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Is there a basic function of the developing brain for which no mechanism has been proposed, that is the goal? Are there any hypothetical functions? Are there any functions? If not, then is there some reason why you'd like to answer that question differently? Or is there one that you are particularly curious about?'",
-                      "g_rating": 0.5,
-                      "s_rating": 0.41871342062950134,
-                      "t_rating": 0.6521663350827438,
-                      "r_rating": 0.6521663350827438
-                    },
-                    {
-                      "name": "Dr. B:'So the main functions of the developing mind are to generate behavior and survive? What if you just take a small brain from a developing brain, and say, \"What if we just keep it alive?\" What would happen?'",
-                      "g_rating": 0.4,
-                      "s_rating": 0.42098990082740784,
-                      "t_rating": 0.5807172260219863,
-                      "r_rating": 0.668625346860763,
-                      "children": [
-                        {
-                          "name": "Dr. M:'So if you just keep it alive without putting in any extra functionalities, the brain would just go into a kind of steady-state. It wouldn't develop new circuits or new features and it would be, it wouldn't do anything, it wouldn't grow. It wouldn't change, it would just be stable, and then as these circuits were added it would be able to add new features, and it would develop itself.'",
-                          "g_rating": 0.8,
-                          "s_rating": 0.47882771492004395,
-                          "t_rating": 0.9323497093770936,
-                          "r_rating": 0.9323497093770936
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Dr. M:'So as you develop your neural circuits you're developing not just your sensory and motor circuits but also your higher-order circuits that govern your behavior, so that you can develop complex behaviors.'",
-                  "g_rating": 0.7,
-                  "s_rating": 0.5650232434272766,
-                  "t_rating": 0.8995839402818836,
-                  "r_rating": 0.8995839402818836
-                },
-                {
-                  "name": "Dr. M:'In a developing brain, as you develop neurons, as circuits develop in these small circuits, you can see how they are electrically coupled, and they can play a role in the modulation of other neurons, and they can be regulated by neuromodulators and hormones. So we really believe that there are different modulators and different hormones that are important for the development of circuits, and the modulation of networks and the development of behaviors.'",
-                  "g_rating": 0.8,
-                  "s_rating": 0.5800568461418152,
-                  "t_rating": 0.9881629140764137,
-                  "r_rating": 0.9058236074469266,
-                  "children": [
-                    {
-                      "name": "Dr. B:'Do we know what those specific functions are?'",
-                      "g_rating": 0.6,
-                      "s_rating": 0.27207523584365845,
-                      "t_rating": 0.6588056875584655,
-                      "r_rating": 0.6588056875584655
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -33363,11 +33417,75 @@
                       "g_rating": 0.5,
                       "s_rating": 0.19719140231609344,
                       "t_rating": 0.5374797197545108,
-                      "r_rating": 0.5374797197545108
+                      "r_rating": 0.6058461311754595,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Well, it was because I started graduate school at the University of Michigan when there was a group of neurophysiologists that were doing studies of the stomatogenic nervous system, which is where I started. So, one of the first people that we hired was a neurophysiologist, who was working on the stomatogenus. The only job he did was to take the nerves that connect the muscles to the brain off, to study their properties.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.4094293415546417,
+                          "t_rating": 0.8109453654383059,
+                          "r_rating": 0.8109453654383059
+                        }
+                      ]
                     }
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'We don't know yet. I mean, we understand now that when neurons develop, they first undergo massive channel-closing inactivation of different channels. And they do that in an appropriate way. For example, the development of the gastric mill network is dependent on ion channel-closing to occur. But the expression of the ion channel genes that are responsible for ion channel-closes changes during development. For example, my colleague Dr.'",
+          "g_rating": 0.6,
+          "s_rating": 0.45240747928619385,
+          "t_rating": 0.7514469557554199,
+          "r_rating": 0.7779480495392581,
+          "children": [
+            {
+              "name": "Dr. B:'Paul, that is actually one question. In addition to that question, what are the major questions that we can address in the next 30 years? The two major issues, to my mind, are the mechanism of cortical circuit-formation and the mechanisms of neural syntax.'",
+              "g_rating": 0.6,
+              "s_rating": 0.6125543117523193,
+              "t_rating": 0.8574513308907729,
+              "r_rating": 0.877323066261924,
+              "children": [
+                {
+                  "name": "Dr. M:'Yes, well, it's actually one of my interests. As a scientist, as we say, and so I think we have many years to go to find out a lot more about how the brain really works. And of course there is going to be an enormous amount of interest in the mechanism by which neuronal circuits develop. I think that will be interesting for some years to come.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.6227787137031555,
+                  "t_rating": 0.9369382723753774,
+                  "r_rating": 0.9369382723753774
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'When neurons are developing, they need to be 'wired' so that they can properly fire and transmit the necessary information for development. In some cases, neural activity must be blocked during development, but, as these neurons are usually silent, it is not a significant restriction. Thus, spontaneous neural activity is a necessary component of development, but it's not the only one, it's not an important component.'",
+          "g_rating": 0.6,
+          "s_rating": 0.49738192558288574,
+          "t_rating": 0.7793515124105036,
+          "r_rating": 0.7793515124105036
+        },
+        {
+          "name": "Dr. M:'Well, there is a series of reports of activity in the developing animal that appears to be necessary for producing the right set of network connections. The idea is that you can change the connectivity of a network by changing its behavior.'",
+          "g_rating": 0.6,
+          "s_rating": 0.5087653398513794,
+          "t_rating": 0.786665221701131,
+          "r_rating": 0.786665221701131
+        },
+        {
+          "name": "Dr. M:'It is very early on, before the onset of functional motor circuits, during embryonic development, and it is during the first phase of neuronal development when there is the greatest period of growth. We know that the earliest phases of neural development occur in the early stages of embryonic development, so that is really a phase of rapid growth and the largest number of neurons that you will see.'",
+          "g_rating": 0.7,
+          "s_rating": 0.40977081656455994,
+          "t_rating": 0.811117822580657,
+          "r_rating": 0.7884359632134753,
+          "children": [
+            {
+              "name": "Dr. B:'The question really is how that network state interacts with the physical world.'",
+              "g_rating": 0.6,
+              "s_rating": 0.3987007737159729,
+              "t_rating": 0.7203903851119304,
+              "r_rating": 0.7203903851119304
             }
           ]
         },
@@ -33631,7 +33749,16 @@
               "g_rating": 0.6,
               "s_rating": 0.4876401126384735,
               "t_rating": 0.7731706664469774,
-              "r_rating": 0.7731706664469774
+              "r_rating": 0.8077655458726195,
+              "children": [
+                {
+                  "name": "Dr. M:'For example, if the neural network is the pyloric rhythm, the cardiac network that drives heartbeat, if you turn off this network, the heartbeat is very much reduced, and it will stay reduced as long as the pyloric network is disconnected.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4369482100009918,
+                  "t_rating": 0.9115501841495459,
+                  "r_rating": 0.9115501841495459
+                }
+              ]
             },
             {
               "name": "Dr. B:'What is the neural syntax that governs this network activity?'",
@@ -33768,7 +33895,16 @@
                   "g_rating": 0.2,
                   "s_rating": 0.5254525542259216,
                   "t_rating": 0.562228055812359,
-                  "r_rating": 0.562228055812359
+                  "r_rating": 0.6134473385734283,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Would you be able to give an example? Would you, uh, just give an example of what you mean by, uh, maintaining stability, keeping the network stable, maintaining function? What would be an example of a task that the brain has to do when it's ready to do it?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4779648184776306,
+                      "t_rating": 0.767105186856636,
+                      "r_rating": 0.767105186856636
+                    }
+                  ]
                 }
               ]
             }
@@ -33846,7 +33982,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.4744527041912079,
                           "t_rating": 0.9301104066261973,
-                          "r_rating": 0.9301104066261973
+                          "r_rating": 0.8679186197692558,
+                          "children": [
+                            {
+                              "name": "Dr. B:'In the course of evolution, how did we get here? How did the brain evolve? What was the first brain? When was the first brain formed? Do we have a guess, and what is the date? Does anyone have a date, or is it hard to say? And, what are the evolutionary reasons that we have this type of network? And, is it a result of adaptation, or is it a result to some other needs?'",
+                              "g_rating": 0.5,
+                              "s_rating": 0.46284839510917664,
+                              "t_rating": 0.6813432591984311,
+                              "r_rating": 0.6813432591984311
+                            }
+                          ]
                         }
                       ]
                     }
@@ -34012,13 +34157,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'It is very early on, before the onset of functional motor circuits, during embryonic development, and it is during the first phase of neuronal development when there is the greatest period of growth. We know that the earliest phases of neural development occur in the early stages of embryonic development, so that is really a phase of rapid growth and the largest number of neurons that you will see.'",
-          "g_rating": 0.7,
-          "s_rating": 0.40977081656455994,
-          "t_rating": 0.811117822580657,
-          "r_rating": 0.811117822580657
         },
         {
           "name": "Dr. M:'You know, I've been looking into that. There's some pretty interesting ideas that are being published. I'm still kind of, I'm kind of at the stage of not having a clue as to how these things are going to fit into how neural function is going to work. Like, the whole thing is the fact that these networks are all built-up of thousands of interacting neurons, and so you have to get the connectivity right. So, how does it get built?'",
@@ -34308,7 +34446,16 @@
                           "g_rating": 0.7,
                           "s_rating": 0.5249943137168884,
                           "t_rating": 0.874996588241958,
-                          "r_rating": 0.874996588241958
+                          "r_rating": 0.8727656004034369,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And what is the feedback, if you would like to call it that, then? I mean, let me ask you a question. So in case of neural networks, do we need a central pattern generator? So in case of the brain, we have a central pattern generator, right? And what is that? So what is the feedback?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.509982168674469,
+                              "t_rating": 0.8660726368878736,
+                              "r_rating": 0.8660726368878736
+                            }
+                          ]
                         }
                       ]
                     }
@@ -34349,7 +34496,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.5078471302986145,
                               "t_rating": 0.7860716937738809,
-                              "r_rating": 0.7860716937738809
+                              "r_rating": 0.7609163443240586,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'You are talking about the central pattern generating circuits.'",
+                                  "g_rating": 0.5,
+                                  "s_rating": 0.4688732326030731,
+                                  "t_rating": 0.6854502959745918,
+                                  "r_rating": 0.6854502959745918
+                                }
+                              ]
                             }
                           ]
                         }
@@ -34391,13 +34547,6 @@
           "t_rating": 0.8175618261073904,
           "r_rating": 0.8127019633257302,
           "children": [
-            {
-              "name": "Dr. B:'Are they formed after birth?'",
-              "g_rating": 0.6,
-              "s_rating": 0.26553812623023987,
-              "t_rating": 0.6561329868874654,
-              "r_rating": 0.6561329868874654
-            },
             {
               "name": "Dr. B:'When do these rhythms arise and how do they become self-organized?'",
               "g_rating": 0.4,
@@ -34585,6 +34734,22 @@
               ]
             },
             {
+              "name": "Dr. B:'Are they formed after birth?'",
+              "g_rating": 0.6,
+              "s_rating": 0.26553812623023987,
+              "t_rating": 0.6561329868874654,
+              "r_rating": 0.7250706966975244,
+              "children": [
+                {
+                  "name": "Dr. M:'No, they are formed during early development, during the first few days, during the first week, during the first month. The first few weeks, in this case, of early development. It is this, this special role of neural activity, this spontaneous neural activity, that makes the developing nervous system able to regulate itself. We need a regulatory system to make sure the networks are functional.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.47791993618011475,
+                  "t_rating": 0.9318838261277019,
+                  "r_rating": 0.9318838261277019
+                }
+              ]
+            },
+            {
               "name": "Dr. B:'What can these networks do that they cannot do in the absence of a network-driven mechanism?'",
               "g_rating": 0.7,
               "s_rating": 0.3834049105644226,
@@ -34658,7 +34823,16 @@
                               "g_rating": 0.6,
                               "s_rating": 0.5303087830543518,
                               "t_rating": 0.8007667609139303,
-                              "r_rating": 0.8007667609139303
+                              "r_rating": 0.8189078275518902,
+                              "children": [
+                                {
+                                  "name": "Dr. M:'It is, it is very important. I have spent a lot of time talking about the evolution of the brain. In the evolutionary sense, a nervous system has to change. You cannot have a central pattern generator without the ability to change. You can't have a central pattern, the central pattern generator.'",
+                                  "g_rating": 0.7,
+                                  "s_rating": 0.5222136378288269,
+                                  "t_rating": 0.8733310274657698,
+                                  "r_rating": 0.8733310274657698
+                                }
+                              ]
                             }
                           ]
                         }
@@ -34789,6 +34963,22 @@
           ]
         },
         {
+          "name": "Dr. M:'There are two things that are known, one is that the neurons that are born, in terms of size, are fairly large neurons, like the big sensory neurons and the motor neurons. And then there are the small neurons and the neurons that give rise to the circuits that govern muscle contraction or the contraction of the heart or the contraction of muscles of the mouth.'",
+          "g_rating": 0.7,
+          "s_rating": 0.4654378294944763,
+          "t_rating": 0.8406142832027833,
+          "r_rating": 0.8157989430378145,
+          "children": [
+            {
+              "name": "Dr. B:'The size of the neurons is important, right? How big is a neuron?'",
+              "g_rating": 0.6,
+              "s_rating": 0.43543559312820435,
+              "t_rating": 0.7413529225429081,
+              "r_rating": 0.7413529225429081
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'Well, we have learned that these rhythms, these oscillations, are the function of the central pattern generating networks of many neurons. It's a set of circuits with different properties that work together to generate the rhythmic activity that is seen in many neurons.'",
           "g_rating": 0.6,
           "s_rating": 0.5724605321884155,
@@ -34821,7 +35011,16 @@
                           "g_rating": 0.2,
                           "s_rating": 0.5621562004089355,
                           "t_rating": 0.5966737749040185,
-                          "r_rating": 0.5966737749040185
+                          "r_rating": 0.6522958207552996,
+                          "children": [
+                            {
+                              "name": "Dr. B:'But it can be a byproduct of the other functions. And, and what other functions are those? And what happens when the function is severed? So what would be the consequences? And what are the consequences of disconnecting these circuits? We can't afford to have this happen.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.42547187209129333,
+                              "t_rating": 0.8191619583091428,
+                              "r_rating": 0.8191619583091428
+                            }
+                          ]
                         }
                       ]
                     }
@@ -34898,6 +35097,13 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'The first function that a nervous system must serve is to provide behavior, including sensory and motor patterns, so that we can do things like eat, or dance or play. In this sense, neural activity is \"good enough\", as it allows us to function'.'",
+          "g_rating": 0.7,
+          "s_rating": 0.42758655548095703,
+          "t_rating": 0.8202623131828437,
+          "r_rating": 0.8202623131828437
         },
         {
           "name": "Dr. M:'So, this is the function of neural activity in development. First, neural activity during development is used for the development of the nervous system. This includes the production of the various ion channels and receptors that are important for neural excitability. And second, this is used in developing neural circuit models.'",
@@ -35251,7 +35457,16 @@
                                       "g_rating": 0.5,
                                       "s_rating": 0.24387575685977936,
                                       "t_rating": 0.5563051184232716,
-                                      "r_rating": 0.5563051184232716
+                                      "r_rating": 0.6766956504660188,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'But, but this is the most interesting case because it has never happened, that this type of activity has been removed from the brain and the brain has always been active. Because, you know, so we think about, you know, the activity of the brain early on, during development, is important for development of the brain. But it may not be important later on.'",
+                                          "g_rating": 0.9,
+                                          "s_rating": 0.516883373260498,
+                                          "t_rating": 1.0378672465942604,
+                                          "r_rating": 1.0378672465942604
+                                        }
+                                      ]
                                     },
                                     {
                                       "name": "Dr. B:'What do you mean by that?'",
@@ -35307,6 +35522,13 @@
           "r_rating": 0.827253329079935
         },
         {
+          "name": "Dr. M:'I've spent most of my career looking at a particular kind of neural activity. What you may not realize is that the first phase of neuronal development is very chaotic and there are many different processes going on at once, and they're all kind of jumbling around and trying to learn what they're supposed to be.'",
+          "g_rating": 0.5,
+          "s_rating": 0.6630079746246338,
+          "t_rating": 0.8304092812678933,
+          "r_rating": 0.8304092812678933
+        },
+        {
           "name": "Dr. M:'During development the neural systems must change as they develop and this can involve not only their morphology, but also their physiological properties. It's well known that changes in the neuromodulatory system can cause changes in neural network properties. And there are examples of neural systems that are completely or nearly completely dependent on neuromodulation and that show a great deal of change over the lifetime of a nervous system.'",
           "g_rating": 0.7,
           "s_rating": 0.5080321431159973,
@@ -35325,7 +35547,16 @@
                   "g_rating": 0.5,
                   "s_rating": 0.5332890748977661,
                   "t_rating": 0.7310247857667448,
-                  "r_rating": 0.7310247857667448
+                  "r_rating": 0.728823909232834,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do these changes in properties occur for the sake of development or are they for some other purpose? And would these changes have any implications for what happens to the brain when we're adults?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.40199947357177734,
+                      "t_rating": 0.7222212796311017,
+                      "r_rating": 0.7222212796311017
+                    }
+                  ]
                 }
               ]
             }
@@ -35819,7 +36050,25 @@
               "g_rating": 0.7,
               "s_rating": 0.504473865032196,
               "t_rating": 0.8628405881160913,
-              "r_rating": 0.8628405881160913
+              "r_rating": 0.8250899519051548,
+              "children": [
+                {
+                  "name": "Dr. M:'Oh, I think both of those could be true. I think the first thing that you could think of is the way I think of, I was talking to a neuroscientist earlier this year, and he said that the first neurons to appear were not necessarily those that are, that are important, and that would be important for you to know, they were neurons that would cause them to grow.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5066689252853394,
+                  "t_rating": 0.7118380432723449,
+                  "r_rating": 0.7363168490889027,
+                  "children": [
+                    {
+                      "name": "Dr. B:'But these are also those that would cause them not to grow, which is another problem we have to address, so I think we have to look at this as part of the problem that we have to address.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.1253010481595993,
+                      "t_rating": 0.8097532665385762,
+                      "r_rating": 0.8097532665385762
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -35842,18 +36091,20 @@
                   "g_rating": 0.7,
                   "s_rating": 0.47296327352523804,
                   "t_rating": 0.8448042720676247,
-                  "r_rating": 0.8448042720676247
+                  "r_rating": 0.8552921249081255,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is it possible that the same mechanism that gives rise to the activity in the developing brain gives rise to the same activity, and the function of this activity is to maintain its structure in the mature brain? Is that possible?'",
+                      "g_rating": 0.7,
+                      "s_rating": 0.5443671941757202,
+                      "t_rating": 0.8867556834296279,
+                      "r_rating": 0.8867556834296279
+                    }
+                  ]
                 }
               ]
             }
           ]
-        },
-        {
-          "name": "Dr. M:'There are two things that are known, one is that the neurons that are born, in terms of size, are fairly large neurons, like the big sensory neurons and the motor neurons. And then there are the small neurons and the neurons that give rise to the circuits that govern muscle contraction or the contraction of the heart or the contraction of muscles of the mouth.'",
-          "g_rating": 0.7,
-          "s_rating": 0.4654378294944763,
-          "t_rating": 0.8406142832027833,
-          "r_rating": 0.8406142832027833
         },
         {
           "name": "Dr. M:'Spontaneous neural activity during development serves to drive developmental changes. But in most of the animals you see, it plays a role in producing a large, highly organized nervous system, but not necessarily in terms of behavior. So, you know, it has the advantage of changing the number of neurons, but it doesn't have all of the other advantages that we might think that the nervous system might have. So, the advantage is the number of neurons you get, and also you can change it.'",
@@ -36002,7 +36253,16 @@
                           "g_rating": 0.0,
                           "s_rating": 0.4240398108959198,
                           "t_rating": 0.4240398108959198,
-                          "r_rating": 0.4240398108959198
+                          "r_rating": 0.5422816910318327,
+                          "children": [
+                            {
+                              "name": "Dr. B:'And it's incredibly complicated to figure out the rules of how that circuit can function. And, and, and, and how these neurons can, you know, how these synapses can work together.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.5609118938446045,
+                              "t_rating": 0.8970073314395712,
+                              "r_rating": 0.8970073314395712
+                            }
+                          ]
                         }
                       ]
                     }
@@ -36031,6 +36291,13 @@
                       "t_rating": 0.7383999597874121,
                       "r_rating": 0.7694438888351429,
                       "children": [
+                        {
+                          "name": "Dr. M:'You know, I would say that there are some advantages, and that's one of the reasons why there's so much activity. Because there are advantages to having a brain that is doing stuff, but the other, the other benefits of having a brain that's working, is if you're developing your neural circuits, the other thing that happens is if you're trying to develop a network, so you're trying to write a network that will behave like a brain.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.5603058934211731,
+                          "t_rating": 0.8209401282691077,
+                          "r_rating": 0.8209401282691077
+                        },
                         {
                           "name": "Dr. M:'We actually have a few studies that show that if the brain is active, it actually produces the fastest, the most robust brain. But I'm not sure that I should say that it's active.  But if it's busy and if the brain is always engaged in something that it has to be, then the brain is engaged in generating the fastest, most robust brain it can. But you're not necessarily, you're not guaranteed that the brain's always engaged in the same thing.'",
                           "g_rating": 0.7,
@@ -36107,6 +36374,13 @@
                   "r_rating": 0.8744682453309622,
                   "children": [
                     {
+                      "name": "Dr. B:'And how did you come to that? Is this what you spent your whole life? Or have you had other interests? Or is this what you're interested in now? If so, is it different than when you first entered the field? Or did you have a specific career goal from the beginning that you thought you might end up on, and then you ended up on it? Or was this just what you fell into, where the path was. So if so, where would you be?'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.18920695781707764,
+                      "t_rating": 0.3546819319987887,
+                      "r_rating": 0.3546819319987887
+                    },
+                    {
                       "name": "Dr. B:'But are these the same tools that we have to understand how the circuits are wired together? Is this a question we have to answer? Or do we use the same set of tools to answer the question of the function of wiring patterns?'",
                       "g_rating": 0.6,
                       "s_rating": 0.4008145034313202,
@@ -36126,6 +36400,13 @@
           "t_rating": 0.8113559133041686,
           "r_rating": 0.8448601362398992,
           "children": [
+            {
+              "name": "Dr. B:'What makes the brain different from other animals? Why is it special? How did you get interested in neuroscience?'",
+              "g_rating": 0.4,
+              "s_rating": 0.46558818221092224,
+              "t_rating": 0.6138178519841786,
+              "r_rating": 0.6138178519841786
+            },
             {
               "name": "Dr. B:'But it's the new ones that are important for cognition.'",
               "g_rating": 0.6,
@@ -36198,7 +36479,16 @@
                                       "g_rating": 0.6,
                                       "s_rating": 0.36696621775627136,
                                       "t_rating": 0.7033236843547522,
-                                      "r_rating": 0.7033236843547522
+                                      "r_rating": 0.7753478881308229,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Right, and it turns out that these two levels, and these two are in fact the only ones that are important, the two main regulatory mechanisms that are responsible for regulating synaptic output. So that the first mechanism is a synaptic mechanism, which involves inhibitory connections from the neurons onto the pacemaker cells. And this is a fast, almost instant process.'",
+                                          "g_rating": 0.8,
+                                          "s_rating": 0.5855891108512878,
+                                          "t_rating": 0.9914204994590348,
+                                          "r_rating": 0.9914204994590348
+                                        }
+                                      ]
                                     }
                                   ]
                                 }
@@ -36231,7 +36521,7 @@
                       "g_rating": 0.6,
                       "s_rating": 0.4750944674015045,
                       "t_rating": 0.7653200330290063,
-                      "r_rating": 0.7266048139357026,
+                      "r_rating": 0.7778028605495578,
                       "children": [
                         {
                           "name": "Dr. M:'Two or three, I guess.'",
@@ -36248,6 +36538,13 @@
                               "r_rating": 0.9487350028206526
                             }
                           ]
+                        },
+                        {
+                          "name": "Dr. M:'There are 26 different neurons, and they fire sequentially and together. We can determine which neurons are active because we can see the activity of the other neurons. We can see the activity in the lateral gastric neuron because it is connected to the STG, which sends out axons, which are visible. We can tell which neurons are active by watching the activity in the motor neuron.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.4178932309150696,
+                          "t_rating": 0.8152513431112123,
+                          "r_rating": 0.8152513431112123
                         }
                       ]
                     }
@@ -36327,7 +36624,16 @@
                                   "g_rating": 0.6,
                                   "s_rating": 0.5478706955909729,
                                   "t_rating": 0.8125037225067566,
-                                  "r_rating": 0.8125037225067566
+                                  "r_rating": 0.7810260762806494,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Well, of course, and it's a question that I am really looking forward to answering. So it's a question with a huge engineering, computational solution. So the question is how can we change a circuit, and, and we'll answer that. So that's the question that I'm looking forward to answering in a little bit, and then we can have a discussion about it.'",
+                                      "g_rating": 0.6,
+                                      "s_rating": 0.33378157019615173,
+                                      "t_rating": 0.6865931376023274,
+                                      "r_rating": 0.6865931376023274
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -36372,6 +36678,13 @@
               "r_rating": 0.7845271481262205
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I'm going to answer that by showing you some experimental results, from which you can see, and it's kind of obvious when you just look at this data, that it's a fundamental question that we should be asking ourselves. Because you're saying, you know, we all look at ourselves as adults, and we talk about things that matter, and what's important, and it sounds like you're asking me to be the adult.'",
+          "g_rating": 0.8,
+          "s_rating": 0.2967904806137085,
+          "t_rating": 0.8532787290111691,
+          "r_rating": 0.8532787290111691
         },
         {
           "name": "Dr. M:'The function of neural activity during development is to produce a stereotyped brain architecture. It's also a way to control development. Neural activity provides a reliable way to synchronize neurons and to establish network relationships in developing neurons. In adults, neural activity is very important for sensory and motor functions. Neural activity is important for memory and synaptic function. Neural activity is critical for maintaining appropriate behavior. It's a fact that during development the frequency of many brain oscillations goes up or down.'",
@@ -36449,7 +36762,16 @@
               "g_rating": 0.6,
               "s_rating": 0.4033689796924591,
               "t_rating": 0.7229844630267898,
-              "r_rating": 0.7229844630267898
+              "r_rating": 0.7480916556382452,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, what is it? The role that neural activity plays in development is fundamental to understanding how neuromodulation works. Because we know that, at some point in development, neural activity stops.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.563923180103302,
+                  "t_rating": 0.8234132334726113,
+                  "r_rating": 0.8234132334726113
+                }
+              ]
             }
           ]
         },
@@ -36479,7 +36801,16 @@
                   "g_rating": 0.6,
                   "s_rating": 0.5377639532089233,
                   "t_rating": 0.80572332060757,
-                  "r_rating": 0.80572332060757
+                  "r_rating": 0.7405555512894895,
+                  "children": [
+                    {
+                      "name": "Dr. B:'And why is it important?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.21698375046253204,
+                      "t_rating": 0.5450522433352479,
+                      "r_rating": 0.5450522433352479
+                    }
+                  ]
                 }
               ]
             },
@@ -36502,6 +36833,93 @@
           ]
         },
         {
+          "name": "Dr. M:'The first thing you have to understand is that the nervous system develops in two phases. There's an early phase when neurons start their differentiation and are developing their circuits that produce basic behaviors, and then they enter the mature phase as their networks, their circuits come together and they develop their functions. So it's a two-step process.'",
+          "g_rating": 0.6,
+          "s_rating": 0.6080911755561829,
+          "t_rating": 0.8542686215642598,
+          "r_rating": 0.8664568729471135,
+          "children": [
+            {
+              "name": "Dr. B:'What are the basic functions of the developing brain?'",
+              "g_rating": 0.3,
+              "s_rating": 0.4275599718093872,
+              "t_rating": 0.5223098022186105,
+              "r_rating": 0.6387730801830612,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, so the most fundamental function is to keep the body going, to make the cells produce and maintain all their cellular functions, and then the nervous system is there to regulate the body and to provide the control. So it's really two phases. So the initial phase, the most fundamental phase, is the body.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.36775314807891846,
+                  "t_rating": 0.7907226934405986,
+                  "r_rating": 0.7907226934405986
+                },
+                {
+                  "name": "Dr. M:'Well, you've got the basics of motor pattern generating, you've got memory storage, etc. That's why in  The Blind Watchmaker  you've got the story about the pigeon, because he has to remember that he's going to be able to find food, and he's going to remember that he can survive and he's going be able to survive the flight, he's going to do all these things.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.47031909227371216,
+                  "t_rating": 0.8433267744813802,
+                  "r_rating": 0.795536664631721,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is there a basic function of the developing brain for which no mechanism has been proposed, that is the goal? Are there any hypothetical functions? Are there any functions? If not, then is there some reason why you'd like to answer that question differently? Or is there one that you are particularly curious about?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.41871342062950134,
+                      "t_rating": 0.6521663350827438,
+                      "r_rating": 0.6521663350827438
+                    },
+                    {
+                      "name": "Dr. B:'So the main functions of the developing mind are to generate behavior and survive? What if you just take a small brain from a developing brain, and say, \"What if we just keep it alive?\" What would happen?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.42098990082740784,
+                      "t_rating": 0.5807172260219863,
+                      "r_rating": 0.668625346860763,
+                      "children": [
+                        {
+                          "name": "Dr. M:'So if you just keep it alive without putting in any extra functionalities, the brain would just go into a kind of steady-state. It wouldn't develop new circuits or new features and it would be, it wouldn't do anything, it wouldn't grow. It wouldn't change, it would just be stable, and then as these circuits were added it would be able to add new features, and it would develop itself.'",
+                          "g_rating": 0.8,
+                          "s_rating": 0.47882771492004395,
+                          "t_rating": 0.9323497093770936,
+                          "r_rating": 0.9323497093770936
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dr. M:'So as you develop your neural circuits you're developing not just your sensory and motor circuits but also your higher-order circuits that govern your behavior, so that you can develop complex behaviors.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5650232434272766,
+                  "t_rating": 0.8995839402818836,
+                  "r_rating": 0.8995839402818836
+                },
+                {
+                  "name": "Dr. M:'In a developing brain, as you develop neurons, as circuits develop in these small circuits, you can see how they are electrically coupled, and they can play a role in the modulation of other neurons, and they can be regulated by neuromodulators and hormones. So we really believe that there are different modulators and different hormones that are important for the development of circuits, and the modulation of networks and the development of behaviors.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.5800568461418152,
+                  "t_rating": 0.9881629140764137,
+                  "r_rating": 0.9058236074469266,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Do we know what those specific functions are?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.27207523584365845,
+                      "t_rating": 0.6588056875584655,
+                      "r_rating": 0.6588056875584655
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:' What is the function of theta oscillations during the early phase of development?'",
+              "g_rating": 0.8,
+              "s_rating": 0.4188652038574219,
+              "t_rating": 0.9030216270956747,
+              "r_rating": 0.9030216270956747
+            }
+          ]
+        },
+        {
           "name": "Dr. M:'Well, it is critical that the nervous system be functional when a baby is born, and as the circuits become more complex during development, it is important that those circuits be maintained and supported.'",
           "g_rating": 0.8,
           "s_rating": 0.42966461181640625,
@@ -36515,6 +36933,31 @@
               "t_rating": 0.7416309901251728,
               "r_rating": 0.8211221886461255,
               "children": [
+                {
+                  "name": "Dr. M:'There's a lot of work on this topic, but I'll start with a summary of some of the main issues. There's been a great deal of work in the past 40 years on the role of rhythmic neural activity during development, both in model systems in which the rhythms were studied and in the crustacean stomatogastric nervous system, where the stomatogastic ganglion was dissected away from the rest of the nervous system.'",
+                  "g_rating": 0.9,
+                  "s_rating": 0.5592344999313354,
+                  "t_rating": 1.0595957842089836,
+                  "r_rating": 0.9058142674808984,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Why is it important?'",
+                      "g_rating": 0.4,
+                      "s_rating": 0.19378681480884552,
+                      "t_rating": 0.4444697172966431,
+                      "r_rating": 0.5479373190360813,
+                      "children": [
+                        {
+                          "name": "Dr. M:'It's important because it provides the basic rules for neuronal and network assembly during development. For instance, it is the rule of connectivity, which is the way neurons connect with each other. All neurons of the same type in the nervous system connect with each other, and those connections are conserved throughout development. Neuronal type is not fixed, and neurons can change over time, but the connectivity rules that dictate network activity and circuit formation are conserved.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.49673712253570557,
+                          "t_rating": 0.8583401242543963,
+                          "r_rating": 0.8583401242543963
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "name": "Dr. M:'We know that many neurons and circuits have been characterized, and they can be categorized into many different functional groups, and the neural systems are relatively consistent across species.'",
                   "g_rating": 0.8,
@@ -36539,13 +36982,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "name": "Dr. M:'There's a lot of work on this topic, but I'll start with a summary of some of the main issues. There's been a great deal of work in the past 40 years on the role of rhythmic neural activity during development, both in model systems in which the rhythms were studied and in the crustacean stomatogastric nervous system, where the stomatogastic ganglion was dissected away from the rest of the nervous system.'",
-                  "g_rating": 0.9,
-                  "s_rating": 0.5592344999313354,
-                  "t_rating": 1.0595957842089836,
-                  "r_rating": 1.0595957842089836
                 }
               ]
             }
@@ -36668,6 +37104,31 @@
           "s_rating": 0.5217928290367126,
           "t_rating": 0.8730794674221448,
           "r_rating": 0.8730794674221448
+        },
+        {
+          "name": "Dr. M:'It's one of those questions we just started to try to understand in the last two or three years. But we know that neural activity is not completely passive during development, but it seems to change over a very long time, so it's been a focus of our attention, and the whole of neuroscience to understand how the brain becomes what it becomes.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5502249598503113,
+          "t_rating": 0.8903636933536074,
+          "r_rating": 0.8776484943725337,
+          "children": [
+            {
+              "name": "Dr. B:'So, the first question is why is it so difficult to answer this question, but then the next question is what are the mechanisms and processes by which it's organized? In a way that is not very different from how we think about the brain as a device, and the brain as a machine, and how we think about how things work and what happens in the brain to cause the outcome we observe in behavior. But the two questions are very different.'",
+              "g_rating": 0.6,
+              "s_rating": 0.5871670246124268,
+              "t_rating": 0.8395028974293122,
+              "r_rating": 0.8509235432467319,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, I think that's why it's important that we start to think about this question as asking what's important for a cell or an animal to survive, to be happy, to be productive, to be healthy. And to have control. So, it's not as if it's a completely different set of neurons, or they are going to be totally different animals. Because it is a combination of biological processes that produce the phenotype.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.541805624961853,
+                  "t_rating": 0.8851854806989912,
+                  "r_rating": 0.8851854806989912
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Dr. M:'Well, it's a funny old question. We knew that the neurons had to be firing because the motor neuron had to be firing. But the other problem is, how that firing is regulated, because, I think, when you have the nervous system firing you want to know how to regulate it to ensure that the motor neuron is firing at the appropriate times.'",
@@ -36909,7 +37370,23 @@
               "g_rating": 0.6,
               "s_rating": 0.38609740138053894,
               "t_rating": 0.7134922587896837,
-              "r_rating": 0.7134922587896837
+              "r_rating": 0.7451855187911253,
+              "children": [
+                {
+                  "name": "Dr. M:'There are many critical roles of sleep.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.349945992231369,
+                  "t_rating": 0.6102968109688903,
+                  "r_rating": 0.6102968109688903
+                },
+                {
+                  "name": "Dr. M:'Sleep is a critical role of sleep, because there are many, many, many studies showing that sleep changes how your neurons fire and the way that they grow and the way that their synaptic connections change, because if you don't sleep during the day, then your neurons have to make that up, so sleep is critical to development.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.4648072421550751,
+                  "t_rating": 0.8402652987954499,
+                  "r_rating": 0.8402652987954499
+                }
+              ]
             }
           ]
         },
@@ -36955,7 +37432,25 @@
                       "g_rating": 0.6,
                       "s_rating": 0.530642569065094,
                       "t_rating": 0.8009878501600403,
-                      "r_rating": 0.8009878501600403
+                      "r_rating": 0.8282868485346755,
+                      "children": [
+                        {
+                          "name": "Dr. M:' Well, as I said, activity in the adult nervous system is not spontaneous, but instead it is governed by synaptic inputs. But if you look at activity in the adult network in the sense that we all have cell phones. We all have little gadgets. It is a much lower activity than it is during the development and juvenile phases. And these two phases are absolutely critical for the way that neurons and synapses are regulated.'",
+                          "g_rating": 0.7,
+                          "s_rating": 0.5817513465881348,
+                          "t_rating": 0.910183843658581,
+                          "r_rating": 0.8859596426730824,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Are we born with a fully-functioning brain, or does it require further development? If so, how do we develop it?'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.41404807567596436,
+                              "t_rating": 0.8132870397165869,
+                              "r_rating": 0.8132870397165869
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 },
@@ -37082,9 +37577,34 @@
                   "g_rating": 0.8,
                   "s_rating": 0.4766991436481476,
                   "t_rating": 0.9312583280459173,
-                  "r_rating": 0.9312583280459173
+                  "r_rating": 0.8886408654561708,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What is the function, that is, what is the role of spontaneous activity in neuronal networks in the developing brain? For example, is there a typical network or set of patterns that the network, that is, the network activity that you work with is, is there a particular set of things that happens in the network and that it's a function of or it's useful for or is it something that just happens in the network?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.4677596688270569,
+                      "t_rating": 0.760788477686931,
+                      "r_rating": 0.760788477686931
+                    }
+                  ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Dr. M:'Spontaneous neural activity during development is important because it helps neurons find their place in the nervous system.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5358577370643616,
+          "t_rating": 0.9628829183092504,
+          "r_rating": 0.8846253897069779,
+          "children": [
+            {
+              "name": "Dr. B:'How did you study this phenomenon?'",
+              "g_rating": 0.6,
+              "s_rating": 0.24961704015731812,
+              "t_rating": 0.6498528039001603,
+              "r_rating": 0.6498528039001603
             }
           ]
         },
@@ -37123,6 +37643,13 @@
                           "t_rating": 0.7665019352994787,
                           "r_rating": 0.7936435526392582,
                           "children": [
+                            {
+                              "name": "Dr. B:'But there is no question, in general, what the rules of wiring and connectivity are? You know, when you look at neurons, it's pretty clear. And those are the rules. And those are not necessarily good enough to explain how a network forms.'",
+                              "g_rating": 0.4,
+                              "s_rating": 0.530600368976593,
+                              "t_rating": 0.6644823184691198,
+                              "r_rating": 0.6644823184691198
+                            },
                             {
                               "name": "Dr. B:'What if we could take a network like the hippocampus and, for example, say that we know how to make a very large number of connections between hippocampal neurons in a way that could look like a single hippocampal system and then how to make many, many connections between those neurons, but the connection rules are different. Would that mean that we could make a network, or an animal, which looked like a hippocampus but had much stronger connections, stronger wiring?'",
                               "g_rating": 0.7,
@@ -37446,7 +37973,25 @@
                       "g_rating": 0.6,
                       "s_rating": 0.19372859597206116,
                       "t_rating": 0.6305004114965399,
-                      "r_rating": 0.6305004114965399
+                      "r_rating": 0.5019938409373015,
+                      "children": [
+                        {
+                          "name": "Dr. M:'Sure.'",
+                          "g_rating": 0.0,
+                          "s_rating": 0.11647412925958633,
+                          "t_rating": 0.11647412925958633,
+                          "r_rating": 0.20817445184525996,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Okay. Okay. The question is how are circuits formed and how are they developed? The answer is that is, of course, it depends on the circuit. But if we look at circuits at the right time and right place, and that circuit is already formed and already there, and then we can study what are the functions that are performed by that circuit and we can see how they are formed.'",
+                              "g_rating": 0.3,
+                              "s_rating": 0.37888669967651367,
+                              "t_rating": 0.4832754196022809,
+                              "r_rating": 0.4832754196022809
+                            }
+                          ]
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:'So how do you have the fundamental functional changes? And, and what is the role of self-generated activity that we have in the brain? And then you'll have changes in activity during development. What are these functions that are supported by the self-generated?activity? And what are the self-generated functions? And then you're going to start with the fundamental neural syntax, and look for how the brain works to support those self-generated functions. So that's what I mean.'",
@@ -37487,7 +38032,16 @@
                       "g_rating": 0.7,
                       "s_rating": 0.2138456106185913,
                       "t_rating": 0.7319357520854123,
-                      "r_rating": 0.7319357520854123
+                      "r_rating": 0.7150302056726003,
+                      "children": [
+                        {
+                          "name": "Dr. M:'I think, it depends on the context. I mean, some of the other points that you've been making. I think the critical point, though, in terms of neurons is that they have this ability to stop growing. You mentioned that neurons, neurons do not just go around, and you know, eat and eat and eat and just make tons and tons and tons of new material. So, they have this ability. I mean, neurons that are larger have this ability.'",
+                          "g_rating": 0.5,
+                          "s_rating": 0.43739286065101624,
+                          "t_rating": 0.6643135664341646,
+                          "r_rating": 0.6643135664341646
+                        }
+                      ]
                     },
                     {
                       "name": "Dr. B:'So, when we are young, we start out as having a body like that and then we learn that, in reality, the world is more complicated than that. How are we expected to navigate this complex world? What is the function of the spontaneous activity? Could you say a few words about it? It's just so fascinating. I'm fascinated by it and so many things are just, are just inexplicable by my brain.'",
@@ -37537,7 +38091,7 @@
                   "g_rating": 0.5,
                   "s_rating": 0.5762089490890503,
                   "t_rating": 0.7629002248068274,
-                  "r_rating": 0.7789638306238392,
+                  "r_rating": 0.8150798167527921,
                   "children": [
                     {
                       "name": "Dr. B:'I don't have a problem with that. But why is it so? What is the impact? What's the impact? How can the brain take advantage of the fact that activity in the brain can be generated by the brain, and how does that influence our understanding of neural syntactic rules? Is there a need for activity to go on in the brain even if it is just a result of the brain's self-generated activity?'",
@@ -37554,6 +38108,13 @@
                           "r_rating": 0.8707331375279592
                         }
                       ]
+                    },
+                    {
+                      "name": "Dr. B:'And the second view is that activity may be necessary for the generation of circuits and neuronal syntax, which then becomes a byproduct of activity that is happening for a different purpose and not in parallel, and that that is then the question, what is the function of that activity? So, that's two ways of answering the question.'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.5514006614685059,
+                      "t_rating": 0.9716185925906863,
+                      "r_rating": 0.9716185925906863
                     }
                   ]
                 }
@@ -37589,7 +38150,16 @@
               "g_rating": 0.7,
               "s_rating": 0.32786664366722107,
               "t_rating": 0.7729790010275884,
-              "r_rating": 0.7729790010275884
+              "r_rating": 0.8512394542885933,
+              "children": [
+                {
+                  "name": "Dr. M:'I, well, I think that this is, this is interesting because I think that a lot of the work that we did in the first phase of our work focused on the role of rhythmicity in, in nervous systems, and that the importance of rhythmicity was revealed by the fact that it is not a function of a set of rules or laws but it's actually the result of the evolution of evolution of the nervous system.'",
+                  "g_rating": 0.9,
+                  "s_rating": 0.607816755771637,
+                  "t_rating": 1.0860208140716079,
+                  "r_rating": 1.0860208140716079
+                }
+              ]
             }
           ]
         },
@@ -37647,6 +38217,13 @@
                       "r_rating": 0.8461584579214427
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'I think the only thing that happens is that the neurons grow up and they realize that they have a lot of freedom. They can move around in the brain, they can make new synaptic connections, and they can change how they react to certain stimuli.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.5267530083656311,
+                  "t_rating": 0.7262704260963974,
+                  "r_rating": 0.7262704260963974
                 },
                 {
                   "name": "Dr. M:'They'll use any pattern that is convenient for them because the neurons have the same pattern of intrinsic excitability.'",
@@ -37714,7 +38291,7 @@
               "g_rating": 0.8,
               "s_rating": 0.4958282709121704,
               "t_rating": 0.9411937495732495,
-              "r_rating": 0.7657478050155283,
+              "r_rating": 0.9319101558409817,
               "children": [
                 {
                   "name": "Dr. M:'Yes, yes.'",
@@ -37758,6 +38335,13 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'Right, and if you look, you will see that many systems have two or more networks with different properties that come into play during behavior and in the brain.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.572121798992157,
+                  "t_rating": 0.904059374644178,
+                  "r_rating": 0.904059374644178
                 }
               ]
             }
@@ -38231,7 +38815,16 @@
               "g_rating": 0.7,
               "s_rating": 0.6069719195365906,
               "t_rating": 0.9265068327356973,
-              "r_rating": 0.9265068327356973
+              "r_rating": 0.9140141480486316,
+              "children": [
+                {
+                  "name": "Dr. M:'You can see that the neuron responds in different ways when it is put into different environments.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.5275561809539795,
+                  "t_rating": 0.8765360939874342,
+                  "r_rating": 0.8765360939874342
+                }
+              ]
             }
           ]
         },
@@ -38266,6 +38859,13 @@
           ]
         },
         {
+          "name": "Dr. M:'I think it's really important in order to find out how the network grows, but we don't actually know that much about the way the network grows, because we can't actually manipulate the network until it's completely mature. The nervous system has an amazing plasticity. We can put in neuromodulatory substances, which change how a network is built, but we don know when the network is going to mature, so we have to put them in at the end.'",
+          "g_rating": 0.7,
+          "s_rating": 0.5702117085456848,
+          "t_rating": 0.9028518109648942,
+          "r_rating": 0.9028518109648942
+        },
+        {
           "name": "Dr. M:'It can be very important, because during the embryonic stages, during development, all neurons have to be fully integrated into the circuit. There's a number of things that are necessary for development, such as providing the feedback to the network, so that you can keep it synchronous, in a well regulated fashion. Then, there are things that are also necessary for the correct wiring, and then, for things that are necessary just for development, like, for example, cell proliferation.'",
           "g_rating": 0.8,
           "s_rating": 0.510787844657898,
@@ -38284,7 +38884,16 @@
               "g_rating": 0.5,
               "s_rating": 0.5112372040748596,
               "t_rating": 0.7150968317859335,
-              "r_rating": 0.7150968317859335
+              "r_rating": 0.7178551355941232,
+              "children": [
+                {
+                  "name": "Dr. M:'There are a lot of rhythmic events that play a role in development.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.40898025035858154,
+                  "t_rating": 0.7261300470186921,
+                  "r_rating": 0.7261300470186921
+                }
+              ]
             },
             {
               "name": "Dr. B:'Do you have a particular example of a critical function that is not fulfilled by the network, or are you just taking a random example and trying to think of a mechanism?'",
@@ -38430,7 +39039,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.2841949760913849,
                           "t_rating": 0.8489798492517846,
-                          "r_rating": 0.8489798492517846
+                          "r_rating": 0.8718748337618979,
+                          "children": [
+                            {
+                              "name": "Dr. B:' What kind of activity is not supported by the brain, and what kind of activity is?'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.4946238100528717,
+                              "t_rating": 0.9405597872922377,
+                              "r_rating": 0.9405597872922377
+                            }
+                          ]
                         }
                       ]
                     }
@@ -38532,7 +39150,16 @@
                       "g_rating": 0.5,
                       "s_rating": 0.5367307066917419,
                       "t_rating": 0.7335392637792586,
-                      "r_rating": 0.7335392637792586
+                      "r_rating": 0.7351768903640037,
+                      "children": [
+                        {
+                          "name": "Dr. M:'There is not only oscillators, but a ton of different oscillators. The best-known ones are the cardiac and pilar muscles. And there is the soma in the center of the brain, where there are several neurons. We know that these oscillators provide pacemaker function, and that they influence many brain functions.'",
+                          "g_rating": 0.6,
+                          "s_rating": 0.4332815110683441,
+                          "t_rating": 0.7400897701182388,
+                          "r_rating": 0.7400897701182388
+                        }
+                      ]
                     }
                   ]
                 }
@@ -38725,11 +39352,18 @@
               "r_rating": 0.6579682769654561
             },
             {
+              "name": "Dr. B:'If you look at the literature, and you find the first systematic reviews on these questions, the answers are mostly 'it's an important problem to be solved because it is related to a cognitive function or a mental function, or it is a phenomenon that is important to understand'.'",
+              "g_rating": 0.7,
+              "s_rating": 0.35058122873306274,
+              "t_rating": 0.7828838981228213,
+              "r_rating": 0.7828838981228213
+            },
+            {
               "name": "Dr. B:'How do neuronal networks become organized? Do they have a natural organization or do they require training? Do they have natural connectivity or do they require learning? Does the brain grow up with this organization or do we develop that? What mechanisms are in place to regulate the stability of this organization in the absence of environmental or body-derived inputs? Are these mechanisms learned or inherited?'",
               "g_rating": 0.5,
               "s_rating": 0.5711231827735901,
               "t_rating": 0.7590663277352221,
-              "r_rating": 0.7761363230752771,
+              "r_rating": 0.8023869359091237,
               "children": [
                 {
                   "name": "Dr. M:'So you ask me the most fundamental question of all: how do we develop a sense of self and how do we create a sense of ourselves and how we relate to others in the world? The answer to that is probably going to have to come from a combination of both.'",
@@ -38755,15 +39389,15 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "name": "Dr. M:'I think we learn them as we grow up because then we can take advantage of our experiences and learn more from our personal experience than other people. And I think in general, I have seen most of the neuroscientists who are the same age and who started graduate school a little bit earlier than me to be very different from me, and the brain is one of the most sensitive things that you can train yourself to do, and it has to be regulated, and we learn how to do it.'",
+                  "g_rating": 0.8,
+                  "s_rating": 0.4788258671760559,
+                  "t_rating": 0.9323487604308283,
+                  "r_rating": 0.9323487604308283
                 }
               ]
-            },
-            {
-              "name": "Dr. B:'If you look at the literature, and you find the first systematic reviews on these questions, the answers are mostly 'it's an important problem to be solved because it is related to a cognitive function or a mental function, or it is a phenomenon that is important to understand'.'",
-              "g_rating": 0.7,
-              "s_rating": 0.35058122873306274,
-              "t_rating": 0.7828838981228213,
-              "r_rating": 0.7828838981228213
             }
           ]
         },
@@ -38811,7 +39445,16 @@
                   "g_rating": 0.9,
                   "s_rating": 0.45528411865234375,
                   "t_rating": 1.008604793116234,
-                  "r_rating": 1.008604793116234
+                  "r_rating": 0.9113122387784548,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Yes, that's true. But, and the point that I am trying to make is that it is possible to learn a lot about how development occurs from the knowledge that self-organized dynamics are the default state of the system, because the system always comes up with self-organized patterns, that the brain can use. So, the brain can learn a lot about development from the very simple, but very fundamental, principles that underlie the spontaneous dynamics of the system.'",
+                      "g_rating": 0.3,
+                      "s_rating": 0.5419402122497559,
+                      "t_rating": 0.619434575765117,
+                      "r_rating": 0.619434575765117
+                    }
+                  ]
                 }
               ]
             }
@@ -38831,6 +39474,13 @@
               "t_rating": 0.691854528046632,
               "r_rating": 0.7634836888339442,
               "children": [
+                {
+                  "name": "Dr. M:'I don't think it is necessarily. I think that this was one of the first indications that it might not be necessary, because if you think back to what you hear in terms of how the nervous system works, it is really a network, right? It has different cells, it has synapses, but it has some electrical activity.'",
+                  "g_rating": 0.6,
+                  "s_rating": 0.5472423434257507,
+                  "t_rating": 0.8120801576433864,
+                  "r_rating": 0.8120801576433864
+                },
                 {
                   "name": "Dr. M:'I think what is essential, you know, when you start with the nervous system, is to understand what the role of different currents, different types of conductance, is in normal neural circuit activity, in normal neural circuit functioning.'",
                   "g_rating": 0.8,
@@ -38902,7 +39552,16 @@
                           "g_rating": 0.6,
                           "s_rating": 0.21785926818847656,
                           "t_rating": 0.638328019701171,
-                          "r_rating": 0.638328019701171
+                          "r_rating": 0.680672296491752,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Well, what we're going to look at is the development of the visual system in the rabbit. The rabbit is a well-known species, and this is a well-characterized animal. There are a number of well-understood experiments in the rabbit. There's a long list of well-understanded experiments. I'm not going to talk about any specific experiments because those are all readily available.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.4029734134674072,
+                              "t_rating": 0.8077051268634946,
+                              "r_rating": 0.8077051268634946
+                            }
+                          ]
                         }
                       ]
                     }
@@ -38983,7 +39642,7 @@
                   "g_rating": 0.6,
                   "s_rating": 0.4349689185619354,
                   "t_rating": 0.7410789162531475,
-                  "r_rating": 0.6882382332825586,
+                  "r_rating": 0.7126353964049459,
                   "children": [
                     {
                       "name": "Dr. B:'What are these different modes? Do we know which of these states will become the default state of the brain, and why? What are the reasons for this? Are we born with one set of patterns? Are we born to experience and become self-motivated, or are we born with self-generated patterns?'",
@@ -38991,12 +39650,26 @@
                       "s_rating": 0.4365767240524292,
                       "t_rating": 0.5297161843707919,
                       "r_rating": 0.5297161843707919
+                    },
+                    {
+                      "name": "Dr. B:'What kind of activity is the default activity?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.18306107819080353,
+                      "t_rating": 0.6273048368603413,
+                      "r_rating": 0.6273048368603413
                     }
                   ]
                 }
               ]
             }
           ]
+        },
+        {
+          "name": "Dr. M:'I'm a bit perplexed, because at some point in time, these patterns are just going to be there and you don't necessarily know whether you're going to use them. If you're going to develop a particular function of the brain, then these networks, these networks of neurons are going to develop anyway. You're going to develop your network of neurons.'",
+          "g_rating": 0.7,
+          "s_rating": 0.6008123159408569,
+          "t_rating": 0.9224833001123739,
+          "r_rating": 0.9224833001123739
         },
         {
           "name": "Dr. M:'I study the function of neural activity, its function in normal animals, because neural activity during development is quite different from activity in adult animals.'",
@@ -39483,7 +40156,16 @@
                   "g_rating": 0.0,
                   "s_rating": 0.5100361704826355,
                   "t_rating": 0.5100361704826355,
-                  "r_rating": 0.5100361704826355
+                  "r_rating": 0.5541943444172645,
+                  "children": [
+                    {
+                      "name": "Dr. B:'So this is important in terms of how you, um, how you build up the brain, how you build it. How can we understand how we do that? How could we build up a brain? I mean, how would you approach this? You know, I mean, it is something like this, but in the reverse direction. So you know, the brain is a preexisting system.'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.47065287828445435,
+                      "t_rating": 0.6866688662211513,
+                      "r_rating": 0.6866688662211513
+                    }
+                  ]
                 }
               ]
             }
@@ -39597,6 +40279,13 @@
                               "t_rating": 0.9185143227381068,
                               "r_rating": 0.8635827474358131,
                               "children": [
+                                {
+                                  "name": "Dr. M:'Yeah. I mean, I don't know if there is a good analogy to that, you know, in the human brain, but we know when we are babies, you know, we learn to control and play with our bodies. We learn to control our bodies. You know, and, you know, so that, you know that that is the kind of starting point for how we learn to control our brains.'",
+                                  "g_rating": 0.3,
+                                  "s_rating": 0.44069015979766846,
+                                  "t_rating": 0.5331114488945952,
+                                  "r_rating": 0.5331114488945952
+                                },
                                 {
                                   "name": "Dr. M:'I think the same thing. Like, there are so many other things that can be regulated. Like for instance, you know, if a neuron is silent, and you want to wake it up, you know, there are all kinds of neuromodulators that are going to be released. So, I think the same thing, the way that it is regulated depends on how you want it to be regulated.'",
                                   "g_rating": 0.4,
@@ -39906,7 +40595,16 @@
                   "g_rating": 0.8,
                   "s_rating": 0.3018675148487091,
                   "t_rating": 0.8550578907424548,
-                  "r_rating": 0.8550578907424548
+                  "r_rating": 0.8517371125508327,
+                  "children": [
+                    {
+                      "name": "Dr. B:'It might be a structure with lots of function, as opposed to a structure with no initial function but there is function after some experience?'",
+                      "g_rating": 0.8,
+                      "s_rating": 0.26188695430755615,
+                      "t_rating": 0.8417747779759668,
+                      "r_rating": 0.8417747779759668
+                    }
+                  ]
                 }
               ]
             },
@@ -40092,7 +40790,16 @@
           "g_rating": 0.8,
           "s_rating": 0.5039812326431274,
           "t_rating": 0.9455141896642727,
-          "r_rating": 0.9455141896642727
+          "r_rating": 0.9445954476382313,
+          "children": [
+            {
+              "name": "Dr. B:'Well, there are different mechanisms at work in different periods of development, and one of them is the emergence of the first spontaneous activity, in the early developmental stages of the brain. We know that spontaneous activity emerges from the time when the nervous system emerges in the body of the embryo and in the spinal cord, that is, in the first post-natal week, and lasts until the third trimester of pregnancy.'",
+              "g_rating": 0.8,
+              "s_rating": 0.4970524311065674,
+              "t_rating": 0.9418392215601074,
+              "r_rating": 0.9418392215601074
+            }
+          ]
         },
         {
           "name": "Dr. M:'I don't think it is important to understand the function of neural activity during development, but it's important to know how neural systems change as they mature.'",
@@ -40361,6 +41068,13 @@
           ]
         },
         {
+          "name": "Dr. M:'The first thing that is learned by the brain is not necessarily about consciousness, which may be something entirely different, but it is about function. In the same way that muscles and bones are growing and different muscle fibers are growing in the brain, there are distinct neuron types. And in the same way that different types of muscles are used to move different types of animals, neurons, in the brain, are used to move animals in different ways.'",
+          "g_rating": 0.8,
+          "s_rating": 0.5145430564880371,
+          "t_rating": 0.951185868786985,
+          "r_rating": 0.951185868786985
+        },
+        {
           "name": "Dr. M:'Well, during development, when you're a developing neuron, you have a relatively high level of activity, because your neurons are developing in response to many, many different inputs, and so you have a relatively large, high level of synaptic inputs that are acting on you.'",
           "g_rating": 0.8,
           "s_rating": 0.5587371587753296,
@@ -40529,7 +41243,16 @@
               "g_rating": 0.8,
               "s_rating": 0.22648563981056213,
               "t_rating": 0.8314419673316953,
-              "r_rating": 0.8314419673316953
+              "r_rating": 0.7997204007993377,
+              "children": [
+                {
+                  "name": "Dr. M:'I'm sure it's regulated. And when it's regulated to produce a certain kind of neural activity, then we can understand how the nervous system works.'",
+                  "g_rating": 0.4,
+                  "s_rating": 0.5799989104270935,
+                  "t_rating": 0.7045557012022653,
+                  "r_rating": 0.7045557012022653
+                }
+              ]
             }
           ]
         },
@@ -40552,7 +41275,16 @@
                   "g_rating": 0.7,
                   "s_rating": 0.5341418981552124,
                   "t_rating": 0.8805155122795131,
-                  "r_rating": 0.8805155122795131
+                  "r_rating": 0.8376733952783743,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Are the changes that occur from this variability important for how neural circuits work? If so, how do we deal with them? How would you go about trying to understand the nature of these changes from a neurophysiological perspective?'",
+                      "g_rating": 0.5,
+                      "s_rating": 0.5028812289237976,
+                      "t_rating": 0.7091470442749578,
+                      "r_rating": 0.7091470442749578
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'So one is that, when you're developing a new brain, you have to use the strengths of the nervous system and you have to make use of the strengths of neural connectivity, and so it provides advantages.'",
@@ -40732,7 +41464,16 @@
                                   "g_rating": 0.7,
                                   "s_rating": 0.2549003064632416,
                                   "t_rating": 0.7449658825980251,
-                                  "r_rating": 0.7449658825980251
+                                  "r_rating": 0.7031995663150409,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Yes. I agree with this. In fact, I would like to take this a step further. So if the brain doesn't learn about the consequences of its actions, there is no experience, there is no learning and there is no cognition. Because it is simply a function of the environment and the organism's response to that environment. I mean, we've discussed this in different ways, but in the end it comes down to the same point. And the, the answer is quite simple.'",
+                                      "g_rating": 0.3,
+                                      "s_rating": 0.49393230676651,
+                                      "t_rating": 0.577900617466088,
+                                      "r_rating": 0.577900617466088
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -40950,7 +41691,16 @@
                           "g_rating": 0.3,
                           "s_rating": 0.14251865446567535,
                           "t_rating": 0.3321318516353205,
-                          "r_rating": 0.3321318516353205
+                          "r_rating": 0.502455190810521,
+                          "children": [
+                            {
+                              "name": "Dr. B:'There are two things that are critical, as I see it. One is that we develop the right number of neurons, in this case in a developing brain. The other is that the activity that is brought about should be of the right type and in the right time window. How we would go about doing this, I don't know, but we can say that there are specific consequences and physiological consequences.'",
+                              "g_rating": 0.8,
+                              "s_rating": 0.6221178770065308,
+                              "t_rating": 1.0134252083361224,
+                              "r_rating": 1.0134252083361224
+                            }
+                          ]
                         },
                         {
                           "name": "Dr. M:'So it's too early to say. I think there are many ways in which neural activity is regulated, and it's hard to know which way is best, but I would say that the way it is regulated is really important.'",
@@ -41037,7 +41787,16 @@
                                   "g_rating": 0.6,
                                   "s_rating": 0.369680255651474,
                                   "t_rating": 0.7047435642973543,
-                                  "r_rating": 0.7047435642973543
+                                  "r_rating": 0.7357310406172747,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'So the neuron responds to its inputs, but it does not move in a controlled manner. And I guess what you're asking is, is there some specific input that can generate a movement that is not constrained to the activity of the network? I'm sorry. I'm asking what happens, when you don't move, that's not the right question.'",
+                                      "g_rating": 0.7,
+                                      "s_rating": 0.44354578852653503,
+                                      "t_rating": 0.8286934695770359,
+                                      "r_rating": 0.8286934695770359
+                                    }
+                                  ]
                                 }
                               ]
                             }
@@ -41052,13 +41811,6 @@
           ]
         },
         {
-          "name": "Dr. M:'Spontaneous neural activity during development is important because it helps neurons find their place in the nervous system.'",
-          "g_rating": 0.8,
-          "s_rating": 0.5358577370643616,
-          "t_rating": 0.9628829183092504,
-          "r_rating": 0.9628829183092504
-        },
-        {
           "name": "Dr. M:'I think that it's quite hard to talk about the function of neural activity during development, but it has to do with the fact that neurons, as you said, are kind of the core constituents of circuit structures. So there has to be some way in which neurons are regulated during development, in a way that maintains the behavior of the circuits throughout development and throughout evolution.'",
           "g_rating": 0.8,
           "s_rating": 0.5741637945175171,
@@ -41070,7 +41822,16 @@
               "g_rating": 0.8,
               "s_rating": 0.42259714007377625,
               "t_rating": 0.904758720764014,
-              "r_rating": 0.904758720764014
+              "r_rating": 0.8572630618689625,
+              "children": [
+                {
+                  "name": "Dr. M:'Yeah, that's a really hard question, I mean, we don't know.'",
+                  "g_rating": 0.7,
+                  "s_rating": 0.14458510279655457,
+                  "t_rating": 0.714776085183808,
+                  "r_rating": 0.714776085183808
+                }
+              ]
             }
           ]
         },
@@ -41132,7 +41893,16 @@
                           "g_rating": 0.8,
                           "s_rating": 0.5363741517066956,
                           "t_rating": 0.9631704058052643,
-                          "r_rating": 0.9631704058052643
+                          "r_rating": 0.9278928368883319,
+                          "children": [
+                            {
+                              "name": "Dr. B:'Then, when it comes to the cerebral ganglioside and I would ask the question differently. What is the brain's role? What is the circuits doing? We know that in the cerebral gangliolite, there are 30 connections, in the cerebral ganglia, there are 70 connections, and there are even more connections in the cerebral gangliome. What is the difference? And the answer to this is simple.'",
+                              "g_rating": 0.7,
+                              "s_rating": 0.43102535605430603,
+                              "t_rating": 0.8220601301375352,
+                              "r_rating": 0.8220601301375352
+                            }
+                          ]
                         }
                       ]
                     }
@@ -41186,7 +41956,16 @@
                   "g_rating": 0.5,
                   "s_rating": 0.3733323812484741,
                   "t_rating": 0.6240008548781452,
-                  "r_rating": 0.6240008548781452
+                  "r_rating": 0.656174008422358,
+                  "children": [
+                    {
+                      "name": "Dr. B:'Is there anything special about the activity of the brain during development? In other words, is there a 'default state' that neurons in the brain tend to be in? Is there an activity pattern that we can call the default state? If there is, is it unique to a particular brain state? If not, what is it? Is there a general default state of activity? If not, where does the default state come from?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.45447492599487305,
+                      "t_rating": 0.7526934690549967,
+                      "r_rating": 0.7526934690549967
+                    }
+                  ]
                 },
                 {
                   "name": "Dr. M:'There are examples of how changing activity in the nervous system contributes to changes in the neural circuitry that we don't understand completely. One example comes from the fact that, even when animals get as big as we are, their neuronal circuits never reach adult-like performance. And I'm wondering now, as you point out, because I used to think that when animals get bigger they would lose all the features of their circuits, and that this was essential for the stability of behavior.'",
@@ -41245,7 +42024,16 @@
                   "g_rating": 0.1,
                   "s_rating": 0.49296385049819946,
                   "t_rating": 0.5030043318879184,
-                  "r_rating": 0.5030043318879184
+                  "r_rating": 0.5733684089070757,
+                  "children": [
+                    {
+                      "name": "Dr. B:'What are some of the functions of the spontaneous activity in the developing brain? And what are some of the mechanisms of spontaneous activity generation?'",
+                      "g_rating": 0.6,
+                      "s_rating": 0.50534987449646,
+                      "t_rating": 0.7844606399645477,
+                      "r_rating": 0.7844606399645477
+                    }
+                  ]
                 }
               ]
             }
@@ -41263,7 +42051,16 @@
               "g_rating": 0.8,
               "s_rating": 0.6520254611968994,
               "t_rating": 1.0320548444966622,
-              "r_rating": 1.0320548444966622
+              "r_rating": 0.9757430606329066,
+              "children": [
+                {
+                  "name": "Dr. M:'Well, it seems to me that there are really four different questions here. There is an important question about neural activity during development and how neurons can maintain their function as a circuit, and you mentioned the question about how neural activity contributes to developing neuronal networks. So it seems to me you are asking about four separate questions. So the best way to address all of them is to start with what is most difficult to understand.'",
+                  "g_rating": 0.5,
+                  "s_rating": 0.6331971883773804,
+                  "t_rating": 0.80680770904164,
+                  "r_rating": 0.80680770904164
+                }
+              ]
             }
           ]
         },
@@ -41279,7 +42076,23 @@
               "g_rating": 0.8,
               "s_rating": 0.4681776165962219,
               "t_rating": 0.9269251753414183,
-              "r_rating": 0.9269251753414183
+              "r_rating": 0.7382843888941786,
+              "children": [
+                {
+                  "name": "Dr. M:'Right. So I'm going to ask you a question, and you tell me.'",
+                  "g_rating": 0.0,
+                  "s_rating": 0.17236202955245972,
+                  "t_rating": 0.17236202955245972,
+                  "r_rating": 0.17236202955245972
+                }
+              ]
+            },
+            {
+              "name": "Dr. B:'That's exactly what I asked. What kind of network are you looking for? How many types of circuits do you want to see? Do you want to see the brain use a special set of connections? If so, what are they? Or are you more interested in looking at how neurons and systems can be arranged to give rise to a particular behavior or output, and this is what they do? Then what is it that you're looking for?'",
+              "g_rating": 0.6,
+              "s_rating": 0.5796093344688416,
+              "t_rating": 0.8342343679107289,
+              "r_rating": 0.8342343679107289
             }
           ]
         },
@@ -41516,6 +42329,13 @@
           ]
         },
         {
+          "name": "Dr. M:'Well, the first function is that it allows the development of the nervous system, of the circuits in the nervous system, but it also enables the maturation of the sensory inputs. The brain becomes more complex as it goes through development. In a sense, that is necessary. So the first function of spontaneous neural output during development is that it provides feedback to the nervous system that allows it to become more complicated.'",
+          "g_rating": 0.9,
+          "s_rating": 0.43507516384124756,
+          "t_rating": 0.9996451361315617,
+          "r_rating": 0.9996451361315617
+        },
+        {
           "name": "Dr. M:'Well it is not obvious in the development of every circuit. However, during development there are a number of important cellular processes that require continuous and coordinated activity of neural circuits. The process of muscle development, for example, requires coordinated activity of a large number of neurons. Similarly, the process of generating synaptic connections, the process of cell cycle regulation, requires coordination of a large number neurons that are active during specific periods of time.'",
           "g_rating": 0.8,
           "s_rating": 0.6404474973678589,
@@ -41562,7 +42382,25 @@
                                   "g_rating": 0.2,
                                   "s_rating": 0.4325787127017975,
                                   "t_rating": 0.4765756421416691,
-                                  "r_rating": 0.4765756421416691
+                                  "r_rating": 0.45528969330059776,
+                                  "children": [
+                                    {
+                                      "name": "Dr. B:'Right. There are two other mechanisms. I will list those as a couple, and if you come up with a new one that I did not mention, I will add it to the list. What do you mean by that? What, a couple of mechanisms, I mean, what would be an example of the two mechanisms that you are interested in?'",
+                                      "g_rating": 0.3,
+                                      "s_rating": 0.25143367052078247,
+                                      "t_rating": 0.39143184677738396,
+                                      "r_rating": 0.4705371468160514,
+                                      "children": [
+                                        {
+                                          "name": "Dr. M:'Well, I don't know. A couple of mechanisms? A couple of examples would be a small network that has two neurons. That would be a simple model. So one of our favorite models is a model that we made of two oscillators, one being pacemaker activity, the other being sensory-transmitter-dependent, so both are sensory-transmitter dependent.'",
+                                          "g_rating": 0.5,
+                                          "s_rating": 0.5010548233985901,
+                                          "t_rating": 0.7078530469320538,
+                                          "r_rating": 0.7078530469320538
+                                        }
+                                      ]
+                                    }
+                                  ]
                                 }
                               ]
                             }
